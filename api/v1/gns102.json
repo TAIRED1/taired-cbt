@@ -1,0 +1,6323 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "GNS102",
+    "total_questions": 634
+  },
+  "data": [
+    {
+      "question": "What type of definition is mostly use for scientific definition of terms and concept.",
+      "options": [
+        "By logic",
+        "By\nexample",
+        "Description",
+        "Comparism."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The formal definition was mostly use by logicians during the time of.",
+      "options": [
+        "Socrates",
+        "Colby",
+        "bongo",
+        "Aristote."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ideas are summed up during one of the following connectives.",
+      "options": [
+        "Consequently",
+        "Above all",
+        "So"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Anaphoric reference point.",
+      "options": [
+        "Backward",
+        "Forward",
+        "Both",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "These tools are old ________ still good.",
+      "options": [
+        "Because",
+        "So",
+        "And",
+        "But"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The “And connective” are used for all but one of the following functions.",
+      "options": [
+        "Movement from idea",
+        "Drawing contrast with earlier idea",
+        "Presenting result of idea",
+        "Summing up of idea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cataphoric Reference refers to ________",
+      "options": [
+        "Backward",
+        "Forward",
+        "Phoric",
+        "Discourse"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Kaduna was discovered from _______",
+      "options": [
+        "Top hill",
+        "River",
+        "Ocean",
+        "Mountain"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bauchi was found in what year.",
+      "options": [
+        "1902",
+        "1907",
+        "1848",
+        "1884"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "________ is the tradition title of the ruler of Oshogbo.",
+      "options": [
+        "Ataoja",
+        "Awujale",
+        "Amayanabo",
+        "Elemoso"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which word formation process is occasional by change in society outlook.",
+      "options": [
+        "Affixation",
+        "Dipping",
+        "Blending",
+        "Neologism"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The contribution of knowledge in scientific project is stated in the ________",
+      "options": [
+        "goals of the study",
+        "hypothesis of the study",
+        "problem of the study",
+        "significance of the study"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The identity between what is being said and what has been said before is realized through _______",
+      "options": [
+        "Semantic reference",
+        "Discourse refence",
+        "Phoric reference",
+        "Discourse marker"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The set of word “Spill the beans” is formed using?",
+      "options": [
+        "Affixation",
+        "Blending",
+        "Idiomatism",
+        "Neologism"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which definition use the characteristics of what is being defined?",
+      "options": [
+        "Inflesional",
+        "Experiencial",
+        "Descriptive",
+        "Synonyms"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The affixation which does not result in change of word is ________",
+      "options": [
+        "Inflecsional",
+        "Experiencial",
+        "Inflectional",
+        "Root"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Only works that are mentioned in the body of a project are found in the _______",
+      "options": [
+        "Background of the\nstudy",
+        "Literature review",
+        "Reference",
+        "Bibliography"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The founder of Ogbomosho is ______",
+      "options": [
+        "Seun",
+        "Lamboye",
+        "Olugbon",
+        "Ajibogun"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_____ founder Oshogbo",
+      "options": [
+        "Seun",
+        "Lamboye",
+        "Olugbon",
+        "Ajibogun"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A settlement often contain few houses probably less than hundred is ______",
+      "options": [
+        "Local area",
+        "Hamlet",
+        "rural settlement",
+        "Dispersed settlement"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______ was established in the year 1829",
+      "options": [
+        "Ibadan",
+        "Enugu",
+        "Maiduguri",
+        "Yola"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Inflexional suffix never change the _____",
+      "options": [
+        "Base meaning",
+        "Tense",
+        "Plurally",
+        "Polarity"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of definition characterized by brevity is",
+      "options": [
+        "Definition of description",
+        "Formal definition",
+        "Definition by example",
+        "Definition by synonyms"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is not and example of Acronym.",
+      "options": [
+        "AC",
+        "SG",
+        "Lifo",
+        "Piano"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the root word of “Hyperacidity”",
+      "options": [
+        "Acid",
+        "Acidity",
+        "Hyper"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Some devices of comparison used in comparative definition include metaphor, simile and ____",
+      "options": [
+        "Irony",
+        "Personification",
+        "Apostrophe",
+        "Metasimile"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The root in Amplification is",
+      "options": [
+        "Amplicate",
+        "Ample",
+        "Amplification",
+        "Amplify"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Word can often be divided into",
+      "options": [
+        "Graphemes",
+        "Progmemes",
+        "Allopracts",
+        "Morphemes"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The definition that has tendency for mere approximation is the definition by ____",
+      "options": [
+        "Example",
+        "Description",
+        "Logic",
+        "Synonyms"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A particular group f items could be classified differently by individual, because classification could be",
+      "options": [
+        "Objective",
+        "Necessary (c)Subjective (d) Classifiable the cohesive device that is usually for the sake of\nemphasis on certain word is _____ (a) Substitution (b) Ellipsis",
+        "",
+        "Classifiable the cohesive device that is usually for the sake of\nemphasis on certain word is _____ (a) Substitution (b) Ellipsis (c) Reference (d) Repetition"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tool bar is an example of",
+      "options": [
+        "Blending",
+        "Compounding",
+        "Acronym",
+        "Clipping"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Subdivision in outlining enhances",
+      "options": [
+        "Simple use of English",
+        "Easy marking",
+        "Graphical representation\nof ideas",
+        "Easy induction of ideas."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The problem with the definition “Cleaning soap is the soap that cleanses” shows",
+      "options": [
+        "Circularity",
+        "Rotationality",
+        "Logicality",
+        "Formality"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Coherence of an outline implies",
+      "options": [
+        "Co-relatedness of the topic of the outline",
+        "The significance of the\noutline",
+        "Logicality",
+        "The use of words"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of definition mostly used for scientific definition of terms and concepts is _____",
+      "options": [
+        "Definition\nby description",
+        "Definition by logic",
+        "Definition by comparation",
+        "Definition by example"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A good outline Enhance",
+      "options": [
+        "Easy representation",
+        "Easy recall",
+        "Easy link with main text",
+        "Easy\npresentation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____ is a good outline that represent graphics",
+      "options": [
+        "Clarity",
+        "Brevity",
+        "Accuracy",
+        "orderliness"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is not a form of main verb",
+      "options": [
+        "es",
+        "base",
+        "ed",
+        "ing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Word found through ____ are mostly found in English passage",
+      "options": [
+        "Clipping",
+        "Blending",
+        "Affixation",
+        "Compounding"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____ depends on difference and similarities",
+      "options": [
+        "Definition",
+        "Classification",
+        "Generalizing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For perfect re-statement of ideas is used in ____ connectives",
+      "options": [
+        "or",
+        "and",
+        "but",
+        "with"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____ is projected forward",
+      "options": [
+        "Anapheric",
+        "Phoric",
+        "Cataphoric"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Man is a rational animal is a _____",
+      "options": [
+        "Phrase",
+        "Clause",
+        "Word",
+        "Group"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which one is odd",
+      "options": [
+        "In addition",
+        "again",
+        "Above all",
+        "so"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "“considering” is an example of which connective",
+      "options": [
+        "But",
+        "Or",
+        "And"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word “outlook” is an",
+      "options": [
+        "Affixation",
+        "Clipping",
+        "Blending",
+        "Compounding"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A leopard is a wild cat is an example of what type of definition",
+      "options": [
+        "Formal",
+        "Description",
+        "Example",
+        "Synonym"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many type of outline do we have",
+      "options": [
+        "4",
+        "2",
+        "5",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Full stop is used in outline to",
+      "options": [
+        "indicate the end of a sentence",
+        "indicate the end of an idea",
+        "to\nshow division"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Arabic numerals is employed in outlining to",
+      "options": [
+        "show paragraph",
+        "represent action",
+        "indicate idea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Phoric reference is also known as",
+      "options": [
+        "Cataphoric",
+        "Anaphoric",
+        "Discourse"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "FAQ could be framed through",
+      "options": [
+        "Acronym",
+        "Affixation",
+        "Algebrasim"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Definition used to achieve rhetorical ends maybe influenced by",
+      "options": [
+        "Personality",
+        "Impression",
+        "Government",
+        "Intention"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which connective is used for transitional function",
+      "options": [
+        "However",
+        "Now",
+        "Consequently",
+        "Finally"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____ is the shortened tag of longer word",
+      "options": [
+        "Blending",
+        "Clipping",
+        "Coinage"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____ is used in drawing conclusion",
+      "options": [
+        "Inductive reasoning",
+        "Class dictation",
+        "Deduction reasoning"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are the characteristics of a good outlining except",
+      "options": [
+        "Orderliness",
+        "Inductive reasoning",
+        "Clarity"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The definition based on class consideration is ____",
+      "options": [
+        "Logical definition",
+        "Definition by description",
+        "Definition by synonyms\n LOVES YOU!!!!"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The grammatical concept that is connected with the auxiliary verbs, \"Be\" and 'have' in sentences is\ncalled________",
+      "options": [
+        "nominalization",
+        "concord",
+        "aspect",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Everybody ........gone to welcome the president of America at the International Airport Abuja.",
+      "options": [
+        "have",
+        "has",
+        "will have",
+        "are"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The police .......arrested the NNPC pipeline vandals.",
+      "options": [
+        "has",
+        "have",
+        "have been",
+        "has been"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "We have received no message from the director since he .........to china.",
+      "options": [
+        "had been gone",
+        "had gone",
+        "had been going",
+        "went"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Martin ought .............a present to his sister by now.",
+      "options": [
+        "to send",
+        "to have been sent",
+        "to be sending",
+        "to have sent"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "John .......that letter, but he had no time.",
+      "options": [
+        "should write",
+        "should have written",
+        "may write",
+        "should be writing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Whenever I .......to the beach, I like to swim.",
+      "options": [
+        "go",
+        "went",
+        "would go",
+        "am going"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Each of us ..........carrying an umbrella yesterday.",
+      "options": [
+        "was",
+        "were",
+        "have been",
+        "has been"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If you had been paid today, I .........you to lend me some money.",
+      "options": [
+        "will have asked\nFacebook: www.facebook.com/nbstutors\nInstagram: @nbs_family\nOCTOBER 2021\n\n\fBN: 2867671\n\nGNS 102 CBT PRACTICE QUESTIONS",
+        "had asked",
+        "would have asked",
+        "was asking"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There is nothing left for us to eat. The two girls ......... the lot.",
+      "options": [
+        "eat",
+        "have eaten",
+        "have been eating",
+        "had been eating"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Had I struck the man who insulted me, I .......by the police",
+      "options": [
+        "shall have been arrested",
+        "should be arrested",
+        "should have been arrested",
+        "shall be arrested"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He misbehaved because he .........too much beer.",
+      "options": [
+        "had drunk",
+        "had been drunk",
+        "had drunken",
+        "had drunk"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "You .......... if your friend hadn't had any money.",
+      "options": [
+        "shall have paid",
+        "would have to pay",
+        "would have had to pay",
+        "would pay"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If he was there at all, he ........ late.",
+      "options": [
+        "should have come",
+        "had to come",
+        "ought to have come",
+        "must have come"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Although he........ me before he left, I forgot all about it.",
+      "options": [
+        "has asked",
+        "would have asked",
+        "had asked",
+        "has to ask"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "As they are suffering from malaria, they .......... dreadfully uncomfortable for the past few days.",
+      "options": [
+        "have been feeling",
+        "had felt",
+        "had been feeling",
+        "would be feeling"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Next year when he retires, he ..........twenty years in the service.",
+      "options": [
+        "will spend",
+        "has spent",
+        "will be spending",
+        "will have spent\nFacebook: www.facebook.com/nbstutors\nInstagram: @nbs_family\nOCTOBER 2021"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Grammatical structures in English are used to perform the following functions\nexcept.",
+      "options": [
+        "definition",
+        "classification",
+        "generalizing",
+        "outlining"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The general concept that is used to denote the time of an action relative to the\ntime the sentence is uttered is called______.",
+      "options": [
+        "clipping",
+        "abronym",
+        "Substitution",
+        "tense"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "An activity that is actually in progress at the moment of speaking is described\nby.........",
+      "options": [
+        "simple present tense",
+        "present progressive tense",
+        "past tense",
+        "infinitival tense"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The tense form of a sentence is reflected on one of the following.",
+      "options": [
+        "adjective",
+        "adverbial",
+        "adjunct",
+        "verb"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The tense form of the sentence: \"I have been reading my book\" is",
+      "options": [
+        "Nominal clause",
+        "present perfect continous tense",
+        "simple future tense",
+        "past tense"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The auxiliary verbs, \"will\" and 'shall' are used to realise..........",
+      "options": [
+        "present progressive tense",
+        "nominal tense",
+        "regular verb",
+        "future tense"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The inflexional ending '-ed' at the end of a lexical verb is used to denote.",
+      "options": [
+        "past tense",
+        "verb tense",
+        "simple perfect tense",
+        "tenselessness"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A habitual or repeated activity is expressed via",
+      "options": [
+        "present tense",
+        "perfect progressive",
+        "simple past tense",
+        "future tense"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The man's presentation of the story was 'boring'.",
+      "options": [
+        "rude",
+        "brilliant",
+        "uninteresting",
+        "overbearing"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "It is difficult to 'Predict' who will be the winner in the forthcoming presidential\nelection.",
+      "options": [
+        "foretell",
+        "decide",
+        "prevent",
+        "disorder"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "That experience 'made my hair stand on end.'",
+      "options": [
+        "straightened my hair",
+        "delihgted me",
+        "rendered me helpless",
+        "frightened me"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "His attack on me came 'out of the blue.'",
+      "options": [
+        "as a big blow",
+        "entirely unsuspected",
+        "during an argument I had with him",
+        "from the blue sea"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The famous dancer 'brought down the house' by her exquisite performance.",
+      "options": [
+        "closed down the dancing hall",
+        "caused the building to fall",
+        "won great applause",
+        "brought the spectators to the ground floor"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The principal 'acquiesced'in the reinstatement of the striking teachers.",
+      "options": [
+        "succumbed to",
+        "rejected",
+        "agreed to",
+        "reported"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The convict 'adduced' hunger as his main reason for wanting to go back to the\nprison.",
+      "options": [
+        "put forward",
+        "induced",
+        "alluded to",
+        "deduced"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The 'aftermath' of the Second World War is still with us now.",
+      "options": [
+        "course",
+        "result",
+        "cause",
+        "scene"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "This kind of behaviour does not 'befit' him.",
+      "options": [
+        "right and suitable for",
+        "not unexpected of",
+        "resembles",
+        "unnatural to"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "'Indiscipline' in schools is causing great concern among educationist in the\ncountry.",
+      "options": [
+        "disloyalty",
+        "lawlessness",
+        "stubbornness",
+        "immorality"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The road engineers 'pulled down' the buildings which were too close to the road",
+      "options": [
+        "demolished",
+        "splinted",
+        "shattered",
+        "eradicated"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The man was 'arrested' by the police for breaking into the store",
+      "options": [
+        "detained",
+        "kidnapped",
+        "interrogated",
+        "apprehended"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "He gave a very 'uninspiring' lecture during his inaugural",
+      "options": [
+        "unprophetic",
+        "uninitiated",
+        "unpalatable",
+        "insipid"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "His knowledge of the subject is 'up to date'",
+      "options": [
+        "contemporary",
+        "current",
+        "momentary",
+        "simultaneous"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The thief 'rummaged' the drawers to get his wife’s trinkets.",
+      "options": [
+        "displayed",
+        "exhibited",
+        "ransacked",
+        "spied"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "All his neighbours 'denounced' him for his outrageous murder of his wife.",
+      "options": [
+        "opposed",
+        "rejected",
+        "condemned",
+        "announced"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The students 'applauded' their teacher for delivering such a brilliant lecture that\nday.",
+      "options": [
+        "elevated",
+        "approved",
+        "echoed",
+        "cheered"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Everybody likes the Bishop because of his 'unimpeachable' character.",
+      "options": [
+        "humanitarian",
+        "divine",
+        "tolerant",
+        "blemishes"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Col. Malakussa is a 'soldier who hires out his services to a foreign army in return\nfor financial rewards'",
+      "options": [
+        "a bandit",
+        "a saboteur",
+        "a mendicant",
+        "a mercenary"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The student was asked to run the programme 'concurrently'.",
+      "options": [
+        "Simultaneously",
+        "Laboriously",
+        "Judiciously",
+        "Uniformly"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "My enemies will surely 'fell through' in their attempt to disturb my life.",
+      "options": [
+        "fell",
+        "accomplished",
+        "reviewed",
+        "failed"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "With the current level of patronage, I expect my bussiness to 'break even'.",
+      "options": [
+        "loose heavily",
+        "make profit",
+        "neither loose nor gain",
+        "have no money to continue business"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The surviving orphan said he was receiving 'adequate care' from his new fosterparents, but lamented the death of his twin-brother which was due to .....................",
+      "options": [
+        "neglect",
+        "malnutrition",
+        "oblivion",
+        "solitude"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The police have scaled down their anti-crime operations, while the robbers\nsurprisingly have ..................... their activities.",
+      "options": [
+        "mobilized",
+        "aggravated",
+        "intensified",
+        "multiplied"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Despite all her problems and difficulties she remains 'imper-turbable', but her\nbrother is surprisingly ................. by little things.",
+      "options": [
+        "perplexed",
+        "agitated",
+        "impaled",
+        "frustrated"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "She has impaired her health by too much worries; she needs some rest and medical\ncare to ............... it.",
+      "options": [
+        "recover",
+        "renovate",
+        "revive",
+        "restore"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I am 'displeased' with your performance at school.",
+      "options": [
+        "enamoured",
+        "delighted",
+        "intoxicated",
+        "spell-bound"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The court has 'acquitted' her of the charges",
+      "options": [
+        "convinced",
+        "conquered",
+        "confounded",
+        "convicted"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Paul is an 'innocuous' young man",
+      "options": [
+        "a gentle",
+        "a wild",
+        "an innocent",
+        "a stubborn"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The incident happened by 'accident'",
+      "options": [
+        "destiny",
+        "design",
+        "default",
+        "providence"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Our school teacher made literature very 'boring', but our lesson teacher has now\nmade it very ...........",
+      "options": [
+        "sensitive",
+        "sweet",
+        "lovely",
+        "exciting"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Most judges of today rule 'subjectively'",
+      "options": [
+        "objectively",
+        "coarsely",
+        "impressively",
+        "congenitally"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The elbow and the hand are at a 'distal' range to each other",
+      "options": [
+        "proximal",
+        "near",
+        "close",
+        "distinct"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The House seems to have resolved to 'accept' the president’s idea of removal of oil\nsubsidy.",
+      "options": [
+        "praise",
+        "pooh-pooh",
+        "applaud",
+        "regard"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The director has got 'an honorable' reputation",
+      "options": [
+        "a dirty",
+        "a clumsy",
+        "a flamboyant",
+        "embarrassing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Spiritual matters need not be 'clear' to everyone",
+      "options": [
+        "exoteric",
+        "esoteric",
+        "special",
+        "hibernated"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It is not safe to drink 'contaminated' water",
+      "options": [
+        "hygienic",
+        "sachet",
+        "bottled",
+        "therapeutic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It pays a university student to be 'indolent'",
+      "options": [
+        "intelligent",
+        "painstaking",
+        "diligent",
+        "careful"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The lecturer was 'brief' about the explanation of the topic",
+      "options": [
+        "sum",
+        "exhaustive",
+        "crafty",
+        "plenty"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He was 'apprehended' only yesterday; it is too early to .......... him now.",
+      "options": [
+        "discharge",
+        "displace",
+        "sentence",
+        "release"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Nursing work is not meant for 'all comers'",
+      "options": [
+        "everybody",
+        "select few",
+        "selected people",
+        "ring leaders"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There could be 'a uniformity' of age, but there is always ............ of talents among agemates",
+      "options": [
+        "an anomaly",
+        "a distinction",
+        "an inequality",
+        "an abundant"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It is advisable to ........... any water that has been 'polluted'",
+      "options": [
+        "clear",
+        "sanitize",
+        "sterilize",
+        "purify"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He was asked to carry out the investigation 'thoroughly', but he did it ............",
+      "options": [
+        "hurriedly",
+        "impatiently",
+        "haphazardly",
+        "impartially"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The committee was given the mandate of determining the 'immediate' and ...........\ncauses of the students’ crisis.",
+      "options": [
+        "delayed",
+        "obscure",
+        "remote",
+        "later"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The appropriation bill got a 'timely' approval",
+      "options": [
+        "debared",
+        "postponed",
+        "adjourned",
+        "belated"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It is not advisable to do your work 'carefully'",
+      "options": [
+        "lently",
+        "obscurely",
+        "deficiently",
+        "perfunctorily"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It is difficult to get out of the trouble when you 'clash' with your boss",
+      "options": [
+        "parley",
+        "crash",
+        "agree",
+        "disagree"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tade spoke with 'his heart in his mouth'",
+      "options": [
+        "corageous",
+        "unusual cowardice",
+        "lot of confusion",
+        "with fright and agitation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The concept used to show the time of an action relative to the time the sentence is used is ......",
+      "options": [
+        "An hypothesis",
+        "Concord",
+        "Tense",
+        "Pronominal\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The tense of a sentence is manifested on ......",
+      "options": [
+        "Nominal element",
+        "Verbal structure",
+        "Adjectival element",
+        "Verbal element\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The correspondence between the form of the verb and the concep on time is referred to as\n......",
+      "options": [
+        "Momegraph",
+        "Syntactic structure",
+        "Tense",
+        "Linguistic concept\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He was playing with us when my father entered the room;The italicised portion of the\nsentence is an example of .......",
+      "options": [
+        "Simple present tense",
+        "Past progressive tense",
+        "Past\nperfect tense",
+        "None of the above\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Scientific writings involving relating hypothesis usually make use of ......",
+      "options": [
+        "Past progressive\ntense",
+        "Simple future tense",
+        "Present perfect tense (c) Present progressive tense [B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word 'Photograph' writing or drawing with night; The coted verb in the sentence is\nexpressed in the .......",
+      "options": [
+        "Simple present tense",
+        "Future tense",
+        "Present perfect progressive\ntense",
+        "A and B above\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The research is given direction by .......",
+      "options": [
+        "Good hypothesis",
+        "Classification",
+        "Generalizing",
+        "Inductive reasoning\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following assist in making generalizations",
+      "options": [
+        "Hypothesis",
+        "Deductive reasoning",
+        "Classification",
+        "Comparison\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is not a definition of hypothesis",
+      "options": [
+        "A preposition assumed for the sake\nof an argument",
+        "A supposition",
+        "A theory to prove or to be disproved",
+        "To fix the bour\nor limits of words\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All the following are types of definitions except .....",
+      "options": [
+        "Logical or formal definition",
+        "Definition by description",
+        "Definition by example",
+        "Definition by analysis\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A major quality of definition by synonyms is ......",
+      "options": [
+        "Brevity",
+        "Verbosity",
+        "Repetition",
+        "emphasis\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Each of the types of definitions attempts to sined flight on the following except ......",
+      "options": [
+        "Topic",
+        "Comprehrnsion",
+        "Concept",
+        "Subject\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Comparative and metaphorical definition is characterised by .......",
+      "options": [
+        "Antonym",
+        "Description",
+        "Simile",
+        "Conciseness\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following depends on similarities and differences",
+      "options": [
+        "Classification",
+        "Hypothesizing",
+        "Generalizing",
+        "Conclusion\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Inductive reasoning assists in .......",
+      "options": [
+        "Forming a tentative opinion",
+        "Drawing conclusion",
+        "Making generalizations",
+        "Describing items\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the four communication skills is .......",
+      "options": [
+        "Speaking",
+        "Reading",
+        "Writing",
+        "Listening\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An expressive skill central to academic performances is known as ...........",
+      "options": [
+        "Examination",
+        "Writing",
+        "Note taking",
+        "Reading\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In writing,both mental and muscular task and employed to express the following except",
+      "options": [
+        "Ideas",
+        "Concept",
+        "Intention",
+        "Phenomena\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a given text, it is essential that ....... leads accurately to further ones",
+      "options": [
+        "Initial point",
+        "Writing up",
+        "interactive act",
+        "Communication\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Two things are joined together in English language through ............",
+      "options": [
+        "Communication",
+        "Connectives",
+        "Replacives",
+        "Communicatives\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In writing,connectives are synonymous with",
+      "options": [
+        "Connectors",
+        "Defectors",
+        "Denotors",
+        "phrases\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "'And' connective is useful in .......",
+      "options": [
+        "Presenting idea",
+        "Re-grouping",
+        "Numbering",
+        "Formalising\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Notably ........ connective comes in handy in perfect re-statement of ideas",
+      "options": [
+        "And",
+        "Or",
+        "But",
+        "none of the above\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For drawing contrast with ideas first presented,....... connective comes in handy",
+      "options": [
+        "And",
+        "Or",
+        "But",
+        "None of the above\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Summation as an instance of the but connective is denoted by",
+      "options": [
+        "Therefore",
+        "Rather",
+        "By\nthe way",
+        "Besides\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Discourse reference is known as",
+      "options": [
+        "Communication",
+        "Connective",
+        "Phoric",
+        "Referencing\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Phoric reference creates a link between",
+      "options": [
+        "What is being said",
+        "What has been said before",
+        "A and b",
+        "None of the above\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Anaphoric reference refers",
+      "options": [
+        "Forward",
+        "Backward",
+        "To discourse issues",
+        "To\nconnectives\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cataphoric reference refers",
+      "options": [
+        "Forward",
+        "Backward",
+        "To communicative elements",
+        "To\naspects\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Lexical items such as here, thus, as follows, the following refers to",
+      "options": [
+        "Anaphoric reference",
+        "Cataphoric reference",
+        "Phoric reference",
+        "None of the above\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The statement 'this should interest you' is representative of .....",
+      "options": [
+        "Cataphoric reference",
+        "Anaphoric reference",
+        "Demonstrative",
+        "Sunmation\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When words are reported within the paragraph, there is",
+      "options": [
+        "Repetition",
+        "Substitution",
+        "Ellipsis",
+        "Basis\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Repetition facilitates",
+      "options": [
+        "Coherence of thoughts",
+        "Substitution of ideas",
+        "Purposeful\ndiscourse",
+        "Monotony\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Words in substitution are",
+      "options": [
+        "Repeated",
+        "Replaced",
+        "Removed",
+        "Omited\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In ellipsis, words are",
+      "options": [
+        "Omited",
+        "Replaced",
+        "Repeated",
+        "Removed\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Punctuation marks such as cornma, semicolon, colon, are recognized as",
+      "options": [
+        "Repitition",
+        "Connectives",
+        "Substitution",
+        "Ellipsis\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A ....... highlights the information that an applicant for a job needs to supply for an employer",
+      "options": [
+        "Personal detail",
+        "Curriculum vitae",
+        "Reference",
+        "Working experience\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The definition type which attempts to say concisely what something is by equaling it with\nwhat is similar to it is ......",
+      "options": [
+        "Definition by synonyms",
+        "Definition by example",
+        "Definition\nby antonym",
+        "Definition by comparism\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The first step in project writing is .......",
+      "options": [
+        "Looking for a vacuum",
+        "Looking for aim and\nobjectives",
+        "Picking a topic",
+        "Hypothesis\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Stating the hypothetical term of a project initiative statement waiting conformation or\nrejection through research is known as",
+      "options": [
+        "Statement of the problem",
+        "Background to the\nstudy",
+        "Hypothesis",
+        "Aim and objectives\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A critique of existing points in project writing sets the basis for its",
+      "options": [
+        "Aim and objectives",
+        "Significance",
+        "Method or procedure",
+        "Analysis\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It is usually significant to locate the statement of the problem of a project in a ........",
+      "options": [
+        "Vacuum",
+        "Statement",
+        "Method",
+        "Background\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Background to the study of a thesis reveals its",
+      "options": [
+        "introduction",
+        "Hypothesis",
+        "Problems",
+        "Objective\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A good characteristic of an outline is",
+      "options": [
+        "Brevity",
+        "Clarity",
+        "Accuracy",
+        "None of the above\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The coherence of an outline is imperative here for it to serve as a visual aid that ........\nrepresents the main text",
+      "options": [
+        "Graphically",
+        "Tactically",
+        "Artistically",
+        "Sequentially\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Inductive reasoning assists a good deal in",
+      "options": [
+        "Reasoning",
+        "Hypothesizing",
+        "Drawing\nconclusions",
+        "Classification\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A good tool in making generalization is",
+      "options": [
+        "Classification",
+        "Logical definition",
+        "Deductive\nreasoning",
+        "Hypothesizing\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Making generalization is assisted by ......",
+      "options": [
+        "Generalizing",
+        "Deductive reasoning",
+        "Definition",
+        "Hypothesizing\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Structure symmetry in our expression is",
+      "options": [
+        "Drawing conclusion",
+        "Synonyms",
+        "Generalizing",
+        "Concord\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is a supposition, a preposition assumed for the sake of an argument",
+      "options": [
+        "Generalizing",
+        "Classification",
+        "Hypothesis",
+        "Grammar\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "To arrange or place into classes is a function of ........",
+      "options": [
+        "Synonyms",
+        "Classification",
+        "Division",
+        "Definition\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Research is given a direction by .........",
+      "options": [
+        "generalization",
+        "Good Hypothesis",
+        "Deductive\nreasoning",
+        "Synonyms\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following set limits to idea?",
+      "options": [
+        "Description",
+        "Classification",
+        "Definition",
+        "Hypothesis\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are different types of definition except .........",
+      "options": [
+        "Logical definition",
+        "Definition\nby description",
+        "Metaphorical definition",
+        "Definition by classification\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following types of definition attempts to say concisely what something is by\nequaling it with what is similar to it.",
+      "options": [
+        "Definition by example",
+        "Formal definition",
+        "Definition by synonyms",
+        "Metaphoric definition\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The function of grammatical statement that depends on similarities and differences in\nscientific English is .......",
+      "options": [
+        "Definition",
+        "Classification",
+        "Reasoning",
+        "Generalizing [B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Classification is often guided by the following except",
+      "options": [
+        "Interest of the classifier",
+        "Nature\nof the data at hand",
+        "Provisional explanation of anything",
+        "Specification of certain fields\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The plural form of hypothesis is ...............",
+      "options": [
+        "Hypothesies",
+        "Hypothessis",
+        "Hypothesess",
+        "Hypotheses\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Theory to prove or to be disproved by reference to facts is",
+      "options": [
+        "Hypothesizing",
+        "Definition",
+        "Hypothesis",
+        "Generalizing\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Conclusion is usually drawn using ...........",
+      "options": [
+        "Hypothesizing",
+        "Deductive reasoning",
+        "Generalizing",
+        "Inductive Reasoning\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "To outline means to.............",
+      "options": [
+        "Define",
+        "List",
+        "Show structure",
+        "Delineate facts\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Outlining assists in.....",
+      "options": [
+        "making good judgement",
+        "Organise thought flow",
+        "Being brief",
+        "Arriving at good conclusions\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A good outline must reflect",
+      "options": [
+        "Grammaticality",
+        "Orderliners",
+        "All examples",
+        "Good\nconclusion\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Outlining is good for examination purpose because it's ......",
+      "options": [
+        "Mnemonic potential",
+        "Stylistics features",
+        "Pedasogical importance",
+        "Linguistic applicability\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The central definition quality of outlining is ......",
+      "options": [
+        "Brevity",
+        "Hypothetical quality",
+        "Elucidatory nature",
+        "Simplicity\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Indentitionin outlining enhance ......",
+      "options": [
+        "Graphic appeal",
+        "Logical appeal",
+        "Classificational\nappeal",
+        "Phonological appeal\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Outlining also can be useful in the teaching of .....",
+      "options": [
+        "Morphology",
+        "Paragraphing",
+        "Lexis\nand structure",
+        "Punctuation\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The two clear structure of an outlined texts are?",
+      "options": [
+        "Theme and pheme",
+        "Major and subdivisons",
+        "Introduction and body",
+        "The little and body of the text\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Most scientific definitions are ......",
+      "options": [
+        "Narrative",
+        "Descriptive",
+        "Expository",
+        "Analytical\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Classification of items could at times be ........",
+      "options": [
+        "Objective",
+        "Analytical",
+        "Subjective",
+        "Rhetorical\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word definition is from the latin ......",
+      "options": [
+        "Definite",
+        "Definer",
+        "Diviner",
+        "Definal\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Word formation means .....",
+      "options": [
+        "An attempt to use word appropriately",
+        "An attempt to\nmanufature sentence",
+        "A process by which words are structured, made or produce",
+        "A\nprocess wherein words are appropriately used and produce\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Word formation assists students to ........",
+      "options": [
+        "Read well",
+        "Understand content of a text",
+        "Confuse one's reader or listener",
+        "Use bombast\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Morpheme could be described as ......",
+      "options": [
+        "Smallest meaningful unit of a language",
+        "Smallest\nmeaningless unit of a language",
+        "Highest meaningless unit of a language",
+        "Highest\nmeaningful unit of a language\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word 'boy' is an example of a .......",
+      "options": [
+        "Fixed morpheme",
+        "Poor morpheme",
+        "Complex\nmorpheme",
+        "Free morpheme\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the word 'affixes' the coted morpheme is .....",
+      "options": [
+        "A free morpheme",
+        "A bound morpheme",
+        "A complex morpheme",
+        "A multi-structure morpheme\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Affixation involves .....",
+      "options": [
+        "Combination of two free morphemes",
+        "Combination of two or\nmore free morphemes",
+        "Combination of two bound morphemes",
+        "Prefixation and\nsuffixation\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The coted morpheme in the word 'PRE'fixation is an example of .....",
+      "options": [
+        "Suffix",
+        "Prefix",
+        "Prefixation",
+        "Suffixation\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The coted morpheme is the word kitchen'ETTE' is a typical example of .....",
+      "options": [
+        "Suffix",
+        "Prefix",
+        "Prefixation",
+        "Suffixation\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Suffixation is a morpheme placed at .....",
+      "options": [
+        "The beginning of a word",
+        "The middle of a word",
+        "The end of a word",
+        "Nowhere in a word\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The morpheme 'un-' in the word 'unadvisable' is ......",
+      "options": [
+        "An inflexional morpheme",
+        "A noun\nforming morpheme",
+        "An adjective forming morpheme",
+        "A derivational morpheme\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The morpheme '-let'in the word 'leaflet' means .....",
+      "options": [
+        "'Big'",
+        "Small",
+        "Large",
+        "Non\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Affixation is derivational when it brings about ......",
+      "options": [
+        "Change in the nominal word",
+        "Change\nin the word class alone",
+        "Change in the meaning of the morpheme\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The process of joining two or more free morpheme together is called ....",
+      "options": [
+        "Affixation",
+        "Compounding",
+        "Clipping",
+        "Suffixation\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "'Sky-rocketting' is an example of .....",
+      "options": [
+        "Clipping",
+        "Blending",
+        "Acronymy",
+        "Compounding\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "'Flu' is an example of .....",
+      "options": [
+        "Clipping",
+        "Blending",
+        "Compounding",
+        "Affixation\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of these is an example of blending",
+      "options": [
+        "Smog",
+        "Piano",
+        "Serious",
+        "Flu\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "'LAUTECH' is an example of",
+      "options": [
+        "Blending",
+        "Compounding",
+        "Acronymy",
+        "Clipping\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of these is not an example of blending",
+      "options": [
+        "Motel",
+        "Hotel",
+        "Smog",
+        "Transistore\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of these is not an example of clipping",
+      "options": [
+        "Flu",
+        "Fridge",
+        "Piano",
+        "Smog\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is not an example of Acronymy",
+      "options": [
+        "AC",
+        "Sg",
+        "Lifo",
+        "Piano\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word 'hydrocephalic is formed via ......",
+      "options": [
+        "Affixation",
+        "Coinnage",
+        "Abronymy",
+        "Summation\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The suffix in the word men is .....",
+      "options": [
+        "–n",
+        "–en",
+        "–s",
+        "–o\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The inflected morpheme in the word 'children' is ......",
+      "options": [
+        "–s",
+        "–d",
+        "–en",
+        "–ren\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "'AIDS' is atypical example of",
+      "options": [
+        "Idioms",
+        "Blending",
+        "Compounding",
+        "Neologism\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word 'amplification' could be broken into .....",
+      "options": [
+        "Ampli+ -ify+ -ation",
+        "Ample+ -ify+ ation",
+        "Amplify+ -ation",
+        "Amplify + ation\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word 'multinational' could be segmented thus?",
+      "options": [
+        "Multi-+nation+-al",
+        "Mult +-ation+al",
+        "Multination + -al",
+        "-multi+action+-al\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "'Reproductive' contains the morphemes",
+      "options": [
+        "Re-+produc(e)+(+)-ve",
+        "Re+product-+-ve",
+        "Re-+production+-ive",
+        "Re+-produc(e)+-ive\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word 'reproductive' has the structure?",
+      "options": [
+        "Bound+free+bound",
+        "Free+bound+free",
+        "Free+free+bound",
+        "Bound+free+free\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "'Cy'in the word 'translucency' indicate ......",
+      "options": [
+        "State, condition or quality",
+        "Name, effect and\ntime",
+        "State, effect and time",
+        "Quality, name and condition\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The morpheme, '-ness' indicate",
+      "options": [
+        "State or condition",
+        "Condition or quality",
+        "State,\ncondition or quality",
+        "Process, state and condition\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "English is not used to perform one of the following functions by scientists.",
+      "options": [
+        "Classify",
+        "Define",
+        "Hypothetical",
+        "Generalise\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word 'definition' originates from",
+      "options": [
+        "Greek",
+        "Latin",
+        "German",
+        "Spanish\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Definition fixes the ..... of words",
+      "options": [
+        "Focus",
+        "Limits",
+        "Idea",
+        "Usage\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Definitions used to achieve rhetorical ends may be influenced by...",
+      "options": [
+        "Intention",
+        "Government",
+        "Impression",
+        "Personality\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Definitions attempt to shed light on all but one of the following",
+      "options": [
+        "Topic",
+        "Concept",
+        "Subject",
+        "Opinion\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Definition that is based on class consideration is",
+      "options": [
+        "Logical",
+        "Descriptive",
+        "Comparative",
+        "Synonymous\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A lion is a wild cat is an example of",
+      "options": [
+        "Definition by description",
+        "Formal definition",
+        "Definition by comparation",
+        "Definition by synonym\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which definition has the tendency to go circular?",
+      "options": [
+        "Logical",
+        "Descriptive",
+        "Comparative",
+        "Synonymous\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which definition uses the characteristics of what is being defined?",
+      "options": [
+        "Logical",
+        "Descriptive",
+        "Comparative",
+        "Synonymous\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of definition mostly used in the dictionary is",
+      "options": [
+        "Logical",
+        "Descriptive",
+        "Comparative",
+        "Synonymous\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following illustrates descriptive definition?",
+      "options": [
+        "A cleansing soap is a soap that\ncleanses",
+        "Biology is the science that deals with all forms of life",
+        "A man is a rational animal",
+        "An acid is a hater of the skin\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In which of the following definitions are devices of comparison used?",
+      "options": [
+        "Definition by\ndescription",
+        "Definition by examples",
+        "Metaphorical definition",
+        "Logical definition\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Classification is not guided by one of the following",
+      "options": [
+        "Interest of the classifier",
+        "Nature of\nthe data at hand",
+        "Specification of certain fields",
+        "Subjectivity of the classifier\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Hypotheses can be validated or invalidated by",
+      "options": [
+        "Confirmation",
+        "Definition",
+        "Experimentation",
+        "Conclusion\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Research is given direction by",
+      "options": [
+        "Definition",
+        "Classification",
+        "Hypothesis",
+        "Generalization\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What type of reasoning assists in drawing conclusion?",
+      "options": [
+        "Deductive",
+        "Inductive",
+        "Syllogistic",
+        "Premised\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A consideration for syllogism is the characteristic of",
+      "options": [
+        "Deductive reasoning",
+        "Inductive\nreasoning",
+        "Syllogistic reasoning",
+        "Premised reasoning\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Syllogism refers to",
+      "options": [
+        "Reasoning syllogistically",
+        "Reasoning inductively",
+        "Drawing\nconclusion",
+        "Making logical statement having premises and conclusion\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following does not fit into the same class with others?",
+      "options": [
+        "Verbs",
+        "Nouns",
+        "Pronouns",
+        "Adjectives\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following words belongs to a different disciplinary class?",
+      "options": [
+        "Diagnose",
+        "Prescribe",
+        "Inject",
+        "Examine\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What type of definition is mostly used for scientific definitions of terms and concepts?",
+      "options": [
+        "Definition by logic",
+        "Definition by example",
+        "Definition by description",
+        "Definition by\ncomparation\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Classificational yardsticks include",
+      "options": [
+        "Arranging and placing words into classes",
+        "Items and\nindividuals",
+        "Similarities and differences of items",
+        "Group of items and categories of\nclassification\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The words \"conclusion and generalisation\" are",
+      "options": [
+        "Absolute synonyms",
+        "Complete\nsynonyms",
+        "Hyponyms",
+        "Near synonyms\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What definitional approach is recommended for scientist?",
+      "options": [
+        "Logical approach",
+        "Singledefinition approach",
+        "Bi-definition approach",
+        "Eclectic approach\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Formal definition was mostly used by logicians during the time of",
+      "options": [
+        "Socrates",
+        "Bongo",
+        "Aristotle",
+        "Colby\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Most scientific definitions are largely influenced by",
+      "options": [
+        "Description and characterization",
+        "Experiment and Observation",
+        "Apparatus and hypothesis",
+        "Comparism and observation\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The descriptive definition of thermal conductivity as the rate of passage of heat from face to\nface area per differenceof temperature between faces when one is thick, is given by",
+      "options": [
+        "Osuala",
+        "Odunjo J.F.",
+        "Sawe",
+        "Gorrel and Laid\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is not a diurnal usage of English language in modern times.",
+      "options": [
+        "Academic\ndiscourse",
+        "Domestic interaction",
+        "Mercantile negotiation",
+        "Everytime interaction\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a definition by synonyms?",
+      "options": [
+        "Verbs are words like go, come",
+        "To\nbe proud is to be humble",
+        "To lie is to recline",
+        "Facecap is a good lecturer\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Connectives are not used to connect one of the following in English discourse.",
+      "options": [
+        "Expressions",
+        "Ideas",
+        "Information",
+        "System\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following connectors is not used to signal movement from idea to idea",
+      "options": [
+        "Besides",
+        "Now",
+        "With reference to",
+        "By the way\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ideas are summed up using one of the following connectives.",
+      "options": [
+        "Consequently",
+        "Above all",
+        "As a result",
+        "So\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "\"And connectives\" are used for all but one of the following functions.",
+      "options": [
+        "Movement from idea\nto idea",
+        "Drawing contrast with earlier idea",
+        "Presenting result of ideas",
+        "Summing up\nidea\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following connectives serves to restate ideas.",
+      "options": [
+        "Instead",
+        "Conversely",
+        "Rather",
+        "Nevertheless\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following connectives is functionally odd?",
+      "options": [
+        "Accordingly",
+        "Consequently",
+        "Finally",
+        "So\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Anaphoric reference points",
+      "options": [
+        "Forward",
+        "Backward",
+        "Forward and Backward",
+        "None\nof the above\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not used for connecting functions?",
+      "options": [
+        "Phoric reference",
+        "Substitution",
+        "Logical connectors",
+        "None of the above\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It was raining ....I took a taxi.",
+      "options": [
+        "Or",
+        "So",
+        "But",
+        "Because\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "She quit her job.. she is looking for a new one now.",
+      "options": [
+        "As well as",
+        "Whereas",
+        "So",
+        "Because\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He doesn't like her .... she is not honest.",
+      "options": [
+        "Even if",
+        "Because",
+        "But",
+        "So\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "They walked home ....there were no more buses.",
+      "options": [
+        "Therefore",
+        "Although",
+        "Because",
+        "Or\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It was cold ....I shut the window.",
+      "options": [
+        "Unless",
+        "So",
+        "Because",
+        "Otherwise\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many of you want to attend the seminar, ..... I was saying?",
+      "options": [
+        "As",
+        "Therefore",
+        "And",
+        "So\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He must be from a rich home .... he spends a lot of money on gifts for his girlfriend.",
+      "options": [
+        "Because",
+        "Attend",
+        "So",
+        "Yet\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "She punished the little girl .... put salt in his coffee.",
+      "options": [
+        "When",
+        "Who",
+        "Even if",
+        "Therefore\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Joe is rich;.... his cousin Josephine is poor.",
+      "options": [
+        "And",
+        "But",
+        "Nevertheless",
+        "Afterward\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The children didn't study ...., they failed the course.",
+      "options": [
+        "That",
+        "And",
+        "So",
+        "Hence\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "We live in the same building,....we hardly see each other.",
+      "options": [
+        "Because",
+        "So",
+        "Therefore",
+        "But\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It was a windy and rainy night... I decided to go out.",
+      "options": [
+        "But",
+        "So",
+        "Yet",
+        "Therefore\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "These tools are old ....still good.",
+      "options": [
+        "And",
+        "Because",
+        "But",
+        "Therefore\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The classes are quite difficult .....I'm doing well.",
+      "options": [
+        "Therefore",
+        "Yet",
+        "But",
+        "Or\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "They visited lots of castles ....palaces in England.",
+      "options": [
+        "Or",
+        "And",
+        "But",
+        "Whereas\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Leafy vegetables, .... cabbage and lettuce, are good sources of many vitamins.",
+      "options": [
+        "Unless",
+        "For instance",
+        "Hence",
+        "As well as\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "You need to work hard .... you can have better result.",
+      "options": [
+        "When",
+        "So that",
+        "And",
+        "Or\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Babalola wants to buy some new T-Shirts, ....he needs to save money to buy some new books.",
+      "options": [
+        "So that",
+        "And",
+        "But",
+        "Although\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tola is selfish,...is rich.",
+      "options": [
+        "when",
+        "But",
+        "So",
+        "Although"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "She can speak French ..... she can't write it.",
+      "options": [
+        "So",
+        "However",
+        "But",
+        "Meanwhile\n\n[D]\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He worked hard ..... he passed all his examinations.",
+      "options": [
+        "Because",
+        "However",
+        "Unless",
+        "So\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He went home ....he was tired.",
+      "options": [
+        "Unless",
+        "Because",
+        "So",
+        "Therefore\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "She is working late next Friday .....she can't come to the party.",
+      "options": [
+        "So",
+        "Therefore",
+        "Unless",
+        "Whereas\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "We will not go for a walk,....it stops raining.",
+      "options": [
+        "So",
+        "Unless",
+        "Until",
+        "Or\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I have to help my mother in her garden.....I can go to the cinema",
+      "options": [
+        "Because",
+        "Unless",
+        "Yet",
+        "Therefore\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I will try to help her in the garden ....I have got little time",
+      "options": [
+        "So that",
+        "Because",
+        "But",
+        "However\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I like comedies .....my friend prefers horror films",
+      "options": [
+        "And",
+        "But",
+        "Therefore",
+        "Whereas\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "She is always helpful and friendly to me ....I like her very much",
+      "options": [
+        "But",
+        "So",
+        "Therefore",
+        "Unless\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "You should learn more ....you might fail your exams",
+      "options": [
+        "Unless",
+        "Because",
+        "So",
+        "Otherwise\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He must be very clever,.... he wouldn't have passed such a hard exam",
+      "options": [
+        "However",
+        "Unless",
+        "Otherwise",
+        "So\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I am tired today.....I couldn't sleep last night",
+      "options": [
+        "Therefore",
+        "But",
+        "Because",
+        "So\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word viophobic is formed through",
+      "options": [
+        "Compounding",
+        "Reduplication",
+        "Affixation",
+        "Suffixation\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The root morpheme in phi phobic is",
+      "options": [
+        "Ophio",
+        "Phobic",
+        "phiophob",
+        "Phobia\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The headword of the expression full-blown panic episode is",
+      "options": [
+        "Full",
+        "Panic",
+        "Episode",
+        "Full-blown\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The expression of a particular thing is a",
+      "options": [
+        "Clause",
+        "Phrase",
+        "Sentence",
+        "Gerund\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is not a form of the main verb",
+      "options": [
+        "Base",
+        "Ed",
+        "Es",
+        "Ing\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The bound morpheme in oviophobic can be matched with which of the following, considering\nword class?",
+      "options": [
+        "Situation",
+        "Irrational",
+        "Spiders",
+        "Anxiety\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a structurally classification of English sentence?",
+      "options": [
+        "Simple",
+        "Declarative",
+        "Complex",
+        "Compound-complex\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The nominal structure of the sight of the thing feared is",
+      "options": [
+        "MH",
+        "MHQ",
+        "HQ",
+        "H only\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is not a cohesive device.",
+      "options": [
+        "Reference",
+        "Connection",
+        "Repetition",
+        "Substitution\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is essential to the composition of words in English?",
+      "options": [
+        "Languages",
+        "Morphemes",
+        "Units",
+        "Word formation\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The suffix in manageable is a/an",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Adverb\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a word formation process?",
+      "options": [
+        "Compounding",
+        "Affixational",
+        "Abbronymy",
+        "Neologism\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which is the odd item in the following?",
+      "options": [
+        "Dr.",
+        "A. O.",
+        "Rev.",
+        "Lt.\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Recent events strengthened her_____to find out the truth about the stolen money.",
+      "options": [
+        "Resolve",
+        "Decision",
+        "Interest",
+        "Zealousness\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I should call _______ your place on my way home.",
+      "options": [
+        "At",
+        "In",
+        "For",
+        "Of\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Your idea is _____ variance with mine.",
+      "options": [
+        "At",
+        "In",
+        "To",
+        "For\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The man lives ______ Canada",
+      "options": [
+        "At",
+        "In",
+        "Inside",
+        "Around\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I schooled _____ Ife .",
+      "options": [
+        "At",
+        "In",
+        "By",
+        "Inside\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Outlining addresses the following except",
+      "options": [
+        "Writing a structured defailed statement",
+        "Presenting essential contents of a passage",
+        "Representation of organisation pattern of a text",
+        "Reproducing a text in an abridged version\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An outline can be described as",
+      "options": [
+        "Comprehensive statement of facts and points of an original\ntext",
+        "The description of a passage",
+        "Representation of the shortened form of a passage",
+        "Representation of significant events in a passage\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "To write a good outline, it is good to",
+      "options": [
+        "Read the passage",
+        "Know the title of the passage",
+        "Have a good understanding of the passage",
+        "Know the number of sentences in the\npassage\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Good outline is",
+      "options": [
+        "Structured",
+        "Not structured",
+        "Written free styled",
+        "A sort of rearrangement of the original text\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An outline ought to",
+      "options": [
+        "Be brief",
+        "Be lengthy",
+        "Include details",
+        "Include examples and\nillustrations\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Clarity in outlining suggests",
+      "options": [
+        "Use of simple words",
+        "Writer's own choice of words",
+        "Use\nof words freely",
+        "Ambiguous use of words\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In outlining, there is no need to observe",
+      "options": [
+        "Clarity",
+        "Brevity",
+        "Detailed content",
+        "The\ntopic\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Accuracy in outlining is desired because",
+      "options": [
+        "It is good to be accurate",
+        "It is good to use the\nwriter's words",
+        "It is a graphic representation of the main text",
+        "It reflects what the topic\nis about\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The coherence of an outline implies",
+      "options": [
+        "Orderliness",
+        "The use of words",
+        "The significance\nof the outline",
+        "Co-relatedness of the topic to the outline\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Outlining shows the following except",
+      "options": [
+        "A visual graphic representation of the original text",
+        "The structure of the original text",
+        "Sequencial arrangement of ideas",
+        "Sequencial\narrangement of words\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A good outline enhances",
+      "options": [
+        "Easy representation",
+        "Easy presentation",
+        "Easy recall",
+        "Easy link with the main text\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An outline is usually represented by",
+      "options": [
+        "Divisions",
+        "Ranks",
+        "Sentences",
+        "Phrases\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An outline being mnemonic means",
+      "options": [
+        "An outline is encoded",
+        "An outline could be decoded",
+        "An outline could help the memory",
+        "An outline could be stylistically organized\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Outline is significant since",
+      "options": [
+        "It represents original text",
+        "It presents a writer's worldview",
+        "It enhances the organisation of our write ups",
+        "It deals with ideas\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An outline could be a",
+      "options": [
+        "Sketch",
+        "Write-up",
+        "Passage",
+        "Thought\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Subdivisions in outlining enhances",
+      "options": [
+        "graphical representation of ideas",
+        "Easy induction\nof ideas",
+        "Simple use of language",
+        "Easy marking\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A good outline reflects",
+      "options": [
+        "The language of the original",
+        "The intention of the writer",
+        "The\ndivisions",
+        "The topic of the original text\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The special graphic structure of an outline",
+      "options": [
+        "Could not be mistaken anywhere it is seen",
+        "Make writers to be cantrons",
+        "Shows the storyline of a passage",
+        "Shows the writer's\npattern of writing\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The name given to the variety of language distinguished according to use is",
+      "options": [
+        "Cronym",
+        "Morpheme",
+        "Register",
+        "Affixation\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The general concept that is used to denote the time of an action relative to the time the\nsentence is uttered is called",
+      "options": [
+        "Clipping",
+        "Abronym",
+        "Substitution",
+        "Tense\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What tense is used to describe an activity that is actually in progress at the moment of\nspeaking?",
+      "options": [
+        "Simple present tense",
+        "Present progressive tense",
+        "Past tense",
+        "Infinitival\ntense\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The auxiliary verbs, \"will\" and \"shall\" are used to realize",
+      "options": [
+        "Present progressive tense",
+        "Nominal tense",
+        "Regular verb",
+        "Future tense\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The grammatical concept that is connected with the auxiliary verbs, \"Be\" and \"have\" in\nsentences is called",
+      "options": [
+        "Nominalization",
+        "Concord",
+        "Aspect",
+        "None of the above\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Martins ought ......a present to his sister by now.",
+      "options": [
+        "To send",
+        "To have been sent",
+        "To be\nsending",
+        "To have sent\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Jennifer .....it last week if they had asked her to.",
+      "options": [
+        "Would have done",
+        "Would do",
+        "Will do",
+        "Will have done\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I ......to cotonou this week-end, but when I realized how far it was, I decided against it.",
+      "options": [
+        "Am\ngoing to drive",
+        "Was going to drive",
+        "Had been driving",
+        "Am driving\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "By the end of the year, I shall have learned French well enough to study in Dakar and perhaps\nI ....considered for a scholarship.",
+      "options": [
+        "Shall being",
+        "Would be",
+        "Have been",
+        "Shall be\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Next year, when I retire, I .....in this office for ten years.",
+      "options": [
+        "Have worked",
+        "Shall have been\nworking",
+        "Have been working",
+        "Should have been working\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If it had rained heavily, my cloths ....wet now.",
+      "options": [
+        "Will have been",
+        "Would be",
+        "Can have\nbeen",
+        "Are\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The employers are planning a big party for Mr. Mensah who .....the firm for twenty years next\nJuly.",
+      "options": [
+        "Had been managing",
+        "Can have been managing",
+        "Had managed",
+        "Will have been\nmanaging\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "By next year, we .... here for two years.",
+      "options": [
+        "Have stayed",
+        "Will stay",
+        "Will have stayed",
+        "Would have been staying\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I ....in Paris for ten years. Now, I am no longer there.",
+      "options": [
+        "Lived",
+        "Have lived",
+        "Live",
+        "Was\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If I had seen you, I ....given you a lift home.",
+      "options": [
+        "Might have",
+        "May have",
+        "Would have",
+        "Must have\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He ... come here last night but did not.",
+      "options": [
+        "Must have",
+        "Would have",
+        "Might have",
+        "Should\nhave\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Three people tried to interrupt the lecturer while he....",
+      "options": [
+        "Spoke",
+        "Was speaking",
+        "Had\nbeen speaking",
+        "Had spoken\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Let us go as soon as John_______",
+      "options": [
+        "Will come",
+        "Comes",
+        "Will have come",
+        "Is coming\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "She .....to school late four times last week.",
+      "options": [
+        "Has come",
+        "Had come",
+        "Was coming",
+        "Came\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The convict denied ....any knowledge of the stolen money.",
+      "options": [
+        "To have",
+        "Having",
+        "Of having",
+        "To having\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If I were to work hard, I....pass the forthcoming examination.",
+      "options": [
+        "Should",
+        "Will",
+        "Shall",
+        "Would have\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "By this time next year, James......his degree course.",
+      "options": [
+        "Should have completed",
+        "Could have\ncompleted",
+        "Will complete",
+        "Would complete\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the school had been destroyed,....",
+      "options": [
+        "We would go home",
+        "We would have to go home",
+        "We would have had to go home",
+        "We should go home\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He....that letter, but he had no time.",
+      "options": [
+        "Should write",
+        "Should have written",
+        "May write",
+        "Should be writing\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "You could write a book; that ..... your creative urge.",
+      "options": [
+        "Had satisfied",
+        "Was satisfying",
+        "Would satisfy",
+        "Must have satisfied\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The little boy ..... crossed the river without help.",
+      "options": [
+        "Might not",
+        "couldn't have",
+        "Would not",
+        "Shall not have\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I was fool ..... to agree with you.",
+      "options": [
+        "Rather",
+        "Quite",
+        "Too",
+        "Enough\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The tenant owed several......",
+      "options": [
+        "Month rent",
+        "Month's rent",
+        "Months rent",
+        "Months' rent\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He has always been afraid to speak....",
+      "options": [
+        "In the public",
+        "In a public",
+        "Public",
+        "In public\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When established, the car assembly plant will be ....10,000 cars in a year.",
+      "options": [
+        "Turning",
+        "Turning down",
+        "Turning out",
+        "Turning over\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "That is exactly .....I have always been afraid of.",
+      "options": [
+        "As",
+        "What",
+        "Such",
+        "How\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Relating Scientific observations are usually achieved with the use of",
+      "options": [
+        "Simple past tense",
+        "Simple present and present perfect tense",
+        "Future perfect and past tense",
+        "None of the\nabove\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A simple word consists of",
+      "options": [
+        "One morpheme",
+        "Simple morpheme",
+        "More than one\nmorpheme",
+        "Complex morphemes\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Morphemes that can express independent meanings are called",
+      "options": [
+        "Bound",
+        "Free",
+        "Independent",
+        "Dependable\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following prefixes means 'lacking in'?",
+      "options": [
+        "Un-",
+        "A-",
+        "Mis-",
+        "Pseudo-\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following words has a derivational morpheme?",
+      "options": [
+        "Defended",
+        "Asymmetry",
+        "Boys",
+        "Interests\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which word formation process is occasioned by change in social outlook?",
+      "options": [
+        "Affixation",
+        "Clipping",
+        "Neologism",
+        "Blending\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Scientific project writing does not seek to find out one of the following",
+      "options": [
+        "Lapses in\nknowledge",
+        "Misconceptions in knowledge",
+        "Omissions in area of knowledge",
+        "Frontiers of knowledge\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Deliberate omission of grammatical parts of a sentence is",
+      "options": [
+        "Repetition",
+        "Omission",
+        "Ellipsis",
+        "Substitution\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When ellipsis is used in an expression, the message",
+      "options": [
+        "Will not be understood",
+        "Will not be\nfully understood",
+        "Will still be understood",
+        "Will not be necessary\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An outline shows",
+      "options": [
+        "Pattern and structure of a text",
+        "Essentials and representation of a\ntext",
+        "Facts and points of an essay",
+        "Content and organizational pattern of a text\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a characteristic of a good outline?",
+      "options": [
+        "Brevity",
+        "Clarity",
+        "Accuracy",
+        "Orderly\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Does an outline serve a mnemonic function?",
+      "options": [
+        "Yes",
+        "No",
+        "Not really",
+        "Kind of\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What numerals are commonly used to indicate ideas in outlines?",
+      "options": [
+        "Roman",
+        "Arabic",
+        "Grammatical",
+        "Latin\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tense is used to refer to the correspondence between",
+      "options": [
+        "The form of the verb and the\nconcept of time",
+        "The marked verb and relative time",
+        "Past and present time",
+        "Tense\nand aspect\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which form of main verb marks the plural present tense?",
+      "options": [
+        "Base",
+        "S",
+        "Ed",
+        "En\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The simple present tense is realized by the use of",
+      "options": [
+        "The gerundial form of a verb",
+        "The\npast form of a verb",
+        "The continuous form of a verb",
+        "The present form of a verb [D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Aspect is concerned with",
+      "options": [
+        "Subject",
+        "Predicate",
+        "Object",
+        "Adverbial\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Aspect is connected with",
+      "options": [
+        "Auxilliary verbs",
+        "Main verbs",
+        "Auxiliaries BE and HAVE",
+        "Auxiliaries DO and BE\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a variant of auxiliary BE?",
+      "options": [
+        "Am",
+        "Are",
+        "Is",
+        "Has"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many aspects does English have?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five\n\n[D]\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which aspect indicates verbal action as having been completed?",
+      "options": [
+        "Completing aspect",
+        "Progressive aspect",
+        "Perfective aspect",
+        "Continuous aspect\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a present progressive tense?",
+      "options": [
+        "God is everywhere",
+        "I have done\nit",
+        "He is reading his book",
+        "You will be travelling\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Wickedness is INHERENT in man.",
+      "options": [
+        "Inherited",
+        "Innate",
+        "Injected",
+        "Initiated\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Many churches are no longer on membership CRUSADE.",
+      "options": [
+        "Struggle",
+        "Spiritual war",
+        "Campaign",
+        "Jihad\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "People should not LOITER here please.",
+      "options": [
+        "Walk",
+        "Roam",
+        "Hop",
+        "Trot\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Satan is like a PREDATORY animal.",
+      "options": [
+        "Preying",
+        "Plundering",
+        "Wicked",
+        "Corrosive.\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The chairman was MANDATED to sign the agreement on behalf of the board.",
+      "options": [
+        "Empowered",
+        "Advised",
+        "Challenged",
+        "Compelled\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "You got to TAKE the present situation as a divine wish.",
+      "options": [
+        "Hold",
+        "Try",
+        "Accept",
+        "Shoot\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "You need to RENOUNCE your membership of secret societies.",
+      "options": [
+        "Disclaim",
+        "Declare",
+        "Desert",
+        "Desire\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Panadol may be administered to MITIGATE acute muscular pain.",
+      "options": [
+        "Clear",
+        "Remove",
+        "Cure",
+        "Relieve\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The principal requested for a COMPETENT typist.",
+      "options": [
+        "Competitive",
+        "Intelligent",
+        "Diligent",
+        "Proficient\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Not many pastors are KIND",
+      "options": [
+        "Benevolent",
+        "Loving",
+        "Redemptive",
+        "Affectionate\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It is time you COMMANDED James to return the keys.",
+      "options": [
+        "Directed",
+        "Sent",
+        "Informed",
+        "Made\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Temperate climates are SUITABLE for academic work.",
+      "options": [
+        "Conditional",
+        "Complacent",
+        "Conducive",
+        "Perfect\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I ASSUME that you are a man of God.",
+      "options": [
+        "Suppose",
+        "Imagine",
+        "Think",
+        "Believe\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Pastors usually draw REFERENCES from the Bible when preaching.",
+      "options": [
+        "Allusion",
+        "Examples",
+        "Illustrations",
+        "Inferences\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Joseph interpreted the dream from a different PERSPECTIVE.",
+      "options": [
+        "Eyes",
+        "Point of view",
+        "point",
+        "Angles\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Our mathematics teacher’s method of teaching is very SYSTEMATIC",
+      "options": [
+        "Orderly",
+        "Theoretical",
+        "Practical",
+        "Gradual\n[A]\nSECTION B\nChoose the option that is nearest in meaning to the one CAPITALISED in each of the sentences\nthat follow."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It is such a BROAD road.",
+      "options": [
+        "Big",
+        "Wide",
+        "Enormous",
+        "Lengthy\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Johnson often makes QUICK decisions",
+      "options": [
+        "Instant",
+        "Fast",
+        "Spontaneous",
+        "Speed like\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The doctor wanted to TEST Joe.",
+      "options": [
+        "Assess",
+        "Examine",
+        "Evaluate",
+        "Treat\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "GIVE me the book.",
+      "options": [
+        "Send",
+        "Hand",
+        "Stretch",
+        "Bring\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I need a PRETTY wife.",
+      "options": [
+        "Beautiful",
+        "Good-looking",
+        "Good - to - look at",
+        "Well – shaped\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In fact, the show was a really PUTRID one.",
+      "options": [
+        "Bad",
+        "Decaying",
+        "Fetish",
+        "Stupid\n\n[D]\n\nSECTION C\nChoose the option that is opposite in meaning to each of the capitalized ones in the following\nsentences."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The administrator wrote COPIOUS handing over notes for his successor.",
+      "options": [
+        "Scanty",
+        "Detailed",
+        "Comprehensive",
+        "Little\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It is good to wait for the EMPYREAN voice before one takes any action.",
+      "options": [
+        "Mortal",
+        "Hellish",
+        "Heaven - like",
+        "Godly\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In strictly AFFECTIVE situations, mothers may kneel down before their daughters\nunconsciously.",
+      "options": [
+        "Emotionless",
+        "Emotional",
+        "Disaffective",
+        "Feeling soaked\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I SELDOM go to Sunday school.",
+      "options": [
+        "Rarely",
+        "Often",
+        "Immediately",
+        "Lately\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The teacher told the students to MASTER all the points.",
+      "options": [
+        "Know",
+        "Forget",
+        "Unmaster",
+        "Cram\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I am DISPLEASED with your progress at school.",
+      "options": [
+        "enamoured",
+        "delighted",
+        "intoxicated",
+        "spell-bound\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The court has ACQIUTTED him of the charges.",
+      "options": [
+        "convinced",
+        "conquered",
+        "confounded",
+        "convicted\n[D]\nFrom the words lettered A-D, choose the option that best completes each of the sentences that\nfollow."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The President made a nation-wide ............ on the eve of Christmas.",
+      "options": [
+        "broadcast",
+        "prophecy",
+        "polemics",
+        "decree\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The government set up a Commission of Inquiry ....... the award of contracts by the Board of\nDirectors of the Corporation.",
+      "options": [
+        "about",
+        "for",
+        "into",
+        "for\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I have to suspend my journey ........ my admission letter arrive today.",
+      "options": [
+        "should in case",
+        "perhaps",
+        "since",
+        "should\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "As it was impossible to convey the corpse home, the body was ............ and the ashy remains\nwere flown home for burial.",
+      "options": [
+        "incriminated",
+        "preserved",
+        "embalmed",
+        "cremated\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bursary awards were re-introduced ..... due consideration.",
+      "options": [
+        "in view of",
+        "because of",
+        "owing to",
+        "after\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tensions are not conducive ...... a good working relationship.",
+      "options": [
+        "for",
+        "to",
+        "after",
+        "against\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I am sure it is high-time we ......a new educational policy.",
+      "options": [
+        "adopted",
+        "were adopting",
+        "had been adopting",
+        "might have adopted\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "This lecture has given me a great ....... into the problem of juvenile delinquency.",
+      "options": [
+        "glimpse",
+        "knowledge",
+        "insight",
+        "opening\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Mary and Janet are sisters; the former is a teacher and the _________is a seamstress.",
+      "options": [
+        "later",
+        "other",
+        "prior",
+        "latter\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "After the bloodless coup, a dusk-to-dawn curfew was ............ throughout the country.",
+      "options": [
+        "introduced",
+        "imposed",
+        "enforced",
+        "militarized\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Manager says he doesn’t want to employ beginners who wish to learn the job; he wants\n............ persons.",
+      "options": [
+        "experimental",
+        "experienced",
+        "exposed",
+        "experienced\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "These boys on their own could not have risen against their principal; I think they were ............",
+      "options": [
+        "subordinated",
+        "supported",
+        "confused",
+        "suborned\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The President warned all citizens to be responsible and ............",
+      "options": [
+        "legal",
+        "litigant",
+        "lawabiding",
+        "lawful\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I came to the University with a view ............ my knowledge of things.",
+      "options": [
+        "about increasing",
+        "to increasing",
+        "of increasing",
+        "by increasing\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The child was born before its natural time was due, and therefore it is ....... child.",
+      "options": [
+        "a\npreternatural",
+        "a pre-natal",
+        "an illegitimate",
+        "a premature\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Senior Prefect, not all the prefects,........... to blame for the violent damages.",
+      "options": [
+        "are",
+        "have",
+        "is",
+        "were\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Lawyer argued, that like any human being, his client was liable ....... mistake and should\nbe pardoned.",
+      "options": [
+        "for",
+        "against",
+        "from",
+        "to\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One has to do ............ best for the betterment of the country.",
+      "options": [
+        "his or her",
+        "their",
+        "his",
+        "one’s\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In spite of his arrogance, he could answer ............ of the five questions.",
+      "options": [
+        "any",
+        "none",
+        "either",
+        "neither\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_________ is used to describe an activity that is actually in progress at the moment of speaking.",
+      "options": [
+        "simple present tense",
+        "present progressive tense",
+        "past tense",
+        "infinitival tense\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The auxiliary verbs, \"will\" and 'shall' are used to realise______",
+      "options": [
+        "present progressive tense",
+        "nominal tense",
+        "regular verb",
+        "future tense\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Everybody ___________ gone to welcome the president of America at the International Airport\nAbuja",
+      "options": [
+        "Have",
+        "has",
+        "will have",
+        "are\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The police _______ arrested the NNPC pipeline vandals.",
+      "options": [
+        "has",
+        "have",
+        "have been",
+        "has\nbeen\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "We have received no message from the director since he ________ to china",
+      "options": [
+        "had been gone",
+        "had gone",
+        "had been going",
+        "went\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Martin ought ___________ a present to his sister by now.",
+      "options": [
+        "to send",
+        "to have been sent",
+        "to\nbe sending",
+        "to have sent\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "John ________ that letter, but he had no time.",
+      "options": [
+        "should write",
+        "should have written",
+        "may\nwrite",
+        "should be writing\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Whenever I ________ to the beach, I like to swim.",
+      "options": [
+        "go",
+        "went",
+        "would go",
+        "am going\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Each of us ____________ carrying an umbrella yesterday.",
+      "options": [
+        "was",
+        "were",
+        "have been",
+        "has\nbeen\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If you had been paid today, I _________ you to lend me some money.",
+      "options": [
+        "will have asked",
+        "had\nasked",
+        "would have asked",
+        "was asking\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Jennifer _______ it last week if they had asked her to.",
+      "options": [
+        "would have done",
+        "would do",
+        "will\ndo",
+        "will have done\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There is nothing left for us to eat. The two girls _______ the lot.",
+      "options": [
+        "eat",
+        "have eaten",
+        "have\nbeen eating",
+        "had been eating\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Had I struck the man who insulted me, I ________ by the police",
+      "options": [
+        "shall have been arrested",
+        "should be arrested",
+        "should have been arrested",
+        "shall be arrested\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I _________ to cotonou this week-end, but when I realized how far it was, I decided against it.",
+      "options": [
+        "am going to drive",
+        "was going to drive",
+        "had been driving",
+        "am driving\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "By the end of the year, I shall have learned French well enough to study in Dakar and perhaps\nI ______ considered for a scholarship.",
+      "options": [
+        "shall being",
+        "would be",
+        "have been",
+        "shall be\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Next year, when I retire, I _________ in this office for ten years.",
+      "options": [
+        "have worked",
+        "shall have\nbeen working",
+        "have been working",
+        "should have been working\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If it had rained heavily, my cloths _______ wet now.",
+      "options": [
+        "will have been",
+        "would be",
+        "can have\nbeen",
+        "are\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The employers are planning a big party for Mr. Mensah who _______ the firm for twenty years\nnext July.",
+      "options": [
+        "had been managing",
+        "can have been managing",
+        "had managed",
+        "will have\nbeen managing\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He misbehaved because he _______ too much beer.",
+      "options": [
+        "had drunk",
+        "had been drunk",
+        "had\ndrunken",
+        "had drunk\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "You ___________ if your friend hadn't had any money.",
+      "options": [
+        "shall have paid",
+        "would have to pay",
+        "would have had to pay",
+        "would pay\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If he was there at all, he ________ late.",
+      "options": [
+        "should have come",
+        "had to come",
+        "ought to have\ncome",
+        "must have come\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Although he_____________ me before he left, I forgot all about it.",
+      "options": [
+        "has asked",
+        "would have\nasked",
+        "had asked",
+        "has to ask\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "As they are suffering from malaria, they ______ dreadfully uncomfortable for the past few days.",
+      "options": [
+        "have been feeling",
+        "had felt",
+        "had been feeling",
+        "would be feeling\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Next year when he retires, he _______ twenty years in the service.",
+      "options": [
+        "will spend",
+        "has spent",
+        "will be spending",
+        "will have spent\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "By next year, we _________ here for two years.",
+      "options": [
+        "have stayed",
+        "will stay",
+        "will have stayed",
+        "would have been staying\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The auxiliary verbs, \"will\" and 'shall' are used to realize ______",
+      "options": [
+        "present progressive tense",
+        "nominal tense",
+        "regular verb",
+        "future tense\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I ____________ in Paris for ten years. Now, I am no longer there.",
+      "options": [
+        "lived",
+        "have lived",
+        "live",
+        "was\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If I had seen you, I ________ given you a lift home.",
+      "options": [
+        "might have",
+        "may have",
+        "would have",
+        "must have\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He ________ come here last night but did not.",
+      "options": [
+        "must have",
+        "would have",
+        "might have",
+        "should have\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Three people tried to interrupt the lecturer while he_________",
+      "options": [
+        "spoke",
+        "was speaking",
+        "had been speaking",
+        "had spoken\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Let us go as soon as John__________",
+      "options": [
+        "will come",
+        "comes",
+        "will have come",
+        "is coming\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The convict denied _________ any knowledge of the stolen money.",
+      "options": [
+        "to have",
+        "having",
+        "of\nhaving",
+        "to having\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If I were to work hard, I _________ pass the forthcoming examination.",
+      "options": [
+        "should",
+        "will",
+        "shall",
+        "would have\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "By this time next year, Martin _______ his degree course.",
+      "options": [
+        "should have completed",
+        "could\nhave completed",
+        "will complete",
+        "would complete\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the school had been destroyed, ________",
+      "options": [
+        "we would go home",
+        "we would have to go home",
+        "we would have had to go home",
+        "we should go home\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He____________ that letter, but he had no time.",
+      "options": [
+        "should write",
+        "should have written",
+        "may\nwrite",
+        "should be writing\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "You could write a book; that _______ your creative urge.",
+      "options": [
+        "had satisfied",
+        "was satisfying",
+        "would satisfy",
+        "must have satisfied\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The little boy__________ crossed the river without help.",
+      "options": [
+        "might not",
+        "couldn't have",
+        "would not",
+        "shall not have\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "She ________ to school late four times last week.",
+      "options": [
+        "has come",
+        "had come",
+        "was coming",
+        "came\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Connectives are used in scientific report writing to achieve all of the following except",
+      "options": [
+        "for\ntransition from one idea to another",
+        "to summarise the writer's idea",
+        "for presenting\nresult of ideas",
+        "for pointing to an earlier mentioned issues\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "You will need to commit the formula ...... memory.",
+      "options": [
+        "To",
+        "By",
+        "On",
+        "In\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "His journey ...... life has been rough.",
+      "options": [
+        "Around",
+        "Over",
+        "Across",
+        "Through\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The old woman has been ill ...... many months now.",
+      "options": [
+        "Before",
+        "For",
+        "Since",
+        "Through\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "We came ...... rail",
+      "options": [
+        "On",
+        "With",
+        "By",
+        "In\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "...... he is learned, he is fraudulent.",
+      "options": [
+        "Since",
+        "Even",
+        "Although",
+        "When\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There is a serious conflict ...... the two of them",
+      "options": [
+        "Between",
+        "Amidst",
+        "Across",
+        "Among\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "...... I am your junior does not mean you should order me about like a houseboy.",
+      "options": [
+        "Even",
+        "That",
+        "If",
+        "Though\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Funminiyi kept quiet all the ......",
+      "options": [
+        "Period",
+        "Where",
+        "Whole",
+        "While\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "...... rich has its own problems.",
+      "options": [
+        "Period",
+        "Being",
+        "Whole",
+        "While\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "...... stolen the goods, the thief ran away.",
+      "options": [
+        "Having",
+        "On",
+        "After",
+        "Since\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The boy ...... his father in everything.",
+      "options": [
+        "Makes after",
+        "Makes for",
+        "Takes after",
+        "Takes\nfor\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "We have to ...... for lost time.",
+      "options": [
+        "Make up",
+        "Make with",
+        "Take up",
+        "Take with\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Time is really ......, so let's hurry up.",
+      "options": [
+        "Moving through",
+        "Running out",
+        "Moving out",
+        "Running through\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "We haven't confirmed ...... signature this is.",
+      "options": [
+        "What",
+        "Whose",
+        "Who's",
+        "Which\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The issue on ...... I disagreed with him is very simple.",
+      "options": [
+        "What",
+        "Whom",
+        "Which",
+        "Whose.\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "...... that can happen is that he'll be suspended.",
+      "options": [
+        "The worst",
+        "Worst",
+        "The worse",
+        "Worse\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Jide was absent for ...... time.",
+      "options": [
+        "Much",
+        "Most",
+        "The most",
+        "Most of the\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How did you arrive at ...... wonderful idea?",
+      "options": [
+        "That a",
+        "Such a",
+        "A such",
+        "That such\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The ...... of all the states in the Federation are having a meeting at Abuja",
+      "options": [
+        "Attorney-generals",
+        "Attorneys-generals",
+        "Attorneys-general",
+        "Attorney-general\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The local governments are authorized to pass ......",
+      "options": [
+        "By –laws",
+        "Byes' laws",
+        "Bye's -laws",
+        "Bys-law\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Hammed's ideas are ...... wrong.",
+      "options": [
+        "Almost always",
+        "Almosts often",
+        "Always almost",
+        "Often almost\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "John saw Mary yesterday, ......?",
+      "options": [
+        "Doesn't she",
+        "Wasn't she",
+        "Was she",
+        "Didn't he\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The story he told me can't be true, ......?",
+      "options": [
+        "Can be",
+        "Can it",
+        "Could he",
+        "Could it\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Yours is to command, ...... is to obey.",
+      "options": [
+        "Theirs'",
+        "Their's",
+        "Their",
+        "Theirs\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "That book belongs to the ...... lady.",
+      "options": [
+        "Tall American black",
+        "American tall black",
+        "Tall black\nAmerican",
+        "Black tall American\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The boys are ...... for the match.",
+      "options": [
+        "All fully set",
+        "Fully all set",
+        "Set all fully",
+        "Fully set all\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ngozi is by far ...... of the girls.",
+      "options": [
+        "A most brilliant",
+        "The most brilliant",
+        "The more brilliant",
+        "More brilliant\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "...... you wish to do, do it properly.",
+      "options": [
+        "Whenever",
+        "However",
+        "Whoever",
+        "What-ever\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "We have started operating the ......",
+      "options": [
+        "National new education policy",
+        "New education policy",
+        "New national education policy",
+        "New national policy education\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The lady ...... here tomorrow.",
+      "options": [
+        "Arrive",
+        "Arriving",
+        "Arrives",
+        "Arrived\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It's high time you ...... seeing her.",
+      "options": [
+        "Stop",
+        "Stops",
+        "Will stop",
+        "Stopped\n\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Elaho enjoys ...... soccer.",
+      "options": [
+        "To play",
+        "Play",
+        "Playing",
+        "To be playing\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Miss Oluchi was a ......",
+      "options": [
+        "Young rich lady",
+        "Rich young lady",
+        "Lady young rich",
+        "Young\nlady rich\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Did Jide come here as he promised?",
+      "options": [
+        "No, he did",
+        "yes, he didn't",
+        "No, he didn't",
+        "Yes,\nhe doesn't\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sanyeri is a very good friend on ...... I can rely",
+      "options": [
+        "who",
+        "Whose",
+        "Which",
+        "Whom [C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I ought ...... the letter by now.",
+      "options": [
+        "To be sent",
+        "To have being sent",
+        "To have sent",
+        "To\nhave to send\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Toyin's fever was so acute that she ...... an injection",
+      "options": [
+        "Had to swallow",
+        "Had to have",
+        "Must have",
+        "Ought to have\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bola: This is not my key. Ayo: Then ...... is it?",
+      "options": [
+        "Of which",
+        "Whose",
+        "Who's",
+        "Whom.\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There was no meat in the market ...... Shade bought some fish.",
+      "options": [
+        "So",
+        "Unless",
+        "Since",
+        "Whereas\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The police vehicles raced ...... full speed with their sirens blaring.",
+      "options": [
+        "On",
+        "With",
+        "At",
+        "In\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tutu liked to read detective novels to take his mind ...... his worries",
+      "options": [
+        "Off",
+        "Away",
+        "out of",
+        "From\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I don't know what to do with these children. They are always fighting ......",
+      "options": [
+        "Themselves",
+        "Myself",
+        "One another",
+        "Each of them\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Wale couldn't have said a thing like that, ......",
+      "options": [
+        "Could he?",
+        "Did he?",
+        "Can he?",
+        "Would\nhe?\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If she had known, she wouldn't have come, ......",
+      "options": [
+        "Would she?",
+        "wasn't it?",
+        "Wouldn't it",
+        "Couldn't she?\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Salary cuts could be the ...... of the worker's protest.",
+      "options": [
+        "Course",
+        "curse",
+        "Cause",
+        "Coarse\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Neither John nor Mary felt happy ...... the incident.",
+      "options": [
+        "For",
+        "In",
+        "About",
+        "By\n\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Any parent would be pleased ...... such impressive performance.",
+      "options": [
+        "At",
+        "From",
+        "With",
+        "For\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Omotola wanted to show ...... with her necklace.",
+      "options": [
+        "Off",
+        "On",
+        "Over",
+        "Back\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The woman ...... daughter he married, is his mother-in law",
+      "options": [
+        "Whose",
+        "Which",
+        "Her",
+        "Whom\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He acts as if he ...... a general manager.",
+      "options": [
+        "Is been",
+        "Were",
+        "Has been",
+        "Is\n\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The National Essay Competition Came ...... on 23rd of July 2013.",
+      "options": [
+        "Out",
+        "In",
+        "By",
+        "Up\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Mrs. Olorode had ...... her breakfast before her friend came in.",
+      "options": [
+        "Has",
+        "Have",
+        "Had",
+        "Been had\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the two boys ...... been bitten by the snake, they should be taken to the hospital",
+      "options": [
+        "Has",
+        "Had",
+        "Have",
+        "Is\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The man ...... missed death during the collision.",
+      "options": [
+        "Extensively",
+        "Always",
+        "Narrowly",
+        "Amply\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I started writting at 9.am, It is now 10(a)m. by 11 (a)m. I ...... Writing for 2 hours.",
+      "options": [
+        "Will be",
+        "Am",
+        "Will have been",
+        "Have been\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "My ...... to you, students, is to do good.",
+      "options": [
+        "Advice",
+        "Advise",
+        "Adverse",
+        "Advance [A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The car couldn't keep pace ...... the motor cycle especially in congested areas.",
+      "options": [
+        "Along",
+        "With",
+        "Down",
+        "On\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I want everybody to learn the last ten lines of the poem ...... heart.",
+      "options": [
+        "With",
+        "In",
+        "For",
+        "By\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "They went ...... talking after midnight despite the fact that they all had to get up early.",
+      "options": [
+        "By",
+        "For",
+        "On",
+        "With\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There was a lot of tension in the area and it was felt that a dispute might flare ...... any time",
+      "options": [
+        "Up",
+        "Down",
+        "In",
+        "To\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I want that spoon washed. I can still see ...... on it",
+      "options": [
+        "Oilness",
+        "Greases",
+        "Some oil",
+        "Greasiness\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Everybody has to do ...... homework.",
+      "options": [
+        "His",
+        "Them",
+        "Theirs",
+        "There\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Having worked all day it is about time we ...... back home.",
+      "options": [
+        "Go",
+        "Goes",
+        "Went",
+        "Gone\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "At eighteen, Bose is ...... to take good care of her sisters.",
+      "options": [
+        "Enough old",
+        "Too old",
+        "Older\nenough",
+        "Old enough\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bode is ...... troublesome than I had imagined.",
+      "options": [
+        "Much less",
+        "The least",
+        "More less",
+        "Very less\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "This is not ...... house in the street but it is certainly bigger than yours.",
+      "options": [
+        "A big",
+        "The big",
+        "The biggest",
+        "The bigger\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I Find it ...... comfortable to travel by air than by road.",
+      "options": [
+        "Quite very much",
+        "Much more",
+        "Quite much",
+        "Very much\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "...... sacrifice was it that people talked about it for years.",
+      "options": [
+        "Much great",
+        "How great a",
+        "As\ngreat as",
+        "So great a\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The press must cater for the needs of the ...... public",
+      "options": [
+        "Readers",
+        "Readable",
+        "Reading",
+        "Reader\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I hate that habit ......",
+      "options": [
+        "By nagging",
+        "By naggingly",
+        "TO nag",
+        "Having nagged\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "After he had tried for some time, he realized that all his efforts were going to be ......",
+      "options": [
+        "Festive",
+        "Futile",
+        "Fragrant",
+        "Fitful\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Mr. Ojongbola's two labourers work on ...... days",
+      "options": [
+        "Alternative",
+        "Optional",
+        "Alternate",
+        "Current\n[C]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If she takes ...... her mother, you can be sure of her efficiency.",
+      "options": [
+        "Up",
+        "On",
+        "With",
+        "After\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Please, look ...... my answers for me.",
+      "options": [
+        "Over",
+        "Across",
+        "After",
+        "On\n\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ali said that going ...... an operation is not a pleasant experience.",
+      "options": [
+        "Through",
+        "Over",
+        "In",
+        "By\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If students will abide ...... school rules and regulations, the tone of discipline will improve.",
+      "options": [
+        "On",
+        "With",
+        "In",
+        "By\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "......, inform her that I called.",
+      "options": [
+        "When she comes back",
+        "After she phoned",
+        "As she was\ncoming back",
+        "When she arrived.\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He knew ......",
+      "options": [
+        "That they wanted",
+        "What they wanted",
+        "If they wanted",
+        "At where they\nwanted\n[B]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The house ...... is the most beautiful in that area",
+      "options": [
+        "After Femi built",
+        "In which Femi built",
+        "Whose Femi built",
+        "Which Femi built\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "......, we shall go together.",
+      "options": [
+        "If you had come early",
+        "If you came early",
+        "If you come early",
+        "Although you come early\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "He said he forgot ......",
+      "options": [
+        "What you said",
+        "That you said",
+        "Why you said",
+        "When you said.\n[A]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I don't like my Maths teacher; well, he doesn't like me ......",
+      "options": [
+        "Too",
+        "Also",
+        "Quite",
+        "Either\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Eze has not heard from his sister Ada since she ...... to the United Kingdom.",
+      "options": [
+        "Has gone",
+        "Had gone",
+        "Had been going",
+        "Went\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Adex has special love ...... children. So she is going to be a teacher.",
+      "options": [
+        "In",
+        "With",
+        "Of",
+        "For\n[D]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following connectives is not used to show movement from one\nidea to another",
+      "options": [
+        "with regard to",
+        "now",
+        "as well as",
+        "let us consider"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Using “app” for application is an example of word formation with the use of",
+      "options": [
+        "acronym",
+        "compounding",
+        "clipping",
+        "affixation"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which definition uses the characteristics of what is being described",
+      "options": [
+        "comparative definition",
+        "descriptive definition",
+        "logical definition",
+        "synonymous definition"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The root in multicellular is",
+      "options": [
+        "multi",
+        "cell",
+        "multicellular",
+        "ular"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The morphemes in gone are",
+      "options": [
+        "go + root",
+        "go + ed",
+        "go + ne",
+        "go + en\n\nANS. A\n\n\f(c)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word ‘definition’ is gotten from",
+      "options": [
+        "Latin",
+        "Greek",
+        "German",
+        "Spanish"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A morpheme that does not have independent status is",
+      "options": [
+        "free",
+        "bound",
+        "none",
+        "bind"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Outline shows the following except",
+      "options": [
+        "the structure of the original text",
+        "a\n\nvisual graphic representation of the original text",
+        "sequential arrangement\nof words",
+        "sequential arrangement of ideas"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which is the odd one among the following?",
+      "options": [
+        "subject",
+        "mathematics",
+        "physics",
+        "measles"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In which of the following definitions are devices for comparison used",
+      "options": [
+        "metaphorical",
+        "definition by example",
+        "definition by synonyms",
+        "formal definition\n\nANS. A\n\n\f(c)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Research is given direction by __________",
+      "options": [
+        "classification",
+        "hypothesis",
+        "generating"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One of these does not shed light on the types of definition",
+      "options": [
+        "opinion",
+        "concept",
+        "subject",
+        "hypothesis"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which connective is used for summing",
+      "options": [
+        "and",
+        "or",
+        "all",
+        "but"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word pseudoscience is formed from _________",
+      "options": [
+        "coinage",
+        "suffixation",
+        "prefixation",
+        "affixation"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The root word in hyphenation",
+      "options": [
+        "hyphen",
+        "nation",
+        "na",
+        "tion"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ definition is used by dictionary",
+      "options": [
+        "comparative",
+        "formal",
+        "descriptive",
+        "metaphorical"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Scientist uses ________ and __________ to draw conclusion",
+      "options": [
+        "experiment\n\n& observation",
+        "descriptive & hypothesis",
+        "comparative & observation\nANS. A\n\n\f(c)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An animal is a goat, dog, lion, this type of definition is",
+      "options": [
+        "definition by\n\nexample",
+        "comparative",
+        "descriptive",
+        "formal"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The odd classification is ___________",
+      "options": [
+        "test",
+        "wet",
+        "needle",
+        "treat"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "For a student to write an outline for a passage, he/she must _________",
+      "options": [
+        "understand the passage",
+        "read the passage",
+        "view the passage"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following connectives is not used for presenting result",
+      "options": [
+        "again",
+        "accordingly",
+        "consequently",
+        "so"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a derivative morpheme",
+      "options": [
+        "interest",
+        "driving",
+        "boys",
+        "asymmetry"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The second part to be outlined in an essay based outline is",
+      "options": [
+        "conclusion",
+        "methodology",
+        "introduction",
+        "body"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The definition “an acid is a dangerous liquid” is based on",
+      "options": [
+        "subjective",
+        "class",
+        "circular",
+        "topical\nANS. C\n\n\f(c)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cataphoric reference refers to",
+      "options": [
+        "backward",
+        "forward",
+        "to communicate",
+        "to connect"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The definition “a tiger is a wild cat” is based on _________ consideration",
+      "options": [
+        "circular",
+        "class",
+        "typical",
+        "conceptual"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A particular group of items could be classified differently by different\n\nindividuals because\nclassification could be",
+      "options": [
+        "necessary",
+        "classifiable",
+        "subjective",
+        "objective"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The word Asuu is formed using",
+      "options": [
+        "acronym",
+        "affixation",
+        "neologism",
+        "blending"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The root morpheme in the word ‘retroviral’ is",
+      "options": [
+        "al",
+        "virus",
+        "retro (c)\n\nviral\n\n\f(c)"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Subdivision in outlining enhance",
+      "options": [
+        "simple use of language",
+        "easy\n\nmarking",
+        "graphical representation of idea",
+        "easy indention of ideas"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "An outline could be",
+      "options": [
+        "thought",
+        "passage",
+        "write-up",
+        "sketch"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The definition that has the tendency for more approximation is definition by",
+      "options": [
+        "logic",
+        "example",
+        "description",
+        "synonym"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The second part to be outlined in a project based outline is",
+      "options": [
+        "background to\n\nthe project",
+        "methodology",
+        "introduction",
+        "literature review"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The cohesive device that prevents redundancy of word usage is",
+      "options": [
+        "substitution",
+        "repetition",
+        "ellipsis",
+        "reference\nANS. C\n\n\f(c)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The root in the word “usurpation” is",
+      "options": [
+        "usurper",
+        "userpal",
+        "usurp",
+        "usurpate"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "__________ is a unit that must be joined to another unit",
+      "options": [
+        "bound\n\nmorpheme",
+        "root",
+        "free",
+        "word"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Outline is represented by",
+      "options": [
+        "divisions",
+        "ranks",
+        "phrases",
+        "clauses\n\nANS. A\n\n\f(c)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The word “tool bar” is",
+      "options": [
+        "compounding",
+        "clipping",
+        "bending",
+        "composition"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For idea multiplying which one is odd?",
+      "options": [
+        "Besides",
+        "above all",
+        "moreover",
+        "now"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Intextual cohesive in discourse can be achieved through one of the following",
+      "options": [
+        "semicolon",
+        "logical connectives",
+        "but-connectives",
+        "catastrophic connective"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The definition that has tendency to go offpoint is definition by",
+      "options": [
+        "example",
+        "description",
+        "logic",
+        "synonyms"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Going traditional categorization, connectives in English writing",
+      "options": [
+        "prepositional phrase",
+        "adverb",
+        "conjunction",
+        "phrasal verb"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following connectives is the restatement of ideas",
+      "options": [
+        "in that case",
+        "rather",
+        "in otherwords",
+        "thus"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What numerals are used to indicate ideas in outline",
+      "options": [
+        "Roman",
+        "Arabic",
+        "Numerical"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The suffix in the word “regrettable” is",
+      "options": [
+        "adjective",
+        "noun",
+        "adverb",
+        "pronoun"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The first step in project writing is _________",
+      "options": [
+        "looking for a vacuum",
+        "looking for aim and objectives",
+        "picking a topic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Addition of abbreviation and acronym is",
+      "options": [
+        "synonyms",
+        "antonyms",
+        "abronyms"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "To outline means to _________",
+      "options": [
+        "define",
+        "list",
+        "show structure",
+        "delineate facts"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The city of publishing and name of publisher in a bibliography is separated\n\nby",
+      "options": [
+        "colon",
+        "semi-colon",
+        "comma",
+        "full stop"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Viewers at home, here is the breaking news. PDP won the election. “Here”\n\nin the statement denotes",
+      "options": [
+        "cataphoric",
+        "anaphoric",
+        "connotation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Graphic representation makes the outline",
+      "options": [
+        "easy to read",
+        "helps\n\nunderstand the main text",
+        "helps to see what is not"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The mnemonic in the word “babies” is",
+      "options": [
+        "babies + o",
+        "baby + es",
+        "babi\n\n+ ies"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The grammatical structure “a man is a rational animal”",
+      "options": [
+        "group",
+        "phrase",
+        "sentence"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following does not belong to the same class?",
+      "options": [
+        "Noun",
+        "adjective",
+        "pronoun",
+        "verb"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The word “webcam” is formed from web and camera by __________",
+      "options": [
+        "blending",
+        "compounding",
+        "clipping",
+        "blend"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Concluding that something bad has happened by seeing a gathering of\n\npeople crying and glooming is associated by ____________ reasoning",
+      "options": [
+        "inductive",
+        "logical",
+        "deductive"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The definition of many disciplines e.g. Economics, Biology etc is ________\n\ndefinition",
+      "options": [
+        "descriptive",
+        "example",
+        "synonyms",
+        "logical/formal"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_________ helps to emphasize an important point",
+      "options": [
+        "substitution",
+        "repetition",
+        "addition"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "As immunization implies vaccination, this definition is formed from the\n\nlexical structure __________",
+      "options": [
+        "phrase",
+        "word",
+        "clause"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "__________ affixation brings about changes in the word class",
+      "options": [
+        "inflectional",
+        "suffixation",
+        "prefixation",
+        "derivational"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Drawing contrast from prior idea is achieved by the engagement of one of\n\nthe connective below",
+      "options": [
+        "accordingly",
+        "nonetheless",
+        "although",
+        "conversely"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The contribution to knowledge in scientific project is in ________",
+      "options": [
+        "hypothesis of study",
+        "goal of study",
+        "problem of study",
+        "significance of study"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A major quality of definition by synonym is",
+      "options": [
+        "verbosity",
+        "repetition",
+        "emphasis (d)brevity"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Characteristics of a good outline include the following except",
+      "options": [
+        "orderly",
+        "accuracy",
+        "brevity",
+        "clarity"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Essential to the composition of word in English",
+      "options": [
+        "word formation",
+        "morphemes",
+        "language",
+        "unit"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "“A man is a rational man”",
+      "options": [
+        "sentence",
+        "clause",
+        "phrase",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Syllogism refers to _________",
+      "options": [
+        "reasoning inductively",
+        "reasoning\n\nsyllogistically",
+        "making logical statement having premises and conclusion",
+        "drawing conclusion"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Each of the types of deflective attempts to shed light on the following except\n\n_________",
+      "options": [
+        "topic",
+        "comprehension",
+        "concept",
+        "subject"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "________ is one of the four communication skills.",
+      "options": [
+        "Learning",
+        "Reading",
+        "Writing",
+        "Speaking (e) All of the above"
+      ],
+      "correct": "e"
+    },
+    {
+      "question": "One of the following is not an example of Acronym.",
+      "options": [
+        "AC",
+        "SG",
+        "Lifo",
+        "Piano"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The cohesive device that is usually for the sake of emphasis on certain word is\n_____",
+      "options": [
+        "Substitution",
+        "Ellipsis",
+        "Reference",
+        "Repetition"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The type of definition that is based on scientific research is ____?",
+      "options": [
+        "Hypothesis",
+        "Generalization",
+        "Classification"
+      ],
+      "correct": "a"
+    }
+  ]
+}

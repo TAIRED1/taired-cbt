@@ -1,0 +1,734 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "GEY102",
+    "total_questions": 80
+  },
+  "data": [
+    {
+      "question": "What is the definition of evolution in geology?",
+      "type": "single",
+      "correct": "b",
+      "a": "The sudden creation of new species",
+      "b": "The gradual change and variation of living organisms over geological time",
+      "c": "The study of rock layers only",
+      "d": "The process of fossilization"
+    },
+    {
+      "question": "Which of the following is NOT an aspect of evolution in geology?",
+      "type": "single",
+      "correct": "c",
+      "a": "Change over time",
+      "b": "Fossil record",
+      "c": "Volcanic eruptions",
+      "d": "Stratigraphy"
+    },
+    {
+      "question": "What does the fossil record help reconstruct?",
+      "type": "single",
+      "correct": "a",
+      "a": "The history of life",
+      "b": "The future of life",
+      "c": "Only dinosaur bones",
+      "d": "Only plant fossils"
+    },
+    {
+      "question": "Stratigraphy is the study of:",
+      "type": "single",
+      "correct": "b",
+      "a": "Fossils only",
+      "b": "Rock layers to determine relative ages of fossils",
+      "c": "DNA sequences",
+      "d": "Climate change"
+    },
+    {
+      "question": "How is biological evolution tied to geological evolution?",
+      "type": "single",
+      "correct": "b",
+      "a": "They are unrelated",
+      "b": "Biological events leave fossil records that mark geological boundaries",
+      "c": "Only plants affect geology",
+      "d": "Geology only studies rocks"
+    },
+    {
+      "question": "What is an example of climatic and environmental evolution?",
+      "type": "single",
+      "correct": "b",
+      "a": "Volcanic eruptions",
+      "b": "Glaciations and greenhouse periods",
+      "c": "Earthquakes",
+      "d": "Mountain formation"
+    },
+    {
+      "question": "What is \"descent with modification\"?",
+      "type": "single",
+      "correct": "a",
+      "a": "The idea that all living organisms share a common ancestor",
+      "b": "The sudden appearance of new species",
+      "c": "The study of fossils",
+      "d": "The process of fossilization"
+    },
+    {
+      "question": "What provides the raw material for evolution?",
+      "type": "single",
+      "correct": "b",
+      "a": "Fossils",
+      "b": "Genetic variation",
+      "c": "Rocks",
+      "d": "Climate"
+    },
+    {
+      "question": "What is heritability?",
+      "type": "single",
+      "correct": "a",
+      "a": "The passing of traits from parents to offspring",
+      "b": "The study of fossils",
+      "c": "The process of fossilization",
+      "d": "The change in climate"
+    },
+    {
+      "question": "What is adaptation?",
+      "type": "single",
+      "correct": "a",
+      "a": "The process by which species become better suited to their environment",
+      "b": "The study of rocks",
+      "c": "The sudden extinction of species",
+      "d": "The formation of fossils"
+    },
+    {
+      "question": "What is speciation?",
+      "type": "single",
+      "correct": "a",
+      "a": "The formation of new species",
+      "b": "The study of fossils",
+      "c": "The process of fossilization",
+      "d": "The change in climate"
+    },
+    {
+      "question": "Which of the following is NOT a mechanism of evolution?",
+      "type": "single",
+      "correct": "c",
+      "a": "Natural selection",
+      "b": "Genetic drift",
+      "c": "Fossilization",
+      "d": "Gene flow"
+    },
+    {
+      "question": "What is natural selection?",
+      "type": "single",
+      "correct": "a",
+      "a": "The process by which favorable traits are more likely to be passed on",
+      "b": "The study of rocks",
+      "c": "The sudden extinction of species",
+      "d": "The formation of fossils"
+    },
+    {
+      "question": "What is genetic drift?",
+      "type": "single",
+      "correct": "a",
+      "a": "Random changes in the frequency of genetic traits",
+      "b": "The study of fossils",
+      "c": "The process of fossilization",
+      "d": "The change in climate"
+    },
+    {
+      "question": "What is mutation?",
+      "type": "single",
+      "correct": "a",
+      "a": "Changes in the DNA sequence",
+      "b": "The study of rocks",
+      "c": "The sudden extinction of species",
+      "d": "The formation of fossils"
+    },
+    {
+      "question": "What is gene flow?",
+      "type": "single",
+      "correct": "a",
+      "a": "The movement of genes between populations",
+      "b": "The study of fossils",
+      "c": "The process of fossilization",
+      "d": "The change in climate"
+    },
+    {
+      "question": "Which of the following is evidence for evolution?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fossil record",
+      "b": "Volcanic eruptions",
+      "c": "Earthquakes",
+      "d": "Mountain formation"
+    },
+    {
+      "question": "What does the fossil record show?",
+      "type": "single",
+      "correct": "a",
+      "a": "A pattern of gradual changes in life forms",
+      "b": "Only dinosaur bones",
+      "c": "Only plant fossils",
+      "d": "The future of life"
+    },
+    {
+      "question": "What is comparative anatomy?",
+      "type": "single",
+      "correct": "a",
+      "a": "The study of the structure and development of living organisms",
+      "b": "The study of rocks",
+      "c": "The process of fossilization",
+      "d": "The change in climate"
+    },
+    {
+      "question": "What has molecular biology confirmed?",
+      "type": "single",
+      "correct": "a",
+      "a": "The relatedness of different organisms",
+      "b": "Only dinosaur bones",
+      "c": "Only plant fossils",
+      "d": "The future of life"
+    },
+    {
+      "question": "What does biogeography study?",
+      "type": "single",
+      "correct": "a",
+      "a": "The geographic distribution of living organisms",
+      "b": "The study of rocks",
+      "c": "The process of fossilization",
+      "d": "The change in climate"
+    },
+    {
+      "question": "Why is evolution important in geology?",
+      "type": "single",
+      "correct": "a",
+      "a": "It helps understand the history of life",
+      "b": "It predicts volcanic eruptions",
+      "c": "It studies earthquakes",
+      "d": "It forms mountains"
+    },
+    {
+      "question": "What can fossils help reconstruct?",
+      "type": "single",
+      "correct": "a",
+      "a": "Ancient environments",
+      "b": "Future climates",
+      "c": "Volcanic eruptions",
+      "d": "Earthquakes"
+    },
+    {
+      "question": "How can understanding evolution help us?",
+      "type": "single",
+      "correct": "a",
+      "a": "Predict how species may respond to future changes",
+      "b": "Predict volcanic eruptions",
+      "c": "Study earthquakes",
+      "d": "Form mountains"
+    },
+    {
+      "question": "What is the origin of the word \"fossil\"?",
+      "type": "single",
+      "correct": "a",
+      "a": "Latin word \"Fossilium\"",
+      "b": "Greek word \"Fossilos\"",
+      "c": "English word \"Fossil\"",
+      "d": "French word \"Fossile\""
+    },
+    {
+      "question": "What was the original meaning of \"fossil\" in the sixteenth century?",
+      "type": "single",
+      "correct": "a",
+      "a": "Any sample dug up from the ground",
+      "b": "Only dinosaur bones",
+      "c": "Only plant remains",
+      "d": "Evidence of past life"
+    },
+    {
+      "question": "When was the word \"fossil\" strictly used for evidence of past life?",
+      "type": "single",
+      "correct": "a",
+      "a": "Eighteenth century",
+      "b": "Sixteenth century",
+      "c": "Nineteenth century",
+      "d": "Twentieth century"
+    },
+    {
+      "question": "What is a fossil?",
+      "type": "single",
+      "correct": "a",
+      "a": "The remains or traces of ancient life preserved in sedimentary rock",
+      "b": "Only dinosaur bones",
+      "c": "Only plant remains",
+      "d": "Volcanic rocks"
+    },
+    {
+      "question": "What are subfossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "Remains in rocks younger than 10,000 years",
+      "b": "Remains in rocks older than 10,000 years",
+      "c": "Only dinosaur bones",
+      "d": "Only plant remains"
+    },
+    {
+      "question": "What is fossilization?",
+      "type": "single",
+      "correct": "a",
+      "a": "The process of preserving remains or traces of organisms in rocks",
+      "b": "The study of rocks",
+      "c": "The change in climate",
+      "d": "The formation of mountains"
+    },
+    {
+      "question": "What happens to the soft parts of an organism after death?",
+      "type": "single",
+      "correct": "a",
+      "a": "They decay due to biological activities",
+      "b": "They turn into fossils immediately",
+      "c": "They become rocks",
+      "d": "They disappear instantly"
+    },
+    {
+      "question": "What happens to the hard parts of an organism during fossilization?",
+      "type": "single",
+      "correct": "a",
+      "a": "They may be preserved",
+      "b": "They decay immediately",
+      "c": "They turn into rocks instantly",
+      "d": "They disappear"
+    },
+    {
+      "question": "What is one condition favorable for fossilization?",
+      "type": "single",
+      "correct": "a",
+      "a": "The organism should have hard parts",
+      "b": "The organism should be soft-bodied",
+      "c": "The organism should be alive",
+      "d": "The organism should be in water"
+    },
+    {
+      "question": "Why is quick burial important for fossilization?",
+      "type": "single",
+      "correct": "a",
+      "a": "It slows down decay and protects from scavengers",
+      "b": "It speeds up decay",
+      "c": "It turns the organism into rock instantly",
+      "d": "It makes the organism disappear"
+    },
+    {
+      "question": "Which environment is more conducive to fossilization?",
+      "type": "single",
+      "correct": "a",
+      "a": "Marine",
+      "b": "Desert",
+      "c": "Forest",
+      "d": "Mountain"
+    },
+    {
+      "question": "What is exceptional preservation?",
+      "type": "single",
+      "correct": "a",
+      "a": "The preservation of entire organisms, including soft parts",
+      "b": "Only the preservation of hard parts",
+      "c": "The preservation of rocks",
+      "d": "The preservation of water"
+    },
+    {
+      "question": "What is amber?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fossilized resin of ancient conifer trees",
+      "b": "A type of rock",
+      "c": "A type of fossilized bone",
+      "d": "A type of sediment"
+    },
+    {
+      "question": "How are organisms preserved in amber?",
+      "type": "single",
+      "correct": "a",
+      "a": "They get trapped in sticky resin",
+      "b": "They turn into rocks",
+      "c": "They decay immediately",
+      "d": "They disappear"
+    },
+    {
+      "question": "What is unaltered hard parts preservation?",
+      "type": "single",
+      "correct": "a",
+      "a": "The preservation of hard parts with no changes",
+      "b": "The preservation of soft parts",
+      "c": "The preservation of rocks",
+      "d": "The preservation of water"
+    },
+    {
+      "question": "What is permineralization?",
+      "type": "single",
+      "correct": "a",
+      "a": "The replacement of organic material by mineralized solutions",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What is petrifaction?",
+      "type": "single",
+      "correct": "a",
+      "a": "A slow process of replacement molecule by molecule",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What is replacement in fossilization?",
+      "type": "single",
+      "correct": "a",
+      "a": "The dissolution of hard parts and replacement by minerals",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What is carbonization?",
+      "type": "single",
+      "correct": "a",
+      "a": "The formation of a thin carbon film from decomposed organisms",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What are molds in fossilization?",
+      "type": "single",
+      "correct": "a",
+      "a": "Impressions left by dissolved shells or bones",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What are casts in fossilization?",
+      "type": "single",
+      "correct": "a",
+      "a": "Replicas formed when molds are filled with minerals",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What are body fossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "Direct evidence of ancient life, such as shells or bones",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What are trace fossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "Evidence of past organism activities, such as footprints",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What are gastroliths?",
+      "type": "single",
+      "correct": "a",
+      "a": "Smooth stones found in the rib cage of dinosaurs",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What are coprolites?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fossilized animal droppings",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What are chemical fossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "Organically derived compounds from rocks",
+      "b": "The decay of organic material",
+      "c": "The formation of rocks",
+      "d": "The disappearance of fossils"
+    },
+    {
+      "question": "What are macrofossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fossils larger than 0.03 mm, visible to the naked eye",
+      "b": "Fossils smaller than 1 mm",
+      "c": "Fossils between 5 to 60 nanometers",
+      "d": "The decay of organic material"
+    },
+    {
+      "question": "What are microfossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fossils smaller than 1 mm, requiring a microscope",
+      "b": "Fossils larger than 0.03 mm",
+      "c": "Fossils between 5 to 60 nanometers",
+      "d": "The decay of organic material"
+    },
+    {
+      "question": "What are nanofossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fossils between 5 to 60 nanometers, requiring an electron microscope",
+      "b": "Fossils larger than 0.03 mm",
+      "c": "Fossils smaller than 1 mm",
+      "d": "The decay of organic material"
+    },
+    {
+      "question": "What are index fossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fossils with short geological age ranges and wide distribution",
+      "b": "Fossils with long geological age ranges",
+      "c": "Fossils found only in one location",
+      "d": "The decay of organic material"
+    },
+    {
+      "question": "What are living fossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "Species that have lived for long spans with little morphological change",
+      "b": "Fossils of extinct species",
+      "c": "Fossils found only in one location",
+      "d": "The decay of organic material"
+    },
+    {
+      "question": "What is one use of fossils?",
+      "type": "single",
+      "correct": "a",
+      "a": "To recreate geological history",
+      "b": "To predict volcanic eruptions",
+      "c": "To study earthquakes",
+      "d": "To form mountains"
+    },
+    {
+      "question": "How are fossils used as stratigraphic indicators?",
+      "type": "single",
+      "correct": "a",
+      "a": "They provide information about the ages of rocks",
+      "b": "They predict volcanic eruptions",
+      "c": "They study earthquakes",
+      "d": "They form mountains"
+    },
+    {
+      "question": "How can fossils indicate past climates?",
+      "type": "single",
+      "correct": "a",
+      "a": "By showing the existence of different climatic conditions",
+      "b": "By predicting volcanic eruptions",
+      "c": "By studying earthquakes",
+      "d": "By forming mountains"
+    },
+    {
+      "question": "What do fossils show about geographic patterns?",
+      "type": "single",
+      "correct": "a",
+      "a": "Evidence of changes",
+      "b": "Predictions of volcanic eruptions",
+      "c": "Studies of earthquakes",
+      "d": "Formation of mountains"
+    },
+    {
+      "question": "What do fossils provide about prehistoric life?",
+      "type": "single",
+      "correct": "a",
+      "a": "Information about the origin and evolution of organisms",
+      "b": "Predictions of volcanic eruptions",
+      "c": "Studies of earthquakes",
+      "d": "Formation of mountains"
+    },
+    {
+      "question": "Which of the following is NOT a key component of evolution?",
+      "type": "single",
+      "correct": "a",
+      "a": "Volcanic eruptions",
+      "b": "Descent with modification",
+      "c": "Variation",
+      "d": "Heritability"
+    },
+    {
+      "question": "Which mechanism of evolution involves random changes in trait frequency?",
+      "type": "single",
+      "correct": "a",
+      "a": "Genetic drift",
+      "b": "Natural selection",
+      "c": "Mutation",
+      "d": "Gene flow"
+    },
+    {
+      "question": "Which evidence for evolution involves DNA and proteins?",
+      "type": "single",
+      "correct": "a",
+      "a": "Molecular biology",
+      "b": "Fossil record",
+      "c": "Comparative anatomy",
+      "d": "Biogeography"
+    },
+    {
+      "question": "What is the primary role of fossils in geology?",
+      "type": "single",
+      "correct": "a",
+      "a": "To provide a record of prehistoric life",
+      "b": "To predict volcanic eruptions",
+      "c": "To study earthquakes",
+      "d": "To form mountains"
+    },
+    {
+      "question": "Which process involves the formation of a carbon film?",
+      "type": "single",
+      "correct": "a",
+      "a": "Carbonization",
+      "b": "Permineralization",
+      "c": "Replacement",
+      "d": "Petrification"
+    },
+    {
+      "question": "What type of fossil is a footprint?",
+      "type": "single",
+      "correct": "a",
+      "a": "Trace fossil",
+      "b": "Body fossil",
+      "c": "Chemical fossil",
+      "d": "Microfossil"
+    },
+    {
+      "question": "Which fossil type is used for dating and correlation?",
+      "type": "single",
+      "correct": "a",
+      "a": "Index fossil",
+      "b": "Living fossil",
+      "c": "Body fossil",
+      "d": "Trace fossil"
+    },
+    {
+      "question": "What is the term for fossils preserved in amber?",
+      "type": "single",
+      "correct": "a",
+      "a": "Exceptional preservation",
+      "b": "Unaltered hard parts preservation",
+      "c": "Carbonization",
+      "d": "Replacement"
+    },
+    {
+      "question": "Which fossil type includes pollen and spores?",
+      "type": "single",
+      "correct": "a",
+      "a": "Microfossil",
+      "b": "Macrofossil",
+      "c": "Nanofossil",
+      "d": "Trace fossil"
+    },
+    {
+      "question": "What is the term for fossilized resin?",
+      "type": "single",
+      "correct": "a",
+      "a": "Amber",
+      "b": "Petrified wood",
+      "c": "Carbon film",
+      "d": "Mold"
+    },
+    {
+      "question": "Which process involves the filling of pores with minerals?",
+      "type": "single",
+      "correct": "a",
+      "a": "Permineralization",
+      "b": "Carbonization",
+      "c": "Replacement",
+      "d": "Mold formation"
+    },
+    {
+      "question": "What is the term for a replica of an original shell shape?",
+      "type": "single",
+      "correct": "a",
+      "a": "Cast",
+      "b": "Mold",
+      "c": "Carbon film",
+      "d": "Trace fossil"
+    },
+    {
+      "question": "Which fossil type is enriched in carbon and appears black and shiny?",
+      "type": "single",
+      "correct": "a",
+      "a": "Carbon film",
+      "b": "Petrified wood",
+      "c": "Amber",
+      "d": "Mold"
+    },
+    {
+      "question": "What is the term for the impression of an organism in surrounding material?",
+      "type": "single",
+      "correct": "a",
+      "a": "Mold",
+      "b": "Cast",
+      "c": "Carbon film",
+      "d": "Trace fossil"
+    },
+    {
+      "question": "Which fossil type includes bones and shells?",
+      "type": "single",
+      "correct": "a",
+      "a": "Body fossil",
+      "b": "Trace fossil",
+      "c": "Chemical fossil",
+      "d": "Microfossil"
+    },
+    {
+      "question": "What is the term for fossilized animal droppings?",
+      "type": "single",
+      "correct": "a",
+      "a": "Coprolite",
+      "b": "Gastrolith",
+      "c": "Mold",
+      "d": "Cast"
+    },
+    {
+      "question": "Which fossil type is preserved in ice?",
+      "type": "single",
+      "correct": "a",
+      "a": "Exceptional preservation",
+      "b": "Unaltered hard parts preservation",
+      "c": "Carbonization",
+      "d": "Replacement"
+    },
+    {
+      "question": "What is the term for fossils that show little morphological change over time?",
+      "type": "single",
+      "correct": "a",
+      "a": "Living fossils",
+      "b": "Index fossils",
+      "c": "Body fossils",
+      "d": "Trace fossils"
+    },
+    {
+      "question": "Which process involves the complete dissolution of hard parts?",
+      "type": "single",
+      "correct": "a",
+      "a": "Replacement",
+      "b": "Carbonization",
+      "c": "Permineralization",
+      "d": "Mold formation"
+    },
+    {
+      "question": "What is the term for fossils that require an electron microscope to be seen?",
+      "type": "single",
+      "correct": "a",
+      "a": "Nanofossils",
+      "b": "Microfossils",
+      "c": "Macrofossils",
+      "d": "Trace fossils"
+    }
+  ]
+}

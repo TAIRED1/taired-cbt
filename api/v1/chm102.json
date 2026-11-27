@@ -1,0 +1,2579 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "CHM102",
+    "total_questions": 259
+  },
+  "data": [
+    {
+      "question": "Ammonia as a ligand is an example of",
+      "options": [
+        "bidentate",
+        "monodentate",
+        "ambidentate",
+        "bridging"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which has the lowest PRa value",
+      "options": [
+        "phenol",
+        "propanol",
+        "ethanol",
+        "methanol"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a mineral of fluorine",
+      "options": [
+        "carnalite",
+        "cryolite",
+        "fluorspar",
+        "fluoropalite"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Interatomic combination involves",
+      "options": [
+        "neutrons in nucleus only",
+        "protons in nucleus only",
+        "electrons in outer shell only",
+        "electrons in all shells"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Primary valency gives rise to the",
+      "options": [
+        "oxidation number",
+        "valency number",
+        "proton number",
+        "donor number"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the boiling point of helium?",
+      "options": [
+        "7.8k",
+        "0k",
+        "4.2k",
+        "3.7k"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following has the smallest atomic radius",
+      "options": [
+        "N",
+        "Li",
+        "Be",
+        "C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Halides react with ___________ to form covalent compounds",
+      "options": [
+        "non-metals",
+        "alkaline earth metals",
+        "alkali metal"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which halide has the most basic nature in water",
+      "options": [
+        "chloride",
+        "iodide",
+        "bromide",
+        "fluoride"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which ligand has more than one atom attached to it?",
+      "options": [
+        "polydentate",
+        "monodentate",
+        "bidentate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are monodentate ligands except",
+      "options": [
+        "fluoro",
+        "hydroxo",
+        "chloro",
+        "2, 2bipyridine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following has the strongest hydrogen bond between the molecules",
+      "options": [
+        "𝐻𝐶𝑙",
+        "𝐻𝐹",
+        "𝑁𝐻3 𝐻2 𝑆"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which has the lowest % of S?",
+      "options": [
+        "𝑆𝑝3",
+        "𝑆𝑝2",
+        "𝑆𝑝",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The boiling point of halogens _________",
+      "options": [
+        "increases down the group",
+        "decreases down the group",
+        "remain constant"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Boron has five electrons, what is the hybridization in 𝐵𝐹3",
+      "options": [
+        "𝑆𝑝3",
+        "𝑆𝑝3 tetrahedral",
+        "𝑆𝑝 linear",
+        "𝑆𝑝 trigonal"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these has an ionic character?",
+      "options": [
+        "Ca",
+        "Mg",
+        "Be",
+        "Sr"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The compounds ortho-aminophenol, meta-aminophenol and para-aminophenol are typical examples of _________ isomers",
+      "options": [
+        "stereo/geometric",
+        "positional",
+        "functional group",
+        "structural"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which halogen is used in the manufacture of disinfectants",
+      "options": [
+        "chlorine",
+        "fluorine",
+        "iodine",
+        "bromine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the weakest intermolecular force?",
+      "options": [
+        "hydrogen bond",
+        "ionic bond",
+        "London force",
+        "dipole – dipole"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Four elements A, B, C and D have 6, 3, 7 and 9 electrons respectively therefore",
+      "options": [
+        "C will form an electrovalent bond with D",
+        "B will form a covalent bond with D",
+        "A will form an electrovalent bond with C",
+        "B will form an electrovalent bond with D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Group IIA elements are known as the",
+      "options": [
+        "alkali metals",
+        "halogens",
+        "alkaline earth metals",
+        "noble metals"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The characteristic colour obtained when Na is burnt in Bunsen flame is",
+      "options": [
+        "lilac",
+        "blue",
+        "violet",
+        "yellow"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Caesium is __________ on a warm day",
+      "options": [
+        "water",
+        "gas",
+        "solid",
+        "liquid"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are structural isomers of hexane (𝐶6 𝐻14 ) except",
+      "options": [
+        "2, 2-dimethylpentane",
+        "2, 3-dimethylpentane",
+        "2, 3-dimethylbutane",
+        "2-methylpentane"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the mode of formation of multidentate ligand",
+      "options": [
+        "coordination",
+        "chelation",
+        "bonding",
+        "pairing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following halogens forms the most basic solution in water",
+      "options": [
+        "I",
+        "Cl",
+        "F",
+        "Br"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the isomerism between propanal and propanone",
+      "options": [
+        "functional",
+        "positional",
+        "structural",
+        "stereo"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Helium is not able to form intermolecular bond because ________",
+      "options": [
+        "its valence shell is completely filled",
+        "the atoms contain only protons",
+        "the number of protons is equal to the number of electrons",
+        "there are no electrons around the nucleus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a source of hydrocarbons?",
+      "options": [
+        "bitumen",
+        "crude oil",
+        "rock",
+        "living organisms"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the form 𝑛𝑠1 , the value of n in 𝑅𝑏 is",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The number of isomers formed 𝐶5 𝐻10 is",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Butanoic acid and ethylethanoate are isomers",
+      "options": [
+        "true",
+        "false",
+        "not sure",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ligand can be defined in the following ways except",
+      "options": [
+        "on the basis of donor site",
+        "on the basis of their charge",
+        "on the basis of the compounds",
+        "on the basis of bonding"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The functional group in isothiocyano compound is",
+      "options": [
+        "𝑅 − 𝑁",
+        "𝑅 − 𝑆",
+        "𝑁 = 𝐻"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When lithium forms its ion",
+      "options": [
+        "it attains electronic configuration of helium",
+        "it loses one proton",
+        "atomic number decreases",
+        "it gains one electron and become negatively charged"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Boiling point of halogen _________ down the group",
+      "options": [
+        "increases",
+        "decreases",
+        "unchanged"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All the following are an ionic ligands except",
+      "options": [
+        "thiocyanato",
+        "nitrosyl",
+        "azide",
+        "nitrite"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝐵𝑒(𝑂𝐻)2 of beryllium hydroxide is",
+      "options": [
+        "amphoteric oxide",
+        "basic oxide",
+        "none",
+        "acidic oxide"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Na metal is soft because of its",
+      "options": [
+        "high density",
+        "low pressure",
+        "high pressure",
+        "low density"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Chlorine gas is manufactured industrially the",
+      "options": [
+        "Ostwald process",
+        "Haber process",
+        "chloro-alkali process",
+        "Deacon process"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Lobster, shrimp and some crabs turn red when cooked because the astaxanthin which is bound to the proton in the shell becomes free as the proton denatures and unwinds. If astaxanthin is an hydrocarbon derivative with 80.54% carbon and 10.74% oxygen and its molecular mass is 595. The empirical and molecular formula of the compound are ________ and _________ respectively",
+      "options": [
+        "𝐶10 𝑂 and 𝐶40 𝑂4",
+        "𝐶40 𝐻52 𝑂4 & 𝐶10 𝐻13 𝑂",
+        "𝐶40 𝑂4 & 𝐶10 𝑂",
+        "𝐶10 𝐻13 𝑂 & 𝐶40 𝐻52 𝑂4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following bonds exist between molecules of ethanoic acids",
+      "options": [
+        "dative",
+        "covalent",
+        "metallic",
+        "electrovalent"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A coordination compound is consisted of two",
+      "options": [
+        "metalion (atom) and counter ion",
+        "metal ion (atom) and donor atom(s)",
+        "metal ion (atom) and lewis acid",
+        "metal ion (atom) and ligand(s)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The condensed formula of 3-methylbutan-2-ol is",
+      "options": [
+        "𝐶𝐻3 𝐶𝐻2 𝐶𝐻2 𝐶𝐻(𝐶𝐻3 )𝐶𝐻𝑂",
+        "𝐶𝐻3 𝐶𝐻2 (𝐶𝐻3 )𝐶𝑂𝐶𝐻3",
+        "𝐶𝐻3 𝐶𝐻(𝐶𝐻3 )𝐶𝑂𝐶𝐻3",
+        "𝐶𝐻3 𝐶𝐻𝑂𝐻𝐶𝐻2 𝐶𝐻2 𝐶𝐻3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The characteristic colour obtained when K is burnt in bursen flame is",
+      "options": [
+        "violet",
+        "indigo",
+        "blue",
+        "lilac"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Group IA elements are characterized I electron each on their ns orbital in their outermost shell. For Li, n is",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which correctly describes a property of the compound formed when a halogen X (e.g. Cl, Br) combines with an alkali metal M (e.g. Li, Na, K)",
+      "options": [
+        "will not conduct heat or electricity when liquid or when dissolved in water",
+        "silvery solid",
+        "the solid is a good conductor",
+        "high melting point"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following exhibits partial ionic character except",
+      "options": [
+        "Sr",
+        "Ba",
+        "Mg",
+        "Ca"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following statements is incorrect about noble gases",
+      "options": [
+        "they are monoatomic",
+        "they are odourless",
+        "they have an outer electronic configuration of 𝑛𝑠 2 𝑛𝑝6",
+        "they are colourless"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Chlorine, bromine and iodine react with __________ to form covalent compounds",
+      "options": [
+        "non-metals",
+        "alkali metals",
+        "alkaline earth metals",
+        "acids"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Water (𝐻2 𝑂) as a liquid is an example of _________",
+      "options": [
+        "multidentate ligand",
+        "anionic lligand",
+        "neutral ligand",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many sigma and pi bond is present in a single bond?",
+      "options": [
+        "0, 1",
+        "1, 0",
+        "0, 0",
+        "1, 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volatility of electrovalent liquids is generally lower than that of covalent liquids because the force of attraction between positive and negative ion is ___________",
+      "options": [
+        "stronger than Vanderwaals forces in covalent liquids",
+        "equals to the Vanderwaals attraction in covalent liquids",
+        "equal to the dative bonds in covalent liquids"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The first element of alkaline earth metals is",
+      "options": [
+        "Mg",
+        "Be",
+        "Ca",
+        "Sr"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Group 1A elements are characterized one electron on the ns orbital in the outermost shell. For Cs, n is ___________",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An unknown organic compound was shows on quantitative analysis containing 40% carbon, 6.7% hydrogen and 53.3% oxygen, with vapour density of 90. Find the molecular formula",
+      "options": [
+        "𝐶𝐻2 𝑂",
+        "𝐶3 𝐻6 𝑂3",
+        "𝐶6 𝐻2 𝑂",
+        "𝐶𝐻𝑂2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Halogens have high affinity because",
+      "options": [
+        "they can accommodate only one electron in their valence",
+        "all of the above",
+        "the incomplete can occupy the orbital with strong attraction"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Hardness of group IIA elements is due to",
+      "options": [
+        "increase down the group",
+        "none",
+        "constant",
+        "decrease down the group"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A molecule of nitrogen contains ________ bond",
+      "options": [
+        "single",
+        "triple",
+        "double",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which statement is true about group 7 halogen?",
+      "options": [
+        "they have low boiling point",
+        "they exist as single atoms at room temperature",
+        "they are good conductors of electricity",
+        "lone the first one is a gas at room temperature and pressure"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the atomicity of halogen",
+      "options": [
+        "diatomic",
+        "monoatomic",
+        "triatomic",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The metal ions (atom) is known as ____________",
+      "options": [
+        "Lewis acid-base",
+        "Lewis base",
+        "Lewis acid",
+        "ligand"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A tetradentate ligand has ________ donor atom",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which one of these is not an intermolecular force?",
+      "options": [
+        "dipole-dipole",
+        "covalent bond ing",
+        "hydrogen bonding",
+        "London dispersion forces"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The 𝐻 − 𝐶 − 𝐻 bond angle in 𝐶𝐻4 is",
+      "options": [
+        "1200",
+        "1800",
+        "109.50",
+        "900"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the general electronic configuration of the halogens?",
+      "options": [
+        "𝑛𝑠 2 𝑛𝑝5",
+        "𝑛𝑠 2 𝑛𝑝4",
+        "𝑛𝑠 2 𝑛𝑝2",
+        "𝑛𝑠 2 𝑛𝑝3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The donor ligand that share donor atom is _________",
+      "options": [
+        "monodentate",
+        "bidentate",
+        "multidentate",
+        "tetradentate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What type of isomerism is exhibited 𝐶𝐻3 𝐶𝑂𝐶𝐻3 and 𝐶𝐻3 𝐶𝐻2 𝐶𝐻𝑂",
+      "options": [
+        "metamerism",
+        "functional group",
+        "nuclear",
+        "position"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "As you go down the group, how does the boiling point of the halogen elements change",
+      "options": [
+        "does not change",
+        "decreases",
+        "increases",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are neutral ligands except",
+      "options": [
+        "amine",
+        "nitrosyl",
+        "carbonyl"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many sigma and pi bonds are present is a triple bond?",
+      "options": [
+        "0, 3",
+        "3, 0",
+        "2, 1",
+        "1, 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The forces of attraction between non-polar molecules are",
+      "options": [
+        "hydrogen bonds",
+        "covalent bonds",
+        "Vanderwaals forces"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following group IIA elements occurs in small amounts in uranium ores",
+      "options": [
+        "𝑀𝑔",
+        "𝐶𝑎",
+        "𝑅𝑎",
+        "𝐵𝑒"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The characteristic colour obtained when Li is burnt in Bunsen flame is",
+      "options": [
+        "crimson",
+        "yellow",
+        "blue",
+        "lilac"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All these are sources of organic compound except",
+      "options": [
+        "coal",
+        "petroleum",
+        "living organisms",
+        "rock"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 12 and 9 are the atomic numbers of elements A and B respectively, the interatomic bond between these elements are",
+      "options": [
+        "covalent",
+        "ionic",
+        "dative",
+        "hydrogen"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a characteristic property of ionic compound",
+      "options": [
+        "fast reaction in solution",
+        "conduction of electricity in solution",
+        "solubility in polar solvents",
+        "low melting points"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is the hardest",
+      "options": [
+        "Sr",
+        "Be",
+        "Ra",
+        "Mg"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the source of organic compounds",
+      "options": [
+        "fossil",
+        "rock",
+        "soil",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Isothiocyano is when ligand is",
+      "options": [
+        "N-bonded",
+        "L-bonded",
+        "S-bonded",
+        "P-bonded"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The interatomic bond formed between an atom of an element with high electron affinity and an atom of another element with low ionization energy is ___________",
+      "options": [
+        "electropositive",
+        "electronegative",
+        "electrovalent",
+        "electrode"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The first element of the alkaline earth metal is ____________",
+      "options": [
+        "boron",
+        "argon",
+        "berylium",
+        "fluorine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The absorption in the UV-visible region electromagnetic spectrum is based on the presence of __________ in an organic compound",
+      "options": [
+        "all of the above",
+        "isolated system",
+        "conjugation",
+        "commutative"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The association mold of a multidentate ligand is called",
+      "options": [
+        "coordination",
+        "donation",
+        "ligation",
+        "chelation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Where F acts as a ligand, its name becomes",
+      "options": [
+        "fluorine ion",
+        "fluorion",
+        "fluoro",
+        "fluorine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Two elements X and Y have electronegativity value 0.8 and 3.0 respectively. The interatomic combination of the two elements is expected to produce",
+      "options": [
+        "ionic",
+        "metallic",
+        "polar covalent",
+        "non-polar covalent"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The forces of attraction resulting from the alignment of polar covalent molecules is ____________",
+      "options": [
+        "London forces",
+        "induced dipole induced dipole",
+        "dipole dipole",
+        "permanent induced dipole"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is left after the electrolysis of brine (aqueous sodium chloride solution)",
+      "options": [
+        "sodium chlorate (I)",
+        "sodium hydroxide",
+        "chlorine",
+        "hydrogen"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these organic compounds will have lowest PKa value?",
+      "options": [
+        "methanol",
+        "ethanol",
+        "phenol",
+        "propanol"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The IUPAC name of this compound 𝐻2 𝐶 = 𝐶𝐻𝐶𝐻2 𝐶𝑂𝑂𝐻 is",
+      "options": [
+        "But-3-en-1-oic acid",
+        "But-3-enoic acid",
+        "But-2-ene-4-oic",
+        "But-2-enoic acid"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following halide displays the most basic nature in water (𝐻2 𝑂)",
+      "options": [
+        "bromide",
+        "fluoride",
+        "iodide",
+        "chloride"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A ligand with one donor atom is called a __________",
+      "options": [
+        "donor atom ligand",
+        "monodentate ligand",
+        "undentate ligand",
+        "bidentate ligand"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sigma bond results from",
+      "options": [
+        "parallel overlapping of orbital",
+        "when the bond make a pishape",
+        "directly overlapping of orbitals",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ionic solids are generally stable because of",
+      "options": [
+        "hydrogen bond",
+        "Vanderwaal forces",
+        "London dispersion",
+        "crystal lattice forces"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following has the large radius?",
+      "options": [
+        "Na",
+        "Mg",
+        "Si (dd) Al"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Group 1 elements are characterized ns. Na is _________",
+      "options": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Infrared spectrometry is used to determine ____________",
+      "options": [
+        "functional group",
+        "function group",
+        "bonding"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The bond angle in 𝐶2 𝐻4 is",
+      "options": [
+        "1800",
+        "1090",
+        "1200",
+        "900"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the halogens is most reactive",
+      "options": [
+        "Br",
+        "Cl",
+        "F",
+        "I"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following compounds are examples of positional isomers except",
+      "options": [
+        "Butan-1-ol and Butan-2-ol",
+        "2-methylbutan-1-ol and 3-methylpentan-2-ol",
+        "ortho-aminophenol, metaaminophenol and para-aminophenol",
+        "2-methylpropan-1-ol and 2-methylpropan-2-ol"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The strongest molecular force is",
+      "options": [
+        "hydrogen bond",
+        "London force",
+        "dipole dipole",
+        "ionic bond"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which is the hardest?",
+      "options": [
+        "Mg",
+        "Sr",
+        "Be",
+        "Ra"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not correct",
+      "options": [
+        "the shorter the bond length, the greater the Scharacter",
+        "the longer the bond length, the higher the bond energy",
+        "sigma bond is stronger than pi bond"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the electronic configuration of halogens?",
+      "options": [
+        "𝑛𝑠 2 𝑛𝑝3",
+        "𝑛𝑠 2 𝑛𝑝4",
+        "𝑛𝑠 2 𝑛𝑝2",
+        "𝑛𝑠 2 𝑛𝑝5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the elements is silvery white metallic solid at room temperature",
+      "options": [
+        "Cs",
+        "Na",
+        "Li",
+        "K"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the electronegativity difference between A and B is small, the interatomic bond between them is",
+      "options": [
+        "non-polar",
+        "ionic",
+        "coordinate covalent",
+        "polar covalent"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "which of the following halogens is radioactive",
+      "options": [
+        "chlorine",
+        "astatine",
+        "bromine",
+        "fluorine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "the atom in ligand that attaches to a metal is",
+      "options": [
+        "donor atom",
+        "counter ion",
+        "monodentate ion",
+        "attaching atom"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Group 1A elements contain",
+      "options": [
+        "6 elements",
+        "3 elements",
+        "5 elements",
+        "4 elements"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Notable human dietary studies of experimentally induced survey were conducted on conscientious objectives during world war II in Britain in the late 1960s to the 1980s. Men in the prison study developed the first signs of scurry about four weeks after starting the vitamin C-free diet. If vitamin C (ascorbic acid) contains 4.54% hydrogen, 40.91% carbon and the rest for oxygen, while the molecular mass is 176𝑔/𝑚𝑜𝑙, the molecular and empirical formulae of vitamin C are",
+      "options": [
+        "𝐶𝐻𝑂 and 𝐶3 𝐻4 𝑂3",
+        "𝐶6 𝐻8 𝑂6 and 𝐶3 𝐻4 𝑂3",
+        "𝐶6 𝐻6 𝑂6 and 𝐶𝐻𝑂",
+        "𝐶3 𝐻4 𝑂3 and 𝐶6 𝐻8 𝑂6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Classification of ligands is based on the following",
+      "options": [
+        "on the basis of charge",
+        "on the basis of the donor site",
+        "on the basis of bonding",
+        "on the basis of compound"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following holds the crystal layers in graphite together",
+      "options": [
+        "electrostatic force",
+        "hydrogen bonds",
+        "covalent bond",
+        "Vanderwaal forces"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ is an organic compound",
+      "options": [
+        "cumulative system",
+        "conjugated system",
+        "isolated system",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following forms the strongest hydrogen bonds between its molecules",
+      "options": [
+        "𝐻𝐹",
+        "𝐻2 𝑆",
+        "𝑁𝐻3",
+        "𝐻𝐶𝑙"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ligand acts as electron pair",
+      "options": [
+        "distributor",
+        "donor",
+        "acceptor",
+        "producer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The interatomic bonds present in the ammonium ion are",
+      "options": [
+        "metallic and coordinate covalent",
+        "covalent and electrovalent",
+        "covalent and coordinate covalent",
+        "electrovalent and metallic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A ligand attached to more than one metal is",
+      "options": [
+        "bidentate",
+        "polydentate",
+        "bridging",
+        "ambidentate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When excess chlorine react with methane in the presence of sunlight, what is formed?",
+      "options": [
+        "carbon tetrachloride",
+        "methylene chloride",
+        "chloroform",
+        "refrigerant"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Atom in a ligand that attached to a metal is known as",
+      "options": [
+        "central atom",
+        "monodentate",
+        "molecule",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tetradentate means _________ atom",
+      "options": [
+        "2",
+        "3",
+        "4 (d)1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The force of attraction between non-polar molecules is",
+      "options": [
+        "covalent",
+        "Vanderwaals",
+        "hydrogen bond",
+        "electronegative"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The force of attraction between polar covalent molecules and non-polar covalent molecules when they are brought close to each other is",
+      "options": [
+        "induced-induced dipole",
+        "hydrogen bond",
+        "dipole-dipole",
+        "permanent dipole"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The interatomic combination of two elements is expected to produce",
+      "options": [
+        "non-polar",
+        "polar",
+        "metallic",
+        "ionic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which displays basic oxide with water",
+      "options": [
+        "iodine",
+        "bromine",
+        "chlorine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Drawing structure of ethanoic acid, which of the following is not correct",
+      "options": [
+        "the functional group is 𝑆𝑝3 hybridized",
+        "the functional group is 𝑆𝑝2 hybridized",
+        "the shape of the hybridization is tetrahedral",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which is left after the electrolysis of brine (aqueous sodium chloride solution)",
+      "options": [
+        "hydrogen",
+        "sodium chloride",
+        "chlorine",
+        "sodium hydroxide"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "which of the following have two hydrogen atom attach to the carbonyl carbon atom",
+      "options": [
+        "aldehyde",
+        "ketone",
+        "carboxylic acid",
+        "ether"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "the formula that show the arrangement of atoms in a compound is",
+      "options": [
+        "empirical formula",
+        "M.F",
+        "S.F",
+        "condensed formula"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "commercial sources of Alkanes include",
+      "options": [
+        "Coal",
+        "natural gas",
+        "petroleum",
+        "all of the above"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A mixture of low boiling hydrocarbon is called",
+      "options": [
+        "coal",
+        "petroleum",
+        "natural gas",
+        "L.P.G"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "considering alkyl radicals, what are the terms used for the group obtained removing\"II\" atom from Central carbon atoms",
+      "options": [
+        "isopropyl",
+        "n-propyl",
+        "neo propyl",
+        "propyl"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "nature of organic compound is",
+      "options": [
+        "ionic",
+        "covalent",
+        "amphoteric",
+        "coordinate covalent"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "organic compound are",
+      "options": [
+        "non volatile",
+        "volatile",
+        "high melting point",
+        "high boiling point"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "the reaction rate of organic compound are often",
+      "options": [
+        "fast",
+        "normal",
+        "slow",
+        "depending on the Compound"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "groups of organism that can occur within an organic molecules are called",
+      "options": [
+        "cyclic compound",
+        "functional group",
+        "homologous series",
+        "no of atoms"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "what is the major starting material for the manufacture if organic chemicals and products such as plastics",
+      "options": [
+        "acetylene",
+        "ethylene",
+        "methane",
+        "phenol"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "the origin of carbon compound is",
+      "options": [
+        "living things",
+        "non- living things",
+        ""
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "the first antiseptic use in operation theater is",
+      "options": [
+        "alcohol",
+        "Alkane",
+        "acid",
+        "phenol"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "which of the following is use in the preparation of polymer pox",
+      "options": [
+        "acetylene",
+        "ethylene",
+        "alcohol",
+        "phenol"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝐶3 𝐻4 + 𝐻2 𝑂 → 𝐶𝐻3 𝐶𝑂𝑂𝐶𝐻 𝑡𝑎𝑘𝑒 𝑝𝑙𝑎𝑐𝑒 𝑖𝑛 𝑡ℎ𝑒 𝑝𝑟𝑒𝑠𝑒𝑛𝑐𝑒 𝑜𝑓 ͟͟",
+      "options": [
+        "𝐻2 𝑆𝑂4 /𝐻𝑔𝑆𝑂4",
+        "𝐻2 𝑆𝑂3 /𝐻𝑔𝑆𝑂3",
+        "𝐻𝐶𝑙/𝐻𝑔𝑆𝑂4",
+        "𝐻2 𝑆𝑂4 /𝑁𝑎𝑂𝐻"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following has the highest solubility",
+      "options": [
+        "𝐶𝐻3 𝑂𝐻",
+        "𝐶𝐻3 𝐶𝐻2 𝐶𝐻2 𝑂𝐻",
+        "𝐶𝐻3 𝐶𝐻2 𝑂𝐻",
+        "𝐶𝐻3 𝐶𝐻2 𝐶𝐻2 𝐶𝐻2 𝑂𝐻"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following has the highest boiling point?",
+      "options": [
+        "𝐶𝐻3 𝑂𝐻",
+        "𝐶𝐻3 𝐶𝐻2 𝐶𝐻2 𝑂𝐻",
+        "𝐶𝐻3 𝐶𝐻2 𝑂𝐻",
+        "𝐶𝐻3 𝐶𝐻2 𝐶𝐻2 𝐶𝐻2 𝑂𝐻"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For ͟͟which ͟͟pair ͟͟of ͟͟compounds ͟͟can ͟͟the ͟͟members ͟͟be ͟͟distinguished ͟͟ ͟͟the ͟͟means ͟͟of ͟͟Tollen’s ͟͟test ͟͟(the ͟͟ use of a solution 𝐴𝑔(𝑁𝐻3 )2)",
+      "options": [
+        "𝐶𝐻3 𝐶𝑂𝐶𝐻3 𝑎𝑛𝑑 𝐶𝐻3 𝐶𝑂𝐶𝐻3",
+        "𝐶𝐻3 𝐶𝑂𝐶𝐻3 𝑎𝑛𝑑 𝐶2 𝐻5",
+        "𝐶𝐻3 𝐶𝐻𝑂 𝑎𝑛𝑑 𝐶𝐻3 𝐶𝑂𝐶𝐻3",
+        "𝐶𝐻3 𝐶𝑂2 𝐻 𝐶𝐻3 𝐶𝑂2 𝐶𝐻3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "________ and _________ consist of a transition metal ion with its attached ligands.",
+      "options": [
+        "Coordination Compound",
+        "Coordination Complex",
+        "Coordination Entity",
+        "All of the option (d) None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_________ is a neutral molecule or ion having a lone pair that can be used to form a bond with a metal ion.",
+      "options": [
+        "Ligands",
+        "Complexing agent",
+        "Complex",
+        "A and B (e) All of the options"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A ligand that can form one bond toa metal ion is called __________",
+      "options": [
+        "Dentate Ligand",
+        "Mono -dentate ligand",
+        "Unidentate",
+        "B&C (e) All of the option."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A ligand that can form two blinds to a metal ions is called __________ ligands",
+      "options": [
+        "Monodentate",
+        "Bidentate",
+        "Chelate",
+        "Polydentate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A ligand that can form more than two bonds to a metal ion are called _________",
+      "options": [
+        "Ambidentate",
+        "Amphidentate",
+        "Polydentate",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bidentate and Polydentate ligands can be classified under __________ Ligands",
+      "options": [
+        "Ambidentate",
+        "Polydentate",
+        "Chelate",
+        "All of the option"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ethylenediammine and ethylenediammine-tetra-acetic acid are __________ ligands",
+      "options": [
+        "Bidentate",
+        "Polydentate",
+        "Chelate",
+        "Ambidentate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Oxalate is an example of _________ ligands",
+      "options": [
+        "Bidentate",
+        "Monodentate",
+        "Polydentate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ligands that have more than one atom with a lone pair that can be used to bond to a netal ion is _________ ligands",
+      "options": [
+        "Ambidentate",
+        "Polydentate",
+        "Bidentate",
+        "Chelate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Transition metals have _________ type of valencies",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the naming of ionic complex, which of these is correct",
+      "options": [
+        "Cation is named only",
+        "Anion is named only",
+        "Anion is named before cation",
+        "Cation is named before anion"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Central mental are ________",
+      "options": [
+        "electron pair acceptor",
+        "electron pair donor",
+        "A and B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the Coordination number and Oxidation number of Central atom respectively in the compound [Ni(NH3)4]2+",
+      "options": [
+        "+4 and -2",
+        "+2 and +4",
+        "2 and -4",
+        "4 and +2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[Cu(CN)4]3- is an example of _________ Complex",
+      "options": [
+        "Homoleptic",
+        "Heteroleptic",
+        "Monoleptic",
+        "Polyleptic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[K4Fe(CN)6] is an example of ________ complex",
+      "options": [
+        "Cationic",
+        "Anionic",
+        "Neutral",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[Co(NH3)6]Cl3 is an example of _________ complex",
+      "options": [
+        "Anionic",
+        "Cationic",
+        "Neutral",
+        "All"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In naming ligands, _________ is added to the root name of an anion",
+      "options": [
+        "–ate",
+        "–O",
+        "–ion",
+        "–ic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a neutral ligand",
+      "options": [
+        "H2O",
+        "NH3",
+        "en",
+        "EDTA"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which is not among the properties of Transition elements",
+      "options": [
+        "Variable Oxidation States",
+        "Paramagnetism",
+        "Coloured ions",
+        "Isotopism (e) Catalytic activity"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "d1s2 and d2s2 can represent the electronic structure of _________ and ________ respectively",
+      "options": [
+        "Sc α Ti",
+        "Ti α Sc",
+        "V α Cr",
+        "Cr α V"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The formula to calculate the paramagnetism moment of a substance is _________",
+      "options": [
+        "𝜇𝑠 = √4𝑠(𝑠 + 2) 𝐵. 𝑀",
+        "𝜇𝑠 = √𝑛(𝑛 + 2) 𝐵. 𝑀",
+        "𝜇𝑠 = √𝑛(𝑛 + 4) 𝐵. 𝑀",
+        "𝜇𝑠 = √𝑙(𝑙 + 2) 𝐵. 𝑀"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sc has _________ oxidation states",
+      "options": [
+        "2",
+        "6",
+        "4",
+        "5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "V has _________ oxidation states",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Mn has _________ Oxidation states",
+      "options": [
+        "2",
+        "6",
+        "4",
+        "5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fe has _________ oxidation state",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The electronic structure of Cr is _________?",
+      "options": [
+        "d3s2",
+        "d4s2",
+        "d5s1",
+        "d6s0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The electronic structure of Cn is ________?",
+      "options": [
+        "d8s2",
+        "d10s1",
+        "d9s2",
+        "d3s5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Chromium is passivated __________",
+      "options": [
+        "HNO3",
+        "aquafortis",
+        "Aqua regia",
+        "A and B (e) A and C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these is not among the chief oxidation states of chromium?",
+      "options": [
+        "VI",
+        "III",
+        "II",
+        "I"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The colour of sodium chromate is _________",
+      "options": [
+        "yellow solid",
+        "orange solid",
+        "deep red",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The formula of chromyl chloride is _________?",
+      "options": [
+        "Na2CrO4",
+        "Na2Cr2O7",
+        "CrO2Cl2",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cr(+11) compounds often called __________ compound",
+      "options": [
+        "chromous",
+        "chromate",
+        "chromic",
+        "chromium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "__________ exhibit the widest range of Oxidation states of any of the first transition metals.",
+      "options": [
+        "Sc",
+        "Mn",
+        "Fe",
+        "Zn"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The only binary compound of manganese in Mn3+ Oxidation states that are stable at ordinary temperature are _________",
+      "options": [
+        "trifluoride",
+        "Mn2O3",
+        "MnO2",
+        "A and B (e) B and C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The colour of Sodium Manganate (v) Na3MnO4 is _________",
+      "options": [
+        "Red",
+        "deep Red",
+        "Blue",
+        "Yellow"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Potassium permanganate or manganate (VII) forms _________ crystals",
+      "options": [
+        "dark purple",
+        "black",
+        "deep red",
+        "orange"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The primary valence of transition metals is called _________",
+      "options": [
+        "oxidation state",
+        "coordination number",
+        "valence state",
+        "combining state"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The secondary valence of transition metal is __________",
+      "options": [
+        "Oxidation state",
+        "Coordination number",
+        "Valence state",
+        "Combing state"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The name of positive ligands in IUPAC System naming ends in _________",
+      "options": [
+        "–ate",
+        "–O",
+        "–ion",
+        "Unchanged (e) None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Zinc, Cadmium and Mercury are not considered transition elements because of their electronic configurations, which corresponds to;",
+      "options": [
+        "(n-1)d10ns2",
+        "nd8ns2",
+        "(n-1)d8ns2",
+        "nd10ns2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[Ar]3d54s1 is the electronic configuration of ________",
+      "options": [
+        "Sc",
+        "Ti",
+        "V",
+        "CV"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[Ar]3d54s2 is the electronic configuration of",
+      "options": [
+        "Fe",
+        "Mn",
+        "Co",
+        "Zn"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[Ar]3d84s2 is the electronic configuration of",
+      "options": [
+        "Fe",
+        "Co",
+        "Zn",
+        "Ni"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[Kr]4d105s2 is the electronic configuration of _________",
+      "options": [
+        "Ag",
+        "Fh",
+        "Tc",
+        "Cd"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The geometric shape formed the attachment of the ligands to the coordination centre is called _________",
+      "options": [
+        "Coordination Sphere",
+        "Coordination Polyhedron",
+        "A and B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[Ni(Co)4] is an example of __________ complex",
+      "options": [
+        "Neutral",
+        "Cationic",
+        "Anionic",
+        "Polynuclear"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ligands that have the ability to bind to the central atom via the atoms of two different elements are __________ ligand",
+      "options": [
+        "Homoleptic",
+        "Heteroleptic",
+        "Polynuclear",
+        "Ambidentate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "__________ Isomerism is observed in heteroleptic complexes to different possible geometric arrangements of ligands.",
+      "options": [
+        "Geometrical",
+        "Structural",
+        "Linkage",
+        "Coordination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "__________ isomerism is exhibited the Coordination compounds having the same chemical formula but a different arrangement of atoms",
+      "options": [
+        "Geometrical",
+        "Structural",
+        "Linkage",
+        "Coordination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Isomerism exhibits ambidentate lignads are __________",
+      "options": [
+        "Linkage",
+        "Ionisation",
+        "Solvate",
+        "Coordination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Isomerism that occurs when the counter ion in a complex salt which is a potential ligand, replaces the ligand is _________",
+      "options": [
+        "Solvate",
+        "Linkage",
+        "Ligand",
+        "Ionisation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[Co(NH3)6][Cr(CN)6] and [Cr(NH3)6][Co(CN)6] exhibit _________ Isomerism",
+      "options": [
+        "Linkage",
+        "Solvate",
+        "Ionisation",
+        "Coordination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[Co(NH3)5(SO4)]Br and [Co(NH3)5Br]SO4 exhibit __________ Isomerism",
+      "options": [
+        "Solvate",
+        "Coordination",
+        "Ligand",
+        "Ionisation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "________ Isomers are a special case of ionisation isomerism in which compounds differ depending on the number of the solvent molecule directly bonded to the metal ion",
+      "options": [
+        "Solvate",
+        "Ligand",
+        "Ionisation",
+        "Coordination."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "According to Warner’s Theory _________ are non-ionisable",
+      "options": [
+        "primary valency",
+        "Secondary",
+        "Valency",
+        "Tertiary"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "According to Warner’s Theory, ________ helps in the structure of complex",
+      "options": [
+        "Primary valency",
+        "Secondary valency",
+        "Tertiary valency"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the oxidation number of the metal atom in [Co(H2O)(CN)(en)2]2+",
+      "options": [
+        "+2",
+        "+3",
+        "-3",
+        "0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The replacement of transition elements with one another in some compounds without altering the crystal structure is called _________",
+      "options": [
+        "Isomorphism",
+        "Polymorphism",
+        "Denticity",
+        "Dimorphism"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the compound [Cr(NH3)2Cl2F2]CN, the Uncoordinated ion is _________",
+      "options": [
+        "Cr",
+        "Fl",
+        "Cl2",
+        "CN"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Coordinate Compounds Heamoglobin, Vitamin B, Chlorophyll exist in _________ system",
+      "options": [
+        "Solar",
+        "Living",
+        "Natural",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Coordinat covalent bond exists between ________ and ________ in the compound K2[Cu(CN)4]",
+      "options": [
+        "K+ and Cu2+",
+        "K+ and CN-",
+        "Cu2+ and CN-",
+        "Cu2+"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Lewis acid in the coordination compound Na2[Pt(CN)4] is _________",
+      "options": [
+        "Na+",
+        "CN-",
+        "Pt2+",
+        "[Pt(CN)4]279. Name the compound [Cr(SCN)4(NH3)2](a)Tetra thiocynatodiammine chromate (III) ion (b)Tetra thiocynatodiamine chromate (I) ion (c)Tetra thiocynatodiammine chromatum(III) ion (d) None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The _________ sphere is enclosed in brackets in formulas for complex species and it includes the central metal ion plus the coordinated group",
+      "options": [
+        "Coordination",
+        "Oxidation",
+        "Ligand",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Coordination number of [Cr(NH3)2Cl2F2]CN is __________",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The central ion in Ni(CO4) is __________",
+      "options": [
+        "Ni",
+        "C",
+        "O",
+        "CO"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The positive ion in Na[Au(CN)2] is _________",
+      "options": [
+        "Na+",
+        "Au",
+        "CN",
+        "C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Transition metals have ________ type of bond between their atom",
+      "options": [
+        "metallic",
+        "ionic",
+        "dative",
+        "covalent"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "54% carbon and 10.74% oxygen and its molecular mass is 595. The empirical and molecular formula of the compound are ________ and _________ respectively",
+      "options": [
+        "𝐶10𝑂 and 𝐶40𝑂4",
+        "𝐶40𝐻52𝑂4 & 𝐶10𝐻13𝑂",
+        "𝐶40𝑂4 & 𝐶10𝑂",
+        "𝐶10𝐻13𝑂 & 𝐶40𝐻52𝑂4"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "3% oxygen, with vapour density of 90. Find the molecular formula",
+      "options": [
+        "𝐶𝐻2𝑂",
+        "𝐶3𝐻6𝑂3",
+        "𝐶6𝐻2𝑂",
+        "𝐶𝐻𝑂2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is a structural isomer of alcohol.",
+      "options": [
+        "alkane",
+        "carbonyl",
+        "ether",
+        "ester"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "CH4 is known as",
+      "options": [
+        "formic gas",
+        "wood gas",
+        "olein",
+        "marsh gas"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Separating techniques are based on the following except",
+      "options": [
+        "pH",
+        "boiling point",
+        "solubility",
+        "sublimity"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ash bath is used for evaporation when the temperature required is",
+      "options": [
+        "above 78°C",
+        "below 100°C",
+        "above 100°C",
+        "above 50°C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Propan-1-ol and methoxyethane exhibit",
+      "options": [
+        "chain isomerism",
+        "functional isomerism",
+        "stereoisomerism",
+        "position isomerism"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Percentage composition of CO2 in a mixture of gases is",
+      "options": [
+        "0.01%",
+        "0.08%",
+        "0.04%",
+        "0.65%"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sigma bonds are formed with which hybridization",
+      "options": [
+        "SP2",
+        "SP3",
+        "SP2,SP",
+        "SP"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An organic compound has been found to possess the empirical formula CH2O and vapour density of 45. Calculate its molecular formula",
+      "options": [
+        "C6H12O6",
+        "C4H8O4",
+        "C3H6O3",
+        "C10H20O10"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "CH4 + Cl2 ------------uv-----------> CH3Cl + HCl. This is an example of which reaction",
+      "options": [
+        "displacement",
+        "substitution",
+        "replacement",
+        "elimination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Molecular formula is based on",
+      "options": [
+        "percentage composition",
+        "ratio of atoms",
+        "actual number",
+        "molecule present"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "C2H5COOH and C2H5OH reaction process is called",
+      "options": [
+        "neutralization",
+        "etherification",
+        "esterification",
+        "opsonization"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The most common method used in purifying a solid is",
+      "options": [
+        "chromatography",
+        "sublimation",
+        "crystallization",
+        "filtration"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Alcohol can be prepared through",
+      "options": [
+        "hydroboration",
+        "hydrogenation",
+        "polymerization",
+        "fermentation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "CH2OHCH2OH is an example of which alcohol",
+      "options": [
+        "trihydric",
+        "dihydric",
+        "polyhydric",
+        "monohydric"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Terpyridine is a tridentate ligand?",
+      "options": [
+        "T",
+        "F",
+        "None of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is a polar covalent bond ?",
+      "options": [
+        "LiF",
+        "HCl",
+        "MgCl2 (d)NaCl"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Intermolecular forces are stronger than interatomic forces ?",
+      "options": [
+        "T",
+        "F",
+        "None of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In hydrogen bonding, the bond of hydrogen to one of these is the strongest ?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Fluorine",
+        "Chlorine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Classification of proteins based on biological functions include ?",
+      "options": [
+        "Simple proteins",
+        "Complex proteins",
+        "Globular proteins",
+        "Structural proteins"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "[NiCl4]^-2 has the name ?",
+      "options": [
+        "Tetrachloridonickelate(III) ion",
+        "Tetrachloridonickelate(II) ion",
+        "Tetranickelochloridine(IV) ion (d)Nickel chloride (IV) ion"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Why is copper used for ornamental works? It is",
+      "options": [
+        "a good thermal and electric conductor",
+        "malleable and resistant to corrosion",
+        "a transition metal",
+        "a soft metal"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cassetrite is the ore of",
+      "options": [
+        "magnesium",
+        "copper",
+        "tin",
+        "aluminum"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following Metals react with water in the form of steam to liberate hydrogen gas?",
+      "options": [
+        "Na",
+        "Fe",
+        "Cu",
+        "Ca"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All the following Metals can displace hydrogen from water or steam except",
+      "options": [
+        "Na",
+        "Ca",
+        "Fe",
+        "Cu"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An element or metal that react violently with water and steam belong to",
+      "options": [
+        "group 1",
+        "group 2",
+        "d block metal",
+        "f block metal"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many element do group1 & group 2 have",
+      "options": [
+        "6&7 respectively",
+        "6&6 respectively",
+        "8&10 respectively",
+        "7&7 respectively"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Is used in the manufacturer of lead IV tetraethyl, an antiknock additive used in petrol.",
+      "options": [
+        "Na",
+        "H2",
+        "O2",
+        "Ca"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "CaCO3 occurs naturally as the following except",
+      "options": [
+        "marble",
+        "chalk",
+        "limestone",
+        "anhydride"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All Group III element are conductors of heat and electricity except",
+      "options": [
+        "Aluminum",
+        "Gallium",
+        "Boron",
+        "indium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Can be used in the manufacturer of the nozzle of liquid fuelled space craft",
+      "options": [
+        "Magnesium",
+        "Strontium",
+        "Beryllium",
+        "calcium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are natural resources of alkenes except",
+      "options": [
+        "crude oil",
+        "coal",
+        "natural gas",
+        "toluene"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ozonolysis of alkynes will yield...............",
+      "options": [
+        "aldehyde",
+        "alkanoic acid",
+        "ketone",
+        "ozonide"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "CH-CH=CH2 CH3CHBrCH3 + CH2 + Br ----------------> The product of the above reaction is determined ............",
+      "options": [
+        "wurtz's rule",
+        "anti markornikov's rule",
+        "markornikov's rule",
+        "hydrohalogenation of alkene"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The mechanics of chlorination of methane involves the following steps except............",
+      "options": [
+        "termination",
+        "hemolytic cleavage",
+        "initiation",
+        "propagation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The number of isomers formed by 𝐶5 𝐻10 is",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Chlorine gas is manufactured industrially by the",
+      "options": [
+        "Ostwald process",
+        "Haber process",
+        "chloro-alkali process",
+        "Deacon process"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Group IA elements are characterized by I electron each on their ns orbital in their\noutermost shell. For Li, n is",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Group 1A elements are characterized by one electron on the ns orbital in the outermost\nshell. For Cs, n is ___________",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What type of isomerism is exhibited by 𝐶𝐻3 𝐶𝑂𝐶𝐻3 and 𝐶𝐻3 𝐶𝐻2 𝐶𝐻𝑂",
+      "options": [
+        "metamerism",
+        "functional group",
+        "nuclear",
+        "position"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Group 1 elements are characterized by ns. Na is _________",
+      "options": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "considering alkyl radicals, what are the terms used for the group obtained by removing\"II\" atom\nfrom Central carbon atoms",
+      "options": [
+        "isopropyl",
+        "n-propyl",
+        "neo propyl",
+        "propyl"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "which of the following is use in the preparation of polymer by pox",
+      "options": [
+        "acetylene",
+        "ethylene",
+        "alcohol",
+        "phenol"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For ͟͟which ͟͟pair ͟͟of ͟͟compounds ͟͟can ͟͟the ͟͟members ͟͟be ͟͟distinguished ͟͟by ͟͟the ͟͟means ͟͟of ͟͟Tollen’s ͟͟test ͟͟(the ͟͟\nuse of a solution 𝐴𝑔(𝑁𝐻3 )2)",
+      "options": [
+        "𝐶𝐻3 𝐶𝑂𝐶𝐻3 𝑎𝑛𝑑 𝐶𝐻3 𝐶𝑂𝐶𝐻3",
+        "𝐶𝐻3 𝐶𝑂𝐶𝐻3 𝑎𝑛𝑑 𝐶2 𝐻5",
+        "𝐶𝐻3 𝐶𝐻𝑂 𝑎𝑛𝑑 𝐶𝐻3 𝐶𝑂𝐶𝐻3",
+        "𝐶𝐻3 𝐶𝑂2 𝐻 𝐶𝐻3 𝐶𝑂2 𝐶𝐻3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Chromium is passivated by\n__________",
+      "options": [
+        "HNO3",
+        "aquafortis",
+        "Aqua regia",
+        "A and B (e) A and C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The geometric shape formed by\nthe attachment of the ligands to the\ncoordination centre is called\n_________",
+      "options": [
+        "Coordination Sphere",
+        "Coordination Polyhedron",
+        "A and\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "__________ isomerism is exhibited\nby the Coordination compounds\nhaving the same chemical formula\nbut a different arrangement of\natoms",
+      "options": [
+        "Geometrical",
+        "Structural",
+        "Linkage",
+        "Coordination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Isomerism exhibits by\nambidentate lignads are __________",
+      "options": [
+        "Linkage",
+        "Ionisation",
+        "Solvate",
+        "Coordination"
+      ],
+      "correct": "a"
+    }
+  ]
+}

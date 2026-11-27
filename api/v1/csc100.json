@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "CSC100",
+    "total_questions": 2
+  },
+  "data": [
+    {
+      "question": "_ar\neusedt\nor\nepr\nesentmodul\nesi\nnal\ngor\ni\nt\nhm",
+      "options": [
+        "el\nl\ni\npse",
+        "t\nr\ni\nangl\ne",
+        "r\nect\nangl\ne\nD)ci\nr\ncl\ne"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Thef\nol\nl\nowi\nngar\net\ny\npesofRAM except",
+      "options": [
+        "DRAM",
+        "CRAM",
+        "SRAM"
+      ],
+      "correct": "a"
+    }
+  ]
+}

@@ -1,0 +1,5723 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "PHY102",
+    "total_questions": 575
+  },
+  "data": [
+    {
+      "question": "Themagni t udeofar esul t antf or ce. . . . OR. . . .t her esul t antofaf or cei s_ _",
+      "options": [
+        "Zer o",
+        "One",
+        "I nf i ni t y"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "I ft hef ocal l engt hofal ensi sl ong, t hel ensi s_ _",
+      "options": [
+        "t hi ck",
+        "t hi n",
+        "AandB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Whi cht y peofwav esi susedi nunderwat ercommuni cat i on?",
+      "options": [
+        "Radi owav e",
+        "Mi cr owav e",
+        "Ul t r asoni c",
+        "I nf r asoni c"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "whi choft hef ol l owi ngusesconv er gi ngl ens",
+      "options": [
+        "Ey e",
+        "Camer a",
+        "Mi r r or",
+        "Opt i cal i nst r ument"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Anobj ecti spl aced30cm f r om aconv er gi ngl ens.I ft her eal i magef or medi s90cm f r om t he obj ect .Whati st hef ocal l engt h?",
+      "options": [
+        "20cm",
+        "15cm",
+        "60cm",
+        "44cm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Decr easi ngampl i t udeandv ar y i ngper i odi sassoci at edwi t h_ _ _ _",
+      "options": [
+        "Fr eeosci l l at i on",
+        "Dampedosci l l at i on",
+        "Resonance D.For cedosci l l at i on"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Whi choft hef ol l owi ngmeasur esaccur at el yt hee. m. fofacel l (",
+      "options": [
+        "pot ent i omet er(",
+        "v ol t met er (",
+        "ammet er(",
+        "gal v anomet er"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Whi choft hef ol l owi nghashi ghr esi st ance(",
+      "options": [
+        "gal v anomet er(",
+        "ammet er(",
+        "v ol t met er (",
+        "mi l l l i met er"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Dampedosci l l at i onsar e(",
+      "options": [
+        "sol i d, heav yandl i ght(",
+        "sol i d, cr i t i cal andheav y(",
+        "sol i d, l i ghtand cr i t i cal (",
+        "heav y , l i ghtandcr i t i cal"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fr eeosci l l at i onshav econst antampl i t udeandper i odwi t h(",
+      "options": [
+        "ext er nal i nf l uences(",
+        "i nt er nal i nf l uence(",
+        "noext er nal i nf l uence."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ther el at i v edensi t yofaci di nacarbat t er ycanbemeasur edusi ng(",
+      "options": [
+        "bar omet er (",
+        "hy dr omet er(",
+        "hy dr omet er"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Whenabr i ckofcer t ai nmassi st akenf r om t heear t ht ot hemoon, t hemass(",
+      "options": [
+        "becomes zer o(",
+        "r emai nsconst ant(",
+        "i ncr eases."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The period of a pendulum depends on",
+      "options": [
+        "the mass of the pendulum and the size of the arc it swings through.",
+        "the length of the pendulum and the size of the arc it swings through.",
+        "the mass of the pendulum and the acceleration of gravity.",
+        "the weight of the pendulum and the material it is made from. E. the length of the pendulum and the acceleration of gravity."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Other things being equal, the pendulum that has the longest period will be",
+      "options": [
+        "the least massive one.",
+        "the shortest one.",
+        "the most massive one.",
+        "the longest one. E. the most spherical one."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When you swing standing up in a playground swing, the period of your oscillation is about 2 seconds. If you then swing sitting down, the period of this new oscillation will be",
+      "options": [
+        "2 seconds, because the swing is the same length.",
+        "more than 2 seconds because your sitting has effectively lengthened the pendulum.",
+        "less than 2 seconds because your sitting has effectively shortened the pendulum.",
+        "less than 2 seconds because your sitting has effectively lengthened the pendulum. E. 2 seconds, because your mass is still the same."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Two pendulums have strings of the same length, but bobs with different masses. Pendulum A has a mass of",
+      "options": [
+        "speed.",
+        "amplitude.",
+        "period.",
+        "frequency. Facebook: www.facebook.com/nbstutors Instagram: @nbs_family SEPTEMBER 2021 PHY 102 CBT PRACTICE QUESTIONS E. wavelength."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A wave that has a relatively long wavelength will also have a relatively",
+      "options": [
+        "small amplitude.",
+        "large amplitude.",
+        "short period.",
+        "low frequency. E. high speed."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Standing waves are produced",
+      "options": [
+        "waves that reflect off a boundary and interfere with themselves.",
+        "the motion of the source away from the observer.",
+        "waves that vibrate in a vertical plane (standing upright).",
+        "the motion of the source toward the observer. E. objects that travel faster than the speed of sound."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When you swing sitting down in a playground swing, the period of your oscillation is about 2 seconds. If you then swing standing up, the period of this new oscillation will be",
+      "options": [
+        "2 seconds, because the swing is the same length.",
+        "less than 2 seconds because your standing has effectively shortened the pendulum.",
+        "more than 2 seconds because your standing has effectively shortened the pendulum.",
+        "more than 2 seconds because your standing has effectively lengthened the pendulum. E. 2 seconds, because your mass is still the same."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Nodes in a standing wave on a plucked guitar string are",
+      "options": [
+        "points where the string was plucked.",
+        "points of compression.",
+        "points where the displacement of the string is a minimum.",
+        "points of rarefaction. E. points where the displacement of the string is a maximum."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The speed of a wave is equal to the product of its",
+      "options": [
+        "amplitude and frequency.",
+        "wavelength and period.",
+        "frequency and wavelength.",
+        "period and amplitude."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The period of a wave is equal to 1 divided the ____ of the wave.",
+      "options": [
+        "speed Facebook: www.facebook.com/nbstutors",
+        "diameter",
+        "wavelength",
+        "amplitude E. frequency"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The speed of a wave is equal to the ____ divided the ____ .",
+      "options": [
+        "frequency; wavelength",
+        "amplitude; frequency",
+        "wavelength; frequency",
+        "period; amplitude E. wavelength; period"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The length of a simple pendulum oscillating with a period T is quadrupled, what is the new period of oscillations in terms of T?",
+      "options": [
+        "2 T",
+        "4 T",
+        "T",
+        "12 T E. 14 T"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A simple pendulum has a period of 1 s. What is the length of the string?",
+      "options": [
+        "1 m",
+        "2 m",
+        "4 m",
+        "1/2 m E. 1/4 m"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A simple pendulum with a length of 1 m oscillates on the surface of a hypothetical planet X. What is the surface gravity on the planet if the period of oscillations is 4 s?",
+      "options": [
+        "1.6 meter per square second",
+        "3.7 meter per square second",
+        "11.2 meter per square second",
+        "2.5 meter per square second E. 9.8 meter per square second"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An object with a mass M is suspended from an elastic spring with a spring constant k. The object oscillates with maximum amplitude",
+      "options": [
+        "If the amplitude of oscillations is doubled, how it will change the period of oscillations? A. The period is increased factor two",
+        "The period is increased factor four",
+        "The period is decreased factor two",
+        "The period is decreased factor four E. The period remains the same. Instagram: @nbs_family SEPTEMBER 2021"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The process of adding impurities to a pure semiconductor is called",
+      "options": [
+        "dropping of electrons",
+        "rectification",
+        "doping",
+        "clipping"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "_________ occurs when waves of the same frequency interact",
+      "options": [
+        "attenuation",
+        "interference",
+        "damping",
+        "antinode"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following waves is an electromagnetic wave",
+      "options": [
+        "sound wave",
+        "water",
+        "heart beats",
+        "x-ray"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The motion of moving speed of a talking drum can be rightly described as",
+      "options": [
+        "translational",
+        "random",
+        "oscillatory",
+        "rotational ANSWER: OSCILLATORY"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The reciprocal of wave length is called",
+      "options": [
+        "amplitude",
+        "wave front",
+        "wave motion",
+        "wave number"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the following type of waves cannot be propagated through a vacuum",
+      "options": [
+        "light",
+        "x-ray",
+        "water",
+        "Radio"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A wave transporting energy from east to west in which the particles of the medium move both northward and southward is called",
+      "options": [
+        "Mechanical",
+        "Transverse",
+        "Electromagnetic",
+        "Longitudinal"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is the least energetic",
+      "options": [
+        "micro wave",
+        "infrared",
+        "visible",
+        "ultra-violet ray"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A wave that is both mechanical and transverse is______",
+      "options": [
+        "water",
+        "sound",
+        "x-ray",
+        "radio"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A simple pendulum with a period of 2 sec has its length doubled. Its new period is",
+      "options": [
+        "1s",
+        "1.41s",
+        "4s",
+        "2.83s ANSWER: 2.83s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the spring is stiff, then the value of k is ____________",
+      "options": [
+        "Approximately zero",
+        "Moderate",
+        "Large",
+        "Small"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following wave is not electromagnetic",
+      "options": [
+        "Radiowave",
+        "Sound wave",
+        "X –ray",
+        "Infra-red ray"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are examples of repetitive to and fro motion about a mean position",
+      "options": [
+        "A piston in a gasoline engine",
+        "A mass hanging from a coiled spring",
+        "Balance wheel of a watch",
+        "A car going to kaduna"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Heat can be transferred these process except",
+      "options": [
+        "Radiation",
+        "Conduction",
+        "Evaporation",
+        "Convection"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a wave length",
+      "options": [
+        "Radiaton",
+        "conduction",
+        "convection",
+        "evaporation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Power is the rate of",
+      "options": [
+        "Energy",
+        "Kinetic",
+        "Work",
+        "Mechanical Energy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are properties of wave except",
+      "options": [
+        "Transverse",
+        "diffraction",
+        "refraction",
+        "reflection"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ lens curves inwardly",
+      "options": [
+        "Reflection",
+        "concave mirror",
+        "convex mirror",
+        "plane mirror"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The light spiral spring is loaded with the mass of 100g and it extends 25cm , what is the frequency of small vertical oscillation",
+      "options": [
+        "0.45hz",
+        "1.5hz",
+        "0.637hz",
+        "2.257hz"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Water waves are _____________",
+      "options": [
+        "Mechanical",
+        "longitudinal",
+        "chemical",
+        "electromagnetic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The minimum deviation when ray of light passes ___________ through the prism",
+      "options": [
+        "Asymetrically",
+        "symmetrically",
+        "longitudinal",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A cell whose internal resistance is 0.5 ohms delivers a current of 4A to an external resistor . The lost voltage of the cell is ______________",
+      "options": [
+        "1.250v",
+        "0.125v",
+        "8.000v",
+        "2.000v"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The belief of light that consists of tiny particles can be attributed to",
+      "options": [
+        "Michael Faraday",
+        "James Maxwell",
+        "Early Greece",
+        "Isaac Newton"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these can be used at underwater communication",
+      "options": [
+        "Micro wave",
+        "ultrasonic",
+        "infrasonic",
+        "radiowave"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Current of 2A flows in a coil of e.m.f 12v for 0.4s aback emf of 3v was induced durig this period . The store in the loop that can be utilized is",
+      "options": [
+        "12j",
+        "24j",
+        "9.6j",
+        "7.2j"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Platinum wave of 80cm long is to have a resistance of 0.1ohms. What should its diameter be. Resistivity in platinum is 1.1x 10-7 ohms",
+      "options": [
+        "3.20",
+        "1.06",
+        "2.87",
+        "7.2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "1hp is ____________",
+      "options": [
+        "741w",
+        "746w",
+        "766w"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Unit of magnetic induction is _____________",
+      "options": [
+        "Tesla",
+        "ampere",
+        "couloumb",
+        "farad"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A bint of charge of 2x10-7c experience force of 0..02N in the electric field . Calculate the magnitude strength of the field",
+      "options": [
+        "4x109N/C",
+        "1x 10-5N/C",
+        "1x 10-9",
+        "1x104 N/C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The unit of power is _____________",
+      "options": [
+        "joules",
+        "ms-1",
+        "watts",
+        "candela"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a property of compound microscope",
+      "options": [
+        "Less distortion",
+        "smaller magnification",
+        "single converging lens",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "1amu = ___________________",
+      "options": [
+        "931mev",
+        "1 x 10-19 mev",
+        "421 mev"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Three capacitors of capacitance 2uf, 4uf, and a p.d of 6v is maintained across each capacitor the total energy stored is",
+      "options": [
+        "2.91 x10-4",
+        "2.91 x 104",
+        "6.90 x 10-6",
+        "6.90 x 10 -6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Mirror that is thinner in the middle and thicker at the end is _____________",
+      "options": [
+        "Convex mirror",
+        "Concave mirror",
+        "Converging lens",
+        "Diverging lens"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following will not receive the ultrasonic",
+      "options": [
+        "Light",
+        "cat",
+        "human being",
+        "bat"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many lens does compound microscope have",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Relative vapour density is measured ______________",
+      "options": [
+        "Hydrometer",
+        "hygrometer",
+        "spectrometer",
+        "manometer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "________________ is used to measure the refractive index of a glass",
+      "options": [
+        "Optical instrument",
+        "photometer",
+        "spectrometer",
+        "kaleidoscope"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The S.I unit of magnetic induction is ________________",
+      "options": [
+        "Tesla",
+        "coulomb",
+        "ampere",
+        "farad"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Quantity of charge (Q) is equal to ______________",
+      "options": [
+        "IR",
+        "IV",
+        "QV",
+        "VT"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Ohm’s law is",
+      "options": [
+        "V=RR",
+        "V=R/I",
+        "V=I/R",
+        "V=IR"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are illuminous except",
+      "options": [
+        "candle",
+        "touch",
+        "Sun",
+        "Ray of light"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The path followed flow of electric current is _______________",
+      "options": [
+        "Ampere",
+        "Voltage",
+        "Circuit",
+        "Conduction"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which is a means of generating luminous source of light",
+      "options": [
+        "All of the above",
+        "thermal conduction of molecules",
+        "Vibration of molecules",
+        "Harmonic motion of molecules"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In which of the following material medium will sound travel faster",
+      "options": [
+        "Oil",
+        "Water",
+        "Metal",
+        "Gas"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Oscillation are damped due to process, that when a particle executing S.H.M process through the mean passes through the mean position it has",
+      "options": [
+        "Maximum K.E and maximum P.E",
+        "Minimum K.E and minimum P.E",
+        "Maximum K.E and minimum P.E",
+        "Maximum K.E and maximum K.E"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A galvanometer measuring current 0 to 1 mf, has a resistance of 40 ohms. What is the value of resistor in parallel the galvanometer will use to measure current 0 to 1 amps",
+      "options": [
+        "2.5 ohms",
+        "0.24 ohms",
+        "0.04 ohms",
+        "1.42 ohms"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A radio is operated eight cell each of e.m.f 20v connected in series of the cell are wrongly connected the next e.m.f of the radio is",
+      "options": [
+        "16v",
+        "10v",
+        "12v",
+        "8v"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "0 has the power loss is the cable",
+      "options": [
+        "4.00",
+        "0.1",
+        "10.0",
+        "80.0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Any system which obeys ______________ can exhibit s.h.m",
+      "options": [
+        "Kirchoff’s law",
+        "Hooke’s law",
+        "Thevenin’s law"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Examples of optical instrument except",
+      "options": [
+        "Telescope",
+        "scanner",
+        "camera",
+        "projector a. In moving one coulomb of electricity b. Is rate of applying force c. In overcoming internal resistance"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The instrument used for securing a large number of similar charges induction is called",
+      "options": [
+        "Electrophorus",
+        "electroscope",
+        "proofplane d capacitor"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The velocity of S.H.M at mean position is",
+      "options": [
+        "Negative",
+        "zero",
+        "maximum",
+        "minimum"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a secondary colour",
+      "options": [
+        "Blue",
+        "orange",
+        "green",
+        "red"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The resultant force of a couple is",
+      "options": [
+        "0.5",
+        "infinity",
+        "1.0",
+        "zero"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The frequency and wavelength of a light travelling from one medim to another medium is",
+      "options": [
+        "Unchanged, unchanged",
+        "changed, unchanged",
+        "changed, changed",
+        "unchanged, changed"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The angle of deviation of light of various colour through glass prism decrease in order of",
+      "options": [
+        "blue,orange,red",
+        "red, orange, blue",
+        "blue, red ,orange",
+        "red, blue, orange"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the increase in length when 1000cm of steel wire of linear expansivuty 1.2 x 105 per degree celcius is heated from 0 to 500C",
+      "options": [
+        "1006.0cm",
+        "6 x 10-3cm",
+        "6 x 10-4cm",
+        "1.2 x 10-2 cm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Charge of magnitude 2 x 10-4C experiences a force of 100N in an electric field. Find the electric field Intensity.",
+      "options": [
+        "5 x 105 N/C",
+        "4 x 105 N/C",
+        "2.4 x 105 N/C",
+        "3.4 x 105 N/C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Potential and kinetic energy are collectively called",
+      "options": [
+        "renewable energy",
+        "gravitational energy",
+        "mechanical energy",
+        "elastic energy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass 100g and it extends 15cm. Calculate the frequency of amall vertical oscillation (take g = 10m/s)",
+      "options": [
+        "2.25hz",
+        "1.30hz",
+        "0.23hz d.1.59hz"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Electrical appliances at home are usually earthed so that",
+      "options": [
+        "The AC and DC sources can be used",
+        "The appliances are maintained at higher p.d than the earth",
+        "The appliances are maintained at lower p.d than the earth",
+        "A person touching the appliances is safe from the electric shock"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a magnetic material",
+      "options": [
+        "iron",
+        "steel",
+        "cobalt",
+        "copper"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following instrument does not have high resistance",
+      "options": [
+        "galvanometer",
+        "ammeter",
+        "voltmeter",
+        "millimeter"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An ideal gas performs 800j of work with 500j of heat energy. What is the value of its internal energy",
+      "options": [
+        "-1300j",
+        "300j",
+        "300j",
+        "1300j"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A dipole with charges 6 x 10-19 is placed in an electric field of magnitude 5 x 105 N/C. find the net force exerted the field on the dipole",
+      "options": [
+        "0N",
+        "11 x 10-19 N",
+        "30 x 10-14N",
+        "0.12N"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light source emits visible light ___________ different medium within the source",
+      "options": [
+        "Totally",
+        "independently",
+        "collectively",
+        "dependently"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The current in 240 ohms light bulbs connected in series with a 120v power source is",
+      "options": [
+        "1.45A",
+        "0.25A",
+        "0.86A d."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is an example of opticals",
+      "options": [
+        "telescope",
+        "camera",
+        "projector",
+        "scanner"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If a = -kx and the motion is SHM. What will the motion be if the –ve changed to =ve",
+      "options": [
+        "SHM",
+        "translational",
+        "random",
+        "oscillatory"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An instrument used in measuring the refractive index of glass is",
+      "options": [
+        "Refractometer",
+        "spectrometer",
+        "collimator b. photometer \\"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An instrument used to measure the relative density of an acid in a car engine is",
+      "options": [
+        "hygrometer",
+        "hydrometer",
+        "manometer",
+        "barometer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following devices is total internal reflection not applicable to",
+      "options": [
+        "kaleidoscope",
+        "prism binocular",
+        "periscope",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A platinum wire of 80cm long is to have a reistance of 0.1ohms. what should be its diameter (resistivity of platinum is 1.1 x 10-7 ohm metre )",
+      "options": [
+        "1.06mm",
+        "3.20mm",
+        "2.87mm",
+        "2.00mm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A material object such as clothing is visible to human eye only because it reflects in a ___________ manner away from its surface",
+      "options": [
+        "Absorbed",
+        "specular",
+        "diffuse",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Power is the rate of ______________",
+      "options": [
+        "displacement",
+        "force",
+        "work",
+        "energy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is correct of an object placed beyond centre of curvature of a convex mirror",
+      "options": [
+        "Virtual,erect, magnified",
+        "virtual, erect , diminished",
+        "real, infra red ,magnified",
+        "real, erect, diminished"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Density is the property of matter, defined as the ratio of an object to its",
+      "options": [
+        "extensive volume matter",
+        "extensive volume mass",
+        "extensive mass volume",
+        "extensive matter volume"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The ball in a bowl exhibit what type of motion",
+      "options": [
+        "SHM",
+        "damped motion",
+        "Rational motion",
+        "oscillatory motion"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The unit of oscillation is ______________",
+      "options": [
+        "candela",
+        "lux",
+        "lux per squqre meter",
+        "lumen"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The change of direction of wave front due to a change in its velocity is called",
+      "options": [
+        "diffraction",
+        "reflection",
+        "refraction",
+        "interference"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An electric current has the following except",
+      "options": [
+        "magnetic",
+        "chemical",
+        "heating",
+        "turning"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When friction reduces mechanical energy of system as time passes, motion is said to be",
+      "options": [
+        "Linear",
+        "random",
+        "damped",
+        "simple"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following instrument will accurately measure the emf of a cell",
+      "options": [
+        "voltmeter",
+        "galvanometer",
+        "ammeter",
+        "potentiometer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are the defects of lenses except",
+      "options": [
+        "coma",
+        "accommodation",
+        "distortion",
+        "chromatic abbreviation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The path followed flow of electric current is called",
+      "options": [
+        "ampere",
+        "conduction",
+        "circuit",
+        "voltage"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which waves are used for underwater communication",
+      "options": [
+        "radiowave",
+        "microwave",
+        "infrasonic wave",
+        "ultrasonic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In cars spring are damped",
+      "options": [
+        "shock absorbers",
+        "brake pedals",
+        "tyres",
+        "engines"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The opposition of material medium to current flow is called",
+      "options": [
+        "conductor",
+        "resistor",
+        "resistance",
+        "current"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All the following are effect of dielectric material on capacitor except",
+      "options": [
+        "Keep the plate apart",
+        "raise the capacitor relative to air",
+        "relocate the electrons between the plates",
+        "reduce the chance of electric breakdown"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "it is required to transport 200kw of electrical energy of 40v. calculate the current that should flow in the conductor",
+      "options": [
+        "50A",
+        "5A",
+        "0.5A",
+        "0.05A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "5T. The maximum force acting on it is",
+      "options": [
+        "8.0N",
+        "3.2n",
+        "0.2N",
+        "0.8N"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A galvanometer measuring current from 0 to 1 ma, has a resistance of 40 ohms. What value of resistor in parallel will the galvanometer use to measure current from 0 to 1 ma",
+      "options": [
+        "2.53ohms",
+        "0.04onms",
+        "1.42 ohms",
+        "0.24ohms"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A convex mrror of focal length 20m and image distance 15cm, find the object distance",
+      "options": [
+        "40cm",
+        "30cm",
+        "60cm",
+        "70cm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Resultant force of a couple is",
+      "options": [
+        "1.0",
+        "Infinity",
+        "zero",
+        "0.5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Two resistors of 3 ohms and 5.0 ohms are connected in parallel",
+      "options": [
+        "5 x 105 N/C",
+        "3.4 x 105N/C",
+        "4.0 x 105 N/C",
+        "2.4 x 105N/C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are the properties of simple microscope except",
+      "options": [
+        "Virtual",
+        "small magnification",
+        "less distorted",
+        "object placed between principal focus and the lens"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Artificial damped oscillations are",
+      "options": [
+        "Solid, critical, light",
+        "light , solid, heavy",
+        "heavy, light",
+        "heavy, solid"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Critical angle of glass is",
+      "options": [
+        "300",
+        "450",
+        "500 d.420"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are the gravity of repetitive to & fro motion about a mean position",
+      "options": [
+        "A car going to kano",
+        "Mass hanging from a coil spring",
+        "The balance wheel of a watch",
+        "The pistol ring of gasoline engine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Free oscillations are such oscillations with constant amplitude & periods with",
+      "options": [
+        "Small influence",
+        "every influence",
+        "external influence",
+        "no influence"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A spherical mirror whose inner curve surface is",
+      "options": [
+        "Concave",
+        "convex",
+        "plane mirror",
+        "silver"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If an object moves forward and backward repeatedly, it’s",
+      "options": [
+        "Revolving",
+        "rotating",
+        "motion",
+        "oscillating"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The lens with a long focal length",
+      "options": [
+        "Thin",
+        "large",
+        "thick",
+        "small"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When a brick is moving toward the moon its mass",
+      "options": [
+        "Reduce",
+        "increase",
+        "zero",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The illuminance E for a light source incident perpendicular on a flat surface can be expressed as",
+      "options": [
+        "cos/R2",
+        "R2cos",
+        "I/R2",
+        "(Icos)R2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_____________ is the type of surface that can reflect a beam of light in one direction rralinstead of either scattering it widely absorbing it",
+      "options": [
+        "Mirror",
+        "prism",
+        "glass",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Natural damped oscillations are due to _____________ in a spring and fluids exerting a viscous drag",
+      "options": [
+        "gravitational force",
+        "internal forces",
+        "external forces",
+        "resulting forces"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Smooth is _______________",
+      "options": [
+        "irregular plane",
+        "regular plane",
+        "irregular lens",
+        "regular lens"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Watt is equivalent to _______________",
+      "options": [
+        "Nm/s",
+        "Ns",
+        "kgm2s2 d.js"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Water wave is an _______________",
+      "options": [
+        "electromagnetic wave",
+        "mechanical wave",
+        "longitudinal wave",
+        "transverse wave"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When a friction reduces mechanical energy of a system as time passess/ motion is said to be",
+      "options": [
+        "linear",
+        "random",
+        "damped",
+        "simple"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The tendency of a body to remain at rest or to continue its state of uniform motion is called",
+      "options": [
+        "resistance",
+        "tension",
+        "friction d .inertia"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A radio is operated 8cell each of emf 2.0v connected in series if two of the cell are wrongly connected . the net emf of the radio is",
+      "options": [
+        "12v",
+        "10v",
+        "16v",
+        "8v"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The purpose of a dieletric material in a parallel plate capacitor is to",
+      "options": [
+        "Decrease its capacitance",
+        "Increase the magnetic field between the plate",
+        "Insulate the plate from the resultant force of a couple",
+        "None of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Velocity of surface if M that means position is always",
+      "options": [
+        "Negative",
+        "zero",
+        "minimum",
+        "maximum"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When a brick is taken from the earth’s surface to the moon, its means",
+      "options": [
+        "Reduce",
+        "becomes zero",
+        "increases",
+        "remains constant"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following has the highest resistance",
+      "options": [
+        "millimeter",
+        "voltmeter",
+        "potentiometer",
+        "galvanometer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Density of a property of matter, defines as the ratio of an object to its.",
+      "options": [
+        "Intensive, mass volume",
+        "Extensive, volume , mass",
+        "Intensive, matter , volume",
+        "Extensive , volume , matter"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A cell whose internal resistance is 0.5ohms delivers a current of 4A to an external resistor. The lost voltage of the cell is",
+      "options": [
+        "1.25v",
+        "0.125v",
+        "8.00v",
+        "2.00v"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A device used in decreasing the visual angle to the eye an object being observed is ________________",
+      "options": [
+        "all of the above",
+        "mirror",
+        "lens",
+        "optical instrument"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In concave mirror, the size of the image depends on _________________",
+      "options": [
+        "Position of the object",
+        "Shape of the object",
+        "Size of the object",
+        "Area covered the object"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are examples of couple except",
+      "options": [
+        "Forces in the drivers hand applied to a steering wheel",
+        "Forces in the hand of someone turning the tap",
+        "The forces experience two sides of a suspended rectangular cat carrying a current in magnetic field",
+        "In a simple pendulum"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All the following are the effects of dielectric materials on capacitors except",
+      "options": [
+        "Keep the plates apart",
+        "Raise the capacitor of capacitance relative to air",
+        "Reduce the chance of electric breakdown",
+        "Relocate the electrons between the plates"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is correct in terms of decreasing wavelength",
+      "options": [
+        "Yellow, orange , red",
+        "Violet , indigo , blue",
+        "Yellow , green ,red",
+        "Blue, indigo, violet"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Much ____________ are obtained when cells are joined in series",
+      "options": [
+        "Resistance",
+        "current",
+        "friction",
+        "potential difference"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A moving coil galvanometer measures dc and not ac unless it is used with a",
+      "options": [
+        "Ammeter",
+        "hair spring",
+        "rectifier",
+        "wire"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The eye defect in which forms infinity to the eye converged from the retina can be corrected",
+      "options": [
+        "diverging lens",
+        "converging mirror",
+        "concave mirror",
+        "converging lens"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not an S.I unit",
+      "options": [
+        "Kg",
+        "m",
+        "l",
+        "secs"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A simple microscope forms an image twice the size of the object if the focal length of the microscope is 10, how far is the object",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "12"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The reflection rough surface is called",
+      "options": [
+        "irregular refraction",
+        "regular diffraction",
+        "irregular reflection",
+        "regular reflection"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A galvanometer measuring current from 0 to 1 amps has a resistance of 40ohms. What value of the resistor In parallel to the galvanometer will be used to measure current from 0 to 1 amps",
+      "options": [
+        "0.04 Ω",
+        "1.42Ω",
+        "2.53 Ω d."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The coefficient of friction between a perfectly smooth body and a very rough body is",
+      "options": [
+        "1",
+        "0.5",
+        "2",
+        "0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the electric dipole length of the charge 6 x 10-9C are separated 0.125N/m",
+      "options": [
+        "2 x 10-29",
+        "2.19 x 10-29",
+        "2.2 x 10-9"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "1ev is equivalent to ____________",
+      "options": [
+        "764hp",
+        "732hp",
+        "746hp",
+        "744hp"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A force produced with a resistive force is called",
+      "options": [
+        "damped",
+        "random",
+        "translational"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Speed (v) of wave is = product of frequency and",
+      "options": [
+        "Vibration",
+        "wave length",
+        "amplitude",
+        "time period"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A steady current of 2A flows in a coil of emf 12v from 0.4 secs. A back emf of 30v was induced durig this period. The stored energy in the loop that can be utilized is",
+      "options": [
+        "2.4",
+        "12.0",
+        "9.6",
+        "0.2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A point charge of 2.07 x 10-7 experiences a force of 0.2N in a uniform ekectric field, compute the magnitude of the strength of the field",
+      "options": [
+        "1 x 104 n/s",
+        "4 x 10-5n/s",
+        "1 x 10-5n/s",
+        "1 x 10 -9n/s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "the following are the advantages of potentiometer except",
+      "options": [
+        "connecting wires may be thin",
+        "slow to use",
+        "no current is drawn from the circuit under test",
+        "Scale can be varied and made long"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following can not travel in a vacuum",
+      "options": [
+        "Sound",
+        "visible",
+        "gamma",
+        "radio"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The change of direction of wave front due to a change in velocity is called",
+      "options": [
+        "diffraction",
+        "refraction",
+        "reflection",
+        "interference"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The lens with a long focal length is",
+      "options": [
+        "Not strongly curve",
+        "both b and c",
+        "thick",
+        "thin"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A charge of magnitude 2 x 10-4C experiences a force of loss in electric field. Find the electric field intensity",
+      "options": [
+        "5 x 105N/C",
+        "3.4 x 105 N/C",
+        "2.4 x 105N/C",
+        "4 x 10-5N/C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light of spiral spring is loaded with mass 150g and it extends 20cm (g=10m/s). Calculate the frequency",
+      "options": [
+        "1.13 hz",
+        "2.56hz",
+        "0.16hz"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Convex mirror is used as drawing mirrors because",
+      "options": [
+        "Erect and virtual images",
+        "wide field of views",
+        "it produces upright and diminished images"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_________________ is used to measure the acid of a car battery",
+      "options": [
+        "Barometer",
+        "hydrometer",
+        "hygrometer",
+        "manometer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The emission and absorption of light can be nest explained using",
+      "options": [
+        "Reflection model",
+        "wave model",
+        "refraction model",
+        "particle model"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An object is placed 30.0cm from a converging lens. If the real image formed is 90.0 cm from the object, what is the focal length",
+      "options": [
+        "20.0 cm",
+        "50.0cm",
+        "22.5cm",
+        "60.0cm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the angle of refraction for a light ray of wave length 589mm travelling from air to crownglass at 300 normal to the surface is",
+      "options": [
+        "41.10",
+        "600",
+        "90.20",
+        "300"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When a stone is taken from earth to the moon. The mass of the stone will",
+      "options": [
+        "Increase",
+        "decrease",
+        "remain constant",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In an inductive circuit ,",
+      "options": [
+        "Current lacks voltage 900",
+        "Voltage leaves current 900",
+        "Current leaves voltage 900",
+        "Current lacks voltage 900"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A point on the principal axis at the centre of the ray is what",
+      "options": [
+        "Principal axis",
+        "Optical centre",
+        "Focal length length",
+        "Principal focus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The inability of eye to see the objects clearly is called",
+      "options": [
+        "Clarity of images",
+        "Blurr images",
+        "Defects of vision",
+        "Small images"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A copper wire has a resistance of 10.0ohms at 200C. what will be the resistance of 800C",
+      "options": [
+        "1.20 ohms",
+        "5.5ohms",
+        "2.4ohms",
+        "4.6ohms"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The nature of light is wave as well as particle of its nature is",
+      "options": [
+        "triple",
+        "single",
+        "dual",
+        "negative"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For a diverging lens, the focal length is _______________",
+      "options": [
+        "negative",
+        "zero",
+        "positive",
+        "constant"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Electric current has the following effects except",
+      "options": [
+        "heating effect",
+        "chemical effect",
+        "turning effect",
+        "magnetic effect"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The close surface in gauss law is called",
+      "options": [
+        "Gauss keyboard",
+        "Gauss sphere",
+        "Gauss surface",
+        "None of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_________________ is a type of surface that can reflect a seam of light in one direction instead of scattering.",
+      "options": [
+        "all of the above",
+        "mirror",
+        "prism",
+        "lens"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A telescope using a converging lens is",
+      "options": [
+        "Simple telescope",
+        "Compound microscope",
+        "Refracting lens",
+        "Reflecting lens"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are uses of static electricity",
+      "options": [
+        "Polythene fabrication",
+        "Electrostatic paintspray",
+        "Electrostatic dust collector",
+        "Galden spray"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The distance between optic center and principal focus is",
+      "options": [
+        "Focal length",
+        "Lens length",
+        "Radius",
+        "Focel length"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following does not change during refraction",
+      "options": [
+        "Wave length",
+        "direction",
+        "frequency",
+        "speed"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The current passing through a semi – conductor is directly proportional to its Potential difference indicates",
+      "options": [
+        "Couloumb’s law",
+        "Ohm’s law",
+        "Faraday’s law",
+        "Lenz law"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A p.d of 3.6v is maintained between a plate which are 30cm apart. Calculate the intensity",
+      "options": [
+        "4 v/m",
+        "1.8 v/m",
+        "18 v/m",
+        "12 v/m"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A cell whose internal resistance is 0.50 ohms delivers a current of 4A to all external resistors. The lost voltage of the cell is",
+      "options": [
+        "2.00v",
+        "0.125v",
+        "8.00v",
+        "1.250v"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A mirror curves inwardly",
+      "options": [
+        "Concave mirror",
+        "convex mirror",
+        "reflection mirror",
+        "plain mirror"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 100 waves pass thrugh a medium in 20s and their wavelength is 6cm. then velocity is",
+      "options": [
+        "2.5m/s",
+        "0.5m/s",
+        "0.31m/s",
+        "1m/s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The lens with the long focal length is _____________",
+      "options": [
+        "Both b and c",
+        "Thin",
+        "Thick",
+        "Not strongly curved"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A positive charge 3mc is surrounded a sphere with a radius of 0.02cm centered on the charge . find the electric flux through the sphere due to this charge",
+      "options": [
+        "6.15 x 105N/C",
+        "6.56 x 105N/C",
+        "6 x 105N/C",
+        "6.75 x 105N/C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Current through a metallic conductor is directly proportional to the potential difference across its end, all other condition constant is",
+      "options": [
+        "Ohm’s law",
+        "Joule’s law",
+        "Coulomb’s law",
+        "Newton’s law"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A potential difference of 3.6V is maintained between two plates 30cm apart. The electric field intensity is",
+      "options": [
+        "4.0",
+        "12.0",
+        "18.0",
+        "1.8"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the electric field intensity of 30cm from a charged body Q = 4×10-9C (E=8.85×10-12)",
+      "options": [
+        "1.199N/C",
+        "399.6N/C",
+        "11.99N/C",
+        "119.9N/C"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Static electricity can also be",
+      "options": [
+        "electric current",
+        "electrostatics",
+        "all of the above",
+        "electric charge"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Unit of electric field intensity is",
+      "options": [
+        "Newton per Kelvin",
+        "Newton per farad",
+        "Newton per Coulomb",
+        "Newton per metre"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A periscope makes use of",
+      "options": [
+        "2 plane mirrors",
+        "3 plane mirrors",
+        "3 spherical mirrors",
+        "2 spherical mirrors"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a concave mirror, when the object is at the centre of curvature, the size of image",
+      "options": [
+        "was too small",
+        "would have th centre of curvature",
+        "would have been greatly magnified",
+        "would have amplitude"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In a S.H.M motion, the equation relating the acceleration",
+      "options": [
+        "and displacement (x) is a = -Kx, the negative sign in the equation shows that at that instant (a) the sign is just there",
+        "the displacement is downward, the acceleration directed upward the equilibrium position",
+        "the acceleration is partly proportional to displacement",
+        "the velocity is involved"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A coil of negligible resistance has 50V across it ends with 10mA. The inductive reactance is",
+      "options": [
+        "50Ω",
+        "500Ω",
+        "5000Ω"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The high voltage across the spark plugs of an ignition system in a motor car is supplied",
+      "options": [
+        "carburetor",
+        "capacitor",
+        "induction coil",
+        "alternator"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______________ is the capability of a material object to store electric charge",
+      "options": [
+        "inductance",
+        "capacitance",
+        "reactance",
+        "impedance"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A variable capacitor is permanently connected to a 100V battery. If the capacitance is charged from 10μF to 2μF, the energy changed is",
+      "options": [
+        "8×10-2J to battery",
+        "14×10-2J to battery",
+        "4×10-2J to battery",
+        "12×10-2J to battery"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The watt is equivalent to",
+      "options": [
+        "kgm2s-2",
+        "Ns",
+        "Js",
+        "Nm/s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a magnet material",
+      "options": [
+        "steel",
+        "iron",
+        "cobalt",
+        "copper"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The galvanometer can be modified for use as a voltmeter when a resistance of high value is connected to it in",
+      "options": [
+        "series",
+        "horizontally",
+        "in parallel",
+        "perpendicularly"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the electric field intensity at 30cm from a charged body Q = 4×10-9C (ℇ = 8.85×10-12F/m)",
+      "options": [
+        "399.6N/C",
+        "119.9N/C",
+        "11.99N/C",
+        "1.199N/C"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A prism (n=1.5) has a refracting angle of 300. The deviation of a monochromatic ray incident normally on its one surface will be",
+      "options": [
+        "19.50",
+        "160",
+        "18.60",
+        "20.50"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "An object is placed at a distance of 10cm in front of a double convex lens made of glass of refractive index 1.5 both the radii of curvature of the lens are 20cm in magnitude. What is the position of the image formed",
+      "options": [
+        "-20cm",
+        "-35cm",
+        "10cm",
+        "20cm Answer:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The car-view mirrors of the vehicle should produce",
+      "options": [
+        "diminished, virtual and erect image",
+        "magnified, inverted image",
+        "inverted and diminished",
+        "magnified and erect Answer:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A galvanometer measuring current from 0 to 1mA has a resistance of 40ohms. What value of resistor in parallel the galvanometer will use to measure current from 0 to 1A",
+      "options": [
+        "0.24ohms",
+        "1.42ohms",
+        "0.04ohms",
+        "2.53ohms"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A copper wire has a resistance of 10ohms at 200C. What will be the resistance at Answer: D 800C",
+      "options": [
+        "4.6ohms",
+        "5.5ohms",
+        "1.2ohms",
+        "2.4ohms"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The condition for parallel connection of resistors are the following except",
+      "options": [
+        "total resistance is the sum of the reciprocal of the individual resistance",
+        "total resistance is the sum of all the individual resistance",
+        "the voltage across each resistor is equal",
+        "total current in the circuit is equal to the sum of the individual current"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A 600 prism is made of glass whose refractive index for a certain light is 1.60. At what angle of incidence with minimum deviation occur",
+      "options": [
+        "53.10",
+        "63.20",
+        ""
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the frequency of a wave of wavelength 300m if the velocity of the wave is 3×108m/s",
+      "options": [
+        "100MHz",
+        "1MHz",
+        "9MHz",
+        "900MHz"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In a pure inductive A.C circuit",
+      "options": [
+        "current lags voltage 900",
+        "current leads voltage 450",
+        "current lags voltage 450",
+        "current leads voltage 900"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A wire of uniform cross sectional area has a length of 10m, a resistance of 2Ω and resistivity of 2×10-7Ωm. The cross sectional area in m2 is",
+      "options": [
+        "1×10-6",
+        "2×10-4",
+        "0.5×10-5",
+        "1×10-5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The unit of magnetic induction is",
+      "options": [
+        "tesla",
+        "ampere",
+        "coulomb",
+        "farad"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A moving coil galvanometer measured direct current not alternate current unless it is used with a",
+      "options": [
+        "rectifier",
+        "ammeter",
+        "hairspring",
+        "wire"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When the number of electrons is equal to the number of protons, the body is said to be",
+      "options": [
+        "static",
+        "perfect",
+        "neutral",
+        "charged"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The unit of electric field intensity is",
+      "options": [
+        "newton per farad",
+        "newton per metre",
+        "newton per kelvin",
+        "newton per coulomb"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "An object 0.5cm high is placed from a convex lens of 10cm focal length, find the size of the image",
+      "options": [
+        "2.5cm",
+        "5cm",
+        "-2.5cm",
+        "3.5cm"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A real image is formed intersection of the ____________ of light",
+      "options": [
+        "rays",
+        "real rays",
+        "virtual rays",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The unit of luminous flux is ______________",
+      "options": [
+        "candela per metre square",
+        "lux",
+        "lumen",
+        "candela"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Natural damped oscillations are due to ____________ in a spring and fluids exerting a viscous dong",
+      "options": [
+        "gravitational forces",
+        "external forces",
+        "internal forces",
+        "resulting forces"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In an acoustic device, the pitch can be increased",
+      "options": [
+        "decreasing the loudness",
+        "increasing the amplitude",
+        "decreasing the intensity",
+        "increasing the frequency"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What is the magnification of an image formed an object 10cm distant from a 1 1 concave mirror of focal length 2cm",
+      "options": [
+        "-25",
+        "25",
+        "",
+        "25 25"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A 1000V 250V transformer has 500 turns on a secondary, the number of turns on the primary coil is",
+      "options": [
+        "250",
+        "2000",
+        "125",
+        "1000"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Opposition presented to an A.C inductance/capacitance is called",
+      "options": [
+        "impedance",
+        "circuit",
+        "reactance",
+        "inductance"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "____________ is the tendency of an electrical conductor to opposes a change in electrical current flowing in it",
+      "options": [
+        "reactance",
+        "impedance",
+        "inductance",
+        "resistance"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A wire of length 90.0mm and diameter 0.3mm, resistivity = 11×10-6Ωm, find the resistance of the wire",
+      "options": [
+        "12",
+        "10",
+        "13",
+        "14"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A metal wire of mass 1g and length 50cm is under a tension of 80N. Find the frequency of the first overtime",
+      "options": [
+        "400Hz",
+        "300Hz",
+        "200Hz",
+        "500Hz"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A 200g mass is attached to perform S.H.M horizontally with amplitude of 4cm. If the force constant of the spring is 2w/m, the tune for one complete oscillation is",
+      "options": [
+        "2.00s",
+        "1.78s",
+        "1.50s",
+        "0.56s"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Static electricity is used in the following except",
+      "options": [
+        "glass cutting",
+        "xerography",
+        "air filters",
+        "coating processes in manufacturing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Electric potential is also represented as",
+      "options": [
+        "electric current",
+        "electric charge",
+        "voltage",
+        "electric field intensity"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Given the power of lens to be -4, what is the focal length of the lens?",
+      "options": [
+        "-4m",
+        "-2m",
+        "-0.25m",
+        "0.25m"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The color of rainbow are formed ____________ phenomenon",
+      "options": [
+        "dispersion",
+        "refraction",
+        "reflection",
+        "diffusion"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Any path of electron flow is",
+      "options": [
+        "circuit",
+        "inductance",
+        "impedance",
+        "reactance"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A cross sectional area has length 10cm, resistance 2Ω, resistivity 2×10-7Ωm. Find the area",
+      "options": [
+        "0.5×10-5",
+        "1×10-6",
+        "1×10-5",
+        "2×10-4"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "How much current is drawn 60Ω ressitance with 12V",
+      "options": [
+        "0.5A",
+        "5A",
+        "0.2A",
+        "2A"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass 50g and it extends 10cm. Calculate T (g = 10m/s2)",
+      "options": [
+        "0.6",
+        "4.1",
+        "2.0",
+        "9.6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the electric field of an object whose potential is 3.6V and distance of 30cm",
+      "options": [
+        "12.0NC-1",
+        "8NC-1",
+        "24NC-1",
+        "18NC-1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The critical angle of water when reflected angle is 900 and refractive index for water and air are 1.33 and 1.0 is",
+      "options": [
+        "500",
+        "48.80",
+        "510",
+        "49.10"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following states that the force between two point charges separated a distance is directly proportional to the produce of the charges and inversely proportional to the square of the distance between the charges",
+      "options": [
+        "Coulomb’s",
+        "Faraday’s",
+        "Newton’s",
+        "Ohm’s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the acceleration of a body is directly proportional to its distance from a fixed point, the motion is",
+      "options": [
+        "random motion",
+        "simple harmonic motion",
+        "linear motion",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Concave mirror is applicable in the following except",
+      "options": [
+        "telescope",
+        "inner mirror of car",
+        "microscope",
+        "headlamp light"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Two resistors 3Ω and 5Ω are connected in parallel, the current of the 3Ω is 3A, find the current of the 5Ω",
+      "options": [
+        "3A",
+        "5A",
+        "1.8A",
+        "18A"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The induced E.M.F is opposite to the flow of current. Who stated the law?",
+      "options": [
+        "Lenz",
+        "Faraday",
+        "Maxwell",
+        "Newton"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Kinetic and potential energies are collectively called _____________",
+      "options": [
+        "light",
+        "mechanical",
+        "chemical",
+        "nuclear"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Given the distance of object from mirror to be 10cm and the focal length is 20cm. Find the magnification",
+      "options": [
+        "-1",
+        "- 2",
+        "- 3",
+        "3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A charge of magnitude 2×10-4C has an electric field intensity of 5×105N/C. Find the force experienced",
+      "options": [
+        "10N",
+        "100N",
+        "20N",
+        "200N"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The science of light measurement is referred to as",
+      "options": [
+        "photometry",
+        "optics",
+        "measurement",
+        "illumination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A simple pendulum of length 50.0m is performing S.H.M, the corresponding frequency and period are",
+      "options": [
+        "4.49 and 0.22",
+        "7.03 and 0.14",
+        "7.10 and 1.42 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The path followed electric current is called",
+      "options": [
+        "ampere",
+        "circuit",
+        "voltage",
+        "conduction"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the magnitude of the electric field at a field point 2m from a point charge of 4 nano coulomb",
+      "options": [
+        "9nC",
+        "0.9n/F",
+        "9n/m",
+        "9μC/C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following factors affect the capacitance of a capacitor except",
+      "options": [
+        "the distance between the plates",
+        "the common area of the plates",
+        "the colour of the capacitors",
+        "the nature of the dielectric of the plate"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Calculate the speed of sound in uniform steel rod of young modulus 2×1011N/m2 and density 7800kg/m3",
+      "options": [
+        "2.05×102m/s",
+        "5.06×103m/s",
+        "2.25×103m/s (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When the length of a vibrating string is tripled, its frequency of vibration is",
+      "options": [
+        "of its normal value",
+        "3 of its normal value",
+        "normal value 1 3 1 of its normal value",
+        "6 of its 6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Total internal reflection occurs when light panels from",
+      "options": [
+        "a denser medium to a rare medium with an angle of incident greater than critical angle",
+        "a rare medium to a denser medium",
+        "a denser medium to a rare medium",
+        "a rare medium to a denser medium with angle of incidence greater than critical angle"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a pure resistive A.C circuit, current and voltage are in",
+      "options": [
+        "phase root at 900 to each other",
+        "in peak",
+        "in phase at 00 to each other",
+        "none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Resonance occurs in series RLC circuit when the inductive reactance is",
+      "options": [
+        "equal to resistance",
+        "total impedance of the circuit is zero",
+        "equal to capacitive reactance",
+        "reactance of the circuit is zero"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The number of electric lines of force that intersect a given area is known as",
+      "options": [
+        "electric potential",
+        "electric flux",
+        "electric field",
+        "electric field intensity"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the velocity of light in steel, if the refractive index with respect to vacuum is 2.5",
+      "options": [
+        "5×108m/s",
+        "1.2×108m/s",
+        "1.2×1010m/s",
+        "2.5×108m/s"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass 350g and it extends 10cm. Calculate the period of vertical oscillation",
+      "options": [
+        "0.43s",
+        "0.63s",
+        "0.53s",
+        "1.25s"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "An electric current has the following effect except",
+      "options": [
+        "mechanical effect",
+        "heat effect",
+        "chemical effect",
+        "turning effect"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A transverse wave produced on a spring has a frequency of 200Hz and travels along length of a spring of 80m in 0.5second. what will be the wavelength of the transverse wave",
+      "options": [
+        "160m",
+        "0.8m",
+        "8m",
+        "122m"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A 0.01μF capacitor is charged to a potential of 500V. It is then connected to an instrument of input capacitance 1.00μF. The p.d across the instrument in volt is",
+      "options": [
+        "5.00",
+        "4.59",
+        "49.5",
+        "4.00"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A 20 turns coils has an inductance of 12mH. If the number of turns is increased to 400 turns, with all other parameters the same, the inductance of the coil is",
+      "options": [
+        "48mH",
+        "6mH",
+        "24mH",
+        "14mH"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A coil of negligible resistance has 50V across its ends with 10mA. The resistance is",
+      "options": [
+        "500ohm",
+        "50ohm",
+        "1000ohm",
+        "5000ohm"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The current in two 240ohms light bulbs connected in series with a 12V power source is",
+      "options": [
+        "0.25A",
+        "1.45A",
+        "0.22A",
+        "0.86A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An arrangement for storing of electricity or electric charges is called",
+      "options": [
+        "inductor",
+        "resistor",
+        "adaptor",
+        "capacitor"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Energy that results from the relationship between opposite charges is",
+      "options": [
+        "electromagnetism",
+        "electricity",
+        "electrodynamics",
+        "thermodynamics"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In a pure resistive circuit, current and voltage are",
+      "options": [
+        "in peak",
+        "are in root",
+        "900 to each other",
+        "are in phase"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "When a plane mirror is rotated through a certain angle, the reflected ray turns through twice as much and the size of the image",
+      "options": [
+        "is halved",
+        "is doubled",
+        "becomes infinite",
+        "remains the same"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "1kg body vibrates in S.H.M with a period of 0.0253 and an amplitude of 2.5cm. find the maximum speed",
+      "options": [
+        "0.25m/s",
+        "2.51m/s",
+        "4.25m/s",
+        "6.28m/s"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "One of the following is not an effect due to static electricity",
+      "options": [
+        "a bar of magnet attracts pieces of iron fillings",
+        "collection of dust on television screen",
+        "a wooden jumper worn over a nylon blouse gives sparks when taken off",
+        "a plastic comb rubbed with air attracts pieces of paper"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The E.M.F of a cell is defined as the workdone",
+      "options": [
+        "when the cell discharge current to external resistor",
+        "in moving the positive charge round the circuit",
+        "in overcoming the internal resistance",
+        "in moving one coulomb of electricity round a circuit"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Current through a metallic conductor is directly proportional to the potential difference across its end and all other conditions remains constant. It is",
+      "options": [
+        "Newton’s law",
+        "Coulomb’s law",
+        "Ohm’s law",
+        "Joule’s law"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A 200g mass is attached to perform S.H.M horizontally with an amplitude of 4cm. If the force constant of the spring is 25N/m, what is the time for one complete oscullation",
+      "options": [
+        "0.56s",
+        "1.50s",
+        "2.00s",
+        "1.78s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A waveform, a crest and the adjacent trough are out of phase",
+      "options": [
+        "2700",
+        "1800",
+        "900",
+        "450"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The unit of luminous intensity is ____________",
+      "options": [
+        "candela",
+        "lux",
+        "lumen",
+        "candela per square metre"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a wave, the maximum displacement of particles from the equilibrium position is called",
+      "options": [
+        "amplitude",
+        "period",
+        "wavelength",
+        "frequency"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The high voltage across the spark plugs of an ignition system in a motor car is supplied the",
+      "options": [
+        "capacitor",
+        "induction coil",
+        "alternator",
+        "carburetor"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The potentiometer is used to measure all except",
+      "options": [
+        "period",
+        "potential difference",
+        "internal resistance",
+        "current"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Three capacitors of value 8 microfarad, 16 microfarad and 32 microfarad are connected in series, the total capacitance will be",
+      "options": [
+        "7.32μF",
+        "32μF",
+        "56μF",
+        "32 μF"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "If ebonite is rubbed with fur, the ebonite becomes",
+      "options": [
+        "perfect",
+        "neutral",
+        "positive charge",
+        "negative charge"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The following are the uses of concave mirror except",
+      "options": [
+        "dental mirror",
+        "inside driving car",
+        "reflecting telescope",
+        "headlamp reflections"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Mirage is an example of",
+      "options": [
+        "scattering of light",
+        "reflection of light",
+        "total internal of light",
+        "refraction of light"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "2×105N/C. Find its acceleration (mass of electron = 9.1×10-31kg)",
+      "options": [
+        "7.50×1023N",
+        "2.11×106N",
+        "1.33×10-24N",
+        "1.92×1014N"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following instruments will accurately measure the e.m.f of cell",
+      "options": [
+        "voltmeter",
+        "galvanometer",
+        "potentiometer",
+        "ammeter"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "If an object is placed symmetrically between two plane mirrors inclined at angle of 720, then the total number of images formed is",
+      "options": [
+        "1",
+        "4",
+        "infinity",
+        "5"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "1000V 200V transformer has 500 turns on the secondary coil, the number of the turns of the primary coil is",
+      "options": [
+        "20000",
+        "10000",
+        "250",
+        "125"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "0×103N/C and is inclined at 300 to the field, calculate the electric flux",
+      "options": [
+        "5400",
+        "0.54",
+        "54",
+        "540"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "If glass is rubbed with silk, the silk becomes",
+      "options": [
+        "positively charged",
+        "negatively charged",
+        "all of the above",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A transformer connected to a 120V A.C power line has 200turns in its primary winding and 50turns in its secondary winding. The secondary is connected to a 100Ω light bulb. How much current is drawn from the input side of the power line",
+      "options": [
+        "0.300A",
+        "0.028A",
+        "0.045A",
+        "0.075A"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Free oscillations are simple harmonic oscillations with constant amplitude and period with _____________",
+      "options": [
+        "no external influence",
+        "with every influence",
+        "with small influence",
+        "external influence"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For a mass hanging on a coiled M was varied and corresponding (T) was recorded. On plotting T against M, a straight line graph was seen but it didn’t pass through the origin, what could have been responsible?",
+      "options": [
+        "the period was not stable",
+        "the mass of the spring was not taken into consideration",
+        "it was meant to be a curve",
+        "there was error in the first reading"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A region in which effect of the electric force can be felt is called",
+      "options": [
+        "forbidden gap",
+        "magnetic field",
+        "electric field",
+        "force field"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following increases the sensitivity of a galvanometer i. a string magnet ii. More turns on the coil iii. A light pointer",
+      "options": [
+        "I and ii",
+        "I, ii, iii",
+        "iii only",
+        "ii, iii"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "S.H.M is based on the principle of which law",
+      "options": [
+        "Boyle’s law",
+        "Newton’s law",
+        "Hooke’s law",
+        "all of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The arrangement of cell in series have the following except",
+      "options": [
+        "E.M.F of the battery is equal to sum of E.M.F of individual cells",
+        "the current on each cell and external circuit have the same magnitude",
+        "E..M.F of the battery is equal to the E.M.F of each separate cell at the moment",
+        "internal resistance of the battery is equal to sum of the internal resistance of individual cell"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Natural damped oscillations are due to",
+      "options": [
+        "resulting",
+        "internal forces",
+        "external force"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Gauss law states that the total electric flux through any closed surface is proportional to the",
+      "options": [
+        "total electric force inside the surface",
+        "total volume enclosed the surface",
+        "total electric field in the surface",
+        "total electric charge inside the surface"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Where is the image formed when an object is placed beyond the centre of curvature of concave mirror",
+      "options": [
+        "between focus and the centre of curvature",
+        "at the centre of curvature",
+        "at infinity",
+        "beyond the centre of curvature"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The blue colour of the sky and the reddish appearance of the sun at both sunrise and sunset are due to",
+      "options": [
+        "reflection",
+        "refraction",
+        "interference",
+        "scattering"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In simple harmonic motion, the equation relating the acceleration",
+      "options": [
+        "and displacement (x) is a = -Kx, then the negative sign in the equation shows that (a) the sign is just there",
+        "acceleration is partly proportional to the displacement",
+        "the velocity is involved",
+        "the displacement is downward and the acceleration is directed upward"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A resonating air column in a tube at one end emits its fundamental frequency when the effective length of the tube is 55.0cm. Calculate the frequency if the speed of sound in air is 330m/s",
+      "options": [
+        "100Hz",
+        "200Hz",
+        "300Hz",
+        "400Hz"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The tension in a sonometer wire is tripled, the ratio of the new frequency to the initial frequency is",
+      "options": [
+        "3: 1",
+        "1:3",
+        "1: 3",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An object 0.5cm high is placed from a convex lens of 10cm focal length, find the position of the image",
+      "options": [
+        "10.5cm from the lens",
+        "5cm from the lens",
+        "40cm from the lens",
+        "25cm from the lens"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Electro motive force of 16V is induced in coil of inductance 4H, find the change in current",
+      "options": [
+        "4",
+        "20",
+        "40",
+        "8"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A conductor of length 2m carries a current of 0.8A while kept in a magnetic flux density of 0.5T. The maximum force acting on it is",
+      "options": [
+        "0.8N",
+        "0.2N",
+        "3.2N",
+        "8.0N A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Moving coil galvanometer that is designed to measure D.C can be made to measure A.C connecting",
+      "options": [
+        "amplifier",
+        "rectifier",
+        "resistor",
+        "inverter B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the internal energy if a body does 800J of work applying 500J of energy",
+      "options": [
+        "300J",
+        "– 300J",
+        "1500J (c) – 1500J B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the mean position of S.H.M, the velocity is ________",
+      "options": [
+        "maximum",
+        "minimum",
+        "zero",
+        "negative A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the mean position of S.H.M, the P.E and K.E are ________",
+      "options": [
+        "the P.E is minimum and the K.E is maximum",
+        "the P.E is maximum and K.E is minimum",
+        "P.E is maximum and K.E is minimum",
+        "P.E is maximum and K.E is maximum A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the ray from infinity converge before reaching the retina, the type of eye defect can be corrected using ________",
+      "options": [
+        "diverging lens",
+        "converging lens",
+        "diverging mirror",
+        "converging mirror A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the electric field intensity if the distance is 30cm and the potential difference is 3.6V",
+      "options": [
+        "8Vm-1",
+        "10Vm-1",
+        "12Vm-1",
+        "14Vm-1 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Power is the rate of doing",
+      "options": [
+        "work",
+        "energy",
+        "stress",
+        "pressure A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When friction reduces mechanical energy of a system as time passes, motion is said to be",
+      "options": [
+        "damped",
+        "random",
+        "linear",
+        "simple A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If an object moves back and forth repeatedly around a mean position, it is",
+      "options": [
+        "rotating",
+        "accelerating",
+        "oscillating",
+        "revolving C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All of the following phenomenon can be explained the wave theory of light except",
+      "options": [
+        "diffraction",
+        "reflection",
+        "refraction",
+        "photoelectric effect D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An object is placed 3m in front of a plane mirror. If the object is moved 2m away from the mirror, what is the distance between the object and the image",
+      "options": [
+        "3m",
+        "5m",
+        "10m",
+        "0m C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Nature of light is wave as well as particle, thus, in nature, it is",
+      "options": [
+        "negative",
+        "triple",
+        "single",
+        "dual D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Who discovered static electricity?",
+      "options": [
+        "Maxwell",
+        "Ohm",
+        "Thales",
+        "Faraday C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In cars, springs are damped",
+      "options": [
+        "tyres",
+        "shock absorber",
+        "engine",
+        "plugs B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is correct",
+      "options": [
+        "like charges repel while unlike charges attract",
+        "like charges attract, unlike charges repel",
+        "like charges attract, unlike charges attract",
+        "none of the above A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Density is measured with",
+      "options": [
+        "hydrometer",
+        "barometer",
+        "hygrometer",
+        "all A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The unit of electric field is",
+      "options": [
+        "Ns",
+        "Nm",
+        "NC-1",
+        "all of the above C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "To and fro is an example of",
+      "options": [
+        "kinetics",
+        "oscillation",
+        "rotation",
+        "none of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these has the highest frequency?",
+      "options": [
+        "gamma ray",
+        "X-ray",
+        "ultraviolet A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Kinetic and potential energies are collectively called",
+      "options": [
+        "nuclear energy",
+        "mechanical energy",
+        "chemical energy",
+        "electrical energy B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "At high temperature, matter emits heat to be",
+      "options": [
+        "reflective",
+        "transparent",
+        "semi luminous",
+        "luminous A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The line passing through the two center of curvature of the lens",
+      "options": [
+        "principal focus",
+        "principal axis",
+        "the focal length",
+        "paraxial ray B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A charge of magnitude 2×10-4C experienced a force of 100N in an electric field, find the electric field intensity",
+      "options": [
+        "5×105N/C",
+        "2×105NC-1",
+        "9×106NC-1(c) 3×107NC-1 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It is required to transport 2.00KW of electrical energy at 4000V, calculate the current that should flow in the conductor",
+      "options": [
+        "0.05A",
+        "0.50A",
+        "5.0",
+        "50.00A B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The speed of light in water is",
+      "options": [
+        "2.3× 108m/s",
+        "4.3× 108m/s",
+        "3.3× 108m/s",
+        "2.3× 105m/s A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The velocity of transverse wave that is stretched a tension (T) and linear mass density (K) is",
+      "options": [
+        "1 T 2 T2 T 2 T",
+        "",
+        "",
+        "K K K K C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When a brick is taken from earth surface to the moon, its mass",
+      "options": [
+        "becomes zero",
+        "increases",
+        "decreases",
+        "constant D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For a diverging lens, focal length is",
+      "options": [
+        "negative",
+        "positive",
+        "constant",
+        "zero A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A compound microscope uses ________ lens",
+      "options": [
+        "2",
+        "5",
+        "4",
+        "infinity A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 100 waves pass through a medium in 20seconds and their wavelength is 6cm, velocity is ________",
+      "options": [
+        "0.5m/s",
+        "1m/s",
+        "2.5m/s",
+        "0.3m/s D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a practical application of real image?",
+      "options": [
+        "pictograph",
+        "photography",
+        "cinematography",
+        "all D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Natural frequency of a guitar string can be changed changing its",
+      "options": [
+        "diameter",
+        "length",
+        "stiffness",
+        "area B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The equation relating to the acceleration and displacement in a S.H.M, a = -ω2x. If the negative sign changes to positive, what type of motion is it?",
+      "options": [
+        "circular motion",
+        "linear motion",
+        "parabolic motion",
+        "all of the above A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Oscillation becomes damped due to",
+      "options": [
+        "friction",
+        "tangential force",
+        "parallel force",
+        "normal force A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A cell whose internal resistance is 0.5ohm delivered a current of 4A to an external resistance. What is the voltage of the cell",
+      "options": [
+        "8.00V",
+        "800V",
+        "2.00V",
+        "4.00V C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the bulk modulus of the liquid?",
+      "options": [
+        "1.02×10-9Nm-2",
+        "2.8×109Nm-2",
+        "3,8×109Nm-2",
+        "0.5×10-12Nm-2 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A transformer connected to a 120V A.C power has 200 turns in its primary winding and 50 turns in the secondary. The voltage across the secondary is",
+      "options": [
+        "15V",
+        "30V",
+        "60V",
+        "45V B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Oscillations are damped due to the presence of",
+      "options": [
+        "restoring force",
+        "frictional force",
+        "mechanical force",
+        "linear force B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The variation in image magnification is called",
+      "options": [
+        "distortion",
+        "chromatic aberration",
+        "accommodation",
+        "coma A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When an object is at the focus of a concave mirror, the position of the image is",
+      "options": [
+        "within focus",
+        "infinity",
+        "center of curvature",
+        "focus B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with m = 200g extended 25cm. Find the frequency (g = 10m/s)",
+      "options": [
+        "1.006Hz",
+        "3.25Hz",
+        "4.28Hz",
+        "all of the above A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The quantity which does not change during refraction is",
+      "options": [
+        "direction",
+        "wavelength",
+        "frequency",
+        "speed C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The size of the image depends on the position of the object in",
+      "options": [
+        "convex mirror",
+        "silver mirror",
+        "plane mirror",
+        "concave mirror D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is correct for an object placed beyond the center of curvature",
+      "options": [
+        "virtual, erect, magnified",
+        "real, inverted and diminished",
+        "virtual, erect and diminished",
+        "real, inverted, magnified B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following accurately measures E.M.F",
+      "options": [
+        "voltmeter",
+        "potentiometer",
+        "ammeter",
+        "galvanometer B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following devices is total internal reflection not applicable",
+      "options": [
+        "kaleidoscope",
+        "prism binocular",
+        "periscope",
+        "optical fibre (e) none of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The ratio of the luminous flux per solid angle emitted in the direction concerned is",
+      "options": [
+        "illuminance",
+        "luminous intensity",
+        "luminous flux",
+        "illumination B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Artificial damped oscillations is",
+      "options": [
+        "solid, light, heavy",
+        "heavy, critical, solid",
+        "solid, critical, light",
+        "critical, heavy & light D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following cannot receive ultrasonic sound",
+      "options": [
+        "bat",
+        "cat",
+        "human being",
+        "dolphin C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is used to measure the relative density of acid in a car battery?",
+      "options": [
+        "hydrometer",
+        "hygrometer",
+        "barometer",
+        "manometer A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "During refraction, the frequency and wavelength are",
+      "options": [
+        "unchanged and changed",
+        "changed and unchanged",
+        "unchanged",
+        "changed A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All of these are properties of plane mirror except",
+      "options": [
+        "same size as object",
+        "enlarged",
+        "inverted",
+        "virtual B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following has greatest penetrating power",
+      "options": [
+        "gamma ray",
+        "X-ray",
+        "infrared",
+        "ultraviolet A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Much ________ are obtained when cells are connected in series",
+      "options": [
+        "current",
+        "potential difference",
+        "resistance",
+        "frequency B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "________ attract magnet except",
+      "options": [
+        "copper",
+        "cobalt",
+        "iron",
+        "steel A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The image of an object on the retina of a human eye is",
+      "options": [
+        "real and magnified",
+        "real and inverted",
+        "virtual and magnified",
+        "virtual and inverted B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An object is placed 15cm from a converging lens of focal length 20cm, the distance of the image from the lens is",
+      "options": [
+        "5cm",
+        "20cm",
+        "35cm",
+        "60cm D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80times that on the moon, the ratio of the mass of the moon to that of the earth is?",
+      "options": [
+        "1:80",
+        "1:320",
+        "1:1280",
+        "1:4 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All the following phenomenon can be explained the wave theory of light except",
+      "options": [
+        "refraction",
+        "reflection",
+        "diffraction",
+        "photoelectric effect D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Colour of one wavelength is called",
+      "options": [
+        "primary colour",
+        "secondary colour",
+        "spectral colour",
+        "all C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Metal cables are used as telephone wires because",
+      "options": [
+        "the speed of sound in them is high",
+        "they can easily be sourced",
+        "the speed of sound in them is low",
+        "they are cheap A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The speed of light in any material medium is ________ its speed of light in vacuum",
+      "options": [
+        "greater than",
+        "equal to",
+        "the same as",
+        "less than D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral is loaded 50g and it extends 15cm, what is the frequency of small vertical oscillation (take g = 10m/s2)",
+      "options": [
+        "1.30Hz",
+        "0.69Hz",
+        "0.75Hz",
+        "2.59Hz A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The lens which is thin at the center and thick at the edge is",
+      "options": [
+        "convex lens",
+        "concave lens",
+        "diverging lens",
+        "converging lens B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Natural damped oscillations are due to ________ in a spring and fluid exerting a viscous drag",
+      "options": [
+        "a restoring force",
+        "external forces",
+        "gravitational forces",
+        "internal forces A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Free oscillations are simple harmonic motion with constant amplitude and period with",
+      "options": [
+        "no external influences",
+        "with small influences",
+        "external influences",
+        "with every influence A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass of 150g and it extends 25cm. Calculate the period of small vertical oscillations. Take g = 10m s-2",
+      "options": [
+        "2.53sec",
+        "0.53sec",
+        "2.22sec",
+        "0.99sec D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In concave mirror, the size of image depends upon",
+      "options": [
+        "size of the object",
+        "position of the object",
+        "shape of the object",
+        "height of the object B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A spherical mirror whose inner curved surface is thin is called",
+      "options": [
+        "concave",
+        "convex",
+        "biconvex",
+        "all of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Any system which obeys ________ law can exhibit S.H.M",
+      "options": [
+        "Faraday’s",
+        "Newton’s",
+        "Hooke’s",
+        "Northon’s C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The defect which an image appears at different places is called ________",
+      "options": [
+        "spherical aberration",
+        "astigmatism",
+        "chromatic aberration",
+        "all of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Heat can be transferred through these except",
+      "options": [
+        "conduction",
+        "convection",
+        "evaporation",
+        "radiation C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What happens to rays in a parallel beam of light",
+      "options": [
+        "they diverge as they travel",
+        "they intersect",
+        "they converge as they travel",
+        "they meet at infinity D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Magnetic inductance is measured in",
+      "options": [
+        "coulomb",
+        "henry",
+        "ohms",
+        "farad B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is the formula for illuminance",
+      "options": [
+        "above Icosθ I2cos θ I",
+        "",
+        "3",
+        "all of the 2 R R R A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Power is measured in",
+      "options": [
+        "N",
+        "W",
+        "J",
+        "Cd B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "________ is the change in the velocity of media",
+      "options": [
+        "diffraction",
+        "refraction",
+        "reflection",
+        "all of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simple microscope consists of",
+      "options": [
+        "two converging lenses",
+        "a single converging lens",
+        "three converging lens",
+        "all of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A platinum wire 80cm long is to have a resistance of 0.10ohm, what should be diameter, if the resistivity is 1.1×10-7Ωm",
+      "options": [
+        "2.65mm",
+        "1.06mm",
+        "10.57mm",
+        "none of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The coefficient of friction between a smooth and rough surface is ________",
+      "options": [
+        "1",
+        "0",
+        "0.5",
+        "none B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following characteristics of waves is used in measuring ocean depth",
+      "options": [
+        "interference",
+        "refraction",
+        "reflection",
+        "diffraction C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following instruments has the highest resistance",
+      "options": [
+        "voltmeter",
+        "ammeter",
+        "galvanometer",
+        "capacitor A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The instrument used in measuring the refractive index of a glass is",
+      "options": [
+        "photometry",
+        "spectrometer",
+        "refractometer",
+        "kaleidoscope C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the focal length of an object placed 30cm from a converging lens and produces a real image 90cm from the object",
+      "options": [
+        "15cm",
+        "44cm",
+        "20cm",
+        "60cm (e) 22.5cm E"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Opposition of material to current flow is",
+      "options": [
+        "resistant",
+        "resistance",
+        "conduction",
+        "current B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For diverging lens, focal length is",
+      "options": [
+        "zero",
+        "positive",
+        "negative",
+        "none C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What type of mirrors are capable of producing parallel beam of light such as the headlamps of a car",
+      "options": [
+        "parabolic mirrors",
+        "spherical mirrors",
+        "rare mirrors",
+        "cylindrical mirrors A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A point charge of 2.0×10-7C experience a force of 0.02N in a uniform electric field, compute the magnitude of the strength of the field?",
+      "options": [
+        "102NC-1",
+        "104NC-1",
+        "108NC-1",
+        "105NC-1 D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The speed of a radio signal is 3×108m/s. What is the frequency of wavelength 3×102m",
+      "options": [
+        "10-6",
+        "102",
+        "106",
+        "103 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Motion of a ball placed in a bowl is",
+      "options": [
+        "none",
+        "SHM",
+        "compressed motion",
+        "damped motion B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Foundation of photometry was",
+      "options": [
+        "1861 Maxwell",
+        "1729 Pierre Bouguer",
+        "1660 Newton",
+        "1829 Lucas B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All the following are properties of a wave except",
+      "options": [
+        "transverse",
+        "refraction",
+        "diffraction",
+        "polarization A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Water waves are",
+      "options": [
+        "longitudinal",
+        "mechanical",
+        "electromagnetic",
+        "none B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sound heard under water is",
+      "options": [
+        "ultrasonic",
+        "infrasonic",
+        "harmonic",
+        "overtone A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Watt is equivalent to ________",
+      "options": [
+        "J/s",
+        "J/m",
+        "J/Kg2",
+        "J/Kg A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following materials is a conductor",
+      "options": [
+        "glass",
+        "wax",
+        "plastic",
+        "sodium D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A wire of length 90.0cm, diameter 0.3mm with resistivity 1.1×10-6. Calculate its resistance",
+      "options": [
+        "10Ω",
+        "12Ω",
+        "13Ω",
+        "14Ω D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Minimum deviation occurs when light passes through the prism",
+      "options": [
+        "symmetrically",
+        "longitudinally",
+        "asymmetrically",
+        "none of the above C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is the order of increasing deviation",
+      "options": [
+        "yellow  orange  red",
+        "green  yellow  orange",
+        "violet  indigo  violet",
+        "blue  indigo  violet D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is the order of increasing frequency",
+      "options": [
+        "microwave  visible light  radio wave",
+        "visible light  infrared  radio wave",
+        "X-ray  infrared  visible light",
+        "microwave  ultraviolet  X-ray D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Instrument used for securing a large number of similar charges induction is called",
+      "options": [
+        "proof plane",
+        "electrophorous",
+        "capacitor",
+        "electroscope B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "33 and 1.0 is",
+      "options": [
+        "500",
+        "48.80",
+        "510",
+        "49.10 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Speed (V) is equal to product of frequency and",
+      "options": [
+        "vibration",
+        "amplitude",
+        "time period",
+        "wavelength D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The large unit of power and 1hp is equal to",
+      "options": [
+        "764watt",
+        "746watt",
+        "766watt",
+        "476watt B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The resistor used as voltmeter is called",
+      "options": [
+        "potentiometer",
+        "multiplier",
+        "wheatstone",
+        "shunt B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The illuminance of a 60W bulb whose luminous efficiency is 141m/W suspended 2m over a table is?",
+      "options": [
+        "21.2luxes",
+        "16.7luxes",
+        "25.8luxes",
+        "all of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The gradual decrease in the X-ray beams intensity as it passes through the material is called",
+      "options": [
+        "decay",
+        "attenuation",
+        "imaging",
+        "radioactivity B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Three capacitors of capacitance 2μF, 4μF and 8μF are arranged in parallel and a p.d of 6V is maintained across each capacitor, the energy stored is",
+      "options": [
+        "2.52×10-4J",
+        "6.90×10-6J",
+        "2.5×10-6J",
+        "6.90×10-4J A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is applicable to a printing machine",
+      "options": [
+        "plane mirror",
+        "transparent mirror",
+        "curved mirror",
+        "concave mirror (e) none B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the total resistance of resistance 8Ω, 10Ω, 12Ω connected in series",
+      "options": [
+        "50Ω",
+        "30Ω",
+        "17Ω",
+        "3.24Ω B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Shock absorbers in cars is ________",
+      "options": [
+        "free oscillation",
+        "parallel",
+        "forced oscillation",
+        "damped oscillation D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "0A, calculate the current in the 5Ω resistor",
+      "options": [
+        "3.00A",
+        "10.00A",
+        "2.50A",
+        "5.00A A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light source emits visible light ________ different atoms within the source",
+      "options": [
+        "totally",
+        "collectively",
+        "independently",
+        "dependently C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A radio is operated eight cells each of e.m.f 2.0volt connected in series. If two cells are wrongly connected, the net e.m.f of radio is",
+      "options": [
+        "12V",
+        "10V",
+        "8V",
+        "16V A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All these except one is not true about the arrangement of cell in series",
+      "options": [
+        "the current in each cell and in the external circuit have the same magnitude",
+        "the internal resistance of the battery is equal to the sum of the internal resistances of the individual cells",
+        "the e.m.f of the battery is equal to the sum of the emfs of the individual cells",
+        "the e.m.f of the battery is equal to the e.m.f of each separate cell at any moment D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The inability of the eye to see the object clearly is called",
+      "options": [
+        "clarity of vision",
+        "defect of vision",
+        "blur image",
+        "small image B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "________ law states that the current flowing through a metallic conductor is directly proportional to the p.d across its ends provided that temperature and other physical conditions are constant",
+      "options": [
+        "Lenz",
+        "Faraday’s",
+        "Coulomb’s",
+        "Ohm’s D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A moving coil galvanometer measures direct current not alternate current unless it is used with a",
+      "options": [
+        "wire",
+        "hair spring",
+        "rectifier",
+        "ammeter C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An astronomical telescope has an eyepiece of focal length 5.0cm. If the angular magnification in normal adjustment is 10, the distance between the objective and eyepiece in cm is",
+      "options": [
+        "50",
+        "45",
+        "10",
+        "55 D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What part of camera corresponds to the iris of the eye?",
+      "options": [
+        "the film",
+        "the shutter",
+        "the diaphragm",
+        "the lens C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A wave that is both mechanical and transverse is",
+      "options": [
+        "water",
+        "sound",
+        "X-ray",
+        "radio wave A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Shadows are eclipses result from the",
+      "options": [
+        "refraction of light",
+        "rectilinear propagation of light",
+        "diffraction of light",
+        "reflection of light B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Converging mirror produces",
+      "options": [
+        "virtual image",
+        "diverging mirror",
+        "real image",
+        "focal length A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a S.I basic unit",
+      "options": [
+        "meter",
+        "second",
+        "kilogram",
+        "newton D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What waves are used for detecting objects under water",
+      "options": [
+        "microwave",
+        "infrasonic",
+        "radio wave",
+        "ultrasonic D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Virtual image can be photographed only with the help of a ________optical system",
+      "options": [
+        "reflecting",
+        "diverging",
+        "converging",
+        "monochromatic C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Capacitance in air and vacuum are 20μFand 60μF respectively, calculate the dielectric constant",
+      "options": [
+        "0.3",
+        "6.0",
+        "3.0",
+        "2.0 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An A.C circuit of E.M.F 12V has a resistor of resistance 80ohms connected in series to an inductor of inductance 16ohms and capacitor of capacitance 10ohms. The current flowing in the circuit is",
+      "options": [
+        "1.4A",
+        "12.0A",
+        "14.0A",
+        "1.2A D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The uses of a capacitor include the following except",
+      "options": [
+        "fabrication",
+        "oscillating circuit",
+        "smoothing circuit",
+        "timing element A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The negative sign in F = -Kxindicates what?",
+      "options": [
+        "the displacement is in the opposite direction",
+        "the spring constant is small",
+        "the force is opposite the displacement",
+        "the velocity is slowing down C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A wave travelling from a denser medium to a less dense medium will",
+      "options": [
+        "deviate away from the normal",
+        "deviate towards the normal",
+        "all of the above",
+        "none of the above A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spring is loaded with mass 350g and it extends 10cm, calculate the period of vertical oscillation",
+      "options": [
+        "0.43s",
+        "0.63s",
+        "0.53s",
+        "1.25sec B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with a mass of 250g and it extends 15cm. What is the frequency of the small vertical oscillation? (g=10ms-2)",
+      "options": [
+        "1.30Hz",
+        "1.59Hz",
+        "2.00Hz",
+        "2.5Hz A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not true about a current passing through a resistor in parallel",
+      "options": [
+        "voltages across each resistor are equal",
+        "total current is equal to the sum of the individual currents",
+        "total resistance is equal to the sum of reciprocal of individual resistances",
+        "total resistance is equal to the sum of all individual resistance D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass of 500g and it extends 10cm. Calculate the period of small vertical oscillation, take g = 10m/s2",
+      "options": [
+        "3.2sec",
+        "1.89sec",
+        "0.63sec",
+        "4.29sec C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following laws states that the force between two point charges separated a distance is directly proportional to the product of the charges and inversely proportional to the square of the distance between the charges",
+      "options": [
+        "Coulomb’s",
+        "Faraday",
+        "Newton",
+        "Joules (e) Ohm’s A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The relationship between object distance, image distance from the mirror and focal length of the mirror is known as",
+      "options": [
+        "energy formula",
+        "mirror formula",
+        "glass formula",
+        "speed formula B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The wave prior to visible light on the electromagnetic system is",
+      "options": [
+        "infrared",
+        "ultraviolet",
+        "microwave",
+        "radiowave B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Who among the following discussed static electricity",
+      "options": [
+        "Maxwell",
+        "Thales",
+        "Faraday",
+        "Ohms B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a point of viewing",
+      "options": [
+        "mirror",
+        "lens",
+        "glass",
+        "convex B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following devices use plane mirrors in their operations except",
+      "options": [
+        "periscope",
+        "sextant",
+        "kaleidoscope",
+        "binoculars D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The illumination of a light source which is incident perpendicularly on a flat surface can be I I Icosθ I2 expressed as",
+      "options": [
+        "3",
+        "2",
+        "",
+        "2 2 R R R R B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Concave lens is also known as ________",
+      "options": [
+        "diverging lens",
+        "converging lens",
+        "convex lens",
+        "all of the above A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A compound microscope uses",
+      "options": [
+        "one lens",
+        "two lenses",
+        "three lenses",
+        "all of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a means of generating luminous sources of light",
+      "options": [
+        "thermal motion of molecules",
+        "harmonic motion of molecules",
+        "all of the above",
+        "vibration of molecules C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The size of the image will be smaller than the object in which of these?",
+      "options": [
+        "concave mirror",
+        "plane mirror",
+        "convex mirror",
+        "all of the above C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the electrostatic force between two electrons separated a distance of 10-10m (electron charge = 1.6×10-19C, K = 9×109)",
+      "options": [
+        "6.25×10-5N",
+        "2.304×10-8N",
+        "4.29×10-6N (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A galvanometer which measures current from 0 to 1mA has a resistance of 40ohms. How can this galvanometer be used to measure current from 0 to 1A",
+      "options": [
+        "4.0Ω",
+        "0.04Ω",
+        "0.004Ω",
+        "40Ω B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Lens with long focal length is?",
+      "options": [
+        "thin",
+        "thick",
+        "not strongly curved",
+        "both A and B C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Converging lens is referred to as ________",
+      "options": [
+        "concave lens",
+        "convex lens",
+        "diverging lens",
+        "all of the above B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of mirror employed in a scanning machine is",
+      "options": [
+        "plane mirror",
+        "translucent",
+        "transparent",
+        "curved C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The lens which causes incident parallel rays of light to diverge is called",
+      "options": [
+        "counter lens",
+        "convex lens",
+        "fibre lens",
+        "concave lens D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A rigid body is in translational equilibrium if its translational acceleration is",
+      "options": [
+        "0.5",
+        "infinity",
+        "0",
+        "1 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The believe that light consists of tiny particles can be attributed to",
+      "options": [
+        "Isaac Newton",
+        "Michael Faraday",
+        "Hooke",
+        "Gregor Mendel A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the spring is stiff, then the value of k is",
+      "options": [
+        "Approximately zero",
+        "Moderate",
+        "Large",
+        "Small"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "lens curves inwardly",
+      "options": [
+        "Reflection",
+        "concave mirror",
+        "convex mirror",
+        "plane mirror"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The minimum deviation when ray of light passes",
+      "options": [
+        "Asymetrically",
+        "symmetrically",
+        "longitudinal",
+        "all of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "1hp is",
+      "options": [
+        "741w",
+        "746w",
+        "766w"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Unit of magnetic induction is",
+      "options": [
+        "Tesla",
+        "ampere",
+        "couloumb",
+        "farad"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The unit of power is",
+      "options": [
+        "joules",
+        "ms- 1",
+        "watts",
+        "candela"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "1amu =",
+      "options": [
+        "931mev",
+        "1 x 10- 19 mev",
+        "421 mev"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Mirror that is thinner in the middle and thicker at the end is",
+      "options": [
+        "Convex mirror",
+        "Concave mirror",
+        "Converging lens",
+        "Diverging lens"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Relative vapour density is measured",
+      "options": [
+        "Hydrometer",
+        "hygrometer",
+        "spectrometer",
+        "manometer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "is used to measure the refractive index of a glass",
+      "options": [
+        "Optical instrument",
+        "photometer",
+        "spectrometer",
+        "kaleidoscope Answer: refractrometer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The S.I unit of magnetic induction is",
+      "options": [
+        "Tesla",
+        "coulomb",
+        "ampere",
+        "farad"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Quantity of charge (Q) is equal to",
+      "options": [
+        "IR",
+        "IV",
+        "QV",
+        "VT Answer: No answer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The position and mature of an object placed 10cm in front of a concave mirror with radius of curvature 12cm is",
+      "options": [
+        "5.5cm real",
+        "15cm real",
+        "5.5cm virtual",
+        "15cm virtual"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The path followed flow of electric current is",
+      "options": [
+        "Ampere",
+        "Voltage",
+        "Circuit",
+        "Conduction"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "An electric generator with a power of 30kw with a voltage of 1.5 iev distribute power 100l cable , total resistance 20.0 has the power loss is the cable",
+      "options": [
+        "4.00",
+        "0.1",
+        "10.0",
+        "80.0"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Any system which obeys can exhibit s.h.m",
+      "options": [
+        "Kirchoff’s law",
+        "Hooke’s law",
+        "Thevenin’s law"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The instruiment used for securing a large number of similar charges induction is called",
+      "options": [
+        "Electrophorus",
+        "electroscope",
+        "proofplane",
+        "capacitor"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light source emits visible light different medium within the source",
+      "options": [
+        "Totally",
+        "independently",
+        "collectively",
+        "dependently Answer:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How much ice at 00C should be added to 100g of water at 200C so that its final temperature will be 50C",
+      "options": [
+        "20.4g",
+        "27.6g",
+        "15.7g",
+        "5.23g"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A material object such as clothing is visible to human eye only because it reflects in a away from its surface",
+      "options": [
+        "Absorbed manner",
+        "specular",
+        "diffuse",
+        "all of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The unit of illumination is",
+      "options": [
+        "candela",
+        "lux",
+        "lux per squqre meter",
+        "lumen"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The capacitance of a parallel plate capacitor is 20uf in air and 60uf in vacuum and presence of dielectric constant",
+      "options": [
+        "2.0",
+        "6.0",
+        "0.3",
+        "3.0"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A conductor of length 2m carries a current of 0.8A while kept in a magnetic field of magnetic flux of density of 0.5T. The maximum force acting on it is",
+      "options": [
+        "8.0N",
+        "3.2n",
+        "0.2N",
+        "0.8N"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The following are the gravity of repetitive to & fro motion about a mean position except",
+      "options": [
+        "A car going to kano",
+        "Mass hanging from a coil spring",
+        "The balance wheel of a watch",
+        "The pistol ring of gasoline engine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "is the type of surface that can reflect abeam of light in one direction rralinstead of either scattering it widely absorbing it",
+      "options": [
+        "Mirror",
+        "prism",
+        "glass",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Natural damped oscillations are due to in a spring and fluids exerting a viscous drag",
+      "options": [
+        "gravitational force",
+        "internal forces",
+        "external forces",
+        "resulting forces"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The relation between the object and image distance from the lens in terms of focal length of the lens is called",
+      "options": [
+        "ohm’s Law",
+        "Lens formula",
+        "Optical law",
+        "fibre option"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Smooth is",
+      "options": [
+        "irregular plane",
+        "regular plane",
+        "irregular lens",
+        "regular lens"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Watt is equivalent to",
+      "options": [
+        "Nm/s",
+        "Ns",
+        "kgm2s2 d.js"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Water wave is an",
+      "options": [
+        "electromagnetic wave",
+        "mechanical wave",
+        "longitudinal wave",
+        "transverse wave"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A copper wire has a resistance of 10.0 ohms at 200C .what will be the resistance at 800C",
+      "options": [
+        "1.2Ω",
+        "12.4Ω",
+        "5.5Ω",
+        "4.6Ω"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A device used in decreasing the visual angle to the eye an object being observed is",
+      "options": [
+        "all of the above",
+        "mirror",
+        "lens",
+        "optical instrument"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A steady current of 2A flows in a coil of emf 12v from 0.4 secs. A back emf of 30v was induced during this period. The stored energy in the loop that can be utilized is",
+      "options": [
+        "2.4",
+        "12.0",
+        "9.6",
+        "0.2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A wire of length 90.0 cm and diameter of 0.3mm has resistivity of 11 x 10-8 ohms, calculate the resistance.",
+      "options": [
+        "12.0 ohms",
+        "14.00ohms",
+        "13.00ohms",
+        "10.0 ohms"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the speed of light on a fluid when light travels from the fluid of refractive index 1.34,",
+      "options": [
+        "0.74m/s",
+        "3 x 108 m/s",
+        "2.25 x 108m/s",
+        "4.47 x 10-9m/s"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "For a diverging lens, the focal length is",
+      "options": [
+        "negative",
+        "zero",
+        "positive",
+        "constant"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "scattering. is a type of surface that can reflect a seam of light in one direction instead of",
+      "options": [
+        "all of the above",
+        "mirror",
+        "prism",
+        "lens"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The following are uses of static electricity except",
+      "options": [
+        "Polythene fabrication",
+        "Electrostatic paintspray",
+        "Electrostatic dust collector",
+        "Galden spray"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The current passing through a conductor is directly proportional to its Potential difference indicates",
+      "options": [
+        "Couloumb’s law",
+        "Ohm’s law",
+        "Faraday’s law",
+        "Lenz law"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Thei l l umi nat i onofal i ghtsour cewhi chi si nci dentper pendi cul ar l yonaf l atsur f acecanbe 2 I I I cosθ I expr essedas(",
+      "options": [
+        "3 (",
+        "2 (",
+        "2 (",
+        "2 R R R R B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cal cul at et he el ect r ost at i cf or ce bet ween t wo el ect r ons separ at ed a di st ance of10-10 25 19 9 2 2 [ el ect r oni c char ge =1. 6×10 C, K=9×10Nm C ] (",
+      "options": [
+        "46. 04×10 N (",
+        "23. 04×10-7N (",
+        "10 25"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Standing waves are produced by",
+      "options": [
+        "waves that reflect off a boundary and interfere with\nthemselves.",
+        "the motion of the source away from the observer.",
+        "waves that vibrate in a vertical plane (standing upright).",
+        "the motion of the source toward the observer.\nE. objects that travel faster than the speed of sound."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The period of a wave is equal to 1 divided by the ____\nof the wave.",
+      "options": [
+        "speed\nFacebook: www.facebook.com/nbstutors",
+        "diameter",
+        "wavelength",
+        "amplitude\nE. frequency"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The speed of a wave is equal to the ____ divided by the\n____ .",
+      "options": [
+        "frequency; wavelength",
+        "amplitude; frequency",
+        "wavelength; frequency",
+        "period; amplitude\nE. wavelength; period"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Heat can be transferred by these process except",
+      "options": [
+        "Radiation",
+        "Conduction",
+        "Evaporation",
+        "Convection"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The light spiral spring is loaded with the mass of 100g and it extends by 25cm , what is the frequency of small\nvertical oscillation",
+      "options": [
+        "0.45hz",
+        "1.5hz",
+        "0.637hz",
+        "2.257hz"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Relative vapour density is measured by ______________",
+      "options": [
+        "Hydrometer",
+        "hygrometer",
+        "spectrometer",
+        "manometer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The path followed by flow of electric current is _______________",
+      "options": [
+        "Ampere",
+        "Voltage",
+        "Circuit",
+        "Conduction"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A radio is operated by eight cell each of e.m.f 20v connected in series of the cell are wrongly connected the next\ne.m.f of the radio is",
+      "options": [
+        "16v",
+        "10v",
+        "12v",
+        "8v"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The instrument used for securing a large number of similar charges by induction is called",
+      "options": [
+        "Electrophorus",
+        "electroscope",
+        "proofplane d capacitor"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass 100g and it extends by 15cm. Calculate the frequency of amall vertical\noscillation (take g = 10m/s)",
+      "options": [
+        "2.25hz",
+        "1.30hz",
+        "0.23hz d.1.59hz"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A dipole with charges 6 x 10-19 is placed in an electric field of magnitude 5 x 105 N/C. find the net force exerted by\nthe field on the dipole",
+      "options": [
+        "0N",
+        "11 x 10-19 N",
+        "30 x 10-14N",
+        "0.12N"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light source emits visible light ___________ by different medium within the source",
+      "options": [
+        "Totally",
+        "independently",
+        "collectively",
+        "dependently"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The path followed by flow of electric current is called",
+      "options": [
+        "ampere",
+        "conduction",
+        "circuit",
+        "voltage"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In cars spring are damped by",
+      "options": [
+        "shock absorbers",
+        "brake pedals",
+        "tyres",
+        "engines"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A radio is operated by 8cell each of emf 2.0v connected in series if two of the cell are wrongly connected .\nthe net emf of the radio is",
+      "options": [
+        "12v",
+        "10v",
+        "16v",
+        "8v"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A device used in decreasing the visual angle to the eye by an object being observed is\n________________",
+      "options": [
+        "all of the above",
+        "mirror",
+        "lens",
+        "optical instrument"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The eye defect in which forms infinity to the eye converged from the retina can be corrected by",
+      "options": [
+        "diverging\nlens",
+        "converging mirror",
+        "concave mirror",
+        "converging lens"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The reflection by rough surface is called",
+      "options": [
+        "irregular refraction",
+        "regular diffraction",
+        "irregular reflection",
+        "regular reflection"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the electric dipole length of the charge 6 x 10-9C are separated by 0.125N/m",
+      "options": [
+        "2 x 10-29",
+        "2.19 x 10-29",
+        "2.2 x 10-9"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light of spiral spring is loaded with mass 150g and it extends by 20cm (g=10m/s). Calculate the frequency",
+      "options": [
+        "1.13 hz",
+        "2.56hz",
+        "0.16hz"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A positive charge 3mc is surrounded by a sphere with a radius of 0.02cm centered on the charge . find the\nelectric flux through the sphere due to this charge",
+      "options": [
+        "6.15 x 105N/C",
+        "6.56 x 105N/C",
+        "6 x 105N/C",
+        "6.75 x\n105N/C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The high voltage across the spark plugs of an ignition system in a motor car is\nsupplied by",
+      "options": [
+        "carburetor",
+        "capacitor",
+        "induction coil",
+        "alternator"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A real image is formed by intersection of the ____________ of light",
+      "options": [
+        "rays",
+        "real\nrays",
+        "virtual rays",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In an acoustic device, the pitch can be increased by",
+      "options": [
+        "decreasing the loudness",
+        "increasing the amplitude",
+        "decreasing the intensity",
+        "increasing the\nfrequency"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What is the magnification of an image formed by an object 10cm distant from a\n1\n1\nconcave mirror of focal length 2cm",
+      "options": [
+        "-25",
+        "25",
+        "",
+        "25\n25"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A 1000V by 250V transformer has 500 turns on a secondary, the number of turns\non the primary coil is",
+      "options": [
+        "250",
+        "2000",
+        "125",
+        "1000"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Opposition presented to an A.C by inductance/capacitance is called",
+      "options": [
+        "impedance",
+        "circuit",
+        "reactance",
+        "inductance"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The color of rainbow are formed by ____________ phenomenon",
+      "options": [
+        "dispersion",
+        "refraction",
+        "reflection",
+        "diffusion"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How much current is drawn by 60Ω ressitance with 12V",
+      "options": [
+        "0.5A",
+        "5A",
+        "0.2A",
+        "2A"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass 50g and it extends by 10cm. Calculate T\n(g = 10m/s2)",
+      "options": [
+        "0.6",
+        "4.1",
+        "2.0",
+        "9.6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following states that the force between two point charges\nseparated by a distance is directly proportional to the produce of the charges and\ninversely proportional to the square of the distance between the charges",
+      "options": [
+        "Coulomb’s",
+        "Faraday’s",
+        "Newton’s",
+        "Ohm’s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The path followed by electric current is called",
+      "options": [
+        "ampere",
+        "circuit",
+        "voltage",
+        "conduction"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass 350g and it extends by 10cm. Calculate\nthe period of vertical oscillation",
+      "options": [
+        "0.43s",
+        "0.63s",
+        "0.53s",
+        "1.25s"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A waveform, a crest and the adjacent trough are out of phase by",
+      "options": [
+        "2700",
+        "1800",
+        "900",
+        "450"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The high voltage across the spark plugs of an ignition system in a motor car is\nsupplied by the",
+      "options": [
+        "capacitor",
+        "induction coil",
+        "alternator",
+        "carburetor"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "1000V by 200V transformer has 500 turns on the secondary coil, the number of\nthe turns of the primary coil is",
+      "options": [
+        "20000",
+        "10000",
+        "250",
+        "125"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Moving coil galvanometer that is designed to measure D.C can be made to measure A.C by\nconnecting",
+      "options": [
+        "amplifier",
+        "rectifier",
+        "resistor",
+        "inverter\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the internal energy if a body does 800J of work by applying 500J of energy",
+      "options": [
+        "300J",
+        "–\n300J",
+        "1500J (c) – 1500J\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All of the following phenomenon can be explained by the wave theory of light except",
+      "options": [
+        "diffraction",
+        "reflection",
+        "refraction",
+        "photoelectric effect\nD"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In cars, springs are damped by",
+      "options": [
+        "tyres",
+        "shock absorber",
+        "engine",
+        "plugs\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The velocity of transverse wave that is stretched by a tension (T) and linear mass density (K) is",
+      "options": [
+        "1\n\n \nT 2\nT2\nT 2\nT",
+        "",
+        "",
+        "K\nK\nK\nK\nC"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Natural frequency of a guitar string can be changed by changing its",
+      "options": [
+        "diameter",
+        "length",
+        "stiffness",
+        "area\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The speed of sound of liquid density 1200kgm-3 is 1536ms-1. Calculate the bulk modulus of the\nliquid?",
+      "options": [
+        "1.02×10-9Nm-2",
+        "2.8×109Nm-2",
+        "3,8×109Nm-2",
+        "0.5×10-12Nm-2\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with m = 200g extended by 25cm. Find the frequency (g = 10m/s)",
+      "options": [
+        "1.006Hz",
+        "3.25Hz",
+        "4.28Hz",
+        "all of the above\nA"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All the following phenomenon can be explained by the wave theory of light except",
+      "options": [
+        "refraction",
+        "reflection",
+        "diffraction",
+        "photoelectric effect\nD"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral is loaded 50g and it extends by 15cm, what is the frequency of small vertical\noscillation (take g = 10m/s2)",
+      "options": [
+        "1.30Hz",
+        "0.69Hz",
+        "0.75Hz",
+        "2.59Hz\nA"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass of 150g and it extends by 25cm. Calculate the period of\nsmall vertical oscillations. Take g = 10m s-2",
+      "options": [
+        "2.53sec",
+        "0.53sec",
+        "2.22sec",
+        "0.99sec\nD"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The defect by which an image appears at different places is called ________",
+      "options": [
+        "spherical\naberration",
+        "astigmatism",
+        "chromatic aberration",
+        "all of the above\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Foundation of photometry was by",
+      "options": [
+        "1861 by Maxwell",
+        "1729 by Pierre Bouguer",
+        "1660 by\nNewton",
+        "1829 by Lucas\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Instrument used for securing a large number of similar charges by induction is called",
+      "options": [
+        "proof\nplane",
+        "electrophorous",
+        "capacitor",
+        "electroscope\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light source emits visible light ________ by different atoms within the source",
+      "options": [
+        "totally",
+        "collectively",
+        "independently",
+        "dependently\nC"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A radio is operated by eight cells each of e.m.f 2.0volt connected in series. If two cells are\nwrongly connected, the net e.m.f of radio is",
+      "options": [
+        "12V",
+        "10V",
+        "8V",
+        "16V\n\n\fA"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spring is loaded with mass 350g and it extends by 10cm, calculate the period of vertical\noscillation",
+      "options": [
+        "0.43s",
+        "0.63s",
+        "0.53s",
+        "1.25sec\nB"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with a mass of 250g and it extends by 15cm. What is the frequency\nof the small vertical oscillation? (g=10ms-2)",
+      "options": [
+        "1.30Hz",
+        "1.59Hz",
+        "2.00Hz",
+        "2.5Hz\nA"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light spiral spring is loaded with mass of 500g and it extends by 10cm. Calculate the period of\nsmall vertical oscillation, take g = 10m/s2",
+      "options": [
+        "3.2sec",
+        "1.89sec",
+        "0.63sec",
+        "4.29sec\nC"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following laws states that the force between two point charges separated by a\ndistance is directly proportional to the product of the charges and inversely proportional to the\nsquare of the distance between the charges",
+      "options": [
+        "Coulomb’s",
+        "Faraday",
+        "Newton",
+        "Joules (e)\nOhm’s\nA"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the electrostatic force between two electrons separated by a distance of 10-10m\n(electron charge = 1.6×10-19C, K = 9×109)",
+      "options": [
+        "6.25×10-5N",
+        "2.304×10-8N",
+        "4.29×10-6N (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Relative vapour density is measured by",
+      "options": [
+        "Hydrometer",
+        "hygrometer",
+        "spectrometer",
+        "manometer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The path followed by flow of electric current is",
+      "options": [
+        "Ampere",
+        "Voltage",
+        "Circuit",
+        "Conduction"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The instruiment used for securing a large number of similar charges by induction is called",
+      "options": [
+        "Electrophorus",
+        "electroscope",
+        "proofplane",
+        "capacitor"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A light source emits visible light\n\nby different medium within the source",
+      "options": [
+        "Totally",
+        "independently",
+        "collectively",
+        "dependently\nAnswer:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A device used in decreasing the visual angle to the eye by an object being observed is",
+      "options": [
+        "all of the above",
+        "mirror",
+        "lens",
+        "optical instrument"
+      ],
+      "correct": "d"
+    }
+  ]
+}

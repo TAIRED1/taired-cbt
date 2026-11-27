@@ -1,0 +1,353 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank."
+  },
+  "total_courses": 34,
+  "courses": [
+    {
+      "id": "chm102",
+      "title": "CHM102",
+      "question_count": 259,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/chm102.json",
+      "sample_questions": [
+        "Ammonia as a ligand is an example of",
+        "Which has the lowest PRa value"
+      ]
+    },
+    {
+      "id": "bio102",
+      "title": "BIO102",
+      "question_count": 609,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/bio102.json",
+      "sample_questions": [
+        "The following are prokaryotic thallophtert expect............",
+        "Bacteria lives mostly under which temperature related condition."
+      ]
+    },
+    {
+      "id": "gst112",
+      "title": "GST112",
+      "question_count": 610,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/gst112.json",
+      "sample_questions": [
+        "COMPI LEDGST112QUESTI ONSFOREXAM ANONYMOUSCREW : 1.Anat ionst atehasaper manent_ ___ _",
+        "Whendi dNi ger iabecomedemocr ati c"
+      ]
+    },
+    {
+      "id": "phy102",
+      "title": "PHY102",
+      "question_count": 575,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/phy102.json",
+      "sample_questions": [
+        "Themagni t udeofar esul t antf or ce. . . . OR. . . .t her esul t antofaf or cei s_ _",
+        "I ft hef ocal l engt hofal ensi sl ong, t hel ensi s_ _"
+      ]
+    },
+    {
+      "id": "get101",
+      "title": "GET101",
+      "question_count": 367,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/get101.json",
+      "sample_questions": [
+        "What is the primary focus of technology?",
+        "Which of the following best defines engineering according to the Encyclopaedia Britannica?"
+      ]
+    },
+    {
+      "id": "faa101",
+      "title": "FAA101",
+      "question_count": 140,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/faa101.json",
+      "sample_questions": [
+        "Two of these are elements of Arts",
+        "The following are elements of art and design except"
+      ]
+    },
+    {
+      "id": "gns101",
+      "title": "GNS101",
+      "question_count": 888,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/gns101.json",
+      "sample_questions": [
+        "The verb in \"He gave Olu the pen\" is ____?",
+        "The verb \"Used\" in \"He has used it\" is ____?"
+      ]
+    },
+    {
+      "id": "gst111",
+      "title": "GST111",
+      "question_count": 440,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/gst111.json",
+      "sample_questions": [
+        "{ OR } THE TO BE USED FOR THE EXAM GST 111 READ THIS",
+        "How many types of gender does English have?"
+      ]
+    },
+    {
+      "id": "phy101",
+      "title": "PHY101",
+      "question_count": 770,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/phy101.json",
+      "sample_questions": [
+        "A glass bottle is filled with water corked and kept in a freezer. After all the water is frozen, the bottle is found to have cracked. This is because",
+        "Which of the following phenomena explains the fact that a house whose roof is coated with white paint will be cooler in the hot season than one coated with black paint?"
+      ]
+    },
+    {
+      "id": "mth102",
+      "title": "MTH102",
+      "question_count": 488,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/mth102.json",
+      "sample_questions": [
+        "Who proved the equation e𝐼𝜃 = Cos 𝜃 + Isin 𝜃",
+        "Convert 30.5220 to DMS"
+      ]
+    },
+    {
+      "id": "bud104",
+      "title": "BUD104",
+      "question_count": 165,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/bud104.json",
+      "sample_questions": [
+        "What is the primary purpose of architectural drawings as stated in the text?",
+        "According to the document, which of the following is NOT a characteristic of how drawings should be made?"
+      ]
+    },
+    {
+      "id": "agg112",
+      "title": "AGG112",
+      "question_count": 1255,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/agg112.json",
+      "sample_questions": [
+        "What is the Latin root for \"Ager\" in the word Agriculture?",
+        "Agriculture, in its broadest sense, implies:"
+      ]
+    },
+    {
+      "id": "chs102",
+      "title": "CHS102",
+      "question_count": 211,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/chs102.json",
+      "sample_questions": [
+        "Multiple Choice Questions with",
+        "What is the course code for \"Introduction to Consumer and Home Economics Science\"?"
+      ]
+    },
+    {
+      "id": "cos102",
+      "title": "COS102",
+      "question_count": 373,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/cos102.json",
+      "sample_questions": [
+        "What is a problem in computing?",
+        "Which characteristic defines input in computing problems?"
+      ]
+    },
+    {
+      "id": "gey102",
+      "title": "GEY102",
+      "question_count": 80,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/gey102.json",
+      "sample_questions": [
+        "What is the definition of evolution in geology?",
+        "Which of the following is NOT an aspect of evolution in geology?"
+      ]
+    },
+    {
+      "id": "ins104",
+      "title": "INS104",
+      "question_count": 348,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/ins104.json",
+      "sample_questions": [
+        "What is a fundamental component of climate resilience, according to the text?",
+        "How does biodiversity conservation contribute to climate resilience?"
+      ]
+    },
+    {
+      "id": "ins106",
+      "title": "INS106",
+      "question_count": 224,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/ins106.json",
+      "sample_questions": [
+        "Which of the following is NOT one of the three Vs of big data identified Doug Lany?",
+        "When did Doug Lany first identify the three Vs of big data?"
+      ]
+    },
+    {
+      "id": "cos100",
+      "title": "COS100",
+      "question_count": 98,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/cos100.json",
+      "sample_questions": [
+        "A sequence of actions leading to a solution is ________",
+        "D I 2. Adjacent vertices are those that ________"
+      ]
+    },
+    {
+      "id": "cyb202",
+      "title": "CYB202",
+      "question_count": 325,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/cyb202.json",
+      "sample_questions": [
+        "What is the primary role of an operating system in a computer system?",
+        "According to the text, which of the following is characteristic of first-generation operating systems (1945-1955)?"
+      ]
+    },
+    {
+      "id": "fcs206",
+      "title": "FCS206",
+      "question_count": 576,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/fcs206.json",
+      "sample_questions": [
+        "Which of the following best describes the concept of 'family' in Family and Consumer Sciences?",
+        "According to Murdock (2014), which THREE characteristics define the family?"
+      ]
+    },
+    {
+      "id": "get202",
+      "title": "GET202",
+      "question_count": 114,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/get202.json",
+      "sample_questions": [
+        "Which ceramic material is primarily used for dental applications?",
+        "What is the main advantage of using advanced ceramics?"
+      ]
+    },
+    {
+      "id": "gst212",
+      "title": "GST212",
+      "question_count": 589,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/gst212.json",
+      "sample_questions": [
+        "Philosophy literally means:",
+        "The Greek word “Sophia” means:"
+      ]
+    },
+    {
+      "id": "ins204",
+      "title": "INS204",
+      "question_count": 109,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/ins204.json",
+      "sample_questions": [
+        "What is a system?",
+        "What are inputs?"
+      ]
+    },
+    {
+      "id": "cyb204",
+      "title": "CYB204",
+      "question_count": 99,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/cyb204.json",
+      "sample_questions": [
+        "Blockchain is best described as a:",
+        "Who published the Bitcoin whitepaper?"
+      ]
+    },
+    {
+      "id": "cos202",
+      "title": "COS202",
+      "question_count": 119,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/cos202.json",
+      "sample_questions": [
+        "What is the primary purpose of Object Oriented Programming?",
+        "In Python, what keyword is used to create a class?"
+      ]
+    },
+    {
+      "id": "bio101",
+      "title": "BIO101",
+      "question_count": 967,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/bio101.json",
+      "sample_questions": [
+        "One of the following is not true about a chromosome",
+        "The following are characteristics of prokaryotic cells except"
+      ]
+    },
+    {
+      "id": "chm101",
+      "title": "CHM101",
+      "question_count": 418,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/chm101.json",
+      "sample_questions": [
+        "6486 (d) 0.6497",
+        "The two kinds of errors that affect scientific measurement are"
+      ]
+    },
+    {
+      "id": "mth101",
+      "title": "MTH101",
+      "question_count": 1871,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/mth101.json",
+      "sample_questions": [
+        "If 𝑛 𝑟 − 1 = 5, find r",
+        "𝑛 𝐶4 1 = 2, find n?"
+      ]
+    },
+    {
+      "id": "lib101",
+      "title": "LIB101",
+      "question_count": 470,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/lib101.json",
+      "sample_questions": [
+        "When the entry for a book is found, what\nshould be carefully noted?",
+        "Which of these is odd of these transmitive\ndevices"
+      ]
+    },
+    {
+      "id": "gns102",
+      "title": "GNS102",
+      "question_count": 634,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/gns102.json",
+      "sample_questions": [
+        "What type of definition is mostly use for scientific definition of terms and concept.",
+        "The formal definition was mostly use by logicians during the time of."
+      ]
+    },
+    {
+      "id": "csc100",
+      "title": "CSC100",
+      "question_count": 2,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/csc100.json",
+      "sample_questions": [
+        "_ar\neusedt\nor\nepr\nesentmodul\nesi\nnal\ngor\ni\nt\nhm",
+        "Thef\nol\nl\nowi\nngar\net\ny\npesofRAM except"
+      ]
+    },
+    {
+      "id": "cse100",
+      "title": "CSE100",
+      "question_count": 2,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/cse100.json",
+      "sample_questions": [
+        "125 base\n\n10\n\nto\n\nBinary\n\n10\n\nto\n\nBinary\n\nQuestion\n152\nConvert\n1001110001011\nHexadecimal\n\nin\n\nBinary number\n\nbase\n\n2",
+        "6875 base"
+      ]
+    },
+    {
+      "id": "bcd294",
+      "title": "BCD294",
+      "question_count": 724,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/bcd294.json",
+      "sample_questions": [
+        "Which of the following is not a correct formula\nfor finding the area (∆) of a triangle with sides,\n\n1\n\n1\n2\n\n√3\n2\n\n√3\n2\n\n1\n2\n\n√3\n\n1\n\n√2\n\n1\n\n√2\n\n1\n\n1\n\n0\n\n∞\n\na, b and c with corresponding angle A, B and C\n\n√3",
+        "Simplify"
+      ]
+    },
+    {
+      "id": "iab145",
+      "title": "IAB145",
+      "question_count": 9,
+      "endpoint": "https://taired-cbt.puter.site/api/v1/iab145.json",
+      "sample_questions": [
+        "9 4.4 4.5 4.7 4.4 4.5 4.9 4.7 4.5 4.6",
+        "17–9.21\n\n15\n\n10\n\n5\n\n2\n\n\fData handling and statistics\n\n1073"
+      ]
+    }
+  ]
+}

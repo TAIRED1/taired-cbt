@@ -1,0 +1,5213 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "FCS206",
+    "total_questions": 576
+  },
+  "data": [
+    {
+      "question": "Which of the following best describes the concept of 'family' in Family and Consumer Sciences?",
+      "type": "single",
+      "correct": "b",
+      "a": "A group of people who live in the same neighbourhood",
+      "b": "A cluster of persons related through blood, marriage, or legal adoption",
+      "c": "Any group of individuals who share meals together",
+      "d": "A community organization formed for mutual benefit"
+    },
+    {
+      "question": "According to Murdock (2014), which THREE characteristics define the family?",
+      "type": "single",
+      "correct": "a",
+      "a": "Common residence, economic cooperation, and reproduction",
+      "b": "Common residence, emotional bonding, and reproduction",
+      "c": "Marriage, religion, and shared property",
+      "d": "Biological ties, shared income, and community service"
+    },
+    {
+      "question": "What is the PRIMARY function of the family as identified in Family and Consumer Sciences?",
+      "type": "single",
+      "correct": "b",
+      "a": "Political representation of members",
+      "b": "Nurturing, socialization, and resource management",
+      "c": "Entertainment and recreation of individuals",
+      "d": "Regulation of market prices"
+    },
+    {
+      "question": "A nuclear family consists of:",
+      "type": "single",
+      "correct": "b",
+      "a": "A married couple, their children, grandparents, aunts, and uncles",
+      "b": "A married couple and their dependent children only",
+      "c": "A single parent and extended relatives",
+      "d": "Multiple generations living in one compound"
+    },
+    {
+      "question": "Which family type is MOST common in Northern Nigeria, particularly among Hausa communities?",
+      "type": "single",
+      "correct": "c",
+      "a": "Childless family",
+      "b": "Single-parent family",
+      "c": "Polygamous family",
+      "d": "Blended family"
+    },
+    {
+      "question": "Deacon and Firebaugh defined the family specifically as:",
+      "type": "single",
+      "correct": "c",
+      "a": "A group united by emotional bonds",
+      "b": "A social group characterized by common residence and reproduction",
+      "c": "A resource management system that utilizes available resources to meet members' needs and goals",
+      "d": "A unit responsible for cultural preservation"
+    },
+    {
+      "question": "Which of the following is a characteristic feature of an extended family?",
+      "type": "single",
+      "correct": "b",
+      "a": "Only parents and dependent children are present",
+      "b": "Multi-generational household with shared care and income",
+      "c": "Two previously married individuals combining families",
+      "d": "A couple that has chosen not to have children"
+    },
+    {
+      "question": "The socialization of children is described as one of the most important roles of the family. What does socialization primarily involve?",
+      "type": "single",
+      "correct": "b",
+      "a": "Providing financial support for school fees",
+      "b": "Children acquiring language, cultural values, social norms, and agreeable behavior",
+      "c": "Enrolling children in sports and extracurricular activities",
+      "d": "Teaching children to manage household finances"
+    },
+    {
+      "question": "Which type of family arises when divorced or widowed people remarry and children from previous relationships become one household?",
+      "type": "single",
+      "correct": "d",
+      "a": "Extended family",
+      "b": "Childless family",
+      "c": "Single-parent family",
+      "d": "Blended (stepfamily)"
+    },
+    {
+      "question": "Which of the following is an ADVANTAGE of a nuclear family?",
+      "type": "single",
+      "correct": "c",
+      "a": "Strong extended support network during crises",
+      "b": "Collective decision-making across generations",
+      "c": "Increased privacy and freedom for family members",
+      "d": "Greater cultural continuity through elders"
+    },
+    {
+      "question": "Which of the following BEST describes the economic function of the family?",
+      "type": "single",
+      "correct": "c",
+      "a": "Teaching children social norms and cultural values",
+      "b": "Providing emotional comfort during stress",
+      "c": "Managing financial, material, and human resources to meet daily needs",
+      "d": "Transmitting religious beliefs to children"
+    },
+    {
+      "question": "In the context of the family as a social system, which statement is MOST accurate?",
+      "type": "single",
+      "correct": "b",
+      "a": "Each family member operates independently without affecting others",
+      "b": "Changes that occur to one member are likely to affect the entire family unit",
+      "c": "Family systems are only applicable to nuclear families",
+      "d": "Social systems function best when there is no interaction between members"
+    },
+    {
+      "question": "Burgess and Locke defined the family as a group united marriage, blood, or adoption who:",
+      "type": "single",
+      "correct": "b",
+      "a": "Share common economic goals and pooled savings",
+      "b": "Interact and communicate with each other in their respective social roles",
+      "c": "Live in a single permanent residence",
+      "d": "Are governed by the oldest male member"
+    },
+    {
+      "question": "What is a key CHALLENGE faced single-parent families?",
+      "type": "single",
+      "correct": "c",
+      "a": "Difficulty maintaining cultural traditions",
+      "b": "Too many decision-makers causing conflicts",
+      "c": "Financial strain and emotional stress for both parent and children",
+      "d": "Excessive extended family interference"
+    },
+    {
+      "question": "According to the textbook, which Nigerian ethnic group is specifically mentioned as practicing the ìkómọ́ (naming ceremony) to transmit cultural values?",
+      "type": "single",
+      "correct": "c",
+      "a": "Hausa families in Kano",
+      "b": "Igbo families in Enugu",
+      "c": "Yoruba families in Oyo State",
+      "d": "Tiv families in Benue"
+    },
+    {
+      "question": "The decline of extended families in modern Nigeria is PRIMARILY attributed to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Government policies banning multi-generational households",
+      "b": "Urbanization and economic pressure reducing multi-generational co-residence",
+      "c": "Religious changes promoting nuclear family structures",
+      "d": "Increased mortality rates among elderly family members"
+    },
+    {
+      "question": "In which decision-making style does the head of household make decisions with little input from others?",
+      "type": "single",
+      "correct": "d",
+      "a": "Democratic",
+      "b": "Consensus-based",
+      "c": "Collaborative",
+      "d": "Authoritarian"
+    },
+    {
+      "question": "A Lagos family in which grandparents, parents, and children live together in one compound is an example of which family type?",
+      "type": "single",
+      "correct": "c",
+      "a": "Blended family",
+      "b": "Nuclear family",
+      "c": "Extended family",
+      "d": "Childless family"
+    },
+    {
+      "question": "Which of the following is a function of grandparents in the Nigerian extended family system?",
+      "type": "single",
+      "correct": "b",
+      "a": "Making all financial decisions for the household",
+      "b": "Providing childcare, cultural guidance, and mentoring",
+      "c": "Managing the family's investments and property",
+      "d": "Acting as the sole disciplinarians for all children"
+    },
+    {
+      "question": "Which of the following BEST illustrates the educational function of the family?",
+      "type": "single",
+      "correct": "b",
+      "a": "A family organizes a wedding ceremony to celebrate cultural traditions",
+      "b": "Parents ensure children attend school and teach them budgeting and household skills",
+      "c": "A family pools resources to start a food business",
+      "d": "A family holds evening prayers to transmit religious values"
+    },
+    {
+      "question": "In contemporary Nigerian urban cities, what trend has been observed regarding the average age of marriage?",
+      "type": "single",
+      "correct": "c",
+      "a": "The age of marriage has decreased significantly",
+      "b": "The age of marriage has remained unchanged over decades",
+      "c": "The average age of marriage has risen significantly",
+      "d": "Marriage is now legally banned below the age of 25"
+    },
+    {
+      "question": "A family in Ibadan operates as a single unit where grandparents make the key decisions, resources are shared all members, and cultural practices are actively maintained. Which TWO concepts from BEST illustrate this scenario?",
+      "type": "single",
+      "correct": "a",
+      "a": "Consensus-based decision-making and extended family structure",
+      "b": "Authoritarian decision-making and nuclear family structure",
+      "c": "Democratic decision-making and childless family characteristics",
+      "d": "Blended family dynamics and emotional function"
+    },
+    {
+      "question": "The traditional families were predominantly of which structure, and what was their key characteristic?",
+      "type": "single",
+      "correct": "b",
+      "a": "Nuclear families with strong individualistic values",
+      "b": "Extended families where multiple generations lived together in compounds sharing resources",
+      "c": "Single-parent families led by the eldest woman",
+      "d": "Blended families formed through arranged marriages"
+    },
+    {
+      "question": "Which of the following is not a recognized family characteristics which distinguishes them from other social groups?",
+      "type": "single",
+      "correct": "c",
+      "a": "Emotional bonds promoting love and trust",
+      "b": "Shared economic responsibilities",
+      "c": "Formal political representation",
+      "d": "Socialization of children into cultural values",
+      "e": "Common residence (traditional or virtual)"
+    },
+    {
+      "question": "Which of the following is not a function of the family?",
+      "type": "single",
+      "correct": "c",
+      "a": "Biological (reproduction and childcare)",
+      "b": "Economic (resource management and income generation)",
+      "c": "Political (electing community leaders)",
+      "d": "Cultural (preservation of traditions and ceremonies)",
+      "e": "Emotional (providing love, security, and identity)"
+    },
+    {
+      "question": "Which of the following are identified as CHALLENGES faced blended families? (Select ALL that apply)",
+      "type": "multiple",
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "a": "Complex bonds between stepparents and stepchildren",
+      "b": "Role conflict and emotional tension",
+      "c": "Insufficient financial resources due to no working parent",
+      "d": "Children and adult adjustment problems",
+      "e": "Lack of cultural identity among family members"
+    },
+    {
+      "question": "Adaeze, a 35-year-old professional in Lagos, recently separated from her husband and is now raising her three children alone. She works two jobs but struggles to pay school fees and manage household expenses. Her parents live in the village and are unable to assist regularly. Based on the content on family structure which of the following BEST describes Adaeze's family type and a challenge she likely faces?",
+      "type": "single",
+      "correct": "b",
+      "a": "Blended family; difficulty integrating stepchildren",
+      "b": "Single-parent family; financial strain and limited shared responsibilities",
+      "c": "Extended family; conflict between generational decision-makers",
+      "d": "Childless family; cultural pressure regarding reproduction"
+    },
+    {
+      "question": "Which term refers to the specific functions, duties, and behaviors expected of each family member?",
+      "type": "single",
+      "correct": "b",
+      "a": "Family norms",
+      "b": "Family roles",
+      "c": "Family dynamics",
+      "d": "Family governance"
+    },
+    {
+      "question": "What is community-linked role of the family?",
+      "type": "single",
+      "correct": "a",
+      "a": "Families participate in community development and serve as conduits for cultural practices",
+      "b": "Families appoint representatives to government offices",
+      "c": "Families manage public infrastructure and utilities",
+      "d": "Families organize commercial markets for trade"
+    },
+    {
+      "question": "Which of the following consequences of changing family patterns is specifically mentioned regarding childcare in this modern time?",
+      "type": "single",
+      "correct": "c",
+      "a": "More parents choosing homeschooling for children",
+      "b": "Increased reliance on grandparents for childcare in urban areas",
+      "c": "Many families hiring housemaids or relying on daycare centers as both parents work",
+      "d": "Government-mandated childcare programs replacing family responsibilities"
+    },
+    {
+      "question": "Differentiate between patriarchal and matriarchal family systems in the Nigerian context?",
+      "type": "single",
+      "correct": "b",
+      "a": "Patriarchal families are common in southern Nigeria while matriarchal families dominate the north",
+      "b": "Patriarchal families have the father as head with centralised authority; matriarchal families have the mother holding central authority and are less common",
+      "c": "Patriarchal families are modern while matriarchal families are traditional",
+      "d": "Both systems are equally common in all parts of Nigeria"
+    },
+    {
+      "question": "What is meant 'human capital development' as a family function?",
+      "type": "single",
+      "correct": "a",
+      "a": "Giving education, training, and moral guidance to children to prepare them for society",
+      "b": "Investing in land and property for future generations",
+      "c": "Developing factories and businesses through family resources",
+      "d": "Managing the family's financial portfolio and investments"
+    },
+    {
+      "question": "Which family type is characterized a couple that does not have children, either willingly or due to biological reasons?",
+      "type": "single",
+      "correct": "c",
+      "a": "Single-parent family",
+      "b": "Blended family",
+      "c": "Childless family",
+      "d": "Extended family"
+    },
+    {
+      "question": "Family as a social system. Which of the following is listed as occurring WITHIN the family system?",
+      "type": "single",
+      "correct": "d",
+      "a": "Members vote in national elections",
+      "b": "Family members attend separate schools for individual development",
+      "c": "Members are assigned jobs by the government",
+      "d": "Resources are shared and activities of one member influence others"
+    },
+    {
+      "question": "A family sociologist studying Nigerian communities describes a household in which the father makes all major financial and household decisions, resources are shared among members, and children are expected to obey without question. Which Nigerian family system and decision-making style does this MOST closely represent?",
+      "type": "single",
+      "correct": "b",
+      "a": "Matriarchal family with consensus-based decision-making",
+      "b": "Patriarchal family with authoritarian decision-making",
+      "c": "Extended family with democratic decision-making",
+      "d": "Blended family with collaborative decision-making"
+    },
+    {
+      "question": "When a family loses the father's income after a factory closure, what is the MOST LIKELY outcome?",
+      "type": "single",
+      "correct": "b",
+      "a": "Only the mother is affected as she manages household finances",
+      "b": "The loss of financial stability threatens the family because it affects housing, education, and well-being of all members",
+      "c": "The children will be unaffected since schools provide for their needs",
+      "d": "Extended family will automatically provide full financial support"
+    },
+    {
+      "question": "Which of the following BEST explains why childless families face 'cultural pressure' as a challenge, especially in Nigeria?",
+      "type": "single",
+      "correct": "b",
+      "a": "Nigerian laws require all married couples to have at least one child",
+      "b": "In child-bearing cultures like Nigeria, not having children can lead to social stigma and emotional dilemmas",
+      "c": "Childless families are taxed more heavily by the government",
+      "d": "Nigerian religious institutions formally disapprove of childlessness"
+    },
+    {
+      "question": "Which of these describes a nuclear family in Lagos?",
+      "type": "single",
+      "correct": "c",
+      "a": "A grandfather, father, mother, and five children in one compound",
+      "b": "A mother raising two children after the father's death",
+      "c": "A father, mother, and three children living independently",
+      "d": "Two families combining after remarriage"
+    },
+    {
+      "question": "Which of the following is not an ADVANTAGE of an extended family?",
+      "type": "single",
+      "correct": "c",
+      "a": "Strong support network",
+      "b": "Collective assets reduce financial strain",
+      "c": "Easier decision-making due to fewer members",
+      "d": "Ethical values are passed on through generations"
+    },
+    {
+      "question": "The Oyelaran family has three generations living in one compound in Ibadan: grandparents, parents, uncles, aunts, and eight children. Which combination BEST describes this family type and decision-making style?",
+      "type": "single",
+      "correct": "d",
+      "a": "Nuclear family with authoritarian decision-making",
+      "b": "Polygamous family with authoritarian decision-making",
+      "c": "Blended family with democratic decision-making",
+      "d": "Extended family with consensus-based decision-making"
+    },
+    {
+      "question": "Identify one primary way migration influences family patterns?",
+      "type": "single",
+      "correct": "b",
+      "a": "Migration causes families to have more children",
+      "b": "Economic migration leads to families living apart, with remittances supporting household welfare in home countries",
+      "c": "Migration strengthens extended family bonds through more frequent visits",
+      "d": "Migration causes families to abandon their cultural practices permanently"
+    },
+    {
+      "question": "A family in Kano faces these issues: the father's job loss causes school fees to be unpaid; the mother increases her trading hours, leaving children unsupervised; the eldest child drops out to help financially. Which system component is MOST directly disrupted first, creating this chain reaction?",
+      "type": "single",
+      "correct": "c",
+      "a": "The family's cultural practices",
+      "b": "The family's Goals component — desired outcomes can no longer be achieved",
+      "c": "The family's Resources component — financial resources are lost, triggering role changes and goal disruptions",
+      "d": "The family's Relationships component — emotional bonds deteriorate"
+    },
+    {
+      "question": "Family as being affected 'technological influence' specifically means",
+      "type": "single",
+      "correct": "b",
+      "a": "Technology causes family members to work longer hours away from home",
+      "b": "Communication technologies connect family members across distances; digital tools are used for financial management, education, and household planning",
+      "c": "Technology has replaced the need for extended family support entirely",
+      "d": "Technology has led to the decline of the nuclear family"
+    },
+    {
+      "question": "The role of the family in 'emotional stability' for individuals implies?",
+      "type": "single",
+      "correct": "b",
+      "a": "Families provide economic stability through investment planning",
+      "b": "Families offer emotional protection and mental support; family members comfort one another especially when facing stress or crisis",
+      "c": "Families regulate emotions through strict discipline",
+      "d": "Emotional support is provided only by mothers in most families"
+    },
+    {
+      "question": "Family economic stability is one way the family contributes to society. What specific activities does this involve?",
+      "type": "single",
+      "correct": "b",
+      "a": "Families organize government budgets and national accounts",
+      "b": "Families help in economic stability by uniting resources and sharing financial needs, including decisions on budgeting, savings, and investments",
+      "c": "Families generate economic stability by participating in national elections",
+      "d": "Economic stability comes solely from individual income, not family pooling"
+    },
+    {
+      "question": "A social institution is best defined as:",
+      "type": "single",
+      "correct": "c",
+      "a": "A government agency established to regulate social behavior",
+      "b": "A private organization formed for profit-making purposes",
+      "c": "A system of organized roles, norms, and relationships that meets the basic needs of society",
+      "d": "A religious organization that guides moral behavior"
+    },
+    {
+      "question": "What is the primary role of the family as a social institution?",
+      "type": "single",
+      "correct": "c",
+      "a": "Managing the economic resources of the community",
+      "b": "Representing family members in government",
+      "c": "Socializing children, maintaining adult personalities, and stabilizing society",
+      "d": "Providing religious instruction and moral leadership"
+    },
+    {
+      "question": "Which of the following is listed as a social institution that interacts with the family to promote social stability?",
+      "type": "single",
+      "correct": "b",
+      "a": "Stock exchange",
+      "b": "Education, religion, government, and healthcare",
+      "c": "Sports federations",
+      "d": "Agricultural cooperatives"
+    },
+    {
+      "question": "Which characteristic of the family as a social institution refers to the definition of duties among parents, children, and extended family to strengthen social order?",
+      "type": "single",
+      "correct": "b",
+      "a": "Transmission of culture",
+      "b": "Roles",
+      "c": "Stability and continuity",
+      "d": "Economic function"
+    },
+    {
+      "question": "According to Olowu and Adeyemi (2021), the family as a social institution:",
+      "type": "single",
+      "correct": "a",
+      "a": "Organizes roles and relationships to meet personal and societal needs",
+      "b": "Primarily focuses on economic production and market participation",
+      "c": "Functions mainly as a religious unit for spiritual guidance",
+      "d": "Serves as a political unit for community governance"
+    },
+    {
+      "question": "The force contributing to changing family patterns in Nigeria?",
+      "type": "single",
+      "correct": "b",
+      "a": "Increase in traditional marriage ceremonies",
+      "b": "Urbanization leading to reduced extended family co-residence",
+      "c": "Decline in the use of technology in households",
+      "d": "Growth of rural agricultural communities"
+    },
+    {
+      "question": "The impact of globalization on family patterns is?",
+      "type": "single",
+      "correct": "a",
+      "a": "It has led to families adopting new lifestyles and reducing traditional practices",
+      "b": "It has strengthened traditional family structures",
+      "c": "It has increased inter-ethnic marriages only",
+      "d": "It has caused families to relocate to rural areas"
+    },
+    {
+      "question": "Technology specifically affected family communication and coordination when?",
+      "type": "single",
+      "correct": "b",
+      "a": "Technology has replaced face-to-face family interactions entirely",
+      "b": "Families use WhatsApp groups to organize, study remotely, and coordinate household matters",
+      "c": "Technology has made families less connected than before",
+      "d": "ICT tools have led to more family conflicts"
+    },
+    {
+      "question": "An example of the role of FCS professionals in community-based programs is?",
+      "type": "single",
+      "correct": "b",
+      "a": "Conducting income tax assessments for families",
+      "b": "Forming support groups, childcare cooperatives, and elder-care programs",
+      "c": "Building housing for low-income families",
+      "d": "Teaching vocational agriculture in rural schools"
+    },
+    {
+      "question": "The FIRST item listed as a social provision the family engages in as a social institution?",
+      "type": "single",
+      "correct": "c",
+      "a": "Economic support",
+      "b": "Cultural preservation",
+      "c": "Procreation and bringing up of children",
+      "d": "Conflict regulation"
+    },
+    {
+      "question": "How has increased access to education changed the role of women in families?",
+      "type": "single",
+      "correct": "b",
+      "a": "Women have abandoned household responsibilities entirely",
+      "b": "Women in are now co-producers of income while also handling household responsibilities",
+      "c": "Education has restricted women to domestic roles",
+      "d": "Women have gained political power but lost household influence"
+    },
+    {
+      "question": "Which of the following is an implication of economic pressures on families?",
+      "type": "single",
+      "correct": "a",
+      "a": "Delayed marriage and childbearing among dual-income working parents",
+      "b": "Increased birth rates in urban areas",
+      "c": "Greater extended family co-residence",
+      "d": "Reduced female participation in the workforce"
+    },
+    {
+      "question": "The textbook describes a workshop organized in Oyo State where FCS professionals help dual-income families. What was the outcome of this intervention?",
+      "type": "single",
+      "correct": "b",
+      "a": "Families learned how to apply for government grants",
+      "b": "Dual-income families managed time better and planned meals more effectively",
+      "c": "Families were relocated to less expensive areas",
+      "d": "Children were enrolled in government boarding schools"
+    },
+    {
+      "question": "Characterize the changing role of fathers in contemporary families?",
+      "type": "single",
+      "correct": "b",
+      "a": "Fathers have reduced their financial roles significantly",
+      "b": "Fathers are increasingly involved in childcare and collaborative decision-making",
+      "c": "Fathers now focus exclusively on community leadership roles",
+      "d": "Traditional father roles have not changed at all"
+    },
+    {
+      "question": "Which of the following BEST describes how FCS professionals use research for policy advocacy?",
+      "type": "single",
+      "correct": "d",
+      "a": "They design fashion campaigns to promote family unity",
+      "b": "They lobby for changes in marriage laws",
+      "c": "They manage government budgets for family support programs",
+      "d": "They conduct research on urban family challenges and prescribe policy solutions to reinforce family well-being."
+    },
+    {
+      "question": "What distinguishes the impact of urbanization on family structure in Lagos and Abuja compared to traditional Nigerian communities?",
+      "type": "single",
+      "correct": "b",
+      "a": "Urban families have more children than rural families",
+      "b": "In Lagos and Abuja, families live independently from extended family, unlike historical compound-sharing",
+      "c": "Urban families rely more on grandparents for childcare",
+      "d": "Urban families maintain stronger traditional practices"
+    },
+    {
+      "question": "What is the significance of the 'Stability and Continuity' characteristic of the family as a social institution?",
+      "type": "single",
+      "correct": "b",
+      "a": "Families ensure business continuity through inheritance of property",
+      "b": "Families play a role in the stability and continuity of society through intergenerational succession",
+      "c": "Families stabilize economic markets through household spending",
+      "d": "Families maintain political stability through voting"
+    },
+    {
+      "question": "The youth prefer private schooling and Western celebrations over traditional practices which force primarily drives this change?",
+      "type": "single",
+      "correct": "c",
+      "a": "Government educational policies mandating Western curricula",
+      "b": "Economic poverty forcing families to abandon expensive traditional ceremonies",
+      "c": "Globalization causing families to adopt new lifestyles and reduce traditional practices",
+      "d": "Urbanization reducing available space for traditional gatherings"
+    },
+    {
+      "question": "An Ibadan family has reduced its family size from six to three children over the past decade. Both parents now work full-time, and they use a family WhatsApp group for coordination. Which combination of forces explains these changes?",
+      "type": "single",
+      "correct": "b",
+      "a": "Biological factors and religious influence",
+      "b": "Economic pressures and technological advancements",
+      "c": "Migration patterns and globalization",
+      "d": "Educational reforms and government policies"
+    },
+    {
+      "question": "Which of the following is not a contemporary problems faced Nigerian families?",
+      "type": "single",
+      "correct": "c",
+      "a": "Urbanization and migration reducing extended family support",
+      "b": "Divorce and single-parenting leading to emotional and financial challenges",
+      "c": "Overproduction of food leading to household waste",
+      "d": "Health challenges including lifestyle diseases and mental health issues",
+      "e": "Changing cultural norms creating intergenerational conflicts"
+    },
+    {
+      "question": "Mrs. Okonkwo is a single mother in Abuja raising three children after her husband's death. An NGO invites her to join a childcare cooperative they are running for single parents. what type of FCS intervention does this cooperative represent, and what broader challenge does it address?",
+      "type": "single",
+      "correct": "b",
+      "a": "Research and policy advocacy; addressing educational funding gaps",
+      "b": "Community-based program; addressing reduced extended family support due to urbanization",
+      "c": "Education and counseling; addressing cultural norms conflicts",
+      "d": "Sustainable practices campaign; addressing unhealthy eating behaviors"
+    },
+    {
+      "question": "Conflict Regulation as a significance of the family as a social institution means?",
+      "type": "single",
+      "correct": "c",
+      "a": "Families establish legal courts for resolving disputes",
+      "b": "Family members are trained to become professional conflict mediators",
+      "c": "Families are settings where mediation assists members in dealing with personal and social issues",
+      "d": "Families regulate conflicts between government agencies"
+    },
+    {
+      "question": "How can FCS professionals promote sustainable family practices?",
+      "type": "single",
+      "correct": "a",
+      "a": "Embracing healthy eating, wise financial management, and conscious behaviors through educational campaigns",
+      "b": "Distributing free household goods to families.",
+      "c": "Setting up commercial businesses to support family income",
+      "d": "Mandating family planning through government enforcement"
+    },
+    {
+      "question": "Which of the following is an example of how education has changed family roles?",
+      "type": "single",
+      "correct": "b",
+      "a": "Education has increased the number of arranged marriages",
+      "b": "Improved access to schooling has led to improved participation in labor and autonomy, particularly for women",
+      "c": "Education has strengthened patriarchal authority in Nigerian households",
+      "d": "Schools have replaced families as the primary socialization agents"
+    },
+    {
+      "question": "What key changes is noted in 'extended family roles' in contemporary society?",
+      "type": "single",
+      "correct": "b",
+      "a": "Extended family members now live together more than before",
+      "b": "Co-residence has declined, but social and financial assistance continues.",
+      "c": "Extended family members have abandoned financial assistance roles",
+      "d": "Grandparents have assumed sole decision-making power in urban families"
+    },
+    {
+      "question": "Economic Pressures as a force of family change primarily leads to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Migration to rural areas for farming opportunities",
+      "b": "Increased costs of living making both parents seek employment, influencing family size and residence decisions",
+      "c": "Families spending more on cultural ceremonies",
+      "d": "Children dropping out of school to contribute to family income"
+    },
+    {
+      "question": "What is the role of education in the context of changing family roles?",
+      "type": "single",
+      "correct": "b",
+      "a": "Education limits the participation of women in family decision-making",
+      "b": "Higher education levels have helped create awareness of gender equality and equal distribution of family roles",
+      "c": "Education only benefits children, not adult family members",
+      "d": "Education has caused more conflict within Nigerian families"
+    },
+    {
+      "question": "What is the primary concern of FCS professionals regarding modern Nigerian families?",
+      "type": "single",
+      "correct": "b",
+      "a": "Increasing traditional practices among urban families",
+      "b": "Restricting urbanization to preserve family structures",
+      "c": "Regulating marriage and divorce laws",
+      "d": "Developing programs and policies that promote family well-being in modern society"
+    },
+    {
+      "question": "The family is described as the 'foundational building block' of society. How does this relate to national development?",
+      "type": "single",
+      "correct": "b",
+      "a": "Families contribute only through taxation and economic production",
+      "b": "Families are the basic building blocks based on which communities and nations are constructed through socialization, resource management, and cultural transmission",
+      "c": "National development is independent of family structures",
+      "d": "Families contribute to development only through education of children"
+    },
+    {
+      "question": "Which of these is not among the several interventions FCS professionals use to support families.",
+      "type": "single",
+      "correct": "c",
+      "a": "Education and counselling",
+      "b": "Community-based programs",
+      "c": "Financial auditing of family accounts",
+      "d": "Research and policy advocacy",
+      "e": "Promotion of sustainable practices"
+    },
+    {
+      "question": "In health challenges as a family problem, what type of diseases are specifically mentioned as affecting urban families?",
+      "type": "single",
+      "correct": "b",
+      "a": "Infectious diseases like malaria and cholera",
+      "b": "Lifestyle diseases like diabetes and hypertension, and mental health problems",
+      "c": "Genetic disorders and congenital diseases",
+      "d": "Communicable diseases spread by poor sanitation only"
+    },
+    {
+      "question": "According to the textbook, which of the following characteristics of the family as a social institution is concerned with the psychological welfare of members?",
+      "type": "single",
+      "correct": "c",
+      "a": "Organizational roles",
+      "b": "Socialization role",
+      "c": "Emotion (caring, safety, and attachment)",
+      "d": "Stability and continuity"
+    },
+    {
+      "question": "Divorce and single-parenting are both examples of contemporary challenges for families. Which of the following consequences result from them?",
+      "type": "single",
+      "correct": "b",
+      "a": "Single-parent families have more children than two-parent families",
+      "b": "High levels of divorce result in single-parent families facing emotional and financial challenges",
+      "c": "Divorced parents always relocate to rural areas",
+      "d": "Single-parenting is more common in northern than southern Nigeria"
+    },
+    {
+      "question": "The textbook discusses how 'economic empowerment is through family entrepreneurship, microfinance, and savings groups.' In which chapter section is this found?",
+      "type": "single",
+      "correct": "c",
+      "a": "Chapter 4",
+      "b": "Chapter 3",
+      "c": "Chapter 6",
+      "d": "Chapter 5"
+    },
+    {
+      "question": "Which of the following are identified as the four basic human needs in the textbook?",
+      "type": "single",
+      "correct": "b",
+      "a": "Food, water, air, and shelter",
+      "b": "Food, clothing, shelter, and health",
+      "c": "Food, education, clothing, and entertainment",
+      "d": "Shelter, technology, health, and employment"
+    },
+    {
+      "question": "What is the PRIMARY characteristic that distinguishes basic human needs from other wants or desires?",
+      "type": "single",
+      "correct": "b",
+      "a": "They are only needed by people living in poverty",
+      "b": "They are essential for survival and required throughout life",
+      "c": "They are luxuries that only wealthy families can afford",
+      "d": "They are needs that vary based on personal preference"
+    },
+    {
+      "question": "Which food group provides the most abundant carbohydrates and serves as the main ingredient in Nigerian meals?",
+      "type": "single",
+      "correct": "c",
+      "a": "Protein foods",
+      "b": "Fruits and vegetables",
+      "c": "Staple foods containing carbohydrates",
+      "d": "Fatty foods"
+    },
+    {
+      "question": "A balanced diet must include which of the following components?",
+      "type": "single",
+      "correct": "b",
+      "a": "Only proteins, carbohydrates, and fats",
+      "b": "Carbohydrates, proteins, fats, vitamins, minerals, and water",
+      "c": "Vitamins, minerals, and processed foods",
+      "d": "Carbohydrates, proteins, and herbal supplements"
+    },
+    {
+      "question": "What is the PRIMARY function of protein in the body?",
+      "type": "single",
+      "correct": "c",
+      "a": "Providing energy for all body activities",
+      "b": "Strengthening the immune system against disease",
+      "c": "Building tissues: growth, repair, and development",
+      "d": "Regulating body temperature"
+    },
+    {
+      "question": "According to the textbook, what does food security refer to?",
+      "type": "single",
+      "correct": "a",
+      "a": "A condition where everybody has access to adequate, safe, and healthy food at any given time",
+      "b": "The security infrastructure around food markets and warehouses",
+      "c": "Government control over the production and distribution of food",
+      "d": "The ability of families to grow their own food"
+    },
+    {
+      "question": "Which of the following is listed as a function of clothing?",
+      "type": "single",
+      "correct": "b",
+      "a": "Providing nutrients to the body",
+      "b": "Expressing cultural heritage and traditions",
+      "c": "Generating income for the household",
+      "d": "Replacing the need for healthcare"
+    },
+    {
+      "question": "What is the traditional clothing of the Yoruba ethnic group?",
+      "type": "single",
+      "correct": "c",
+      "a": "Babban Riga",
+      "b": "Isiagu shirt and George wrapper",
+      "c": "Agbada, Iro and Buba",
+      "d": "Kaftan and turban"
+    },
+    {
+      "question": "Which type of housing is built with local materials like mud, thatch, and bamboo, commonly found in rural areas?",
+      "type": "single",
+      "correct": "c",
+      "a": "Modern housing",
+      "b": "Temporary housing",
+      "c": "Traditional housing",
+      "d": "Apartment housing"
+    },
+    {
+      "question": "The World Health Organization (WHO) defines health as:",
+      "type": "single",
+      "correct": "b",
+      "a": "The absence of any disease or illness in the body",
+      "b": "Complete physical, mental, and social well-being, not just the absence of disease",
+      "c": "The ability to engage in physical exercise daily",
+      "d": "Access to quality medical care and hospital services"
+    },
+    {
+      "question": "Which nutrient does palm oil and groundnut oil represent?",
+      "type": "single",
+      "correct": "d",
+      "a": "Carbohydrates",
+      "b": "Proteins",
+      "c": "Vitamins",
+      "d": "Fats"
+    },
+    {
+      "question": "What is the health benefit of fruits and vegetables?",
+      "type": "single",
+      "correct": "c",
+      "a": "They provide the body's main energy source",
+      "b": "They are the primary source of protein for tissue building",
+      "c": "They boost digestion and the immune system through vitamins, minerals, and dietary fiber",
+      "d": "They provide fats needed for hormone production"
+    },
+    {
+      "question": "What is the MOST important reason for the 'continuous' characteristic of basic human needs?",
+      "type": "single",
+      "correct": "b",
+      "a": "Basic needs change every few years as society progresses",
+      "b": "Human needs must be satisfied constantly throughout the whole life",
+      "c": "Basic needs are only required during childhood and old age",
+      "d": "Needs are continuous only in developing countries like Nigeria"
+    },
+    {
+      "question": "A child living in a poorly ventilated house with no proper waste disposal frequently falls ill which characteristic of basic human needs does this scenario BEST illustrate?",
+      "type": "single",
+      "correct": "d",
+      "a": "Universal nature of basic needs",
+      "b": "Essential nature of basic needs",
+      "c": "Continuous nature of basic needs",
+      "d": "Interdependence of basic needs"
+    },
+    {
+      "question": "Which of these food combination can be described as a typical balanced meal?",
+      "type": "single",
+      "correct": "b",
+      "a": "Jollof rice and soft drink",
+      "b": "Rice or yam with fish or meat, vegetable soup, and sliced fruit",
+      "c": "Bread, butter, and boiled eggs",
+      "d": "Garri and groundnut soup only"
+    },
+    {
+      "question": "Which of the following is NOT an household food management practices?",
+      "type": "single",
+      "correct": "d",
+      "a": "Meal planning",
+      "b": "Budgeting for food",
+      "c": "Proper food storage",
+      "d": "Outsourcing food preparation to restaurants"
+    },
+    {
+      "question": "In Nigeria, light cotton clothes are widely used what is the MAIN reason for this clothing choice?",
+      "type": "single",
+      "correct": "b",
+      "a": "Cotton is the cheapest fabric available in Nigerian markets",
+      "b": "Cotton allows air to go in and out of clothes, feeling comfortable in hot tropical conditions",
+      "c": "Cotton is mandated by government dress codes",
+      "d": "Cotton is the only fabric produced locally in Nigeria"
+    },
+    {
+      "question": "Which of the following clothing types is specifically designed to protect workers from occupational hazards?",
+      "type": "single",
+      "correct": "c",
+      "a": "Ceremonial/traditional clothing",
+      "b": "Fashion clothing",
+      "c": "Protective clothing",
+      "d": "Everyday clothing"
+    },
+    {
+      "question": "Which environmental factor in housing can reduce respiratory illnesses?",
+      "type": "single",
+      "correct": "c",
+      "a": "Adequate lighting",
+      "b": "Sanitation facilities",
+      "c": "Effective ventilation enabling circulation of fresh air",
+      "d": "Security lighting around the compound"
+    },
+    {
+      "question": "What is considered as a key sign of good physical health?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ability to afford premium healthcare services",
+      "b": "Normal body weight, physical fitness, resistance to disease, and enough daily energy",
+      "c": "Absence of any genetic disorders",
+      "d": "Regular access to hospital checkups"
+    },
+    {
+      "question": "What is the function of vitamins and minerals in the body?",
+      "type": "single",
+      "correct": "c",
+      "a": "They provide the body's primary energy source",
+      "b": "They build muscle tissue and support growth",
+      "c": "They strengthen immunity and prevent diseases",
+      "d": "They store energy for future use"
+    },
+    {
+      "question": "Which dimension of health relates to an individual's ability to communicate with others and maintain healthy relationships in family and community?",
+      "type": "single",
+      "correct": "d",
+      "a": "Physical health",
+      "b": "Mental health",
+      "c": "Moral health",
+      "d": "Social health"
+    },
+    {
+      "question": "A family in rural Kogi State lives in a mud house with no running water, uses an open pit latrine, and relies on unclean river water. Which combination of factors BEST explains the health risks this family faces?",
+      "type": "single",
+      "correct": "c",
+      "a": "Poor nutrition and lack of education",
+      "b": "Lack of physical exercise and poor clothing choices",
+      "c": "Poor sanitation, inadequate housing conditions, and contaminated water supply — all environmental health determinants",
+      "d": "Lifestyle diseases and mental health neglect"
+    },
+    {
+      "question": "On the description of interdependence' of basic human needs, which of the following BEST demonstrates this concept?",
+      "type": "single",
+      "correct": "b",
+      "a": "A family buying new clothes every season to stay fashionable",
+      "b": "A family in Lagos where poor nutrition weakens the children's immunity, leading to frequent illnesses that reduce school attendance and economic productivity",
+      "c": "A student choosing to eat only carbohydrates to save money",
+      "d": "A rural family building a temporary shelter during the farming season"
+    },
+    {
+      "question": "Moral health specifically refers to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Adherence to religious doctrines and faith-based practices",
+      "b": "The competence with which an individual makes decisions regarding questions or life choices, thinking with respect to values and principles under pressure",
+      "c": "The ability to control one's emotions and maintain psychological stability",
+      "d": "The quality of social relationships and community engagement"
+    },
+    {
+      "question": "Disease prevention is 'most of the time more effective and less expensive as compared to curing diseases.' Which of the following a prevention measures is?",
+      "type": "single",
+      "correct": "c",
+      "a": "Immunization",
+      "b": "Regular medical check-ups",
+      "c": "Genetic programs",
+      "d": "Physical exercise"
+    },
+    {
+      "question": "Which of the following is not a factor that influence clothing choice?",
+      "type": "single",
+      "correct": "d",
+      "a": "Climate and weather conditions",
+      "b": "Cultural and religious traditions",
+      "c": "Economic status and income level",
+      "d": "Government fashion regulations",
+      "e": "Occupation and job requirements"
+    },
+    {
+      "question": "Which of the following is not a community health intervention?",
+      "type": "single",
+      "correct": "d",
+      "a": "Proper waste management",
+      "b": "Safe drinking water supply",
+      "c": "Vaccination programs",
+      "d": "Building luxury housing estates",
+      "e": "Health education campaigns"
+    },
+    {
+      "question": "Which of the following is not a healthy researched based lifestyle practice?",
+      "type": "single",
+      "correct": "d",
+      "a": "Balanced diet — provides essential nutrients",
+      "b": "Regular exercise — improves body fitness",
+      "c": "Adequate sleep — supports body recovery",
+      "d": "Herbal medicine — cures all chronic diseases",
+      "e": "Personal hygiene — prevents infections"
+    },
+    {
+      "question": "Fatima, a 28-year-old mother in Sokoto, notices that her two children are losing weight and falling ill frequently identify the TWO basic needs MOST critically unmet in this household.",
+      "type": "single",
+      "correct": "b",
+      "a": "Clothing and education",
+      "b": "Food (inadequate nutrition) and health (poor sanitation and water quality)",
+      "c": "Shelter (no house) and clothing (lack of warmth)",
+      "d": "Economic resources and social support"
+    },
+    {
+      "question": "A construction company requires all site workers to wear helmets, safety boots, and gloves while working. Meanwhile, during the company's annual cultural day, workers wear their traditional ethnic attire what types of clothing are represented in these two scenarios?",
+      "type": "single",
+      "correct": "b",
+      "a": "Everyday clothing and fashion clothing",
+      "b": "Protective clothing and ceremonial/traditional clothing",
+      "c": "Fashion clothing and everyday clothing",
+      "d": "Traditional clothing and protective fashion clothing"
+    },
+    {
+      "question": "Which personal hygiene habit is listed as preventing infections?",
+      "type": "single",
+      "correct": "a",
+      "a": "Regular bathing, washing hands before eating, brushing teeth, wearing clean clothing",
+      "b": "Visiting the hospital every week",
+      "c": "Taking vitamin supplements daily",
+      "d": "Participating in community vaccination drives"
+    },
+    {
+      "question": "which statement describes the relationship between food, clothing, shelter, and health?",
+      "type": "single",
+      "correct": "b",
+      "a": "Each need is entirely independent and does not affect the others",
+      "b": "These needs are interrelated — poor nutrition can weaken health; poor housing can expose one to disease",
+      "c": "Only food and health are related; clothing and shelter are separate",
+      "d": "Health is more important than the other three needs combined"
+    },
+    {
+      "question": "Which type of housing uses canvas, plastic, and wood as construction materials?",
+      "type": "single",
+      "correct": "c",
+      "a": "Modern houses",
+      "b": "Traditional houses",
+      "c": "Temporary shelters",
+      "d": "Rural housing"
+    },
+    {
+      "question": "Cotton is described as originating from a plant. What are its key characteristics?",
+      "type": "single",
+      "correct": "d",
+      "a": "Strong, wrinkle-free, and chemically produced",
+      "b": "Warm, wooly, and from an animal source",
+      "c": "Smooth, luxurious, and from an animal source",
+      "d": "Soft, breathable, and comfortable"
+    },
+    {
+      "question": "Which nutrient function and food example CORRECTLY?",
+      "type": "single",
+      "correct": "c",
+      "a": "Carbohydrates — Body building; beans and fish",
+      "b": "Protein — Energy provision; yam and rice",
+      "c": "Fats — Energy storage and hormone production; palm oil and groundnut oil",
+      "d": "Minerals — Immunity and growth; vegetables and fruits"
+    },
+    {
+      "question": "Which statement describes the interdependence of the four basic human needs?",
+      "type": "single",
+      "correct": "c",
+      "a": "Each need is completely separate and meeting one does not affect others",
+      "b": "The needs are independent but should be managed separately",
+      "c": "These needs are connected — poor nutrition can weaken health, and poor housing can expose one to disease",
+      "d": "Health is the only need that connects all other needs"
+    },
+    {
+      "question": "The textbook discusses five dimensions of health as referenced the WHO. Which of the following is NOT a listed dimension?",
+      "type": "single",
+      "correct": "c",
+      "a": "Physical health",
+      "b": "Mental health",
+      "c": "Spiritual health",
+      "d": "Social health"
+    },
+    {
+      "question": "What does 'emotional health' refer to according to the textbook?",
+      "type": "single",
+      "correct": "a",
+      "a": "A skill of interpreting and controlling feelings, with emotional stability helping people handle life situations properly",
+      "b": "The physical ability to perform daily tasks without fatigue",
+      "c": "The social ability to maintain family relationships",
+      "d": "The moral capacity to make ethical decisions under pressure"
+    },
+    {
+      "question": "According to the textbook, what makes basic human needs 'universal in nature'?",
+      "type": "single",
+      "correct": "b",
+      "a": "They are needs that must be met by the government in all countries",
+      "b": "They are human needs required by every person regardless of societal status, geographical location, culture, race, or religion",
+      "c": "They are needs that appear universally in all textbooks worldwide",
+      "d": "They are the same in quantity and quality for all people"
+    },
+    {
+      "question": "Effective housing management practices include:",
+      "type": "single",
+      "correct": "b",
+      "a": "Renting the house to generate income",
+      "b": "Routine cleaning, appropriate waste disposal, maintenance of household facilities, and repair/renovation when necessary",
+      "c": "Delegating all maintenance to government agencies",
+      "d": "Selling the house when maintenance costs increase"
+    },
+    {
+      "question": "Which of the following is not a function of shelter?",
+      "type": "single",
+      "correct": "d",
+      "a": "Protection from environmental conditions",
+      "b": "Privacy for individuals and families",
+      "c": "Security and safety from theft and threats",
+      "d": "Providing employment for all family members",
+      "e": "Comfort and convenience for family living"
+    },
+    {
+      "question": "During a home visit, an FCS student finds a family of five in Ogun State. The children's school uniforms are clean and well-maintained, the house is concrete with proper ventilation and toilets, the family eats a variety of foods including fish, leafy vegetables, and tubers, and all members have current immunization records which assessment BEST describes this family?",
+      "type": "single",
+      "correct": "d",
+      "a": "This family struggles with food insecurity and health challenges",
+      "b": "This family is at high risk of lifestyle diseases due to poor diet",
+      "c": "This family meets shelter needs only; food and health are inadequate",
+      "d": "This family adequately meets all four basic human needs: food, clothing, shelter, and health"
+    },
+    {
+      "question": "What is the PRIMARY purpose of clothing in human society?",
+      "type": "single",
+      "correct": "b",
+      "a": "To demonstrate social status and wealth",
+      "b": "Protection from weather conditions, modesty, cultural expression, and identity",
+      "c": "To generate income through fashion industry employment",
+      "d": "To satisfy government dress code regulations"
+    },
+    {
+      "question": "According to the textbook, what is 'mental health' specifically concerned with?",
+      "type": "single",
+      "correct": "b",
+      "a": "The physical strength and fitness of the body",
+      "b": "The ability to think effectively, decide, and deal with life issues; coping with stress and forming positive relationships",
+      "c": "The moral ability to make ethical decisions under pressure",
+      "d": "The social ability to communicate with community members"
+    },
+    {
+      "question": "A family health educator is designing a program for communities in northern Nigeria. She wants to address the most critical nutritional gaps in the area. Based on the textbook's discussion of food groups, which intervention would MOST directly address body-building needs?",
+      "type": "single",
+      "correct": "c",
+      "a": "Distributing more yam, cassava, and rice",
+      "b": "Encouraging families to eat more fruit for vitamin intake",
+      "c": "Promoting consumption of fish, beans, meat, and eggs as protein sources",
+      "d": "Teaching families to consume more fats and oils for energy"
+    },
+    {
+      "question": "The textbook states that disease prevention is more cost-effective than treatment. What does this principle suggest for professionals working with families?",
+      "type": "single",
+      "correct": "b",
+      "a": "FCS professionals should focus only on treating existing diseases",
+      "b": "FCS professionals should prioritize preventive interventions — immunization, healthy eating, exercise, hygiene, and clean environments",
+      "c": "Cure-focused medical approaches should replace all preventive programs",
+      "d": "Prevention is only possible for wealthy families with healthcare access"
+    },
+    {
+      "question": "Which statement is correct as regards clothing choices promoting well-being",
+      "type": "single",
+      "correct": "b",
+      "a": "Buy synthetic fabrics like polyester since they are fashionable",
+      "b": "Focus on durable, affordable, climate-appropriate fabrics (such as light cotton for hot weather) that protect the body while meeting cultural requirements",
+      "c": "Prioritize ceremonial clothing to maintain cultural identity",
+      "d": "Invest in designer clothing to improve family social status"
+    },
+    {
+      "question": "The best description for Household Food Management is?",
+      "type": "single",
+      "correct": "a",
+      "a": "Meal planning, food budgeting, proper storage, and hygienic preparation",
+      "b": "Buying food in bulk, using food banks, and restaurant dining",
+      "c": "Agricultural production, food export, and market trading",
+      "d": "Traditional preservation methods and modern packaging only"
+    },
+    {
+      "question": "How is food security situation presented in developing countries like Nigeria??",
+      "type": "single",
+      "correct": "a",
+      "a": "Food security is one of the urgent problems in most developing nations including Nigeria",
+      "b": "Food security is no longer a concern due to agricultural improvements",
+      "c": "Nigeria has fully achieved food security through government programs",
+      "d": "Food insecurity only affects rural families in Nigeria"
+    },
+    {
+      "question": "A student states: 'Adequate sanitation in housing is mainly an aesthetic issue based on the textbook, is this statement correct?",
+      "type": "single",
+      "correct": "a",
+      "a": "No — the textbook identifies inadequate sanitation as a cause of disease outbreaks including cholera and typhoid, making it a critical health issue",
+      "b": "Yes, sanitation is primarily about home appearance",
+      "c": "Partially — sanitation matters for appearance but has no health effects",
+      "d": "Yes, but only in rural areas where health facilities are limited"
+    },
+    {
+      "question": "What does the family serve as in the field of Family and Consumer Sciences?",
+      "type": "single",
+      "correct": "b",
+      "a": "A government administrative unit",
+      "b": "The most basic unit that performs resource management and satisfies physical, emotional, and social needs of members",
+      "c": "A commercial organization for income generation",
+      "d": "A religious institution for cultural transmission only"
+    },
+    {
+      "question": "Which of the following is described as the first institution to instill social norms, cultural values, and acceptable behavior in children?",
+      "type": "single",
+      "correct": "c",
+      "a": "The school",
+      "b": "The church or mosque",
+      "c": "The family",
+      "d": "The community"
+    },
+    {
+      "question": "Which of the following is a major responsibility of mothers in the family?",
+      "type": "single",
+      "correct": "b",
+      "a": "Financial provision and protection",
+      "b": "Childcare, household management, and emotional support",
+      "c": "Education, assisting with chores, and respecting parents",
+      "d": "Cooperation, mutual support, and shared decision-making"
+    },
+    {
+      "question": "Which of the following is a key shared responsibility of ALL family members?",
+      "type": "single",
+      "correct": "c",
+      "a": "Financial provision and protection",
+      "b": "Childcare and household management",
+      "c": "Cooperation, mutual support, and shared decision-making",
+      "d": "Assisting with chores and respecting parents"
+    },
+    {
+      "question": "What is the role of children in the family beyond education and personal development?",
+      "type": "single",
+      "correct": "d",
+      "a": "Making all household financial decisions",
+      "b": "Managing family savings and investments",
+      "c": "Acting as family representatives in the community",
+      "d": "Participating in age-related household chores and respecting parents and elders"
+    },
+    {
+      "question": "Which of the following is a type of family resource?",
+      "type": "single",
+      "correct": "b",
+      "a": "Social connections only",
+      "b": "Human resources (skills, knowledge, labour)",
+      "c": "Government grants and subsidies",
+      "d": "Community land rights"
+    },
+    {
+      "question": "What is the impact of high family income on quality of life?",
+      "type": "single",
+      "correct": "d",
+      "a": "Moderate life satisfaction with occasional stress",
+      "b": "Guaranteed absence of all family conflicts",
+      "c": "Low satisfaction and higher risk of health issues",
+      "d": "High life satisfaction and stable family relationships"
+    },
+    {
+      "question": "According to the textbook, which of the following is the role of the family described as the 'foundation of social life'?",
+      "type": "single",
+      "correct": "d",
+      "a": "Families represent individuals in government elections",
+      "b": "Families organize community infrastructure projects",
+      "c": "Families establish the economic foundation for national development",
+      "d": "Individuals are exposed to their first social environment in the family, learning cooperation, communication, and respect"
+    },
+    {
+      "question": "Which factor influencing family well-being relates to whether families can access food, shelter, healthcare, and education?",
+      "type": "single",
+      "correct": "c",
+      "a": "Cultural factors",
+      "b": "Environmental factors",
+      "c": "Economic factors",
+      "d": "Educational factors"
+    },
+    {
+      "question": "What FOUR types of resources do families manage as a unit of resource management?",
+      "type": "single",
+      "correct": "b",
+      "a": "Land, water, energy, and agriculture",
+      "b": "Financial resources, human resources (skills and labour), time, and knowledge/information",
+      "c": "Education, healthcare, housing, and food",
+      "d": "Income, religion, technology, and culture"
+    },
+    {
+      "question": "Changes in fathers' roles in contemporary families include?",
+      "type": "single",
+      "correct": "d",
+      "a": "Fathers have completely withdrawn from household responsibilities",
+      "b": "The role of fathers has remained strictly as financial providers",
+      "c": "Fathers now primarily focus on community governance",
+      "d": "Fathers are increasingly taking more roles in childcare and house chores, making families more balanced"
+    },
+    {
+      "question": "How can culture influence family well-being in the context of Yoruba communities in Nigeria?",
+      "type": "single",
+      "correct": "c",
+      "a": "Yoruba families rely entirely on government programs for childcare",
+      "b": "Yoruba communities have abandoned traditional family practices",
+      "c": "Yoruba communities prefer extended families, providing high intergenerational support; elders teach cultural values strengthening social unity",
+      "d": "Yoruba families prioritize nuclear family structure over extended families"
+    },
+    {
+      "question": "What is a potentially negative impact of cultural beliefs on family well-being?",
+      "type": "single",
+      "correct": "a",
+      "a": "Bad cultural practices such as limiting women and children's opportunities may pose threats to health or limit health prospects",
+      "b": "Cultural beliefs always improve family cohesion",
+      "c": "Cultural beliefs prevent families from seeking medical care",
+      "d": "Cultural traditions increase financial burdens on families"
+    },
+    {
+      "question": "What are the impacts of poor housing conditions and lack of sanitation on families?",
+      "type": "single",
+      "correct": "a",
+      "a": "Substandard environmental factors that play a significant role in the prevalence of diseases and worsening family well-being",
+      "b": "Improved economic productivity through reduced healthcare spending",
+      "c": "Increased community cohesion and collaboration",
+      "d": "Greater cultural preservation among family members"
+    },
+    {
+      "question": "How does education influence family well-being according?",
+      "type": "single",
+      "correct": "c",
+      "a": "Education only benefits children and has no effect on parents' family roles",
+      "b": "Education causes families to neglect traditional values",
+      "c": "Education determines income level, health education, and social advancement; educated parents tend to practice healthy habits and good parenting",
+      "d": "Education primarily benefits urban families but not rural ones"
+    },
+    {
+      "question": "Which of the following government policy interventions supports family well-being?",
+      "type": "single",
+      "correct": "c",
+      "a": "Free smartphones for all family members",
+      "b": "Tax exemptions for families with more than five children",
+      "c": "Housing programs, healthcare services, social security schemes, child protection laws, and family planning programs",
+      "d": "Government control of all household food purchases"
+    },
+    {
+      "question": "Which of the following is a consequence of lacking education on family well-being?",
+      "type": "single",
+      "correct": "d",
+      "a": "Families become more creative in resource management",
+      "b": "Lack of education increases traditional family values and cohesion",
+      "c": "Uneducated families rely more on government for all their needs",
+      "d": "Lack of education reduces job opportunities and access to modern facilities, negatively impacting general family well-being"
+    },
+    {
+      "question": "Which of the following forces reduces the level of work in household chores?",
+      "type": "single",
+      "correct": "a",
+      "a": "Technological advancements like domestic appliances",
+      "b": "Increased government subsidies for household help",
+      "c": "Migration to rural areas with simpler lifestyles",
+      "d": "Religious instructions promoting simpler living"
+    },
+    {
+      "question": "Which of these statements show the relationship between health, nutrition, and family well-being?",
+      "type": "single",
+      "correct": "d",
+      "a": "Health and nutrition are unrelated to family stability",
+      "b": "Nutrition only affects children; adults manage independently",
+      "c": "Health is a personal matter and does not affect family functioning",
+      "d": "Families that engage in balanced diets, preventive healthcare, immunizations, and routine check-ups have higher chances of leading stable and productive lives"
+    },
+    {
+      "question": "Which statement best explains the link between family and health?",
+      "type": "single",
+      "correct": "a",
+      "a": "The family as a social unit is responsible for meeting health as a basic need through nutrition, hygiene practices, environmental management, and healthcare access",
+      "b": "Health is treated as a personal matter unrelated to family responsibilities The family as a social unit is responsible for meeting health as a basic need through nutrition, hygiene practices, environmental management, and healthcare access",
+      "c": "Health needs are solely the responsibility of government health services",
+      "d": "Only mothers are responsible for family health outcomes"
+    },
+    {
+      "question": "Strengthening family institutions in Nigeria is the most effective strategy for national development which statement BEST supports this argument?",
+      "type": "single",
+      "correct": "c",
+      "a": "Families only contribute to development through individual income generation",
+      "b": "National development depends solely on government policies, not family structures",
+      "c": "Families serve as the first social environment, the site of resource management, the transmitter of culture, the unit meeting basic needs, and the primary agent of socialization making family strength foundational to national development",
+      "d": "Family development only matters for rural communities, not urban Nigeria"
+    },
+    {
+      "question": "In which chapter is the Egungun festival in Ondo State cited as an example?",
+      "type": "single",
+      "correct": "d",
+      "a": "Chapter 4, as an example of globalization's impact",
+      "b": "Chapter 6, as an example of community health programs",
+      "c": "Chapter 5, as an example of clothing for ceremonial occasions",
+      "d": "Chapter 3, as an example of the cultural function of the family"
+    },
+    {
+      "question": "Which statement is TRUE about modern Nigerian housing patterns in urban areas?",
+      "type": "single",
+      "correct": "d",
+      "a": "Urban housing predominantly uses mud and thatch materials",
+      "b": "Urban housing requires less investment than rural housing",
+      "c": "Modern housing is found only in government-built estates",
+      "d": "Urban housing consists of apartments, flats, duplexes, and high-rise buildings, and is costlier than rural housing"
+    },
+    {
+      "question": "Which chapter FIRST introduces the concept of 'family as a resource management system'?",
+      "type": "single",
+      "correct": "c",
+      "a": "Chapter 4",
+      "b": "Chapter 5",
+      "c": "Chapter 3",
+      "d": "Chapter 6"
+    },
+    {
+      "question": "Which of the following is not identified as a cause of change in Nigerian family structures and functions?",
+      "type": "single",
+      "correct": "c",
+      "a": "Urbanization and migration patterns",
+      "b": "Economic pressures and poverty",
+      "c": "Advances in space exploration",
+      "d": "Globalization and cultural change",
+      "e": "Technology and ICT tools"
+    },
+    {
+      "question": "Unhealthy feeding and low healthcare services deter child growth, education and work ethics.' Which of the following factors directly supports this statement?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cultural factors shaping family structure",
+      "b": "Government policy providing social welfare programs",
+      "c": "Environmental factors affecting housing conditions",
+      "d": "Health and Nutrition factors ensuring physical growth, productivity, and stability"
+    },
+    {
+      "question": "Which of the following BEST explains why sharing family roles promotes cooperation and stability?",
+      "type": "single",
+      "correct": "b",
+      "a": "Sharing roles ensures only the most capable member handles all tasks",
+      "b": "Role sharing includes cleaning, cooking, childcare, budgeting, and decision-making — working together reduces the burden, strengthens family unity, and promotes justice",
+      "c": "Shared roles eliminate the need for any single family member to specialize",
+      "d": "Role sharing is only effective in nuclear families"
+    },
+    {
+      "question": "Which of the following is not a shared family responsibilities in the modern family context?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cleaning of the house",
+      "b": "Cooking meals",
+      "c": "Childcare",
+      "d": "Managing government contracts",
+      "e": "Budgeting and decision-making"
+    },
+    {
+      "question": "Food production refers to the process of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Selling food products",
+      "b": "Consuming food",
+      "c": "Growing, raising and harvesting food resources",
+      "d": "Exporting food products"
+    },
+    {
+      "question": "Which of the following is the first stage in the food system?",
+      "type": "single",
+      "correct": "c",
+      "a": "Marketing",
+      "b": "Consumption",
+      "c": "Production",
+      "d": "Distribution"
+    },
+    {
+      "question": "Food distribution involves:",
+      "type": "single",
+      "correct": "b",
+      "a": "Preparing meals",
+      "b": "Moving food from producers to consumers",
+      "c": "Preserving food",
+      "d": "Purchasing food"
+    },
+    {
+      "question": "A food marketing system primarily aims to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Reduce food intake",
+      "b": "Connect producers with consumers",
+      "c": "Eliminate food processing",
+      "d": "Increase food spoilage"
+    },
+    {
+      "question": "Which factor most directly influences food availability?",
+      "type": "single",
+      "correct": "a",
+      "a": "Climate",
+      "b": "Religion",
+      "c": "Fashion",
+      "d": "Music"
+    },
+    {
+      "question": "Food habits are:",
+      "type": "single",
+      "correct": "b",
+      "a": "Government regulations",
+      "b": "Repeated patterns of food consumption",
+      "c": "Marketing strategies",
+      "d": "Food preservation methods"
+    },
+    {
+      "question": "Which factor strongly influences food choice?",
+      "type": "single",
+      "correct": "a",
+      "a": "Culture",
+      "b": "Weather only",
+      "c": "Television only",
+      "d": "Politics only"
+    },
+    {
+      "question": "Religious beliefs may influence:",
+      "type": "single",
+      "correct": "b",
+      "a": "Housing design",
+      "b": "Food selection",
+      "c": "Transportation",
+      "d": "Communication"
+    },
+    {
+      "question": "Income level affects food choice because it determines:",
+      "type": "single",
+      "correct": "b",
+      "a": "Taste buds",
+      "b": "Food affordability",
+      "c": "Religion",
+      "d": "Weather"
+    },
+    {
+      "question": "Consumer behaviour refers to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Farming activities",
+      "b": "Buying and consumption decisions",
+      "c": "Food processing",
+      "d": "Food preservation"
+    },
+    {
+      "question": "The study of why consumers purchase products is called:",
+      "type": "single",
+      "correct": "a",
+      "a": "Consumer behaviour",
+      "b": "Food science",
+      "c": "Agronomy",
+      "d": "Microbiology"
+    },
+    {
+      "question": "Which of the following is an internal factor affecting food choice?",
+      "type": "single",
+      "correct": "c",
+      "a": "Price",
+      "b": "Advertisement",
+      "c": "Hunger",
+      "d": "Availability"
+    },
+    {
+      "question": "Taste preference is an example of:",
+      "type": "single",
+      "correct": "a",
+      "a": "Personal factor",
+      "b": "Economic factor",
+      "c": "Political factor",
+      "d": "Legal factor"
+    },
+    {
+      "question": "Food security means:",
+      "type": "single",
+      "correct": "c",
+      "a": "Food is expensive",
+      "b": "Food is imported",
+      "c": "Continuous access to safe and nutritious food",
+      "d": "Food is processed"
+    },
+    {
+      "question": "Sustainable food systems promote:",
+      "type": "single",
+      "correct": "b",
+      "a": "Excess waste",
+      "b": "Environmental protection",
+      "c": "Food scarcity",
+      "d": "Resource depletion"
+    },
+    {
+      "question": "Which of these is a component of food marketing?",
+      "type": "single",
+      "correct": "a",
+      "a": "Packaging",
+      "b": "Sleeping",
+      "c": "Migration",
+      "d": "Taxation only"
+    },
+    {
+      "question": "Consumer satisfaction is achieved when:",
+      "type": "single",
+      "correct": "b",
+      "a": "Expectations exceed performance",
+      "b": "Product performance meets expectations",
+      "c": "Prices increase",
+      "d": "Food spoils quickly"
+    },
+    {
+      "question": "Food demand is largely influenced :",
+      "type": "single",
+      "correct": "a",
+      "a": "Consumer preferences",
+      "b": "Moonlight",
+      "c": "Geography alone",
+      "d": "Traffic"
+    },
+    {
+      "question": "Which sector creates employment through food production?",
+      "type": "single",
+      "correct": "a",
+      "a": "Agriculture",
+      "b": "Mining",
+      "c": "Judiciary",
+      "d": "Defense"
+    },
+    {
+      "question": "Entrepreneurship involves:",
+      "type": "single",
+      "correct": "b",
+      "a": "Depending solely on salaries",
+      "b": "Creating and managing business opportunities",
+      "c": "Avoiding risks",
+      "d": "Government employment only"
+    },
+    {
+      "question": "A catering business belongs to:",
+      "type": "single",
+      "correct": "a",
+      "a": "Food and hospitality sector",
+      "b": "Transport sector",
+      "c": "Health sector",
+      "d": "Education sector"
+    },
+    {
+      "question": "Hospitality services include:",
+      "type": "single",
+      "correct": "b",
+      "a": "Banking",
+      "b": "Accommodation and food services",
+      "c": "Manufacturing",
+      "d": "Mining"
+    },
+    {
+      "question": "Responsible consumption encourages:",
+      "type": "single",
+      "correct": "b",
+      "a": "Wastefulness",
+      "b": "Efficient use of resources",
+      "c": "Overeating",
+      "d": "Hoarding"
+    },
+    {
+      "question": "Which is an example of sustainable consumption?",
+      "type": "single",
+      "correct": "b",
+      "a": "Excessive food waste",
+      "b": "Buying only what is needed",
+      "c": "Burning edible food",
+      "d": "Overproduction"
+    },
+    {
+      "question": "Food waste contributes to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Environmental sustainability",
+      "b": "Environmental degradation",
+      "c": "Food security",
+      "d": "Better nutrition"
+    },
+    {
+      "question": "Which of the following is a determinant of food choice?",
+      "type": "single",
+      "correct": "b",
+      "a": "Soil erosion",
+      "b": "Personal preference",
+      "c": "Road construction",
+      "d": "Election campaign"
+    },
+    {
+      "question": "Food production includes:",
+      "type": "single",
+      "correct": "a",
+      "a": "Cultivation of crops",
+      "b": "Advertising products",
+      "c": "Transporting goods",
+      "d": "Retailing"
+    },
+    {
+      "question": "Which factor is most likely to influence a student's food choice?",
+      "type": "single",
+      "correct": "b",
+      "a": "Academic level",
+      "b": "Hunger",
+      "c": "Shoe size",
+      "d": "Blood group"
+    },
+    {
+      "question": "The main objective of food distribution is to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Increase food waste",
+      "b": "Ensure food reaches consumers",
+      "c": "Reduce crop yield",
+      "d": "Increase taxes"
+    },
+    {
+      "question": "Which of the following is an economic factor affecting food consumption?",
+      "type": "single",
+      "correct": "a",
+      "a": "Income",
+      "b": "Religion",
+      "c": "Tradition",
+      "d": "Age"
+    },
+    {
+      "question": "Consumer behaviour is influenced :",
+      "type": "single",
+      "correct": "d",
+      "a": "Social factors",
+      "b": "Psychological factors",
+      "c": "Economic factors",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a hospitality business?",
+      "type": "single",
+      "correct": "a",
+      "a": "Hotel",
+      "b": "Quarry",
+      "c": "Refinery",
+      "d": "Court"
+    },
+    {
+      "question": "Sustainable food systems aim to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Increase environmental damage",
+      "b": "Preserve resources for future generations",
+      "c": "Promote waste",
+      "d": "Encourage overconsumption"
+    },
+    {
+      "question": "Food habits are usually formed through:",
+      "type": "single",
+      "correct": "a",
+      "a": "Experience and culture",
+      "b": "Weather reports",
+      "c": "Politics",
+      "d": "Transportation"
+    },
+    {
+      "question": "Which of the following can affect consumer decision-making?",
+      "type": "single",
+      "correct": "d",
+      "a": "Advertising",
+      "b": "Product quality",
+      "c": "Price",
+      "d": "All of the above"
+    },
+    {
+      "question": "Responsible consumption encourages consumers to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Buy excessively",
+      "b": "Use resources wisely",
+      "c": "Waste food",
+      "d": "Ignore environmental issues"
+    },
+    {
+      "question": "Which factor is considered a social influence on food choice?",
+      "type": "single",
+      "correct": "a",
+      "a": "Family",
+      "b": "Rainfall",
+      "c": "Inflation",
+      "d": "Soil type"
+    },
+    {
+      "question": "Which of the following is an example of food entrepreneurship?",
+      "type": "single",
+      "correct": "a",
+      "a": "Catering services",
+      "b": "Road maintenance",
+      "c": "Banking",
+      "d": "Law practice"
+    },
+    {
+      "question": "Consumer satisfaction is most likely achieved when:",
+      "type": "single",
+      "correct": "a",
+      "a": "Product performance meets expectations",
+      "b": "Prices are highest",
+      "c": "Products are unavailable",
+      "d": "Advertising is absent"
+    },
+    {
+      "question": "Which of the following is a traditional influence on food consumption?",
+      "type": "single",
+      "correct": "a",
+      "a": "Cultural beliefs",
+      "b": "Computer literacy",
+      "c": "Internet speed",
+      "d": "Occupation only"
+    },
+    {
+      "question": "Which food marketing activity creates awareness of products?",
+      "type": "single",
+      "correct": "a",
+      "a": "Advertising",
+      "b": "Harvesting",
+      "c": "Processing",
+      "d": "Irrigation"
+    },
+    {
+      "question": "Entrepreneurship in hospitality can contribute to:",
+      "type": "single",
+      "correct": "a",
+      "a": "Employment generation",
+      "b": "Food spoilage",
+      "c": "Unemployment",
+      "d": "Resource depletion"
+    },
+    {
+      "question": "Which of these is an environmental benefit of responsible consumption?",
+      "type": "single",
+      "correct": "a",
+      "a": "Reduced waste",
+      "b": "Increased pollution",
+      "c": "Resource depletion",
+      "d": "Environmental degradation"
+    },
+    {
+      "question": "Which of the following affects food demand?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consumer income",
+      "b": "Consumer preferences",
+      "c": "Population size",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which stage comes after food production?",
+      "type": "single",
+      "correct": "a",
+      "a": "Distribution",
+      "b": "Consumption",
+      "c": "Waste disposal",
+      "d": "Advertising only"
+    },
+    {
+      "question": "One major goal of sustainable food systems is:",
+      "type": "single",
+      "correct": "a",
+      "a": "Long-term food security",
+      "b": "Resource wastage",
+      "c": "Food scarcity",
+      "d": "Environmental pollution"
+    },
+    {
+      "question": "Which factor can affect an individual's eating pattern?",
+      "type": "single",
+      "correct": "d",
+      "a": "Lifestyle",
+      "b": "Age",
+      "c": "Culture",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is NOT a hospitality service?",
+      "type": "single",
+      "correct": "d",
+      "a": "Catering",
+      "b": "Hotel accommodation",
+      "c": "Restaurant service",
+      "d": "Crude oil drilling"
+    },
+    {
+      "question": "Food marketing helps producers :",
+      "type": "single",
+      "correct": "a",
+      "a": "Connecting them with consumers",
+      "b": "Reducing product awareness",
+      "c": "Increasing spoilage",
+      "d": "Limiting sales"
+    },
+    {
+      "question": "Which of the following is a component of a food system?",
+      "type": "single",
+      "correct": "d",
+      "a": "Production",
+      "b": "Distribution",
+      "c": "Consumption",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which factor can influence consumer preference for a particular food product?",
+      "type": "single",
+      "correct": "d",
+      "a": "Packaging",
+      "b": "Taste",
+      "c": "Brand reputation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of a food distribution channel?",
+      "type": "single",
+      "correct": "a",
+      "a": "Farmer to wholesaler to retailer to consumer",
+      "b": "Farmer to rainfall",
+      "c": "Farmer to fertilizer",
+      "d": "Farmer to storage only"
+    },
+    {
+      "question": "Which of the following is a psychological factor affecting food consumption?",
+      "type": "single",
+      "correct": "a",
+      "a": "Motivation",
+      "b": "Soil type",
+      "c": "Climate",
+      "d": "Road network"
+    },
+    {
+      "question": "The transfer of food products from producers to consumers creates __________ utility.",
+      "type": "single",
+      "correct": "a",
+      "a": "Place",
+      "b": "Form",
+      "c": "Time",
+      "d": "Ownership"
+    },
+    {
+      "question": "Which of the following is a benefit of food marketing?",
+      "type": "single",
+      "correct": "d",
+      "a": "Improved product awareness",
+      "b": "Increased access to food",
+      "c": "Better communication between producers and consumers",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a major source of food production in Nigeria?",
+      "type": "single",
+      "correct": "a",
+      "a": "Agriculture",
+      "b": "Mining",
+      "c": "Banking",
+      "d": "Shipping"
+    },
+    {
+      "question": "Which factor influences food choice through family traditions and customs?",
+      "type": "single",
+      "correct": "a",
+      "a": "Cultural factor",
+      "b": "Political factor",
+      "c": "Climatic factor",
+      "d": "Industrial factor"
+    },
+    {
+      "question": "The hospitality industry provides services such as:",
+      "type": "single",
+      "correct": "d",
+      "a": "Accommodation",
+      "b": "Catering",
+      "c": "Recreation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of responsible food consumption?",
+      "type": "single",
+      "correct": "a",
+      "a": "Purchasing only needed quantities",
+      "b": "Excessive food waste",
+      "c": "Overconsumption",
+      "d": "Impulse buying"
+    },
+    {
+      "question": "Which of the following may influence a consumer's perception of food quality?",
+      "type": "single",
+      "correct": "d",
+      "a": "Packaging",
+      "b": "Labelling",
+      "c": "Appearance",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an external influence on food choice?",
+      "type": "single",
+      "correct": "a",
+      "a": "Advertising",
+      "b": "Hunger",
+      "c": "Taste preference",
+      "d": "Appetite"
+    },
+    {
+      "question": "Which of the following can encourage repeat purchases consumers?",
+      "type": "single",
+      "correct": "a",
+      "a": "Satisfaction",
+      "b": "Disappointment",
+      "c": "Scarcity",
+      "d": "Confusion"
+    },
+    {
+      "question": "Which of the following contributes to food security?",
+      "type": "single",
+      "correct": "d",
+      "a": "Efficient food production",
+      "b": "Effective distribution",
+      "c": "Reduced food waste",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a characteristic of successful entrepreneurship?",
+      "type": "single",
+      "correct": "d",
+      "a": "Innovation",
+      "b": "Initiative",
+      "c": "Risk-taking",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which factor determines whether consumers can afford certain food products?",
+      "type": "single",
+      "correct": "a",
+      "a": "Income",
+      "b": "Religion",
+      "c": "Tradition",
+      "d": "Climate"
+    },
+    {
+      "question": "Which of the following can influence children's food habits?",
+      "type": "single",
+      "correct": "d",
+      "a": "Parents",
+      "b": "Peers",
+      "c": "School environment",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is NOT a determinant of food choice?",
+      "type": "single",
+      "correct": "d",
+      "a": "Culture",
+      "b": "Income",
+      "c": "Consumer preference",
+      "d": "Shoe colour"
+    },
+    {
+      "question": "Which of the following promotes environmental sustainability?",
+      "type": "single",
+      "correct": "d",
+      "a": "Recycling",
+      "b": "Resource conservation",
+      "c": "Waste reduction",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can increase demand for a food product?",
+      "type": "single",
+      "correct": "d",
+      "a": "Positive advertisement",
+      "b": "Good quality",
+      "c": "Consumer satisfaction",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following activities adds value to raw agricultural products before they reach consumers?",
+      "type": "single",
+      "correct": "a",
+      "a": "Food processing",
+      "b": "Rainfall",
+      "c": "Migration",
+      "d": "Population growth"
+    },
+    {
+      "question": "Which factor may cause consumers to switch from one food product to another?",
+      "type": "single",
+      "correct": "d",
+      "a": "Change in price",
+      "b": "Change in packaging",
+      "c": "Change in quality",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which participant in the food marketing chain purchases goods directly from producers and sells in bulk?",
+      "type": "single",
+      "correct": "a",
+      "a": "Wholesaler",
+      "b": "Consumer",
+      "c": "Retailer",
+      "d": "Advertiser"
+    },
+    {
+      "question": "Which of the following can influence food choices among university students?",
+      "type": "single",
+      "correct": "d",
+      "a": "Peer pressure",
+      "b": "Availability of food",
+      "c": "Cost of food",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of a consumer right?",
+      "type": "single",
+      "correct": "d",
+      "a": "Right to safety",
+      "b": "Right to information",
+      "c": "Right to choose",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a direct benefit of effective food distribution?",
+      "type": "single",
+      "correct": "a",
+      "a": "Reduced food shortages",
+      "b": "Increased spoilage",
+      "c": "Lower food availability",
+      "d": "Resource wastage"
+    },
+    {
+      "question": "Which of the following best describes consumer loyalty?",
+      "type": "single",
+      "correct": "a",
+      "a": "Repeated purchase of a preferred product",
+      "b": "Avoidance of all products",
+      "c": "Purchasing without thinking",
+      "d": "Refusal to compare products"
+    },
+    {
+      "question": "Which of the following is an example of a hospitality enterprise?",
+      "type": "single",
+      "correct": "a",
+      "a": "Event management service",
+      "b": "Quarry operation",
+      "c": "Oil exploration",
+      "d": "Vehicle licensing office"
+    },
+    {
+      "question": "Which of the following factors can influence demand for food products?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consumer income",
+      "b": "Population growth",
+      "c": "Consumer taste",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which marketing activity involves informing consumers about product features and benefits?",
+      "type": "single",
+      "correct": "a",
+      "a": "Promotion",
+      "b": "Harvesting",
+      "c": "Cultivation",
+      "d": "Storage"
+    },
+    {
+      "question": "Which of the following may discourage consumers from purchasing a product?",
+      "type": "single",
+      "correct": "d",
+      "a": "Poor quality",
+      "b": "Negative reviews",
+      "c": "High price",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a social determinant of food choice?",
+      "type": "single",
+      "correct": "a",
+      "a": "Family influence",
+      "b": "Soil fertility",
+      "c": "Irrigation",
+      "d": "Weather forecast"
+    },
+    {
+      "question": "Which of the following is considered a marketing function?",
+      "type": "single",
+      "correct": "d",
+      "a": "Transportation",
+      "b": "Storage",
+      "c": "Promotion",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following helps consumers make better purchasing decisions?",
+      "type": "single",
+      "correct": "d",
+      "a": "Product information",
+      "b": "Consumer education",
+      "c": "Product comparison",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following best explains consumer behaviour?",
+      "type": "single",
+      "correct": "a",
+      "a": "How consumers make buying decisions",
+      "b": "How crops are harvested",
+      "c": "How roads are constructed",
+      "d": "How weather changes"
+    },
+    {
+      "question": "Which of the following factors may affect food consumption during festive periods?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cultural celebrations",
+      "b": "Traditions",
+      "c": "Religious events",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can increase customer satisfaction?",
+      "type": "single",
+      "correct": "d",
+      "a": "Quality products",
+      "b": "Good service",
+      "c": "Fair pricing",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following contributes to environmental conservation?",
+      "type": "single",
+      "correct": "d",
+      "a": "Recycling materials",
+      "b": "Reducing waste",
+      "c": "Conserving resources",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an important characteristic of an entrepreneur?",
+      "type": "single",
+      "correct": "d",
+      "a": "Self-confidence",
+      "b": "Initiative",
+      "c": "Persistence",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence food purchasing decisions at a supermarket?",
+      "type": "single",
+      "correct": "d",
+      "a": "Product display",
+      "b": "Packaging design",
+      "c": "Product price",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following helps preserve food quality during transportation?",
+      "type": "single",
+      "correct": "a",
+      "a": "Proper packaging",
+      "b": "Excessive handling",
+      "c": "Exposure to sunlight",
+      "d": "Poor storage"
+    },
+    {
+      "question": "Which of the following factors may influence food choices among adolescents?",
+      "type": "single",
+      "correct": "d",
+      "a": "Friends",
+      "b": "Social media",
+      "c": "Lifestyle trends",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a benefit of efficient food marketing?",
+      "type": "single",
+      "correct": "a",
+      "a": "Improved market access",
+      "b": "Increased spoilage",
+      "c": "Reduced food availability",
+      "d": "Lower product awareness"
+    },
+    {
+      "question": "Which of the following is an example of a food service establishment?",
+      "type": "single",
+      "correct": "a",
+      "a": "Cafeteria",
+      "b": "Quarry",
+      "c": "Petrol station",
+      "d": "Police station"
+    },
+    {
+      "question": "Which factor may limit a household's ability to purchase nutritious foods?",
+      "type": "single",
+      "correct": "a",
+      "a": "Low income",
+      "b": "High education",
+      "c": "Good health",
+      "d": "Adequate savings"
+    },
+    {
+      "question": "Which of the following is an important objective of food distribution?",
+      "type": "single",
+      "correct": "d",
+      "a": "Timely delivery",
+      "b": "Product accessibility",
+      "c": "Reduced losses",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may encourage customers to return to a restaurant?",
+      "type": "single",
+      "correct": "d",
+      "a": "Excellent service",
+      "b": "Clean environment",
+      "c": "Quality meals",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can influence consumer purchasing patterns?",
+      "type": "single",
+      "correct": "d",
+      "a": "Economic conditions",
+      "b": "Advertising campaigns",
+      "c": "Product quality",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a characteristic of a successful food entrepreneur?",
+      "type": "single",
+      "correct": "a",
+      "a": "Good planning skills",
+      "b": "Poor communication",
+      "c": "Fear of change",
+      "d": "Lack of initiative"
+    },
+    {
+      "question": "Which of the following contributes to customer trust in a food business?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consistent quality",
+      "b": "Honest information",
+      "c": "Good hygiene",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is most likely to affect food demand in a community?",
+      "type": "single",
+      "correct": "d",
+      "a": "Population increase",
+      "b": "Consumer income",
+      "c": "Food preferences",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a challenge faced food entrepreneurs?",
+      "type": "single",
+      "correct": "d",
+      "a": "Competition",
+      "b": "Rising costs",
+      "c": "Changing consumer tastes",
+      "d": "All of the above"
+    },
+    {
+      "question": "The act of storing food products before sale helps create __________ utility.",
+      "type": "single",
+      "correct": "a",
+      "a": "Time",
+      "b": "Form",
+      "c": "Place",
+      "d": "Possession"
+    },
+    {
+      "question": "Which of the following may influence the popularity of a food product?",
+      "type": "single",
+      "correct": "d",
+      "a": "Product quality",
+      "b": "Consumer reviews",
+      "c": "Brand image",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a major goal of hospitality management?",
+      "type": "single",
+      "correct": "a",
+      "a": "Customer satisfaction",
+      "b": "Resource wastage",
+      "c": "Poor service delivery",
+      "d": "Market restriction"
+    },
+    {
+      "question": "Which of the following can improve food accessibility?",
+      "type": "single",
+      "correct": "d",
+      "a": "Better transportation",
+      "b": "Improved storage facilities",
+      "c": "Efficient distribution networks",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following best describes impulse buying?",
+      "type": "single",
+      "correct": "a",
+      "a": "Unplanned purchase",
+      "b": "Planned purchase",
+      "c": "Bulk purchase",
+      "d": "Group purchase"
+    },
+    {
+      "question": "Which of the following may affect a person's eating habits?",
+      "type": "single",
+      "correct": "d",
+      "a": "Work schedule",
+      "b": "Income level",
+      "c": "Health status",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following promotes customer retention?",
+      "type": "single",
+      "correct": "d",
+      "a": "Quality service",
+      "b": "Customer care",
+      "c": "Product reliability",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence consumers to try a new product?",
+      "type": "single",
+      "correct": "d",
+      "a": "Product sampling",
+      "b": "Advertisement",
+      "c": "Recommendations",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an advantage of effective food marketing systems?",
+      "type": "single",
+      "correct": "d",
+      "a": "Increased product availability",
+      "b": "Better consumer awareness",
+      "c": "Improved sales opportunities",
+      "d": "All of the above"
+    },
+    {
+      "question": "helps reduce post-harvest losses?",
+      "type": "single",
+      "correct": "a",
+      "a": "Proper storage facilities",
+      "b": "Delayed transportation",
+      "c": "Poor packaging",
+      "d": "Exposure to moisture"
+    },
+    {
+      "question": "Which of the following factors may influence food selection during festive celebrations?",
+      "type": "single",
+      "correct": "d",
+      "a": "Customs",
+      "b": "Religious beliefs",
+      "c": "Family traditions",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of value addition in food production?",
+      "type": "single",
+      "correct": "a",
+      "a": "Processing cassava into garri",
+      "b": "Harvesting maize",
+      "c": "Planting rice",
+      "d": "Watering crops"
+    },
+    {
+      "question": "Which of the following may encourage sustainable food consumption?",
+      "type": "single",
+      "correct": "d",
+      "a": "Meal planning",
+      "b": "Waste reduction",
+      "c": "Proper storage",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can influence the quantity of food consumed?",
+      "type": "single",
+      "correct": "d",
+      "a": "Appetite",
+      "b": "Health condition",
+      "c": "Physical activity",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a major function of wholesalers?",
+      "type": "single",
+      "correct": "a",
+      "a": "Buying in bulk",
+      "b": "Selling directly to manufacturers",
+      "c": "Processing raw materials",
+      "d": "Producing crops"
+    },
+    {
+      "question": "Which of the following is an example of an environmentally responsible action?",
+      "type": "single",
+      "correct": "a",
+      "a": "Recycling food packaging",
+      "b": "Wasting food",
+      "c": "Excessive consumption",
+      "d": "Open dumping"
+    },
+    {
+      "question": "Which of the following can improve customer experience in hospitality establishments?",
+      "type": "single",
+      "correct": "d",
+      "a": "Courteous staff",
+      "b": "Clean facilities",
+      "c": "Prompt service",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a benefit of food processing?",
+      "type": "single",
+      "correct": "d",
+      "a": "Increased shelf life",
+      "b": "Better convenience",
+      "c": "Reduced spoilage",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following influences consumers through television, radio and social media?",
+      "type": "single",
+      "correct": "a",
+      "a": "Advertising",
+      "b": "Cultivation",
+      "c": "Preservation",
+      "d": "Distribution"
+    },
+    {
+      "question": "Which of the following is an example of direct marketing?",
+      "type": "single",
+      "correct": "a",
+      "a": "Selling products directly to consumers",
+      "b": "Selling through wholesalers only",
+      "c": "Selling through government agencies",
+      "d": "Selling through exporters only"
+    },
+    {
+      "question": "Which of the following can increase the profitability of a hospitality business?",
+      "type": "single",
+      "correct": "d",
+      "a": "Good customer service",
+      "b": "Effective management",
+      "c": "Customer loyalty",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence food choices among young adults?",
+      "type": "single",
+      "correct": "d",
+      "a": "Convenience",
+      "b": "Cost",
+      "c": "Taste",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a benefit of proper food distribution?",
+      "type": "single",
+      "correct": "d",
+      "a": "Improved accessibility",
+      "b": "Reduced shortages",
+      "c": "Better market coverage",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may affect consumer confidence in a product?",
+      "type": "single",
+      "correct": "d",
+      "a": "Product quality",
+      "b": "Brand reputation",
+      "c": "Customer reviews",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following contributes to long-term food security?",
+      "type": "single",
+      "correct": "d",
+      "a": "Sustainable agriculture",
+      "b": "Efficient storage",
+      "c": "Effective distribution",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a hospitality-related activity?",
+      "type": "single",
+      "correct": "d",
+      "a": "Banquet management",
+      "b": "Food service",
+      "c": "Accommodation service",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following factors can influence consumers to purchase premium food products?",
+      "type": "single",
+      "correct": "d",
+      "a": "Perceived quality",
+      "b": "Brand image",
+      "c": "Product uniqueness",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following supports responsible resource utilization?",
+      "type": "single",
+      "correct": "d",
+      "a": "Recycling",
+      "b": "Conservation",
+      "c": "Waste minimization",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is important in maintaining customer satisfaction?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consistency",
+      "b": "Reliability",
+      "c": "Quality service",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a major objective of food marketing?",
+      "type": "single",
+      "correct": "a",
+      "a": "Connecting producers with consumers",
+      "b": "Increasing food spoilage",
+      "c": "Reducing production",
+      "d": "Limiting distribution"
+    },
+    {
+      "question": "Which of the following can influence household food expenditure?",
+      "type": "single",
+      "correct": "d",
+      "a": "Family size",
+      "b": "Income level",
+      "c": "Food prices",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following encourages repeat patronage in restaurants?",
+      "type": "single",
+      "correct": "d",
+      "a": "Excellent meal quality",
+      "b": "Friendly staff",
+      "c": "Pleasant environment",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can affect consumers' perception of value?",
+      "type": "single",
+      "correct": "d",
+      "a": "Quality",
+      "b": "Price",
+      "c": "Benefits received",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of food preservation?",
+      "type": "single",
+      "correct": "d",
+      "a": "Refrigeration",
+      "b": "Drying",
+      "c": "Canning",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an economic benefit of entrepreneurship?",
+      "type": "single",
+      "correct": "d",
+      "a": "Job creation",
+      "b": "Wealth generation",
+      "c": "Economic growth",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can reduce food wastage at home?",
+      "type": "single",
+      "correct": "d",
+      "a": "Proper meal planning",
+      "b": "Correct storage",
+      "c": "Buying only needed quantities",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following influences food consumption through beliefs and customs?",
+      "type": "single",
+      "correct": "a",
+      "a": "Culture",
+      "b": "Technology",
+      "c": "Geography",
+      "d": "Transportation"
+    },
+    {
+      "question": "Which of the following is an important source of competitive advantage for hospitality businesses?",
+      "type": "single",
+      "correct": "d",
+      "a": "Service quality",
+      "b": "Customer care",
+      "c": "Business reputation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following helps ensure food products remain safe before consumption?",
+      "type": "single",
+      "correct": "d",
+      "a": "Proper handling",
+      "b": "Proper storage",
+      "c": "Good hygiene",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a major challenge to sustainable food systems?",
+      "type": "single",
+      "correct": "d",
+      "a": "Resource depletion",
+      "b": "Environmental pollution",
+      "c": "Food waste",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can improve food accessibility in rural areas?",
+      "type": "single",
+      "correct": "d",
+      "a": "Better roads",
+      "b": "Improved transport systems",
+      "c": "Efficient supply chains",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may encourage consumers to trust a brand?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consistent quality",
+      "b": "Positive reputation",
+      "c": "Honest communication",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of a food retail outlet?",
+      "type": "single",
+      "correct": "d",
+      "a": "Supermarket",
+      "b": "Restaurant",
+      "c": "Grocery store",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may affect the demand for restaurant services?",
+      "type": "single",
+      "correct": "d",
+      "a": "Income level",
+      "b": "Population size",
+      "c": "Consumer lifestyle",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can increase customer satisfaction in food service operations?",
+      "type": "single",
+      "correct": "d",
+      "a": "Prompt service",
+      "b": "Food quality",
+      "c": "Staff professionalism",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an important aspect of responsible consumption?",
+      "type": "single",
+      "correct": "d",
+      "a": "Avoiding waste",
+      "b": "Efficient resource use",
+      "c": "Environmental awareness",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following contributes to food availability?",
+      "type": "single",
+      "correct": "d",
+      "a": "Increased production",
+      "b": "Effective storage",
+      "c": "Efficient distribution",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence a consumer's food preference?",
+      "type": "single",
+      "correct": "d",
+      "a": "Previous experience",
+      "b": "Taste perception",
+      "c": "Cultural background",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can help businesses understand customer needs?",
+      "type": "single",
+      "correct": "d",
+      "a": "Surveys",
+      "b": "Interviews",
+      "c": "Market research",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a factor of production involved in food production?",
+      "type": "single",
+      "correct": "d",
+      "a": "Land",
+      "b": "Labour",
+      "c": "Capital",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence consumers to purchase locally produced foods?",
+      "type": "single",
+      "correct": "d",
+      "a": "Freshness",
+      "b": "Lower transportation costs",
+      "c": "Support for local farmers",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a direct channel of food distribution?",
+      "type": "single",
+      "correct": "a",
+      "a": "Producer to Consumer",
+      "b": "Producer to Wholesaler",
+      "c": "Producer to Retailer",
+      "d": "Wholesaler to Consumer"
+    },
+    {
+      "question": "Which of the following may influence an individual's food intake?",
+      "type": "single",
+      "correct": "d",
+      "a": "Health status",
+      "b": "Age",
+      "c": "Occupation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following contributes to effective food marketing?",
+      "type": "single",
+      "correct": "d",
+      "a": "Product availability",
+      "b": "Appropriate pricing",
+      "c": "Effective promotion",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can affect a consumer's perception of food safety?",
+      "type": "single",
+      "correct": "d",
+      "a": "Packaging condition",
+      "b": "Product appearance",
+      "c": "Expiry date information",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a characteristic of sustainable food production?",
+      "type": "single",
+      "correct": "d",
+      "a": "Efficient resource use",
+      "b": "Environmental conservation",
+      "c": "Long-term productivity",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may increase customer loyalty?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consistent product quality",
+      "b": "Excellent customer service",
+      "c": "Fair pricing",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of an intangible hospitality service?",
+      "type": "single",
+      "correct": "d",
+      "a": "Accommodation",
+      "b": "Customer care",
+      "c": "Reception service",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can improve food affordability?",
+      "type": "single",
+      "correct": "d",
+      "a": "Increased production",
+      "b": "Reduced distribution costs",
+      "c": "Efficient marketing systems",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can influence consumers through visual appeal?",
+      "type": "single",
+      "correct": "d",
+      "a": "Packaging design",
+      "b": "Product colour",
+      "c": "Product presentation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an environmental consequence of food waste?",
+      "type": "single",
+      "correct": "d",
+      "a": "Increased landfill use",
+      "b": "Resource wastage",
+      "c": "Pollution",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence food purchasing during economic hardship?",
+      "type": "single",
+      "correct": "d",
+      "a": "Price",
+      "b": "Household income",
+      "c": "Availability",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a key element of customer service?",
+      "type": "single",
+      "correct": "d",
+      "a": "Responsiveness",
+      "b": "Courtesy",
+      "c": "Reliability",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can help reduce food insecurity?",
+      "type": "single",
+      "correct": "d",
+      "a": "Increased agricultural productivity",
+      "b": "Efficient food distribution",
+      "c": "Reduced post-harvest losses",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may affect food demand among consumers?",
+      "type": "single",
+      "correct": "d",
+      "a": "Changes in taste",
+      "b": "Income fluctuations",
+      "c": "Population growth",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can help preserve natural resources?",
+      "type": "single",
+      "correct": "d",
+      "a": "Recycling",
+      "b": "Reuse",
+      "c": "Conservation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a benefit of consumer education?",
+      "type": "single",
+      "correct": "d",
+      "a": "Better decision-making",
+      "b": "Increased awareness",
+      "c": "Protection from exploitation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can improve operational efficiency in hospitality businesses?",
+      "type": "single",
+      "correct": "d",
+      "a": "Staff training",
+      "b": "Effective supervision",
+      "c": "Proper planning",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following influences consumers through personal recommendations?",
+      "type": "single",
+      "correct": "a",
+      "a": "Word-of-mouth communication",
+      "b": "Newspaper advertisements",
+      "c": "Product labels",
+      "d": "Billboards"
+    },
+    {
+      "question": "Which of the following is a primary aim of food distribution systems?",
+      "type": "single",
+      "correct": "a",
+      "a": "Deliver food to consumers efficiently",
+      "b": "Increase food spoilage",
+      "c": "Reduce food production",
+      "d": "Eliminate retailers"
+    },
+    {
+      "question": "Which of the following may affect a consumer's choice of restaurant?",
+      "type": "single",
+      "correct": "d",
+      "a": "Location",
+      "b": "Price",
+      "c": "Service quality",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of a food marketing intermediary?",
+      "type": "single",
+      "correct": "a",
+      "a": "Retailer",
+      "b": "Consumer",
+      "c": "Farmer",
+      "d": "Household"
+    },
+    {
+      "question": "Which of the following can influence food choices among children?",
+      "type": "single",
+      "correct": "d",
+      "a": "Television advertisements",
+      "b": "Parents",
+      "c": "Friends",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a benefit of food storage?",
+      "type": "single",
+      "correct": "d",
+      "a": "Reduction of losses",
+      "b": "Increased availability",
+      "c": "Maintenance of quality",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence consumers to purchase healthy foods?",
+      "type": "single",
+      "correct": "d",
+      "a": "Nutrition knowledge",
+      "b": "Health concerns",
+      "c": "Medical advice",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a key objective of customer relations?",
+      "type": "single",
+      "correct": "a",
+      "a": "Building loyalty",
+      "b": "Increasing complaints",
+      "c": "Reducing communication",
+      "d": "Limiting feedback"
+    },
+    {
+      "question": "Which of the following contributes to sustainable agriculture?",
+      "type": "single",
+      "correct": "d",
+      "a": "Soil conservation",
+      "b": "Water management",
+      "c": "Responsible farming practices",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an important quality of successful hospitality employees?",
+      "type": "single",
+      "correct": "d",
+      "a": "Professionalism",
+      "b": "Courtesy",
+      "c": "Reliability",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can help increase food production?",
+      "type": "single",
+      "correct": "d",
+      "a": "Improved farming techniques",
+      "b": "Better seeds",
+      "c": "Mechanization",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following factors can affect food demand?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consumer preferences",
+      "b": "Population changes",
+      "c": "Income variations",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can improve customer satisfaction?",
+      "type": "single",
+      "correct": "d",
+      "a": "Fast service",
+      "b": "Product consistency",
+      "c": "Staff friendliness",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a benefit of entrepreneurship in the food sector?",
+      "type": "single",
+      "correct": "d",
+      "a": "Employment opportunities",
+      "b": "Increased innovation",
+      "c": "Economic growth",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may encourage consumers to purchase environmentally friendly products?",
+      "type": "single",
+      "correct": "d",
+      "a": "Environmental awareness",
+      "b": "Product benefits",
+      "c": "Social responsibility",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a characteristic of effective food marketing?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consumer orientation",
+      "b": "Efficient distribution",
+      "c": "Product availability",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can influence household food consumption?",
+      "type": "single",
+      "correct": "d",
+      "a": "Family income",
+      "b": "Household size",
+      "c": "Food prices",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a responsibility of consumers?",
+      "type": "single",
+      "correct": "d",
+      "a": "Reading product labels",
+      "b": "Making informed choices",
+      "c": "Using products safely",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of value-added food production?",
+      "type": "single",
+      "correct": "a",
+      "a": "Producing fruit juice from fresh fruits",
+      "b": "Harvesting oranges",
+      "c": "Planting vegetables",
+      "d": "Irrigating crops"
+    },
+    {
+      "question": "Which of the following contributes to customer confidence in a business?",
+      "type": "single",
+      "correct": "d",
+      "a": "Honest communication",
+      "b": "Consistent quality",
+      "c": "Reliable service",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can improve the effectiveness of food distribution?",
+      "type": "single",
+      "correct": "d",
+      "a": "Good transportation systems",
+      "b": "Efficient warehousing",
+      "c": "Proper logistics planning",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following helps consumers compare similar products before purchase?",
+      "type": "single",
+      "correct": "a",
+      "a": "Product labels",
+      "b": "Rumours",
+      "c": "Weather reports",
+      "d": "Traffic conditions"
+    },
+    {
+      "question": "Which of the following is a benefit of customer feedback to businesses?",
+      "type": "single",
+      "correct": "d",
+      "a": "Service improvement",
+      "b": "Product improvement",
+      "c": "Better decision-making",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can influence consumer purchasing behaviour during festive seasons?",
+      "type": "single",
+      "correct": "d",
+      "a": "Promotions",
+      "b": "Discounts",
+      "c": "Cultural celebrations",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a characteristic of an effective entrepreneur?",
+      "type": "single",
+      "correct": "d",
+      "a": "Persistence",
+      "b": "Creativity",
+      "c": "Initiative",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following contributes to successful food marketing?",
+      "type": "single",
+      "correct": "d",
+      "a": "Customer satisfaction",
+      "b": "Quality products",
+      "c": "Effective promotion",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence consumers to switch brands?",
+      "type": "single",
+      "correct": "d",
+      "a": "Better quality",
+      "b": "Lower price",
+      "c": "Improved features",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following supports sustainable food consumption?",
+      "type": "single",
+      "correct": "d",
+      "a": "Reducing leftovers",
+      "b": "Proper food storage",
+      "c": "Planned purchasing",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can affect food consumption among university students?",
+      "type": "single",
+      "correct": "d",
+      "a": "Academic schedule",
+      "b": "Available funds",
+      "c": "Peer influence",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a benefit of maintaining high food quality standards?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consumer trust",
+      "b": "Repeat purchases",
+      "c": "Positive reputation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a key element of hospitality service delivery?",
+      "type": "single",
+      "correct": "d",
+      "a": "Courtesy",
+      "b": "Responsiveness",
+      "c": "Professionalism",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence consumers through online platforms?",
+      "type": "single",
+      "correct": "d",
+      "a": "Social media marketing",
+      "b": "Customer reviews",
+      "c": "Digital advertisements",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can contribute to food affordability?",
+      "type": "single",
+      "correct": "d",
+      "a": "Increased supply",
+      "b": "Reduced production costs",
+      "c": "Efficient distribution",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can help entrepreneurs remain competitive?",
+      "type": "single",
+      "correct": "d",
+      "a": "Innovation",
+      "b": "Market awareness",
+      "c": "Customer focus",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of responsible consumer behaviour?",
+      "type": "single",
+      "correct": "d",
+      "a": "Comparing products before purchase",
+      "b": "Reading labels carefully",
+      "c": "Keeping purchase records",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following factors may affect food demand in urban areas?",
+      "type": "single",
+      "correct": "d",
+      "a": "Lifestyle changes",
+      "b": "Population growth",
+      "c": "Income level",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can improve efficiency in food supply chains?",
+      "type": "single",
+      "correct": "d",
+      "a": "Better transportation",
+      "b": "Improved storage",
+      "c": "Effective coordination",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an important benefit of sustainable food systems?",
+      "type": "single",
+      "correct": "d",
+      "a": "Environmental protection",
+      "b": "Economic viability",
+      "c": "Social well-being",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can strengthen customer loyalty?",
+      "type": "single",
+      "correct": "d",
+      "a": "Consistent service quality",
+      "b": "Reliable products",
+      "c": "Positive customer experiences",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may influence consumer decisions at the point of purchase?",
+      "type": "single",
+      "correct": "d",
+      "a": "Product display",
+      "b": "Packaging",
+      "c": "Price information",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a major contribution of entrepreneurship to society?",
+      "type": "single",
+      "correct": "d",
+      "a": "Employment generation",
+      "b": "Wealth creation",
+      "c": "Innovation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a component of a food system?",
+      "type": "single",
+      "correct": "d",
+      "a": "Production",
+      "b": "Processing",
+      "c": "Distribution",
+      "d": "All of the above"
+    },
+    {
+      "question": "Food performs which of the following functions in the body?",
+      "type": "single",
+      "correct": "d",
+      "a": "Growth",
+      "b": "Energy supply",
+      "c": "Repair of tissues",
+      "d": "All of the above"
+    },
+    {
+      "question": "The nutrient primarily responsible for supplying energy to the body is:",
+      "type": "single",
+      "correct": "b",
+      "a": "Vitamins",
+      "b": "Carbohydrates",
+      "c": "Minerals",
+      "d": "Water"
+    },
+    {
+      "question": "Food safety is concerned with ensuring that food is:",
+      "type": "single",
+      "correct": "c",
+      "a": "Attractive",
+      "b": "Cheap",
+      "c": "Safe for consumption",
+      "d": "Colourful"
+    },
+    {
+      "question": "Which of the following is a biological contaminant?",
+      "type": "single",
+      "correct": "a",
+      "a": "Bacteria",
+      "b": "Glass",
+      "c": "Detergent",
+      "d": "Metal fragments"
+    },
+    {
+      "question": "Which of the following is a chemical contaminant?",
+      "type": "single",
+      "correct": "a",
+      "a": "Pesticide residue",
+      "b": "Hair",
+      "c": "Stones",
+      "d": "Sand"
+    },
+    {
+      "question": "Physical contaminants in food include:",
+      "type": "single",
+      "correct": "c",
+      "a": "Bacteria",
+      "b": "Viruses",
+      "c": "Glass particles",
+      "d": "Fungi"
+    },
+    {
+      "question": "Which of the following is a common symptom of food poisoning?",
+      "type": "single",
+      "correct": "d",
+      "a": "Vomiting",
+      "b": "Diarrhoea",
+      "c": "Abdominal pain",
+      "d": "All of the above"
+    },
+    {
+      "question": "The process of treating food to make it safe and extend its shelf life is called:",
+      "type": "single",
+      "correct": "b",
+      "a": "Marketing",
+      "b": "Preservation",
+      "c": "Distribution",
+      "d": "Consumption"
+    },
+    {
+      "question": "Which of the following is a traditional method of food preservation?",
+      "type": "single",
+      "correct": "a",
+      "a": "Smoking",
+      "b": "Refrigeration",
+      "c": "Freezing",
+      "d": "Pasteurization"
+    },
+    {
+      "question": "Which of the following is a modern preservation method?",
+      "type": "single",
+      "correct": "a",
+      "a": "Freezing",
+      "b": "Sun drying",
+      "c": "Smoking",
+      "d": "Salting"
+    },
+    {
+      "question": "The removal of moisture from food to prevent spoilage is called:",
+      "type": "single",
+      "correct": "a",
+      "a": "Drying",
+      "b": "Fermentation",
+      "c": "Canning",
+      "d": "Chilling"
+    },
+    {
+      "question": "Which of the following may cause food deterioration?",
+      "type": "single",
+      "correct": "d",
+      "a": "Microorganisms",
+      "b": "Enzymes",
+      "c": "Insects",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following helps reduce post-harvest losses?",
+      "type": "single",
+      "correct": "a",
+      "a": "Proper storage",
+      "b": "Poor handling",
+      "c": "Delayed transportation",
+      "d": "Exposure to rain"
+    },
+    {
+      "question": "Nigerian foods are composed mainly of nutrients such as:",
+      "type": "single",
+      "correct": "d",
+      "a": "Carbohydrates",
+      "b": "Proteins",
+      "c": "Fats",
+      "d": "All of the above"
+    },
+    {
+      "question": "The major carbohydrate food commonly consumed in Nigeria is:",
+      "type": "single",
+      "correct": "a",
+      "a": "Cassava",
+      "b": "Fish",
+      "c": "Egg",
+      "d": "Milk"
+    },
+    {
+      "question": "Which sensory attribute relates to the smell of food?",
+      "type": "single",
+      "correct": "c",
+      "a": "Colour",
+      "b": "Texture",
+      "c": "Aroma",
+      "d": "Shape"
+    },
+    {
+      "question": "The visual appearance of food is largely determined its:",
+      "type": "single",
+      "correct": "b",
+      "a": "Flavour",
+      "b": "Colour",
+      "c": "Aroma",
+      "d": "Texture"
+    },
+    {
+      "question": "Which of the following microorganisms commonly causes food spoilage?",
+      "type": "single",
+      "correct": "d",
+      "a": "Mould",
+      "b": "Yeast",
+      "c": "Bacteria",
+      "d": "All of the above"
+    },
+    {
+      "question": "The nutrient responsible for body-building is:",
+      "type": "single",
+      "correct": "a",
+      "a": "Protein",
+      "b": "Water",
+      "c": "Vitamin C",
+      "d": "Fibre"
+    },
+    {
+      "question": "Which of the following can contaminate food physically?",
+      "type": "single",
+      "correct": "a",
+      "a": "Broken glass",
+      "b": "Salmonella",
+      "c": "Pesticides",
+      "d": "Viruses"
+    },
+    {
+      "question": "Fermentation is a food preservation method that involves the action of:",
+      "type": "single",
+      "correct": "a",
+      "a": "Microorganisms",
+      "b": "Insects",
+      "c": "Chemicals",
+      "d": "Heat only"
+    },
+    {
+      "question": "The storage of food at temperatures below 0°C is known as:",
+      "type": "single",
+      "correct": "c",
+      "a": "Chilling",
+      "b": "Refrigeration",
+      "c": "Freezing",
+      "d": "Drying"
+    },
+    {
+      "question": "Which of the following is a public health concern related to food?",
+      "type": "single",
+      "correct": "a",
+      "a": "Food-borne diseases",
+      "b": "Food marketing",
+      "c": "Food pricing",
+      "d": "Food advertising"
+    },
+    {
+      "question": "Which of the following is an example of a protein-rich Nigerian food?",
+      "type": "single",
+      "correct": "a",
+      "a": "Beans",
+      "b": "Garri",
+      "c": "Yam",
+      "d": "Cassava flour"
+    },
+    {
+      "question": "Which of the following nutrients is primarily responsible for regulating body processes?",
+      "type": "single",
+      "correct": "a",
+      "a": "Vitamins",
+      "b": "Carbohydrates",
+      "c": "Fats",
+      "d": "Starch"
+    },
+    {
+      "question": "Which of the following provides the highest amount of energy per gram?",
+      "type": "single",
+      "correct": "c",
+      "a": "Protein",
+      "b": "Carbohydrate",
+      "c": "Fat",
+      "d": "Water"
+    },
+    {
+      "question": "Which of the following is a function of proteins in the body?",
+      "type": "single",
+      "correct": "d",
+      "a": "Tissue repair",
+      "b": "Growth",
+      "c": "Enzyme formation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which vitamin is important for normal vision?",
+      "type": "single",
+      "correct": "a",
+      "a": "Vitamin A",
+      "b": "Vitamin B₁",
+      "c": "Vitamin C",
+      "d": "Vitamin K"
+    },
+    {
+      "question": "Which mineral is essential for the formation of haemoglobin?",
+      "type": "single",
+      "correct": "b",
+      "a": "Calcium",
+      "b": "Iron",
+      "c": "Sodium",
+      "d": "Iodine"
+    },
+    {
+      "question": "The major function of water in the body is:",
+      "type": "single",
+      "correct": "d",
+      "a": "Regulation of body processes",
+      "b": "Transportation of nutrients",
+      "c": "Temperature control",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is rich in carbohydrates?",
+      "type": "single",
+      "correct": "a",
+      "a": "Rice",
+      "b": "Fish",
+      "c": "Egg",
+      "d": "Meat"
+    },
+    {
+      "question": "Which nutrient is mainly responsible for body building?",
+      "type": "single",
+      "correct": "a",
+      "a": "Protein",
+      "b": "Fat",
+      "c": "Vitamin",
+      "d": "Water"
+    },
+    {
+      "question": "Which of the following is a fat-soluble vitamin?",
+      "type": "single",
+      "correct": "a",
+      "a": "Vitamin D",
+      "b": "Vitamin C",
+      "c": "Vitamin B₂",
+      "d": "Vitamin B₁"
+    },
+    {
+      "question": "Which of the following may spread food-borne diseases?",
+      "type": "single",
+      "correct": "d",
+      "a": "Poor sanitation",
+      "b": "Dirty utensils",
+      "c": "Contaminated water",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which microorganism is commonly associated with food poisoning?",
+      "type": "single",
+      "correct": "a",
+      "a": "Salmonella",
+      "b": "Rhizopus",
+      "c": "Aspergillus",
+      "d": "Penicillium"
+    },
+    {
+      "question": "Which of the following is a source of biological contamination?",
+      "type": "single",
+      "correct": "d",
+      "a": "Rodents",
+      "b": "Insects",
+      "c": "Microorganisms",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can cause chemical contamination?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cleaning agents",
+      "b": "Pesticides",
+      "c": "Industrial pollutants",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of physical contamination?",
+      "type": "single",
+      "correct": "d",
+      "a": "Staple pin",
+      "b": "Stone",
+      "c": "Hair strand",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may indicate food spoilage?",
+      "type": "single",
+      "correct": "d",
+      "a": "Off-odour",
+      "b": "Discolouration",
+      "c": "Sliminess",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which preservation method uses high concentrations of salt?",
+      "type": "single",
+      "correct": "a",
+      "a": "Salting",
+      "b": "Freezing",
+      "c": "Refrigeration",
+      "d": "Irradiation"
+    },
+    {
+      "question": "Which of the following methods uses low temperatures to preserve food?",
+      "type": "single",
+      "correct": "d",
+      "a": "Chilling",
+      "b": "Refrigeration",
+      "c": "Freezing",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is commonly preserved fermentation?",
+      "type": "single",
+      "correct": "d",
+      "a": "Ogi",
+      "b": "Yoghurt",
+      "c": "Fufu",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following factors influences the rate of food spoilage?",
+      "type": "single",
+      "correct": "d",
+      "a": "Temperature",
+      "b": "Moisture",
+      "c": "Oxygen",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can reduce enzymatic deterioration in foods?",
+      "type": "single",
+      "correct": "d",
+      "a": "Blanching",
+      "b": "Freezing",
+      "c": "Drying",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following contributes significantly to post-harvest losses?",
+      "type": "single",
+      "correct": "d",
+      "a": "Poor storage",
+      "b": "Inadequate transportation",
+      "c": "Rough handling",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following cereals is commonly consumed in West Africa?",
+      "type": "single",
+      "correct": "d",
+      "a": "Maize",
+      "b": "Wheat",
+      "c": "Sorghum",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food groups is primarily responsible for energy provision?",
+      "type": "single",
+      "correct": "a",
+      "a": "Cereals and roots",
+      "b": "Fruits and vegetables",
+      "c": "Meat and fish",
+      "d": "Milk and eggs"
+    },
+    {
+      "question": "Which of the following Nigerian foods is produced from cassava?",
+      "type": "single",
+      "correct": "d",
+      "a": "Garri",
+      "b": "Fufu",
+      "c": "Lafun",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is a good source of calcium?",
+      "type": "single",
+      "correct": "d",
+      "a": "Milk",
+      "b": "Cheese",
+      "c": "Yoghurt",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following vitamins assists in blood clotting?",
+      "type": "single",
+      "correct": "d",
+      "a": "Vitamin A",
+      "b": "Vitamin D",
+      "c": "Vitamin E",
+      "d": "Vitamin K"
+    },
+    {
+      "question": "Which of the following is a source of dietary fibre?",
+      "type": "single",
+      "correct": "d",
+      "a": "Fruits",
+      "b": "Vegetables",
+      "c": "Whole grains",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food-borne pathogens is commonly associated with poultry products?",
+      "type": "single",
+      "correct": "a",
+      "a": "Salmonella",
+      "b": "Lactobacillus",
+      "c": "Saccharomyces",
+      "d": "Rhizopus"
+    },
+    {
+      "question": "Which of the following practices reduces cross-contamination?",
+      "type": "single",
+      "correct": "d",
+      "a": "Separate cutting boards",
+      "b": "Proper hand washing",
+      "c": "Sanitizing equipment",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following bacteria can produce toxins in improperly stored foods?",
+      "type": "single",
+      "correct": "a",
+      "a": "Staphylococcus aureus",
+      "b": "Bacillus subtilis",
+      "c": "Lactobacillus bulgaricus",
+      "d": "Rhizobium"
+    },
+    {
+      "question": "Which of the following is an example of a food safety practice?",
+      "type": "single",
+      "correct": "d",
+      "a": "Proper cooking",
+      "b": "Safe storage",
+      "c": "Hygienic handling",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food preservation methods involves sealing food in airtight containers?",
+      "type": "single",
+      "correct": "a",
+      "a": "Canning",
+      "b": "Smoking",
+      "c": "Drying",
+      "d": "Salting"
+    },
+    {
+      "question": "Which of the following methods preserves food lowering water activity?",
+      "type": "single",
+      "correct": "d",
+      "a": "Drying",
+      "b": "Salting",
+      "c": "Sugaring",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is commonly preserved smoking?",
+      "type": "single",
+      "correct": "c",
+      "a": "Fish",
+      "b": "Meat",
+      "c": "Both A and B",
+      "d": "Milk"
+    },
+    {
+      "question": "Which of the following conditions encourages microbial growth in food?",
+      "type": "single",
+      "correct": "d",
+      "a": "Warm temperature",
+      "b": "Moisture",
+      "c": "Nutrients",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following fungi commonly spoil food products?",
+      "type": "single",
+      "correct": "c",
+      "a": "Moulds",
+      "b": "Yeasts",
+      "c": "Both A and B",
+      "d": "Viruses"
+    },
+    {
+      "question": "Which of the following can help prevent post-harvest deterioration?",
+      "type": "single",
+      "correct": "d",
+      "a": "Proper packaging",
+      "b": "Adequate storage",
+      "c": "Timely transportation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a major component of yam?",
+      "type": "single",
+      "correct": "a",
+      "a": "Carbohydrate",
+      "b": "Protein",
+      "c": "Fat",
+      "d": "Vitamin B₁₂"
+    },
+    {
+      "question": "Which of the following is an example of a traditional Nigerian legume?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cowpea",
+      "b": "Groundnut",
+      "c": "Bambara nut",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is one of the basic tastes?",
+      "type": "single",
+      "correct": "d",
+      "a": "Sweet",
+      "b": "Sour",
+      "c": "Bitter",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which sensory attribute is perceived through the nose?",
+      "type": "single",
+      "correct": "a",
+      "a": "Aroma",
+      "b": "Colour",
+      "c": "Shape",
+      "d": "Size"
+    },
+    {
+      "question": "Which of the following is a rich source of vitamin C?",
+      "type": "single",
+      "correct": "a",
+      "a": "Orange",
+      "b": "Rice",
+      "c": "Yam",
+      "d": "Butter"
+    },
+    {
+      "question": "Which of the following nutrients helps in the repair of worn-out tissues?",
+      "type": "single",
+      "correct": "a",
+      "a": "Protein",
+      "b": "Water",
+      "c": "Carbohydrate",
+      "d": "Fibre"
+    },
+    {
+      "question": "Which of the following foods belongs to the protective food group?",
+      "type": "single",
+      "correct": "d",
+      "a": "Spinach",
+      "b": "Orange",
+      "c": "Carrot",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a symptom of protein deficiency?",
+      "type": "single",
+      "correct": "d",
+      "a": "Stunted growth",
+      "b": "Poor muscle development",
+      "c": "Weight loss",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following nutrients aids in the absorption of fat-soluble vitamins?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fat",
+      "b": "Protein",
+      "c": "Water",
+      "d": "Fibre"
+    },
+    {
+      "question": "Which of the following organisms is commonly involved in food fermentation?",
+      "type": "single",
+      "correct": "d",
+      "a": "Yeast",
+      "b": "Bacteria",
+      "c": "Mould",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of unsafe food handling?",
+      "type": "single",
+      "correct": "a",
+      "a": "Leaving cooked food uncovered",
+      "b": "Washing hands before cooking",
+      "c": "Using clean utensils",
+      "d": "Refrigerating leftovers"
+    },
+    {
+      "question": "Which of the following diseases can be transmitted through contaminated food?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cholera",
+      "b": "Typhoid fever",
+      "c": "Dysentery",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an important principle of food safety?",
+      "type": "single",
+      "correct": "d",
+      "a": "Keep food clean",
+      "b": "Cook food thoroughly",
+      "c": "Store food properly",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food items is highly perishable?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fresh fish",
+      "b": "Dried beans",
+      "c": "Garri",
+      "d": "Rice"
+    },
+    {
+      "question": "Which of the following preservation methods uses smoke from burning wood?",
+      "type": "single",
+      "correct": "a",
+      "a": "Smoking",
+      "b": "Freezing",
+      "c": "Refrigeration",
+      "d": "Irradiation"
+    },
+    {
+      "question": "Which of the following preservation methods reduces microbial activity lowering temperature?",
+      "type": "single",
+      "correct": "d",
+      "a": "Refrigeration",
+      "b": "Freezing",
+      "c": "Chilling",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods can be preserved canning?",
+      "type": "single",
+      "correct": "d",
+      "a": "Tomatoes",
+      "b": "Fish",
+      "c": "Fruits",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following factors accelerates food spoilage?",
+      "type": "single",
+      "correct": "d",
+      "a": "High moisture content",
+      "b": "Warm temperature",
+      "c": "Poor storage",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following enzymes may contribute to food deterioration?",
+      "type": "single",
+      "correct": "d",
+      "a": "Polyphenol oxidase",
+      "b": "Amylase",
+      "c": "Lipase",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a common cause of post-harvest loss in fruits?",
+      "type": "single",
+      "correct": "d",
+      "a": "Bruising",
+      "b": "Poor storage",
+      "c": "Pest attack",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a staple food in many West African countries?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cassava",
+      "b": "Yam",
+      "c": "Maize",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is a good source of plant protein?",
+      "type": "single",
+      "correct": "d",
+      "a": "Beans",
+      "b": "Cowpea",
+      "c": "Soybean",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following sensory attributes can influence food acceptance?",
+      "type": "single",
+      "correct": "d",
+      "a": "Colour",
+      "b": "Aroma",
+      "c": "Texture",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following senses is primarily used to evaluate food aroma?",
+      "type": "single",
+      "correct": "a",
+      "a": "Smell",
+      "b": "Touch",
+      "c": "Sight",
+      "d": "Hearing"
+    },
+    {
+      "question": "Which of the following foods is an important source of animal protein?",
+      "type": "single",
+      "correct": "d",
+      "a": "Fish",
+      "b": "Meat",
+      "c": "Egg",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following vitamins helps the body absorb calcium?",
+      "type": "single",
+      "correct": "b",
+      "a": "Vitamin A",
+      "b": "Vitamin D",
+      "c": "Vitamin C",
+      "d": "Vitamin E"
+    },
+    {
+      "question": "Which of the following nutrients yields approximately 4 kilocalories per gram?",
+      "type": "single",
+      "correct": "c",
+      "a": "Protein",
+      "b": "Carbohydrate",
+      "c": "Both A and B",
+      "d": "Fat"
+    },
+    {
+      "question": "Which of the following is a function of dietary fibre?",
+      "type": "single",
+      "correct": "d",
+      "a": "Improves bowel movement",
+      "b": "Prevents constipation",
+      "c": "Promotes digestive health",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is rich in vitamin A?",
+      "type": "single",
+      "correct": "d",
+      "a": "Carrot",
+      "b": "Mango",
+      "c": "Red palm oil",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following microorganisms is commonly associated with milk spoilage?",
+      "type": "single",
+      "correct": "a",
+      "a": "Lactobacillus",
+      "b": "Escherichia coli",
+      "c": "Salmonella",
+      "d": "Vibrio cholerae"
+    },
+    {
+      "question": "Which of the following can serve as a source of food contamination?",
+      "type": "single",
+      "correct": "d",
+      "a": "Dirty water",
+      "b": "Infected food handlers",
+      "c": "Contaminated equipment",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following should be avoided when handling food?",
+      "type": "single",
+      "correct": "d",
+      "a": "Long fingernails",
+      "b": "Dirty aprons",
+      "c": "Unwashed hands",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following organisms may cause typhoid fever?",
+      "type": "single",
+      "correct": "a",
+      "a": "Salmonella typhi",
+      "b": "Lactobacillus acidophilus",
+      "c": "Saccharomyces cerevisiae",
+      "d": "Rhizopus stolonifer"
+    },
+    {
+      "question": "Which of the following food preservation methods uses vinegar?",
+      "type": "single",
+      "correct": "a",
+      "a": "Pickling",
+      "b": "Canning",
+      "c": "Smoking",
+      "d": "Freezing"
+    },
+    {
+      "question": "Which of the following foods can be preserved through pickling?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cucumber",
+      "b": "Onion",
+      "c": "Pepper",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following methods helps maintain the nutritional quality of foods?",
+      "type": "single",
+      "correct": "d",
+      "a": "Proper storage",
+      "b": "Correct processing",
+      "c": "Appropriate preservation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is commonly preserved drying?",
+      "type": "single",
+      "correct": "d",
+      "a": "Pepper",
+      "b": "Fish",
+      "c": "Maize",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following environmental conditions favours mould growth?",
+      "type": "single",
+      "correct": "d",
+      "a": "Warmth",
+      "b": "Moisture",
+      "c": "Poor ventilation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can cause mechanical damage to harvested crops?",
+      "type": "single",
+      "correct": "d",
+      "a": "Rough handling",
+      "b": "Improper packaging",
+      "c": "Poor transportation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following tuber crops is widely consumed in West Africa?",
+      "type": "single",
+      "correct": "d",
+      "a": "Yam",
+      "b": "Cassava",
+      "c": "Sweet potato",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following legumes is commonly processed into bean flour?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cowpea",
+      "b": "Soybean",
+      "c": "Bambara nut",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following sensory characteristics relates to the visual attractiveness of food?",
+      "type": "single",
+      "correct": "a",
+      "a": "Colour",
+      "b": "Flavour",
+      "c": "Texture",
+      "d": "Aroma"
+    },
+    {
+      "question": "Which of the following factors may influence sensory evaluation results?",
+      "type": "single",
+      "correct": "d",
+      "a": "Lighting",
+      "b": "Temperature",
+      "c": "Panelist condition",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an important quality attribute of fresh fruits?",
+      "type": "single",
+      "correct": "d",
+      "a": "Colour",
+      "b": "Firmness",
+      "c": "Flavour",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following minerals is important for proper nerve and muscle function?",
+      "type": "single",
+      "correct": "d",
+      "a": "Potassium",
+      "b": "Sodium",
+      "c": "Calcium",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is an lent source of dietary fibre?",
+      "type": "single",
+      "correct": "d",
+      "a": "Whole grains",
+      "b": "Fruits",
+      "c": "Vegetables",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following nutrients helps maintain fluid balance in the body?",
+      "type": "single",
+      "correct": "a",
+      "a": "Electrolytes",
+      "b": "Vitamins",
+      "c": "Fibre",
+      "d": "Starch"
+    },
+    {
+      "question": "Which of the following vitamins is commonly referred to as ascorbic acid?",
+      "type": "single",
+      "correct": "c",
+      "a": "Vitamin A",
+      "b": "Vitamin B",
+      "c": "Vitamin C",
+      "d": "Vitamin D"
+    },
+    {
+      "question": "Night blindness is commonly associated with deficiency of vitamin __________.",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Which of the following body functions requires energy from food?",
+      "type": "single",
+      "correct": "d",
+      "a": "Movement",
+      "b": "Growth",
+      "c": "Respiration",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a common source of water contamination?",
+      "type": "single",
+      "correct": "d",
+      "a": "Sewage",
+      "b": "Industrial waste",
+      "c": "Agricultural runoff",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food handlers' practices can increase contamination risks?",
+      "type": "single",
+      "correct": "d",
+      "a": "Sneezing over food",
+      "b": "Handling food with cuts on hands",
+      "c": "Poor personal hygiene",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following microorganisms is commonly found in contaminated water?",
+      "type": "single",
+      "correct": "a",
+      "a": "Escherichia coli",
+      "b": "Lactobacillus",
+      "c": "Rhizopus",
+      "d": "Penicillium"
+    },
+    {
+      "question": "Which of the following is considered a food hazard?",
+      "type": "single",
+      "correct": "d",
+      "a": "Biological hazard",
+      "b": "Chemical hazard",
+      "c": "Physical hazard",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is the first step in maintaining food hygiene?",
+      "type": "single",
+      "correct": "a",
+      "a": "Personal cleanliness",
+      "b": "Marketing",
+      "c": "Packaging",
+      "d": "Advertising"
+    },
+    {
+      "question": "Which of the following preservation methods uses high temperatures to destroy microorganisms completely?",
+      "type": "single",
+      "correct": "a",
+      "a": "Sterilization",
+      "b": "Chilling",
+      "c": "Refrigeration",
+      "d": "Freezing"
+    },
+    {
+      "question": "Which of the following foods is commonly preserved through sterilization?",
+      "type": "single",
+      "correct": "a",
+      "a": "Canned foods",
+      "b": "Fresh fruits",
+      "c": "Raw vegetables",
+      "d": "Fresh fish"
+    },
+    {
+      "question": "Which of the following preservation methods can alter the taste of food significantly?",
+      "type": "single",
+      "correct": "d",
+      "a": "Smoking",
+      "b": "Fermentation",
+      "c": "Pickling",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following gases is often reduced in controlled atmosphere storage?",
+      "type": "single",
+      "correct": "a",
+      "a": "Oxygen",
+      "b": "Nitrogen",
+      "c": "Helium",
+      "d": "Hydrogen"
+    },
+    {
+      "question": "Which of the following factors contributes to oxidative spoilage of food?",
+      "type": "single",
+      "correct": "d",
+      "a": "Oxygen",
+      "b": "Light",
+      "c": "Heat",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can help prevent spoilage in stored grains?",
+      "type": "single",
+      "correct": "d",
+      "a": "Low moisture content",
+      "b": "Proper ventilation",
+      "c": "Pest control",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following storage pests commonly attack grains?",
+      "type": "single",
+      "correct": "d",
+      "a": "Weevils",
+      "b": "Beetles",
+      "c": "Moths",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is a major source of starch in Nigeria?",
+      "type": "single",
+      "correct": "d",
+      "a": "Yam",
+      "b": "Cassava",
+      "c": "Maize",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following Nigerian foods is produced fermenting maize?",
+      "type": "single",
+      "correct": "a",
+      "a": "Ogi",
+      "b": "Garri",
+      "c": "Akara",
+      "d": "Moi-moi"
+    },
+    {
+      "question": "Which of the following sensory characteristics is important in determining freshness of foods?",
+      "type": "single",
+      "correct": "d",
+      "a": "Colour",
+      "b": "Aroma",
+      "c": "Texture",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following nutrients is required for the synthesis and repair of body tissues?",
+      "type": "single",
+      "correct": "a",
+      "a": "Protein",
+      "b": "Water",
+      "c": "Fibre",
+      "d": "Ash"
+    },
+    {
+      "question": "Which of the following foods is a rich source of complete protein?",
+      "type": "single",
+      "correct": "d",
+      "a": "Egg",
+      "b": "Fish",
+      "c": "Milk",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following vitamins functions as an antioxidant?",
+      "type": "single",
+      "correct": "a",
+      "a": "Vitamin E",
+      "b": "Vitamin K",
+      "c": "Vitamin B₁",
+      "d": "Vitamin B₂"
+    },
+    {
+      "question": "Which of the following foods contains a high amount of iron?",
+      "type": "single",
+      "correct": "d",
+      "a": "Liver",
+      "b": "Spinach",
+      "c": "Beans",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following nutrients is involved in blood clotting?",
+      "type": "single",
+      "correct": "a",
+      "a": "Vitamin K",
+      "b": "Vitamin C",
+      "c": "Vitamin A",
+      "d": "Vitamin B₁₂"
+    },
+    {
+      "question": "Which of the following is an example of a biological hazard in food?",
+      "type": "single",
+      "correct": "d",
+      "a": "Bacteria",
+      "b": "Virus",
+      "c": "Parasite",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following bacteria is commonly associated with improperly cooked meat?",
+      "type": "single",
+      "correct": "a",
+      "a": "Escherichia coli",
+      "b": "Lactobacillus",
+      "c": "Saccharomyces",
+      "d": "Rhizopus"
+    },
+    {
+      "question": "Which of the following may cause chemical food poisoning?",
+      "type": "single",
+      "correct": "d",
+      "a": "Heavy metals",
+      "b": "Pesticides",
+      "c": "Cleaning chemicals",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food-borne illnesses is caused contaminated water?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cholera",
+      "b": "Typhoid",
+      "c": "Dysentery",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following should be used to sanitize food-contact surfaces?",
+      "type": "single",
+      "correct": "a",
+      "a": "Approved sanitizers",
+      "b": "Dirty water",
+      "c": "Dust cloth",
+      "d": "Grease"
+    },
+    {
+      "question": "Which of the following preservation methods involves the use of beneficial bacteria?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fermentation",
+      "b": "Refrigeration",
+      "c": "Freezing",
+      "d": "Sterilization"
+    },
+    {
+      "question": "Which of the following methods preserves food reducing available water?",
+      "type": "single",
+      "correct": "d",
+      "a": "Drying",
+      "b": "Salting",
+      "c": "Sugaring",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is commonly preserved through salting?",
+      "type": "single",
+      "correct": "c",
+      "a": "Fish",
+      "b": "Meat",
+      "c": "Both A and B",
+      "d": "Bread"
+    },
+    {
+      "question": "Which of the following factors slows microbial growth in foods?",
+      "type": "single",
+      "correct": "d",
+      "a": "Low temperature",
+      "b": "Reduced moisture",
+      "c": "Proper packaging",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following preservation methods is commonly used for fruits and vegetables?",
+      "type": "single",
+      "correct": "d",
+      "a": "Canning",
+      "b": "Freezing",
+      "c": "Drying",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following may lead to deterioration of harvested produce?",
+      "type": "single",
+      "correct": "d",
+      "a": "Excessive heat",
+      "b": "Mechanical injury",
+      "c": "Pest infestation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following storage conditions is ideal for most grains?",
+      "type": "single",
+      "correct": "a",
+      "a": "Dry environment",
+      "b": "High humidity",
+      "c": "Excessive heat",
+      "d": "Waterlogged condition"
+    },
+    {
+      "question": "Which of the following can cause physiological deterioration in harvested fruits?",
+      "type": "single",
+      "correct": "d",
+      "a": "Maize",
+      "b": "Sorghum",
+      "c": "Wheat",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following Nigerian foods is derived from fermented cassava?",
+      "type": "single",
+      "correct": "d",
+      "a": "Fufu",
+      "b": "Garri",
+      "c": "Lafun",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food crops belongs to the cereal group?",
+      "type": "single",
+      "correct": "d",
+      "a": "Rice",
+      "b": "Maize",
+      "c": "Millet",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a major function of cereals in human nutrition?",
+      "type": "single",
+      "correct": "a",
+      "a": "Energy supply",
+      "b": "Tissue repair",
+      "c": "Hormone production",
+      "d": "Blood clotting"
+    },
+    {
+      "question": "Which of the following food groups provides the body with vitamins and minerals?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fruits and vegetables",
+      "b": "Cereals",
+      "c": "Oils and fats",
+      "d": "Sugars"
+    },
+    {
+      "question": "The nutrient that helps maintain healthy vision is vitamin __________.",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Which of the following fruits is rich in vitamin C?",
+      "type": "single",
+      "correct": "d",
+      "a": "Orange",
+      "b": "Guava",
+      "c": "Pineapple",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following pigments gives carrots their orange colour?",
+      "type": "single",
+      "correct": "c",
+      "a": "Anthocyanin",
+      "b": "Chlorophyll",
+      "c": "Carotene",
+      "d": "Melanin"
+    },
+    {
+      "question": "Which of the following sensory properties influences first impression of food?",
+      "type": "single",
+      "correct": "a",
+      "a": "Colour",
+      "b": "Aroma",
+      "c": "Texture",
+      "d": "Taste"
+    },
+    {
+      "question": "Which of the following tastes is detected mainly at taste receptors on the tongue?",
+      "type": "single",
+      "correct": "d",
+      "a": "Sweet",
+      "b": "Sour",
+      "c": "Bitter",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following factors may affect sensory perception?",
+      "type": "single",
+      "correct": "d",
+      "a": "Age",
+      "b": "Health condition",
+      "c": "Environment",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an objective test used in food quality assessment?",
+      "type": "single",
+      "correct": "a",
+      "a": "Instrumental analysis",
+      "b": "Taste panel",
+      "c": "Consumer preference",
+      "d": "Opinion survey"
+    },
+    {
+      "question": "Which of the following contributes to the crisp texture of foods?",
+      "type": "single",
+      "correct": "a",
+      "a": "Low moisture content",
+      "b": "High moisture content",
+      "c": "Fermentation",
+      "d": "Protein denaturation"
+    },
+    {
+      "question": "Which of the following sensory characteristics is most important in determining consumer acceptance?",
+      "type": "single",
+      "correct": "d",
+      "a": "Appearance",
+      "b": "Taste",
+      "c": "Aroma",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following factors can reduce food quality during storage?",
+      "type": "single",
+      "correct": "d",
+      "a": "High humidity",
+      "b": "Pest infestation",
+      "c": "Temperature fluctuations",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following insects commonly infest stored grains?",
+      "type": "single",
+      "correct": "d",
+      "a": "Weevil",
+      "b": "Beetle",
+      "c": "Moth",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following helps maintain freshness of fruits after harvest?",
+      "type": "single",
+      "correct": "d",
+      "a": "Refrigeration",
+      "b": "Proper packaging",
+      "c": "Careful handling",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following reduces mechanical damage during transportation?",
+      "type": "single",
+      "correct": "d",
+      "a": "Proper packaging",
+      "b": "Careful loading",
+      "c": "Suitable containers",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food preservation methods is most effective against insects?",
+      "type": "single",
+      "correct": "d",
+      "a": "Drying",
+      "b": "Hermetic storage",
+      "c": "Freezing",
+      "d": "Both A and B"
+    },
+    {
+      "question": "Which of the following food products is commonly produced through fermentation?",
+      "type": "single",
+      "correct": "d",
+      "a": "Ogi",
+      "b": "Yoghurt",
+      "c": "Nono",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following microorganisms is important in yoghurt production?",
+      "type": "single",
+      "correct": "a",
+      "a": "Lactobacillus",
+      "b": "Salmonella",
+      "c": "Clostridium",
+      "d": "Vibrio"
+    },
+    {
+      "question": "Which of the following foods can be preserved using fermentation?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cassava",
+      "b": "Milk",
+      "c": "Maize",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a benefit of food processing?",
+      "type": "single",
+      "correct": "d",
+      "a": "Improved safety",
+      "b": "Increased shelf life",
+      "c": "Better convenience",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of minimally processed food?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fresh-cut vegetables",
+      "b": "Canned meat",
+      "c": "Condensed milk",
+      "d": "Instant noodles"
+    },
+    {
+      "question": "Which of the following is an objective of food systems?",
+      "type": "single",
+      "correct": "d",
+      "a": "Ensuring food availability",
+      "b": "Ensuring food accessibility",
+      "c": "Ensuring food safety",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following sectors is involved in food systems?",
+      "type": "single",
+      "correct": "d",
+      "a": "Agriculture",
+      "b": "Processing",
+      "c": "Distribution",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following nutrients supplies approximately 9 kcal per gram?",
+      "type": "single",
+      "correct": "b",
+      "a": "Protein",
+      "b": "Fat",
+      "c": "Carbohydrate",
+      "d": "Fibre"
+    },
+    {
+      "question": "Which of the following foods is rich in healthy fats?",
+      "type": "single",
+      "correct": "d",
+      "a": "Groundnut",
+      "b": "Avocado",
+      "c": "Palm kernel",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following vitamins is water-soluble?",
+      "type": "single",
+      "correct": "a",
+      "a": "Vitamin C",
+      "b": "Vitamin A",
+      "c": "Vitamin D",
+      "d": "Vitamin E"
+    },
+    {
+      "question": "Which of the following minerals is important for thyroid gland function?",
+      "type": "single",
+      "correct": "c",
+      "a": "Iron",
+      "b": "Calcium",
+      "c": "Iodine",
+      "d": "Magnesium"
+    },
+    {
+      "question": "Which of the following contributes to food-borne disease outbreaks?",
+      "type": "single",
+      "correct": "d",
+      "a": "Improper cooking",
+      "b": "Poor storage",
+      "c": "Contaminated water",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food items is most susceptible to microbial spoilage?",
+      "type": "single",
+      "correct": "d",
+      "a": "Meat",
+      "b": "Fish",
+      "c": "Milk",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following can serve as a vehicle for transmitting food contaminants?",
+      "type": "single",
+      "correct": "d",
+      "a": "Water",
+      "b": "Equipment",
+      "c": "Food handlers",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of a physical food hazard?",
+      "type": "single",
+      "correct": "d",
+      "a": "Metal fragment",
+      "b": "Stone",
+      "c": "Broken glass",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following methods is used to preserve food lowering pH?",
+      "type": "single",
+      "correct": "a",
+      "a": "Pickling",
+      "b": "Drying",
+      "c": "Freezing",
+      "d": "Refrigeration"
+    },
+    {
+      "question": "Which of the following foods is commonly preserved acidification?",
+      "type": "single",
+      "correct": "d",
+      "a": "Pickled cucumber",
+      "b": "Onion",
+      "c": "Pepper",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following preservation methods uses heat and airtight containers?",
+      "type": "single",
+      "correct": "a",
+      "a": "Canning",
+      "b": "Salting",
+      "c": "Smoking",
+      "d": "Chilling"
+    },
+    {
+      "question": "Which of the following contributes to rancidity in fatty foods?",
+      "type": "single",
+      "correct": "d",
+      "a": "Oxygen exposure",
+      "b": "Light exposure",
+      "c": "High temperature",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following conditions is least favourable for microbial growth?",
+      "type": "single",
+      "correct": "a",
+      "a": "Low temperature",
+      "b": "High moisture",
+      "c": "Warm environment",
+      "d": "Neutral pH"
+    },
+    {
+      "question": "Which of the following can increase post-harvest losses?",
+      "type": "single",
+      "correct": "d",
+      "a": "Delayed transportation",
+      "b": "Poor storage",
+      "c": "Pest infestation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following helps extend the shelf life of fruits and vegetables?",
+      "type": "single",
+      "correct": "d",
+      "a": "Refrigeration",
+      "b": "Controlled atmosphere storage",
+      "c": "Proper packaging",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food crops is commonly classified as a root crop?",
+      "type": "single",
+      "correct": "d",
+      "a": "Cassava",
+      "b": "Carrot",
+      "c": "Sweet potato",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is produced from soybean?",
+      "type": "single",
+      "correct": "d",
+      "a": "Soy milk",
+      "b": "Soy flour",
+      "c": "Textured vegetable protein",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following sensory properties is evaluated the eyes?",
+      "type": "single",
+      "correct": "d",
+      "a": "Colour",
+      "b": "Appearance",
+      "c": "Visual appeal",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is considered a major source of protein in Nigerian diets?",
+      "type": "single",
+      "correct": "d",
+      "a": "Beans",
+      "b": "Fish",
+      "c": "Meat",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following vitamins helps maintain healthy skin and vision?",
+      "type": "single",
+      "correct": "a",
+      "a": "Vitamin A",
+      "b": "Vitamin C",
+      "c": "Vitamin K",
+      "d": "Vitamin B₁"
+    },
+    {
+      "question": "Which of the following foods provides both protein and fat?",
+      "type": "single",
+      "correct": "d",
+      "a": "Groundnut",
+      "b": "Soybean",
+      "c": "Egg",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following nutrients acts as the body's reserve source of energy?",
+      "type": "single",
+      "correct": "a",
+      "a": "Fat",
+      "b": "Water",
+      "c": "Vitamin C",
+      "d": "Calcium"
+    },
+    {
+      "question": "Which of the following deficiency diseases is associated with inadequate iodine intake?",
+      "type": "single",
+      "correct": "a",
+      "a": "Goitre",
+      "b": "Scurvy",
+      "c": "Rickets",
+      "d": "Beriberi"
+    },
+    {
+      "question": "Which of the following can contribute to microbial contamination of food?",
+      "type": "single",
+      "correct": "d",
+      "a": "Dirty utensils",
+      "b": "Contaminated water",
+      "c": "Poor personal hygiene",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following pathogens is commonly associated with food-borne infections?",
+      "type": "single",
+      "correct": "d",
+      "a": "Salmonella",
+      "b": "E. coli",
+      "c": "Listeria",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is an example of good food handling practice?",
+      "type": "single",
+      "correct": "d",
+      "a": "Washing hands before cooking",
+      "b": "Keeping food covered",
+      "c": "Using clean equipment",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following food safety measures reduces microbial hazards?",
+      "type": "single",
+      "correct": "d",
+      "a": "Proper cooking",
+      "b": "Refrigeration",
+      "c": "Pasteurization",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a chemical hazard in food?",
+      "type": "single",
+      "correct": "d",
+      "a": "Pesticide residue",
+      "b": "Detergent residue",
+      "c": "Heavy metals",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following preservation methods relies on reducing water availability?",
+      "type": "single",
+      "correct": "d",
+      "a": "Drying",
+      "b": "Salting",
+      "c": "Sugaring",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is commonly preserved through freezing?",
+      "type": "single",
+      "correct": "d",
+      "a": "Fish",
+      "b": "Meat",
+      "c": "Vegetables",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following is a benefit of fermentation?",
+      "type": "single",
+      "correct": "d",
+      "a": "Improved flavour",
+      "b": "Increased shelf life",
+      "c": "Enhanced digestibility",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following preservation methods uses smoke to inhibit spoilage?",
+      "type": "single",
+      "correct": "a",
+      "a": "Smoking",
+      "b": "Canning",
+      "c": "Irradiation",
+      "d": "Refrigeration"
+    },
+    {
+      "question": "Which of the following factors contributes to food spoilage?",
+      "type": "single",
+      "correct": "d",
+      "a": "Microorganisms",
+      "b": "Enzymes",
+      "c": "Chemical reactions",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following conditions can accelerate food deterioration?",
+      "type": "single",
+      "correct": "d",
+      "a": "High temperature",
+      "b": "High humidity",
+      "c": "Improper storage",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following practices helps reduce post-harvest losses?",
+      "type": "single",
+      "correct": "d",
+      "a": "Proper harvesting",
+      "b": "Proper storage",
+      "c": "Careful transportation",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following foods is a major staple in West Africa?",
+      "type": "single",
+      "correct": "d",
+      "a": "Yam",
+      "b": "Cassava",
+      "c": "Maize",
+      "d": "All of the above"
+    },
+    {
+      "question": "Which of the following sensory attributes is evaluated through touch?",
+      "type": "single",
+      "correct": "a",
+      "a": "Texture",
+      "b": "Colour",
+      "c": "Aroma",
+      "d": "Appearance"
+    },
+    {
+      "question": "Which of the following sensory properties contributes significantly to consumer preference?",
+      "type": "single",
+      "correct": "d",
+      "a": "Flavour",
+      "b": "Texture",
+      "c": "Colour",
+      "d": "All of the above"
+    }
+  ]
+}

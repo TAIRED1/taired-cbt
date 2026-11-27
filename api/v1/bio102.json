@@ -1,0 +1,6012 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "BIO102",
+    "total_questions": 609
+  },
+  "data": [
+    {
+      "question": "The following are prokaryotic thallophtert expect............",
+      "options": [
+        "Fungi",
+        "Viruses",
+        "Bacteria",
+        "Blue-green algae Answer: fungi"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria lives mostly under which temperature related condition.",
+      "options": [
+        "Warm",
+        "Cold",
+        "Hot",
+        "Sub zero Answer: warm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Organism become more and more similar from.......",
+      "options": [
+        "Kingdom to kingdom",
+        "Kingdom to Genus",
+        "Kingdom to Species",
+        "Kingdom to phylum Answer: kingdom to species"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "the largest diameter of bacteria should be around",
+      "options": [
+        "0.005mm",
+        "0.05mm",
+        "0.05cm",
+        "0.005cm Answer: 0.005mm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Viruses caused all the followings except",
+      "options": [
+        "Mumps",
+        "Flu",
+        "Tetanus",
+        "Smallpox..... Answer: tetanus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": ". One is not division of vertebrata...",
+      "options": [
+        "Head",
+        "Tail",
+        "Tail",
+        "Thorax Answer: Thorax"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Places where aerobic bacteria lives except",
+      "options": [
+        "Aerated water",
+        "Lowed soil",
+        "Soak away",
+        "Body of Living organism...... Answer: Soak away"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Brings uniformity in binomial nomenclature",
+      "options": [
+        "Latin",
+        "German",
+        "Sweden",
+        "Italy Answer: Latin"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these is incorrect",
+      "options": [
+        "Earthworm and roundworms are metameeically segmented",
+        "Roundworm is unsegmented",
+        "Earthworm is coelomate",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these is useful for fermentation",
+      "options": [
+        "Vibrio (",
+        "Lactobacillus (",
+        "Escherichia",
+        "Mycobacterium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The form of bacteria responsible for sore throat is",
+      "options": [
+        "Bacillus",
+        "Esecherichia",
+        "Spirochaeta",
+        "Coccus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacterial spores are all of the following except _______ as compared to vegetable cells.",
+      "options": [
+        "More resistant to staining",
+        "more likely to die in nutritionally poor conditions",
+        "more resistant to temperature changes",
+        "more likely to survive treatment with disinfection"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Major component of virus include",
+      "options": [
+        "Nedocaprid and DNA",
+        "Capside & Protein coat",
+        "Protain coat & RNA",
+        "Protein coat & Nucleic acid"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Prokoyotic Hiallophyte are ______ except",
+      "options": [
+        "Virus",
+        "Fungi",
+        "Bacteria",
+        "Blue green algae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Hemiclordate are known as",
+      "options": [
+        "True chordate",
+        "False Chordate",
+        "Non- Chordate",
+        "All of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The classification is of a good availability because its",
+      "options": [
+        "Classic",
+        "Complex",
+        "Artitrary",
+        "Systematic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Different types of Pseudopodia are these except",
+      "options": [
+        "Dilopodia",
+        "Axialpodia",
+        "Reticulopodia",
+        "Lopododia"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simple acellular organism occur in",
+      "options": [
+        "Virus",
+        "Fungi",
+        "Bacteria",
+        "Protozoa"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Virus has ________ cycle",
+      "options": [
+        "5",
+        "4",
+        "7",
+        "2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The DNA of bacteria is located in a place called ___________",
+      "options": [
+        "Nucleoid",
+        "nucleoid",
+        "Nucleus",
+        "central"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sorethroat is cause",
+      "options": [
+        "Vibrio Cholarae",
+        "Coccus",
+        "Cluster"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The two major components of virus are",
+      "options": [
+        "Protein coat and RNA",
+        "Nucleocapsid and DNA",
+        "Capsid and Protein coat",
+        "Protein Coat and nuclei acid strand"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following and constituents is common to most of the classes of Algae",
+      "options": [
+        "Lignin",
+        "Retin",
+        "Lipid",
+        "Cellulose"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria are causative agents of",
+      "options": [
+        "Small pox",
+        "Mumps",
+        "Tetanus",
+        "Flu"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All of the following about virus are true except.",
+      "options": [
+        "They cannot do without a host",
+        "They are facultative parasite",
+        "They are stored as chemicals outside living cell",
+        "They use the host mechanism for reproduction."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Counter stain used in Gramm’s term is",
+      "options": [
+        "Safranin",
+        "Gram’s iodine",
+        "Acetone",
+        "Crystal violet"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Halophiles are",
+      "options": [
+        "Salt tolerant",
+        "Slat lovers",
+        "Ph stable",
+        "Ph unstable"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tooth decay is caused",
+      "options": [
+        "Streptocaccus mutans",
+        "Bacillus Churingiensis",
+        "Lactococcus mutans",
+        "Streptocaccus decae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The most favourable condition where bacteria live",
+      "options": [
+        "Warm",
+        "Cold",
+        "Sub-zero",
+        "high"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A function of capsular layer in bacteria cell is",
+      "options": [
+        "Prevent Plamolysis",
+        "Prevent Phagocytosis",
+        "Aids in nutrition"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Aerated bacteria is found in the following",
+      "options": [
+        "toss surface of organism",
+        "Soak away",
+        "aerated soil"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a traditional classification of Echininoda",
+      "options": [
+        "Pelmotozoa and Eleutherozoa",
+        "Asteroida and Ophlurolda",
+        "Astoroiddea and Holotheuroidea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Viruses made of nutrition is mainly above",
+      "options": [
+        "symbiotic",
+        "Parasitic",
+        "Mutuallism",
+        "None of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following cell wall constituents is common to most of the classes of algae",
+      "options": [
+        "Pectin",
+        "lignin",
+        "lipid",
+        "cellulouse"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In mammals the capulatory organ is called",
+      "options": [
+        "Vargina",
+        "arvix",
+        "none of the option",
+        "penis"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All cephal cordates are generally known as",
+      "options": [
+        "real chordates",
+        "verberates",
+        "lanolet",
+        "none of the option"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Urosegement chordates are _________",
+      "options": [
+        "Segmented Chordates",
+        "Unsegmented Chordates",
+        "Semi Chordates",
+        "False Chordate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Eggs are laid in Coccous produced the _______ in class Oligochata of phylum annelida",
+      "options": [
+        "Cuttle",
+        "Clitellium",
+        "Coeleom",
+        "Chaeta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "__________ is useful in agriculture for fixing nitrogen",
+      "options": [
+        "Stmptococcus Mutus",
+        "Bacillus",
+        "Lactobacillus balgous",
+        "Rhizobacterium Spp"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Complete multicellular algae include the following except?",
+      "options": [
+        "Oscillation",
+        "Faeces",
+        "Lammenia"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An example of cecus scen as these or name Cocci air sized in a chain like manner",
+      "options": [
+        "Neissinia",
+        "Polycoecous",
+        "Steatrococus",
+        "Stapylocus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_______ is useful in agriculture for fixing nitrogen",
+      "options": [
+        "bacillus theuringiensis",
+        "lactobacillus",
+        "lactococus",
+        "Rhizobacterium spp."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sore throat is caused ____________",
+      "options": [
+        "Sprial",
+        "Coccus",
+        "Vibrio",
+        "Bacrillus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Example of Coccus arrange incluster is ________",
+      "options": [
+        "Staphylococcus",
+        "Sarcind",
+        "Tetrad",
+        "Nesseria"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is prokaryote group among the classes of algae",
+      "options": [
+        "chrysophyta",
+        "pyrrophyta",
+        "cyanophyta",
+        "rhodophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Under the microscope, the morphology of vibriochlora is ________",
+      "options": [
+        "spherical",
+        "rod – like",
+        "spiral",
+        "comma"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Organisms that belongs to the class chilopoda are fast moving carnivores animals with a pair of poison _______",
+      "options": [
+        "eye",
+        "claws",
+        "legs",
+        "head"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Virus undergoes ________ feeding types",
+      "options": [
+        "Parasitic",
+        "Commensalism",
+        "Autorophic",
+        "Heterotrophic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Egges are laid in cocoon produced the _______ in the class oligochaetal of phylum annelida",
+      "options": [
+        "cilctcllum",
+        "chaeta",
+        "coelom",
+        "cuticle"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Viruses caused all he following except _________",
+      "options": [
+        "mumpis",
+        "flu",
+        "tetanus",
+        "smallpox"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Place where aerobic bacterial lives except _________",
+      "options": [
+        "Aerated water",
+        "lowed soil",
+        "soak away",
+        "body"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Brings uniformly in binomial numeclature is ___________",
+      "options": [
+        "Latin",
+        "German",
+        "Sweden",
+        "Italy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Pathogens bacteria can cause all the fig except",
+      "options": [
+        "Gonorrhea",
+        "tooth decay",
+        "fermentation",
+        "syphills"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In hemichodales the stromochards represent the nolochord which is restricted to the region",
+      "options": [
+        "prostona",
+        "prostomat",
+        "proma",
+        "proboscis"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are true about viruses except",
+      "options": [
+        "they are stored as chemical outside living cells",
+        "they cannot do without a host",
+        "they are falcultative parasite",
+        "they use the host mechanism for reproduction"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Thee cell wall of bacteria consist of _______ and _________",
+      "options": [
+        "sugars and peptides",
+        "water and sugar",
+        "peptides and moist substance",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In true fungi the mycelium is made up of thread like structure called _______",
+      "options": [
+        "chintin",
+        "filament",
+        "rhizoid",
+        "hyphae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The seven classes of molluses are derived from ancestral molluse as result of all but one of their _________",
+      "options": [
+        "head",
+        "shell",
+        "foot",
+        "symmetry"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The binomial system of nomenclature was design _________ in the year ________?",
+      "options": [
+        "1707 – 1178",
+        "1707 – 1778",
+        "1707 – 1878",
+        "1707 – 1788"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cluster from spore that occurs when fertilization result in formation of zygote is called",
+      "options": [
+        "conjugation",
+        "embryo",
+        "pore formation",
+        "zygospore"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Another name for brown algae is",
+      "options": [
+        "Rhodophyta",
+        "Pteritophyta",
+        "Tracheophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Rod like cells are referred to as ________",
+      "options": [
+        "Spinlum",
+        "Nibrio",
+        "Basidiomycetes",
+        "Bacillus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The most primate among the following is _________",
+      "options": [
+        "Hydra",
+        "plasmodium",
+        "amoeba",
+        "paramecium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There are ___________ major shape of bacteria",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Grastulation in Eclunoderms is",
+      "options": [
+        "invigination",
+        "cephalization",
+        "mentation",
+        "insemination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fertilaztion in organism of division pteridophyta takes place",
+      "options": [
+        "Archegonium",
+        "lycopedium",
+        "Aritheridium",
+        "Oogonium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Halophiles is ________?",
+      "options": [
+        "Salt tolerating",
+        "PH stable",
+        "PH unstable",
+        "salt lovers"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The classification of organisms that involve very few character arbitrary selected is?",
+      "options": [
+        "Natural",
+        "Mechanical",
+        "Phenetical",
+        "Artificial"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The oval bacteria formed are regared as?",
+      "options": [
+        "Spirillum",
+        "Vibrio",
+        "Bacilus",
+        "Coccus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Crustacea or acquatic arthropods respire which means",
+      "options": [
+        "gills",
+        "lungs",
+        "skin",
+        "trachea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An example of simple unicellular algae is",
+      "options": [
+        "fucus",
+        "chlamydomonas",
+        "pandorina",
+        "spirogyra"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria spore are all of the following except _______ as compared with vegetative cells",
+      "options": [
+        "more likely to die in nutritionally poor conditions",
+        "more resistant to temperature changes",
+        "more likely to survive treatment with disinfectan",
+        "more resistance to staining"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these following belong oonly to prokaryotic group",
+      "options": [
+        "Rhodophyta",
+        "chrysophyta",
+        "cyanophyta",
+        "pyrrophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All are true algae except",
+      "options": [
+        "it lack root",
+        "it have chloroplast",
+        "they are aquatic",
+        "all are eukaryotes"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Carbohydrate food reserve in fungi is called",
+      "options": [
+        "starch",
+        "glycoen",
+        "sucrose",
+        "glucoses"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The bacteria that can only survive in a high temperature is _________",
+      "options": [
+        "LEscherichia coli",
+        "thermos aquatious",
+        "Pseudomonas aeruginaras"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "__________ have a under distribution than any other living organism",
+      "options": [
+        "virus",
+        "Spirogyra",
+        "Bacteria (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Phycology is the study of __________",
+      "options": [
+        "fungi",
+        "virus",
+        "algae",
+        "lichen"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The only class of algae that is pprocaryotic is",
+      "options": [
+        "cyanophyta",
+        "rhodophyta",
+        "chlorophyte"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Organism with wider distribution in d plant kingdom is",
+      "options": [
+        "fungi",
+        "virus",
+        "bacteria",
+        "algae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Digestive cavity in coelenterate is",
+      "options": [
+        "mesentron",
+        "mesoderm",
+        "enteron",
+        "epiderm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Organism become familiar from",
+      "options": [
+        "Kingdom – species",
+        "Kindgom – kingdom",
+        "Genius – kingdom",
+        "kingdom – species"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Aerobic bacteria are found where except",
+      "options": [
+        "body of living organism",
+        "soak away",
+        "aerated soil",
+        "aerated surfaces"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The form of asexual production in bacteria in bad condition is",
+      "options": [
+        "binary fussion",
+        "binary fission",
+        "vegetative formation",
+        "spore formation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the human body __________ and_________ must remain sterile",
+      "options": [
+        "urine and cerebrospinal fluid",
+        "braind and gastronterstinal tract",
+        "urine and blood",
+        "blood and cerebrospinal fluid"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An example of coccus seen as three or more cocci arranged in a chain – like manner is",
+      "options": [
+        "staphylococcus",
+        "neisferia",
+        "streptococcus",
+        "polycoccus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All these are true of algae except",
+      "options": [
+        "they have chloroplast",
+        "they are all eukaryotes",
+        "they are aquatic",
+        "they lack roots"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The oval bacteria forms are regarded as",
+      "options": [
+        "coccus",
+        "bacillus",
+        "vibrio",
+        "spirillium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sub family name of virus end in",
+      "options": [
+        "viridae",
+        "vininae",
+        "viriddale"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The tymparie or eardrum of a mammal is supported",
+      "options": [
+        "ossiclular bone",
+        "incus bone",
+        "stepis bone"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sexual spore of the sac fungi is?",
+      "options": [
+        "Ascospores",
+        "Basidia",
+        "cospore"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Herspesvirate is the name of an",
+      "options": [
+        "Genius",
+        "Species",
+        "Family",
+        "order"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Carbohydrates food reservation in fungi is stored as",
+      "options": [
+        "Glucose",
+        "Sucrose",
+        "Starch"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An example of coccus seen as three of mine cocci arranged in a chain like manner",
+      "options": [
+        "Neissena",
+        "Staphylococous",
+        "Polycoccuc",
+        "Streptococcus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All but one of the following is not part of the ossicles composed of mammals",
+      "options": [
+        "malleus",
+        "stapes",
+        "stepis",
+        "incus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simple unicellular is _______",
+      "options": [
+        "chlamydomonas",
+        "spirogyra",
+        "volva"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Pili is for _______",
+      "options": [
+        "movement",
+        "locomotion",
+        "reproduction"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Long chains of cocci occur when",
+      "options": [
+        "cocci divide and remain together to form pairs of cell",
+        "cells adhere after repeated division in two planes",
+        "cells adhere after repeated division in one plane",
+        "cocci divide and remain together to form tetrads of cells"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The urochordates are",
+      "options": [
+        "semi chordates",
+        "false chordates",
+        "unsegmented chordates",
+        "segmented chordates"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All cephalochordates are generally known as",
+      "options": [
+        "vertebrates",
+        "none of the above",
+        "Real chordates",
+        "lancelets"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria can live mostly in what condition",
+      "options": [
+        "hot",
+        "cold",
+        "warm",
+        "sub – zero"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a parasite",
+      "options": [
+        "Trapanoma sp",
+        "plasmodium",
+        "opalina",
+        "euglena sp."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the name given to a sub-zero temperature bacteria",
+      "options": [
+        "mesophile",
+        "Nanophile",
+        "Thermophic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Absorptive heterotrophys is generally reference to",
+      "options": [
+        "bacteria",
+        "virus",
+        "fungi",
+        "algae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is the last step in life cycle of virus",
+      "options": [
+        "Attachment to a living cell",
+        "formation of nellotide",
+        "multiplication of"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is the reproduction of bacteria in an unfavourable condition",
+      "options": [
+        "binary fussion",
+        "binary fission",
+        "spore formation",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Viruses mode of nutrition is mainly _________",
+      "options": [
+        "symbiotic",
+        "parasitic",
+        "mutualism",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not major criteria for classifying algae",
+      "options": [
+        "cell wall constituents",
+        "cell wall pigment",
+        "size and shape",
+        "storage products"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Crustacca an aquatic arturopods repire which means",
+      "options": [
+        "gills",
+        "lungs",
+        "skin",
+        "trachea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Most visceral organs in verterbrate is located in the __________",
+      "options": [
+        "head",
+        "trunk",
+        "tail",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria are the causative agents of",
+      "options": [
+        "flu",
+        "mumps",
+        "small pox",
+        "tetanus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Viral order ends in _______",
+      "options": [
+        "virals",
+        "viriales",
+        "virinae",
+        "virldae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The classification is a good quality because it is",
+      "options": [
+        "arbitrary",
+        "systematic",
+        "classic",
+        "complex"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fungi are unable to feed like green plants because",
+      "options": [
+        "they are parasitic autotrophic",
+        "they are heterotrophic",
+        "they are not autotrophic",
+        "they lack chlorophyll"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The oval bacteria form are regarded as",
+      "options": [
+        "Bacilus",
+        "spririllum",
+        "coccus",
+        "vibrio"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The prensence of copulatory organs was first notice in phylum",
+      "options": [
+        "nematode",
+        "Mollusca",
+        "Echinodermata",
+        "Platyhelminthes"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Algae are classified into different groups on the basis of the following",
+      "options": [
+        "cell wall pigments",
+        "sizes & shapes",
+        "cell wall materials",
+        "nature of their stored product"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The respiration of anaerobes is commonly called",
+      "options": [
+        "metabolism",
+        "fermentation",
+        "bio production",
+        "perspiration"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria that exits as short rods are called",
+      "options": [
+        "cocobacillus",
+        "bacillus coccus",
+        "coccus",
+        "bacillus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Phylum athropoda is the most extensive because it contains 891,000 species which represent ---------------- of the animal species",
+      "options": [
+        "50-60%",
+        "75-80%",
+        "90-100%",
+        "4080%"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There are --------- major stages in the life cycle of a virus",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Carbohydrate food reserve in fungi is stored as",
+      "options": [
+        "sucrose",
+        "glucose",
+        "starch",
+        "glycogen"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which exhibit radial symmetry",
+      "options": [
+        "round worms",
+        "snail",
+        "earth worm",
+        "hydra"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The diameter of the largest bacteria should be around",
+      "options": [
+        "0.05cm",
+        "0.05mm",
+        "0.005cm (d)0.005mm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of this is not a prokaryotic __________",
+      "options": [
+        "staphylococcus",
+        "blue--- green algae",
+        "pandorina",
+        "Thermus sp"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fertilization in organism of the division pteridophyte takes place in the _________",
+      "options": [
+        "antheridium",
+        "archegonium",
+        "oogonium",
+        "lycopodium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Herpesvirales is ____________?",
+      "options": [
+        "sub-family",
+        "order",
+        "genus",
+        "family"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Why are bacteria regarded as the smallest known living organism?",
+      "options": [
+        "because their sizes are in millimeter",
+        "because virus which are smaller are not regarded as living outside a living host",
+        "because of their small diameter",
+        "because of their well-defined cell wall."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The swelling of imperfectly sterilized food can is as a result of the following except ________",
+      "options": [
+        "Bacterial fementation",
+        "Bacterial declination",
+        "Respiration of anaerobic",
+        "Pressure of gases produced bacteria"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fertilization in organism of the division pteridophte takes place in the _______",
+      "options": [
+        "Oogonium",
+        "Archegonium",
+        "Lycopodium",
+        "Antheridium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The reproduction of Bacteria when the condition is not favorable is __________",
+      "options": [
+        "Binary fusion",
+        "Binary fission",
+        "spore formation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The decolounzer used in gram’s staining is",
+      "options": [
+        "crystal violet",
+        "safrain",
+        "acetone",
+        "gram’s iodine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The most important feature of a species is",
+      "options": [
+        "similar structure",
+        "similar appearance",
+        "inter breeding",
+        "similar functions"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The basic origin of the work of whittaker on creation of 5 kingdom was on",
+      "options": [
+        "Autotrophy and structure",
+        "Heterotrophy and structure",
+        "Heterotrophy and motility",
+        "Autotrophy and motility"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An example of simple unicellular algae as",
+      "options": [
+        "pandorina",
+        "spirogyra",
+        "chlamydronas",
+        "fucus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The form assumed Neisseria gonorrnoeaes _________",
+      "options": [
+        "dipplo cocci",
+        "staphylococci",
+        "Tetracocci",
+        "streptococci"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The peptidogly can complex found in the bacteria cell wall is composed of _________",
+      "options": [
+        "peclin and glucose",
+        "peclide and sugars",
+        "peptidine and glycogen",
+        "peptide and sugar"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A bacterial is said to be circular if it is",
+      "options": [
+        "coccus",
+        "spirillum",
+        "bacillus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The 5 – kingdom divided whittaker in animals is called",
+      "options": [
+        "Hetetrophs",
+        "Autotrophs",
+        "Motility"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many shapes does bacterial have",
+      "options": [
+        "3",
+        "2",
+        "5",
+        "4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ have a wider distribution than any other living organism",
+      "options": [
+        "virus",
+        "algae",
+        "bacterial",
+        "fungi"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Exo – erythrocytic cycle of malaria parasite occurs in the _________ of trhe main host",
+      "options": [
+        "kidney",
+        "liver",
+        "intestine",
+        "blood cell"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There are __________ number of segment along the length of a chilop",
+      "options": [
+        "40",
+        "10",
+        "11",
+        "30"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these classes of algae is required has red algae",
+      "options": [
+        "englenophyta",
+        "phodophyta",
+        "Pyrrophyta",
+        "phaeophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The binomial system of classification was successfully completed between",
+      "options": [
+        "1707 – 1778",
+        "1515 -1590",
+        "1739 – 1788",
+        "1807 – 1888"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Classificaiton is of good quality because it is",
+      "options": [
+        "classic",
+        "systematic",
+        "arbitrary",
+        "complex"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Carbohydrate food resern in fungin is stored as",
+      "options": [
+        "sucrose",
+        "starch",
+        "clycogen",
+        "glucose"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these classes of algae is referred to as brown algae",
+      "options": [
+        "englenophyte",
+        "phaeophyte",
+        "pyrophte",
+        "rodophte"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are prokaryotes thallophytes except",
+      "options": [
+        "fungi",
+        "bacteria",
+        "blue green algae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following make virus different from bacteria except",
+      "options": [
+        "The nucleic acid of virus may be RNA",
+        "Viruses are smaller than bacteria",
+        "Viruses require host to be regarded as living",
+        "virsues does not have a nucleus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Under the microscope the morphology of vibro cholera is",
+      "options": [
+        "comma shaped",
+        "spherical shaped",
+        "rod-like shaped",
+        "spiral shaped"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The rod – like structure in the organisms of the division bryophyte is called",
+      "options": [
+        "liverworts",
+        "Rhizoids",
+        "Thalloid",
+        "Rhizome"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Absorptive heterotrophs are collectively known as",
+      "options": [
+        "fungi",
+        "virus",
+        "green plant",
+        "bacteria"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All are parasite except",
+      "options": [
+        "opalina sp",
+        "plasmodium sp",
+        "trypansoma sp",
+        "euglena sp"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The simple unicellular type of algae is _________",
+      "options": [
+        "chlamydomonas",
+        "volox",
+        "pandorina"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A bacteria is said to be circular if it is",
+      "options": [
+        "coccus",
+        "spirillium",
+        "bacillius"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is the youngest plant tissue",
+      "options": [
+        "meristem",
+        "phloem",
+        "epidermis",
+        "apical buds"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Who was the botanist tuner",
+      "options": [
+        "an European physician",
+        "Italian physician",
+        "Swedish physician",
+        "English physician"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are prokaryotic thallophytes except",
+      "options": [
+        "fungi",
+        "blue – green algae",
+        "bacteria",
+        "virus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which one of the following is not a division in vertebrates",
+      "options": [
+        "thorax",
+        "head",
+        "truck",
+        "tail"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The DNA of bacteria is located in a plan",
+      "options": [
+        "Nucloid",
+        "nudeiod",
+        "nucleus",
+        "central"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sea lily and feather star belong to class",
+      "options": [
+        "podia",
+        "grinoda",
+        "dentalium"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which phylum of animal exclude marine",
+      "options": [
+        "dentalium",
+        "echinodernata",
+        "crinodea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Locomotory organs of starfish are",
+      "options": [
+        "podia",
+        "ventricle",
+        "spicules"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The class of organism that is characterized processing the head, thorax and abdomen is form",
+      "options": [
+        "insect",
+        "insect",
+        "Archrida",
+        "Crustaca"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A merbocyte with pigment are",
+      "options": [
+        "Chomocytic",
+        "archeaoccyta",
+        "chromocytes"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sporophyte is dominant in _________",
+      "options": [
+        "thallophytes",
+        "Bryophtes",
+        "Pteridophytes",
+        "spermatophyte"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Animal in the ployplachophora are commonly known as the_________",
+      "options": [
+        "snail",
+        "fruit",
+        "phoran",
+        "chitons"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The comma orbiant form of bacteria is responsible for ________",
+      "options": [
+        "syphilis",
+        "cholera",
+        "typhoid",
+        "pneumonia"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not hermaphrodite",
+      "options": [
+        "tapeworm",
+        "flatworm",
+        "round worm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a gram stain procdure, bacteria that are gram positive decolour less easily than gram negative cell",
+      "options": [
+        "true",
+        "false",
+        "none of the above",
+        "indeterminate"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The dominant plant in the bryophytes is _________",
+      "options": [
+        "vascular plants",
+        "rhizoids",
+        "gametophyte",
+        "saprophyte"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The comma orbtant form of bacteria is responsible for",
+      "options": [
+        "syphilis",
+        "amoeba",
+        "Typhoid",
+        "pneumonia"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Examples of complex multicellular are the following except",
+      "options": [
+        "fucus",
+        "extocarpus",
+        "luminaria",
+        "oscillatoria"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The filamentous types of algae",
+      "options": [
+        "spirogyra and oscillatorea",
+        "spirogyra and fucus",
+        "tolox and spirogyra",
+        "diatoms and ulva"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The part of the veterbrates body where all visceral organs are located called",
+      "options": [
+        "trunk",
+        "head",
+        "tail",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Virus caused all the followings except",
+      "options": [
+        "mumps",
+        "flu",
+        "tetanus",
+        "small pox"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of this does not belongs to the group",
+      "options": [
+        "bacillus subtiles",
+        "Escherichia coli",
+        "tobacco musaic virus",
+        "treponema pallidum"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many stages is virus",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Classification of plant is based on",
+      "options": [
+        "photosynthesis",
+        "taxonomy",
+        "chemosythesis",
+        "classification"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Length of virus is",
+      "options": [
+        "5 – 40nm",
+        "2 – 20mm",
+        "2 – 20nm",
+        "5 – 40mm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these does not belong to the group",
+      "options": [
+        "treponema pallidum",
+        "bacillus subtills",
+        "tobacco mosaic virus",
+        "tschericha coli"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ is used for thapro of biopesticide",
+      "options": [
+        "streptococcus mutans",
+        "Rhizobaterium spp.",
+        "lactobacillus bulgamus",
+        "Bacillus thuringiensis"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The diplopods in millipedes are also known as",
+      "options": [
+        "cyclapods",
+        "chiolopoda",
+        "lithobius",
+        "myriapods"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The production of series of publication with comprehensive account of several families of flower plants in addition to the systematic classification of cryptograms was made",
+      "options": [
+        "Engler and pranti",
+        "Bauhin and kasper",
+        "bentham and hooker",
+        "tuner and bauhin"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Eggs are laid in coccon produced the __________ in class the oligochaete of phylum annelida",
+      "options": [
+        "chaeta",
+        "cuticle",
+        "citellium",
+        "coelon"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Class cyanphta are distinct in",
+      "options": [
+        "root",
+        "aquatic",
+        "primitive",
+        "chloroplast"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following causes syphilis and cholera",
+      "options": [
+        "Bacillius & vibrio",
+        "spirilus & vibrio",
+        "coccus & Bacillius",
+        "vibrio & coccus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following bacteria live in a could region",
+      "options": [
+        "mesophile",
+        "Thermophile",
+        "Psychophile",
+        "Nanophile"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ is radial symmetry",
+      "options": [
+        "Echidoderms",
+        "earthworm",
+        "mollusca (d)roundworm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All of these are parasites except",
+      "options": [
+        "Euglena",
+        "plasmodium",
+        "opanila",
+        "trypanosome"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Organisms with wilder distribution in the plant",
+      "options": [
+        "virus",
+        "bacteria",
+        "fungi"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is only in algae",
+      "options": [
+        "ppyrophyta",
+        "rhodophyta",
+        "chrysophyta",
+        "cyanophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of nutrition in virus is",
+      "options": [
+        "saprophyte",
+        "parasitic",
+        "commensalism (d)antotrophe"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are example of morphological arrangement of bacteria except",
+      "options": [
+        "cluster",
+        "chain",
+        "polygonal",
+        "tetrad"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fungi are classified into different classes based on",
+      "options": [
+        "nature of sexual spore",
+        "nature of asexual spore",
+        "mode of reproduction",
+        "nature of hyphae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Arrange this organisms chronologically",
+      "options": [
+        "fungi, virus, bacteria",
+        "bacteria, virus fungi",
+        "virus, fungi, bacteria",
+        "fungi , bacteria, virus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of this is a viral disease except one",
+      "options": [
+        "syphilis",
+        "small pox",
+        "influenza",
+        "AIDS"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The most primitive among the following is _________",
+      "options": [
+        "Hydra",
+        "plasmodium",
+        "paramecium",
+        "Amoeba"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Amoebocyte with pigment is __________",
+      "options": [
+        "choanocyte",
+        "archeocyte",
+        "chromocytes",
+        "scleroblast"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sexual reproduction between identical motile gamete is",
+      "options": [
+        "conjugate",
+        "anisogamy",
+        "ansogamy",
+        "aplaliogomes"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The arrangement of leaves is called ________",
+      "options": [
+        "phyllotaxy",
+        "decusate",
+        "petiole",
+        "testa"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Nitrogen contribute ______% of the earth surface",
+      "options": [
+        "78%",
+        "1%",
+        "2%",
+        "50%"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria undergoes _________ uncommon process",
+      "options": [
+        "fermentation",
+        "respirating",
+        "CO2 process"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The botanical name for yellow yam is ________",
+      "options": [
+        "Discorea esculenta",
+        "Discorea cayenesis",
+        "Discorea alata",
+        "Discorea rotundata"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The curticle in insect is shed periodically in a process called",
+      "options": [
+        "none of the above",
+        "curticulation",
+        "ecdysis",
+        "cutilating"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The diplopoda & millipede are also known as",
+      "options": [
+        "lithobius",
+        "myriapod",
+        "cyclapods",
+        "chilopoda"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Internal budding occurs in phylum",
+      "options": [
+        "porikera",
+        "nematode",
+        "annelida"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Digestive cavity in coelenterates",
+      "options": [
+        "enteron",
+        "mesenteron",
+        "epiderm",
+        "mesoderm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Herpesviral is the name of an",
+      "options": [
+        "Genius",
+        "sub family",
+        "family",
+        "order"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following cell wall is common to most",
+      "options": [
+        "ligin",
+        "cellulose",
+        "lipid",
+        "pectin"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The decolourizer used in gram’s staining is",
+      "options": [
+        "saffanin",
+        "acetone",
+        "gram’s iodine",
+        "crystal violet"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Prokayotes comprise of __________ and________",
+      "options": [
+        "bacteria, motile organisms",
+        "bacteria, blue green",
+        "bacteria, viruses",
+        "bacteria, fungi"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Another name for green algae is",
+      "options": [
+        "rhodophyta",
+        "chlorophyta",
+        "tracheophyta",
+        "chromophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of nutrition in virus is _________",
+      "options": [
+        "Sapropytic",
+        "Parasitic",
+        "Antotrophe"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The classification of organism that consider the basic criteria",
+      "options": [
+        "pheritical",
+        "artificial",
+        "mechanical",
+        "Natural"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Economic importance of viruses include all these except",
+      "options": [
+        "research",
+        "producing antibiotics",
+        "treatment of polluted water",
+        "disease"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a green stain procedure, bacteria that are gram positive decolourize less easily than gram negative cell",
+      "options": [
+        "true",
+        "false",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacterial are regarded as prokaryotic because",
+      "options": [
+        "they contain thread – like flagella",
+        "they have no proper nucleus",
+        "they contain a long thread of chromosome"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Myxoviruses are distinct in that",
+      "options": [
+        "they do not have nucleus",
+        "they have no cytoplasm",
+        "they have cytoplasm",
+        "they have nucleus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Unchordates are",
+      "options": [
+        "false",
+        "segmented",
+        "unsegmented",
+        "semi chordates"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Phcology is study of",
+      "options": [
+        "Algae",
+        "Viruses",
+        "Lichins",
+        "Fungi"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are arrangement of bacteria cell except",
+      "options": [
+        "chain",
+        "cluster",
+        "tetrad",
+        "polygenia"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Special species of fungi are called",
+      "options": [
+        "Ascopore",
+        "Baridia",
+        "Spore"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The transformation of that ranges from simplest unicellular to complex multicellular is?",
+      "options": [
+        "Archeology",
+        "Arthropology",
+        "Geology",
+        "Paleontology"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Hemi – chordates",
+      "options": [
+        "true – chordates",
+        "false – chordates",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The DNA of bacteria is located at",
+      "options": [
+        "Nucleus",
+        "Nucleoid",
+        "Central"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The diplopods or millipedes are also known as",
+      "options": [
+        "myriapods",
+        "cyclopods",
+        "chilopoda",
+        "lithobus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Digestive cavity in coelenterate is ___________",
+      "options": [
+        "epiderm",
+        "enteron",
+        "mesoderm",
+        "mesentron"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Internal budding occurs in phylum __________",
+      "options": [
+        "porifera",
+        "cnidarra",
+        "nematode",
+        "Annelida"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria that survice at cold sub-zero temperature are called",
+      "options": [
+        "mesophiles",
+        "pschropiles",
+        "nanophiles",
+        "thermophity TUTOR"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Whati st heor dernameofav i r us",
+      "options": [
+        "v i r i dae",
+        "v i r i dae",
+        "v i r i al es",
+        "v i t al e' s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Si ngl eacel l ul aror gani zat i onoccuri n",
+      "options": [
+        "Bact er i a",
+        "Fungi",
+        "Pr ot ozoa",
+        "Vi r uses"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Thecl assunderpt er i dophy t ai soneoft hef ol l owi ng. . . . .(",
+      "options": [
+        "Cy anophy nae (",
+        "gy mnosper mar(",
+        "l y copodi nae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tet anusi scaused(",
+      "options": [
+        "bact er i a(",
+        "f ungi (",
+        "al gae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Homochor dat aar eal socal l ed. . . . . . . .",
+      "options": [
+        "t r uechor dat es",
+        "f al sechor dat es",
+        "aandb",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Thef ol l owi ngar eusedf ort hecl assi f i cat i onofal gaeexcept _ _ _ _ _ _ _ _",
+      "options": [
+        "cel l wal l mat er i al",
+        "cel l wal l pi gment",
+        "si zeandshape",
+        "nat ur eofpr oductst or edasf oodr eser v e."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cy anopht aar edi st i nctbeacuse_ _ _ _ _ _ _ _",
+      "options": [
+        "Theyar eaquat i c",
+        "Theyar et hemostpr i mi t i v e",
+        "D)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sci ent i f i cnamesar esuper i ort ol ocal names, because_ _ _ _ _ _ _ _ .",
+      "options": [
+        "onenamei sgi v ent oonepl ant",
+        "Theyar eknownmanycount r i es.",
+        "pl ant soft hesamest r uct ur ear egi v ent hesamename. D)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of classification of organisms based on one or a few easily observed characteristics is termed______",
+      "options": [
+        "natural",
+        "artificial",
+        "supernatural",
+        "unatural"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Taxonomy is synonymous to",
+      "options": [
+        "statistics",
+        "systemic",
+        "stereomatics",
+        "none of the options is correct"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Select the correct statement from the following",
+      "options": [
+        "thallophytes produce embryos",
+        "all cryptogams are flowerless",
+        "spermatophytes are seedless",
+        "pteridophytes don’t produce embryos."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sexual reproduction in the thallophytes may be",
+      "options": [
+        "cleistomogamy",
+        "isogamy",
+        "heterogamy",
+        "homeogamy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All of these are classes under bryophyta except",
+      "options": [
+        "hepaticae",
+        "anthocerotae",
+        "equisetinae",
+        "musci"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ belongs to class basidiomycetes that is poisonous to human health",
+      "options": [
+        "Agaricus campestris",
+        "Agaricus muscaria",
+        "Amanita ceasaria",
+        "Agaricus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All of these are classes under pteridophyta except",
+      "options": [
+        "Psilophytinae",
+        "Bryopsidae",
+        "Filicinae",
+        "Lycopodinae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are true of Bryophytes except ________",
+      "options": [
+        "Gametes are borne in multicellular gametangia",
+        "They lack vascular system",
+        "presence of resting spore called zygospore",
+        "Are truly archegoniate plants SECTION B – True or False Questions"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Carbohydrate is stored as ___________ in fungi",
+      "options": [
+        "protein",
+        "glucose",
+        "glycogen",
+        "starch"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A torsional is",
+      "options": [
+        "clockwise movement through an angle 180º",
+        "anticlockwise movement through an angle 180º",
+        "clockwise movement through an angle 360º",
+        "anticlockwise movement through an angle 360º--- The rotation of visceral organs in anticlockwise direction through an angle of 180º on the rest of the body during larval development."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Peptidoglycan is composed of",
+      "options": [
+        "sugars",
+        "peptides",
+        "sugar and peptides",
+        "murein"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of reproduction exhibited bacteria under unfavourable condition is ______________",
+      "options": [
+        "binary fission",
+        "conjugation",
+        "spore formation (d)multiple fission"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Myxovirus has",
+      "options": [
+        "no nucleus",
+        "no cytoplasm",
+        "nucleus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For Anthozoa in phylum Cnidaria",
+      "options": [
+        "Polyp is dominant, medusa is absent",
+        "polyp is absent, medusa is dominant",
+        "both are absent",
+        "both are present"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______________ bacteria cause sore throat",
+      "options": [
+        "bacillus",
+        "spirillum",
+        "coccus",
+        "vibrio"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Under the microscope, the morphology of vibrio cholerae is ________",
+      "options": [
+        "spherical",
+        "rod – like",
+        "spiral",
+        "comma"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An example of rod-shaped virus is______",
+      "options": [
+        "TMV",
+        "T2 bacteriophage",
+        "Coronavirus",
+        "None of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The ventral muscular foot in mollusk is for",
+      "options": [
+        "Swimming, burrowing and walking",
+        "Looping, burrowing and swimming",
+        "Crawling, burrowing and swimming"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a class of sponges",
+      "options": [
+        "Calcispongiae",
+        "Hyalospongiae",
+        "Creptospongiae",
+        "Demospongiae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria reproduce _____ when conditions are suitable",
+      "options": [
+        "binary fusion",
+        "binary fission",
+        "buddy",
+        "karyogenesis"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Transformation that range from simple multicellular to complete multicellular is _______ Answer: cell proliferation, cell specialization, cell interaction, cell movement 203 An example of coccus seen as three or more cocci arranged in a chain – like manner is",
+      "options": [
+        "Neissinia",
+        "Polycoecous",
+        "Streptococus",
+        "Stapylococcus Answer: C (Page 48)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The spread of division ________ are limited to moist and shady place",
+      "options": [
+        "Pteridophyta",
+        "Thallophyta",
+        "Bryophyta",
+        "Spermatophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An example of tad-pole shaped virus is __________",
+      "options": [
+        "Tad – Pole birus",
+        "Tobacco mosaic",
+        "Myxovirus",
+        "T2 – bacteriophage"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Eggs are laid in cocoon produced the _______ in the class oligochaetal of phylum annelida",
+      "options": [
+        "clitellum",
+        "chaeta",
+        "coelom",
+        "cuticle"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Places where aerobic bacterial lives except _________",
+      "options": [
+        "Aerated water",
+        "lowed soil",
+        "soak away",
+        "body"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Brings uniformly in binomial nomenclature is ___________",
+      "options": [
+        "Latin",
+        "German",
+        "Sweden",
+        "Italy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these is not correct",
+      "options": [
+        "Roundworm is unsegmented",
+        "Earth worm is coelomate",
+        "Earth worm and Round worm are metamerically segmented (d)None"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Fungi are categorized into different classes on the basis of the following except",
+      "options": [
+        "nature of sexual spores",
+        "nature of hyphae",
+        "nature of asexual",
+        "spores mode of reproduction"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In hemichordates the stromochord represent the notochord which is restricted to the region",
+      "options": [
+        "prostona",
+        "prostomat",
+        "proma",
+        "proboscis"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The cell wall of bacteria consist of _______ and _________",
+      "options": [
+        "sugars and peptides",
+        "water and sugar",
+        "peptides and moist substance",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The seven classes of mollusc are derived from ancestral mollusc as result of all but one of their _________",
+      "options": [
+        "head",
+        "shell",
+        "foot",
+        "symmetry"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Gastrulation in Echinoderms is",
+      "options": [
+        "invigination",
+        "cephalization",
+        "mentation",
+        "insem ination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The oval bacteria formed are regarded as?",
+      "options": [
+        "Spirillum",
+        "Vibrio",
+        "Bacilus",
+        "Coccus"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of these following belong only to prokaryotic group",
+      "options": [
+        "Rhodophyta",
+        "chrysophyta",
+        "cyanophyta",
+        "pyrrophyta"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The only class of algae that is prokaryotic is",
+      "options": [
+        "cyanophyta",
+        "rhodophyta",
+        "chlorophyte"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Organism with wider distribution in the plant kingdom is",
+      "options": [
+        "fungi",
+        "virus",
+        "bacteria",
+        "algae"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Herpesviridae is the name of an",
+      "options": [
+        "Genius",
+        "Species",
+        "Family",
+        "order"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Complex multicellular algae include the following except",
+      "options": [
+        "Lamirinia",
+        "Fucus",
+        "Oscillation"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Cilia is for _______",
+      "options": [
+        "movement",
+        "locomotion",
+        "reproduction"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The diameter of the largest bacterial cell should be around _________ in size",
+      "options": [
+        "0.005mm",
+        "0.05cm",
+        "0.05mm",
+        "0.005cm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Crustacca an aquatic artropods respire which means",
+      "options": [
+        "gills",
+        "lungs",
+        "skin",
+        "trachea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Most visceral organs in vertebrate is located in the __________",
+      "options": [
+        "head",
+        "trunk",
+        "tail",
+        "all of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The presence of copulatory organs was first notice in phylum",
+      "options": [
+        "nematode",
+        "Mollusca",
+        "Echinodermata",
+        "Platyhelminthes"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Exo – erythrocytic cycle of malaria parasite occurs in the _________ of the main host",
+      "options": [
+        "kidney",
+        "liver",
+        "intestine",
+        "blood cell"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Carbohydrate food resern in fungi is stored as",
+      "options": [
+        "sucrose",
+        "starch",
+        "glycogen",
+        "glucose"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The root – like structure in the organisms of the division bryophyte is called",
+      "options": [
+        "liverworts",
+        "Rhizoids",
+        "Thalloid",
+        "Rhizome"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which phylum of animal exclusively marine",
+      "options": [
+        "dentalium",
+        "echinodernata",
+        "crinodea"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Animal in the polyplachophora are commonly known as the_________",
+      "options": [
+        "snail",
+        "fruit",
+        "phoran",
+        "chitons"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The comma shape form of bacteria is responsible for ________",
+      "options": [
+        "syphilis",
+        "cholera",
+        "typhoid",
+        "pneumonia"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In a gram stain procedure, bacteria that are gram positive decolourless easily than gram negative cell",
+      "options": [
+        "true",
+        "false",
+        "none of the above",
+        "indeterminate"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "___________ is used for the production of biopesticide",
+      "options": [
+        "streptococcus mutans",
+        "Rhizobaterium spp.",
+        "lactobacillus bulgamus",
+        "Bacillus thuringiensis"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Class cyanphyta are distinct in",
+      "options": [
+        "root",
+        "aquatic",
+        "primitive",
+        "chloroplast Answer:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following bacteria live in a cold region",
+      "options": [
+        "mesophile",
+        "Thermophile",
+        "Psychrophile",
+        "Nanophile"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The cuticle in insect is shed periodically in a process called",
+      "options": [
+        "none of the above",
+        "curticulation",
+        "ecdysis",
+        "cutilating"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Hemi – chordates are",
+      "options": [
+        "true – chordates",
+        "false – chordates",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The science of classification and identification of organisms is known as ……….",
+      "options": [
+        "Taxon",
+        "systematics",
+        "systemanic (d)paleontology"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The five kingdom system of classification of living organism was popularized",
+      "options": [
+        "Whittaker and Whittaker",
+        "Carolus Linnaeus",
+        "Joseph Lister",
+        "Robert Hooke"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Taxonomy is best defined as",
+      "options": [
+        "the science of identification and nomenclature of organism",
+        "the science of gathering, assessment and classification of data",
+        "the science of classification and nomenclature of organisms",
+        "the science of classification and identification of organism"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The three subphyla recognizes under sarcomatigophora includes",
+      "options": [
+        "zoomastigophora, phytomastigophora & ciliophora",
+        "sarcodina, mastigophora & opalinata",
+        "reticulopodia, axopodia & lobopodia",
+        "amoeba, euglena & leptomonas"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is an example of sarcodina",
+      "options": [
+        "paramecium",
+        "leptomona",
+        "amoeba",
+        "euglena"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Lobopodia is a locomotory organelles being used",
+      "options": [
+        "actinomorpha & crithridia",
+        "amoeba & aurella",
+        "arcella & polystomella",
+        "amoeba & paramecium"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The thin and long locomotary organelles which is used polystomella is known as",
+      "options": [
+        "lobopodia",
+        "axopodia",
+        "reticulopodia",
+        "filopodia"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "…………. Is a thin branching network locomotary organelle which is used in allogonia",
+      "options": [
+        "axopodia",
+        "lobopodia",
+        "reticulopodia",
+        "filopodia"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": ".Locomotory organelle of actinomorpha is",
+      "options": [
+        "filopodia",
+        "lobopodia",
+        "reticulopodia (d)axopodia"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The locomotory organelle of subphylum mastigophora is called",
+      "options": [
+        "flagella",
+        "pseudopodia",
+        "cilia",
+        "axopodia"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The flagella present in sub-phyla mastigophora serves two functions other than locomotion, which are ………….. & ………………",
+      "options": [
+        "respiration &excretion",
+        "habitat & respiration",
+        "food collection & sensory receptors (d)respiration and locomotion"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The subphylum mastigophora consists of phytoflagellates and zooflagellates which are respectively …………….. & ………….",
+      "options": [
+        "chromatophore & crithrida",
+        "trypanosome & leishmania",
+        "phytomastigophora &zoomastigophora",
+        "biflagellates & multiflagellates"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The phytomastigophora which is plant-like flagellate is called because of the presence of ………",
+      "options": [
+        "chromatocore",
+        "kinetochore",
+        "xanthophylls",
+        "chromatophore"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the following exhibit polymorphism",
+      "options": [
+        "trypanosoma",
+        "hydra",
+        "euglena",
+        "opalinata"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Opalina ranarum are found where",
+      "options": [
+        "in the rectum of fishes",
+        "in man",
+        "in the rectum of frogs and toads",
+        "in pigs"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Opalinata has how many nuclei",
+      "options": [
+        "Two or more",
+        "One",
+        "2",
+        "no nucleus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sub-phylum sacromastigophora is all EXCEPT",
+      "options": [
+        "sarcodina",
+        "mastigophora",
+        "opalinata",
+        "chiliophora"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Reproduction in sarcomastigophora is mainly means of",
+      "options": [
+        "budding",
+        "cell division",
+        "conjugation",
+        "isogamy"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The three modes of asexual reproduction encountered in sarcomastigophora are",
+      "options": [
+        "binary fission, multiple fission & budding",
+        "spore formation, budding & multiple fission",
+        "nuclear division, spore formation & binary fission (d)spore formation, cytoplasmic division & nuclear division"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The infective stage in phylum apicomplexa is known as",
+      "options": [
+        "schizogony",
+        "sporozoite",
+        "sporogyny",
+        "merozoite"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is an example of apicomplexa?",
+      "options": [
+        "leptomonas",
+        "trypanosome",
+        "trypanosome",
+        "plasmodium"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The sporozoites enters the liver cell after its erthrocytic stage from mosquito blood and multiply to produce thousands of",
+      "options": [
+        "sporozoites",
+        "sporogyny",
+        "red blood cell",
+        "merozoites"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The merozoites which produced as a result of multiplication of sporozoites in the liver cell either entire the red blood cell or go through one or more stages of",
+      "options": [
+        "schizogamy",
+        "sporogyny",
+        "merogyny",
+        "oocyst"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The stage of asexual multiplication of merozoites in the red blood cell is known as",
+      "options": [
+        "erythrocytic stage",
+        "pre-erthrocytic",
+        "sporogynic stage",
+        "plasmodium stage"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The cilia possessed phylum chilophora serves two major functions which are",
+      "options": [
+        "locomotion & food collection",
+        "protection & excretion",
+        "nutrition & respiration",
+        "swimming & reproduction"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Phylum porifera are the",
+      "options": [
+        "sponges",
+        "hydra",
+        "amoeba",
+        "aves"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sponges are what level of organization",
+      "options": [
+        "tissues",
+        "cellular",
+        "organ",
+        "system"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Examples of calcispongiae is a",
+      "options": [
+        "bath sponge",
+        "sycon",
+        "hyaloemma",
+        "none of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Sponges have how many cell types?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "1"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Sponges are sessile means",
+      "options": [
+        "many",
+        "few",
+        "movable",
+        "immovable"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Hyalospongiae is otherwise called",
+      "options": [
+        "bath sponge",
+        "glass sponge",
+        "small sponge",
+        "none of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A representative of phylum coelenterate is an",
+      "options": [
+        "hydra",
+        "amoeba",
+        "flatworms",
+        "protozoa"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Phylum cnidarian are",
+      "options": [
+        "aquatic",
+        "most marine",
+        "terrestrial",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Hydra bear tentacles called",
+      "options": [
+        "mesoglea",
+        "mesoderm",
+        "Nematoblasts",
+        "parapodia"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Reproduction in hydra is",
+      "options": [
+        "budding",
+        "isogamy",
+        "anisogamy",
+        "alternation of generation"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the sub division of phylum cnidarians has the polyp to alternate with medusa",
+      "options": [
+        "hydrozoa",
+        "anthozoa",
+        "scyphozoan",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sea anemone belongs to",
+      "options": [
+        "anthozoa",
+        "hydrozoa",
+        "scyphozoa",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Medusoid is dominant and polyp is refused or absent in",
+      "options": [
+        "hydrozoa",
+        "scyphozoan",
+        "anthozoa",
+        "none of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The classification of flatworms is based on the following except",
+      "options": [
+        "life cycle",
+        "Nature of the larvae",
+        "feeding method",
+        "morphology of adults"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A parasite that lives in the bronchial chamber of fresh water crustaceans is",
+      "options": [
+        "opalinata ranarum",
+        "planaria",
+        "temnocephala",
+        "polystoma"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A typical example of cestodaria is",
+      "options": [
+        "polystema",
+        "amphillina",
+        "planaria",
+        "tapeworm"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Trematoda are mostly",
+      "options": [
+        "endoparasites",
+        "fluid folder",
+        "ectoparasites",
+        "ciliary feeder"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tapeworm is",
+      "options": [
+        "cestoda",
+        "monogenea",
+        "trematoda",
+        "turbellaria"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Nematodes differs from Platyhelminthes in all of the following except",
+      "options": [
+        "shape",
+        "absence of cilia and suckers",
+        "presence of digestive tract",
+        "none of the above"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In phylum ciliophora the sub-peculiar structures from which the cilia arises is called",
+      "options": [
+        "endoplasm",
+        "ectoplasm",
+        "kinetosome",
+        "cytoplasm"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Asexual reproduction in ciliophora is always means of",
+      "options": [
+        "transverse binary fission",
+        "transverse budding",
+        "transfer multi fission",
+        "spore formation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a porifera (sponge)",
+      "options": [
+        "plasmodium",
+        "sycon",
+        "tapeworm",
+        "bloodfluke"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The most primitive multicellular animal or metazoans are represented in the phylum",
+      "options": [
+        "sarcomastigophora",
+        "apicomplexa",
+        "porifera",
+        "ciliophora"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The cell which separate the outer And inner layer of porifera is called",
+      "options": [
+        "choanocyte",
+        "cholorocytes",
+        "chromocytes",
+        "amoebocytes"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "As mesoglea is to coelenterates, ……………..is to Platyhelminthes",
+      "options": [
+        "ectoderm",
+        "endoderm",
+        "mesoderm",
+        "mesoglea"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The free living flatworm belongs to the class ………….. of the phylum Platyhelminthes",
+      "options": [
+        "cestodaria",
+        "cestoda",
+        "monogenea",
+        "tuberllaria"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The haptors which are the adhesive organ for attachment to the host is provided with ……. Or ……………",
+      "options": [
+        "body tube and tentacles",
+        "suckers and hook",
+        "endoderm & ectoderm",
+        "mesogela & mesoderm"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The body of class castoda is divided into segments called",
+      "options": [
+        "proboic",
+        "scolox",
+        "proglottides",
+        "decacanth"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The larva stage of class cestodaria of phylum Platyhelminthes is called",
+      "options": [
+        "haptors",
+        "claspas",
+        "exacanth",
+        "lycophore"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the following organism belongs to class monogenea of phylum Platyhelminthes",
+      "options": [
+        "planaria",
+        "temnocephala",
+        "polystomer",
+        "fasciola gigantic"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The haptors which is found at the anterior and posterior ends of the body of monognea are respectively called",
+      "options": [
+        "scolox & proglottides",
+        "ciliated hooks and sucker",
+        "spine & scale",
+        "prohaptor & opithators"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The fasciola gigantic which is commonly regarded as the liver fluke belongs to the class…………. of phylum Platyhelminthes",
+      "options": [
+        "tuberllaria",
+        "temnocephalia",
+        "trematoda",
+        "monognea"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following organism bear hook without sucker",
+      "options": [
+        "fasciola gigantic",
+        "planaria",
+        "temnocephalia",
+        "polystoma"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The egg of trematode (fasciola gigantica) after which it has been passed out with faeces is then embryonated",
+      "options": [
+        "miracidium",
+        "decacanth",
+        "excanth",
+        "proglottides"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "During reproduction in trematodes the miracidium larva penetrates a snails (lymneax sp) and develop into the",
+      "options": [
+        "sporocytes",
+        "sporozoites",
+        "sporophytes",
+        "sporocysts"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the following organism is characterized the possession of pseudocoelom?",
+      "options": [
+        "earthworm",
+        "round worm",
+        "hook worm",
+        "amoeba"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The ……………….. separate the epidermis and inner gastrodermis in coelenterates",
+      "options": [
+        "mesoglea",
+        "endoderm",
+        "ectoderm",
+        "enteron"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The science of classification and Identification of Organism is known",
+      "options": [
+        "Systematic",
+        "Taxon",
+        "Systematics (d.)Paleontology"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a criteria for classification",
+      "options": [
+        "Phylogenic relationship",
+        "Morphology features",
+        "Adaptive factors",
+        "Physical features"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The total sum of all features common to a group is called it’s",
+      "options": [
+        "Natural features",
+        "Artificial features",
+        "Characteristics features",
+        "Genetic features"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A collection of family gives",
+      "options": [
+        "Genus",
+        "Kingdom",
+        "Order",
+        "Class"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following is correct",
+      "options": [
+        "dioscorea Alata",
+        "Dioscorea Alata",
+        "Dioscorea alata",
+        "dioscorea alata"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following does not exhibit alternation of generation",
+      "options": [
+        "bryophyte",
+        "pteridophyte",
+        "thallophyte",
+        "spermatophyte"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The mode of alternation of generation in bryophyte is said to be",
+      "options": [
+        "dimorphic",
+        "polymorphic",
+        "heteromorphic",
+        "monomorphic"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The term homosporous as applied to pteridophyte is denoting that",
+      "options": [
+        "they do not show differentiation",
+        "they show sexual differentiation",
+        "they are heterosporous",
+        "they are monomorphic"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The male gametangia in thallophytes is",
+      "options": [
+        "oogonium",
+        "antheridium",
+        "archegonium",
+        "hepaticae"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Sexual reproduction in rophytes is zooidogamous which means it requires",
+      "options": [
+        "water",
+        "nutrients",
+        "salt",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sexual reproduction in thallophytes is all but one of the following",
+      "options": [
+        "anisogamy",
+        "isogamy",
+        "conjugation",
+        "budding"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the following lack vascular system",
+      "options": [
+        "fern",
+        "bryophytes",
+        "pteridophytes",
+        "spermatophytes"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Pteridophytes reproduce means of spore produced in the",
+      "options": [
+        "sporangia",
+        "sporophylls",
+        "gamentangia",
+        "sperm cell"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following produce seeds mainly",
+      "options": [
+        "thallophytes",
+        "bryophytes",
+        "spermatophytes",
+        "pteridophyte"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following cosmopolitans",
+      "options": [
+        "bacteria",
+        "virus",
+        "fungi",
+        "algae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Virus possess",
+      "options": [
+        "DNA",
+        "RNA",
+        "DNA or RNA",
+        "DNA & RNA"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Virus that attack bacteria are called",
+      "options": [
+        "bacteriophage",
+        "streptococcus",
+        "pylori (d)tobacco mosaic virus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Virus cell are surrounded",
+      "options": [
+        "capsid",
+        "murein",
+        "chitin",
+        "spicules"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Virus that attack plants possess",
+      "options": [
+        "RNA",
+        "DNA",
+        "DNA or RNA",
+        "DNA & RNA"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The water proof substances cutin and suberin are the part of characteristics feature suggesting as a terrestrial plant",
+      "options": [
+        "pteridophyte",
+        "bryophytes",
+        "thallophyte",
+        "spermatophytes"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "As oogonium represent the female gamentagium in thallophytes …………. represent the female gamentagium in bryophyte",
+      "options": [
+        "antheridium",
+        "oogonium",
+        "antherziod (d)archegonium"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In bryophytes, the young diploid individual which develop from the zygotes is called …………………",
+      "options": [
+        "sporophyte",
+        "gametophyte",
+        "embryo",
+        "moss"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In bryophytes, a part of the sporophyte undergoes meiosis to produce",
+      "options": [
+        "haploid spore",
+        "diploid spore",
+        "multicellular spore",
+        "monomorphic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In bryophytes, the dominant/main plan is represented as",
+      "options": [
+        "sporophyte",
+        "gametophyte",
+        "sporangium",
+        "spore"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The mode of alternation of generation in bryophytes is said to be",
+      "options": [
+        "dimorphic",
+        "polymorphic",
+        "heteromorphic",
+        "monomorphic"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following is an example of primitive form of bryophytes",
+      "options": [
+        "lycopodium",
+        "chaldophora",
+        "liverworts",
+        "spirogyra"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The first true archegoniate plants belongs to the division",
+      "options": [
+        "pteridophyte",
+        "bryophytes",
+        "thallophyte",
+        "spermatophytes"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The first embryonic plant is best recognized as division ……….. of the plant group",
+      "options": [
+        "bryophyte",
+        "pteridophyte",
+        "thallophyte",
+        "spermatophyte"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An example of bacteria that respire without oxygen is",
+      "options": [
+        "clostridium",
+        "streptococcus",
+        "agaricus",
+        "polystoma"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the notable similarly that exist between the bryophytes and thallophyte is that",
+      "options": [
+        "they exhibit heteromorphic alternation of generation",
+        "both possess antheridium as their male gametangium",
+        "both dominant plant is gameophytes",
+        "both are embryonic"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the alternation of generation which occur in pteridophytes, the gametophytes is in ………… state form",
+      "options": [
+        "diploid",
+        "dominant",
+        "asexual",
+        "haploid"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In the alternation of generation in pteridophytes, ………. represent the dominant plant",
+      "options": [
+        "sporophyte",
+        "gametophytes",
+        "spores",
+        "ferns"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Pteridophytes possess sporangi which are borne on special spore bearing leaves called ………………",
+      "options": [
+        "sporophytes",
+        "sporophyll",
+        "sporangiospore",
+        "microphyll"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The plant body is differentiated into root-like(rhizoids), stem-like and leaflike; these characteristics are peculiar to division ……… of the plant kingdom",
+      "options": [
+        "pteridophytes",
+        "bryophytes",
+        "spermatophytes",
+        "thallophytes"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is a homosporous pteridophytes?",
+      "options": [
+        "lycopodium",
+        "moss",
+        "liverworts",
+        "spirogyra"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a certain situation in pteridophytes in which the spores are of different sizes leading to sexual differentiation, this condition is known as …………",
+      "options": [
+        "heterogamy",
+        "karyogamy",
+        "heterosporous",
+        "homosporous"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Fertilization in pteridophytes take place in water means of",
+      "options": [
+        "ciliated female gamete",
+        "motile female gamete",
+        "flagellated male gametes",
+        "monoflagellated antherozoid"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In spermatophytes the megaspore produce from the meiotic division later gives rise to the",
+      "options": [
+        "mega gameotphytes",
+        "micro gametophytes",
+        "mircosporohyll",
+        "megasporophyll"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The male gametes in spermatophytes reach the egg means of a tubular outgrowth of the male gametophytes known as",
+      "options": [
+        "pollen tube",
+        "pollen grain",
+        "micro gametes (c) micro gametes",
+        "megaspore"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fertilization and formation of embryo in spermatophytes takes place within the",
+      "options": [
+        "megaspore",
+        "megasporangium",
+        "nuclellus",
+        "spore mother cell"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following plant group does not require water for fertilization?",
+      "options": [
+        "thallophytes",
+        "bryophytes",
+        "pteridophytes",
+        "spermatophytes"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Arrange the following in their increasing order of evolutionary advancement",
+      "options": [
+        "spermatophytes>> bryophytes>> thallophytes>> pteridophytes",
+        "thallophytes >> bryophytes>> spermatophytes >> pteridophytes",
+        "bryophytes>> spermatophytes >> thallophytes >> pteridophytes",
+        ") thallophytes >> bryophytes>> pteridophytes >> spermatophytes"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "All of these are members of the kingdom mycota/fungi except",
+      "options": [
+        "phycomycetes",
+        "phaecophycea",
+        "asomycetes",
+        "basidiomycetes"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following arrangement correctly reflects the order of the taxonomic hierarchy?",
+      "options": [
+        "species, genus, family, class, division & kingdom",
+        "species, genus, order, class, family, division & kingdom",
+        "species, genus, class, order, family, division & kingdom",
+        "species, genus, order, class, family, division & kingdom"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the components in the definition of species is very critical without which it is complete?",
+      "options": [
+        "with similar structure",
+        "with similar appearance",
+        "with similar function",
+        "capable of interbreeding to produce fertile offspring"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The botanical name for yellow yam is properly written as",
+      "options": [
+        "Discorea cayenensis",
+        "discorea Cayenensis",
+        "Discorea Cayenensis",
+        "discorea cayenensis"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An example of unicellular filamentous type of algae is",
+      "options": [
+        "fucus",
+        "ulva",
+        "laminaria",
+        "oscillatoria"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "…………. Is an example of complex multicellular algae",
+      "options": [
+        "spirogyra",
+        "oscillatoria",
+        "diatoms",
+        "laminaria"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The photosynthesis pigment such as chlorophyll a,b carotenes and phycocyanin are the basic pigments peculiar to what class of algae",
+      "options": [
+        "cyanophyta",
+        "chlorophyte",
+        "euglenophyta",
+        "pyrophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The green algae are classified under the ………. Class of algae",
+      "options": [
+        "chrysophyta",
+        "chlorophyta",
+        "rhodophyta",
+        "phacophyta"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The blue-green algae is otherwise called………..",
+      "options": [
+        "cyanophyta",
+        "chlorophyta",
+        "euglenophyta",
+        "dinoflagellates"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The chlorophyll a&b, a,b carotenes and xanthophylls are the suggested photosynthetic pigment for……… class of algae",
+      "options": [
+        "chrysophyta",
+        "chlorophyte",
+        "phaecophyta",
+        "pyrophyta"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "All these are examples of brown-green-algae (phaecophyta) except",
+      "options": [
+        "nostoc",
+        "fucus",
+        "laminaria",
+        "ectocarpus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following pigments does not associate with the class rhodophyta(red algae)",
+      "options": [
+        "chlorophylls a&b and b-carotene",
+        "luterin",
+        "biliprotein",
+        "xanthophylls"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Asexual reproduction in chlamydomonas is means of ………..",
+      "options": [
+        "zoospores",
+        "binary fission",
+        "isogamy",
+        "anisogamy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The mode of sexual reproduction in chlamydomonas is simply means of",
+      "options": [
+        "oogamy",
+        "oogonium",
+        "isogamy",
+        "anisogamy"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Liverworts is a primitive thalloid in the division…….",
+      "options": [
+        "Bryophytes",
+        "pteridophytes",
+        "spermatophytes",
+        "thallophytes"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The classification of algae is on the basis of the following except",
+      "options": [
+        "cell wall pigment",
+        "store products as food reserve",
+        "cell wall constituents",
+        "size and shape"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of these classes of algae is prokaryotic? ……..",
+      "options": [
+        "cyanophyta",
+        "rhodophyta",
+        "chlorophyta",
+        "phaecophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of these division of organisms is found majorly in moist and shady places",
+      "options": [
+        "thallophytes",
+        "spermatophyta",
+        "pteridophyta",
+        "bryophyte"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A condition which occurs in sexual reproduction which involves the fusion of identical planogametes is termed",
+      "options": [
+        "oogamy",
+        "fertilization",
+        "reproduction",
+        "isogamy"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the following organism is characterized with the absence of chlorophyll",
+      "options": [
+        "spirogyra",
+        "chlamydomonas",
+        "agaricus",
+        "euglena"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In true fungi, the mycelium is made up of threadlike structures called",
+      "options": [
+        "chitin",
+        "rhizoid",
+        "filament",
+        "hyphae"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "As the hyphae, is to true fungi ………………. Is to false fungi",
+      "options": [
+        "mycelium",
+        "plasmodia",
+        "thallus",
+        "chitin"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Because of the absence of chlorophyll in fungi they are suitably referred to as",
+      "options": [
+        "holozoic feeder",
+        "autotrophic feeder",
+        "heterotrophic feeder",
+        "parasitic feeder"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The heterotrophic mode of nutrition in fungi can either be",
+      "options": [
+        "saprophytes or obligates",
+        "facultatives or parasites",
+        "obligate or facultatives",
+        "saprophytes and parasites"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "…………. Is a specialized mode of nutrition in fungi involved the remnants of other organism",
+      "options": [
+        "parasites",
+        "facultatives",
+        "saprophytes",
+        "halophytes"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The feeding mode in fungi which eventually results in causing harm is best regarded as",
+      "options": [
+        "facultatives",
+        "obligates",
+        "saprophytes (d)parasites"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The death of the host may eventually result from ………. activities of fungi",
+      "options": [
+        "saprophyte",
+        "mutualistic",
+        "symbiotic",
+        "parasitic"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "……………is the term referring to a known parasites which can continue to live saprophytically on the dead body of the host",
+      "options": [
+        "facultatives",
+        "obligates",
+        "commensalism",
+        "parasites"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "………………is a term denoting a situation where the parasites are no longer capable of living on their dead host",
+      "options": [
+        "facultatives",
+        "obligates",
+        "saprophytes (d)halophytes"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The digestion of food (substrate) in fungi is ……….. Means",
+      "options": [
+        "multicellular",
+        "hyphae",
+        "extracellular",
+        "mycelium"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The solubilized substrate after the enzymatic extracellular digestion is then absorbed into………..of the fungi",
+      "options": [
+        "mycelium",
+        "thallus",
+        "hyphae",
+        "cell body"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following organism is an absorptive heterotroph?",
+      "options": [
+        "chlamydomonas",
+        "volvox",
+        "Pandorina",
+        "rhizopus"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The cell wall of fungi is made up of ………. & ………..",
+      "options": [
+        "chitin & spore",
+        "chitin & fungal cellulose",
+        "mycelium & hyphae",
+        "peptidoglycan & murein"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In fungi, carbohydrates food reserve is stored in the form of…………….",
+      "options": [
+        "glycogen",
+        "starch",
+        "protein",
+        "fat"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the pseudoparenchymatous mycelium in fungi is without cell wall its termed………..",
+      "options": [
+        "Plasmodia",
+        "hyphae",
+        "filament",
+        "thallus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fungi are categorized into classes on the basis of their mode of reproduction and the nature of their …… & ………….",
+      "options": [
+        "Parasite & saprophyte condition",
+        "obligate & falcutative condition",
+        "sexual & asexual spore",
+        "mycelium & hyphae condition"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following is not true fungi",
+      "options": [
+        "slime mould",
+        "yeast",
+        "rhizopus",
+        "puffballs"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The algae-like fungi belongs to the class",
+      "options": [
+        "phycomycetes",
+        "ascomycetes",
+        "basidiomycetes",
+        "deuteromycetes"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The class ascomycetes is otherwise referred to as",
+      "options": [
+        "algae-like fungi",
+        "club fungi",
+        "sac fungi",
+        "fungi imperfecti"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Agaricus campestris is edible club fungi which belong to the class called .........",
+      "options": [
+        "phycomycetes",
+        "ascomycetes",
+        "basidiomycetes",
+        "deuteromycetes"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The type of sexual spore that is produced the sac fungi (ascomycetes) is called",
+      "options": [
+        "ascopore",
+        "conidia",
+        "zygospore",
+        "basidiospore ANS.A ADDITIONAL QUESTIONS"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The body of flatworm is ____________",
+      "options": [
+        "dorsoventrially",
+        "posterior ventrally",
+        "triploblastically",
+        "none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Phylum Platyhelminth are sub-divided into all but one of the following",
+      "options": [
+        "hydrozoa",
+        "anthozoa",
+        "monogenea",
+        "scyphozea"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Phylum nematode are usually known as",
+      "options": [
+        "roundworm",
+        "thread worm",
+        "ringworm",
+        "flatworm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______________ is a typical example of flagella green algae",
+      "options": [
+        "diatom",
+        "spirogyra",
+        "chlamydomonas",
+        "volvox"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Sac fungi is otherwise called ______________",
+      "options": [
+        "basidiomycetes",
+        "myxomycetes",
+        "phycomycetes",
+        "ascomycetes"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Taxonomy is widely defined to include the following except",
+      "options": [
+        "classification",
+        "identification",
+        "nomenclature",
+        "none"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Algae can be classified ecologically based on their ____________",
+      "options": [
+        "habitat",
+        "mode of reproduction",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The young diploid that develop from zygote is ____________",
+      "options": [
+        "embryo",
+        "volvox",
+        "spirogyra",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The class rhodophyta store their food product in form of",
+      "options": [
+        "starch, sugar, alcohol and floridean",
+        "starch and lipid",
+        "citycogen and lipid",
+        "mannitol and laminarm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a fungus and algae relationship, ____________ manufactures the food organically through photosynthesis",
+      "options": [
+        "none",
+        "fungus",
+        "both of them",
+        "an algae"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Sexual reproduction in the division thallophytes can take place through any of the following means except",
+      "options": [
+        "pollination",
+        "oogamy",
+        "anisogamy",
+        "conjugation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The division product of budding are ______________",
+      "options": [
+        "half",
+        "bigger",
+        "unequal",
+        "same"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The common form of bacteria is ____________ in number",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Flame cell is used for ______________ and ___________ in annelids",
+      "options": [
+        "osmoregulation and excretion",
+        "excretion and maintenance",
+        "movement and maintenance"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The products of binary fission are",
+      "options": [
+        "equal",
+        "all options are correct",
+        "half",
+        "multiple"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The form of a sexual reproduction in bacteria carried out when conditions are not favourable is",
+      "options": [
+        "binary fission",
+        "binary fussion",
+        "spore formation",
+        "vegetative formation"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The following are regarded as thallophytes except",
+      "options": [
+        "bacteria",
+        "viruses",
+        "fungi",
+        "mosses"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Algae are normally ______________",
+      "options": [
+        "marine",
+        "forest",
+        "aquatic",
+        "terrestrial"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Cryophilic algae grow in ______________ environment",
+      "options": [
+        "snow and ice",
+        "hot spring",
+        "rocks",
+        "ocean"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Reticulopodia are found in",
+      "options": [
+        "allogonia",
+        "arcella",
+        "actinomorpha",
+        "plystamella"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not true",
+      "options": [
+        "the male gametosphore in thalophyte is antheridium",
+        "the male gametosphore in bryophyte is antheridium",
+        "the male gametosphore in spermatophyte is antheridium",
+        "the sex gametes is not protected"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The phylum platyhelminth is also known as",
+      "options": [
+        "ringworm",
+        "tapeworm",
+        "flatworm"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following is not a sub-phylum of the phylum sarcomastigophora",
+      "options": [
+        "mastigophora",
+        "opalinata",
+        "apicomplexa"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The use of flagella for locomotion, the members of sarcodina is restricted to",
+      "options": [
+        "all of them",
+        "developing stage",
+        "all options are correct",
+        "adult stage"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The product of union between micro and megatocytes in the lifecyle of plasmodium is",
+      "options": [
+        "ookinette",
+        "sporogony",
+        "schizogony",
+        "none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The characteristics of axopodia are",
+      "options": [
+        "long, curved with canal support",
+        "long, thin with canal support",
+        "circular, long with canal support",
+        "long, thick with canal support"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Smaller subgroup of organism can exist within a group of organism",
+      "options": [
+        "true",
+        "partially true",
+        "false",
+        "impossible"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Platyhelminthes show some degrees of advancement over sponges and coelenterates virtue of the following characteristics",
+      "options": [
+        "absence of mesoderm as their third layer",
+        "possession of dorsal and ventral surface",
+        "possession of a well developed nervous coordinating systems extending along their entire body",
+        "possession of internal gonads with definite duct and corpulatory organs"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Peptidoglycan complex consists of",
+      "options": [
+        "peptides and sugar",
+        "peptide and nucleus",
+        "peptide and cytoplasm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The phylum Platyhelminthes is also known as",
+      "options": [
+        "tapeworm",
+        "ringworm",
+        "flatworm",
+        "none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Platyhelminthes possess a well-defined bounds of muscles and tissues which are specifically organized into",
+      "options": [
+        "cells",
+        "tissues",
+        "capillaries",
+        "organs"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "_______________ is an example of zooflagellates",
+      "options": [
+        "amoeba",
+        "plasmodium",
+        "trypanosome",
+        "sponges"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The two major layers of cell as contained the phylum coelentrata are _____________ and _______________",
+      "options": [
+        "epidermis and mesoderms",
+        "mesoderms and endoderms",
+        "epidermis and endodermis",
+        "epidermis and gastrodermis"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "An example of simple multicellular algae is",
+      "options": [
+        "volvox",
+        "focus",
+        "spirogyra",
+        "oscillatoria"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Digestion of food in fungi extracellular enzymes absorbed into hyphae is called",
+      "options": [
+        "digestion",
+        "absorption heterotrophic",
+        "conjugation"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Syphilis and cholera are diseases caused _____________ and ___________ respectively",
+      "options": [
+        "spirilum and vibrio",
+        "vibrio and spirochata",
+        "coccuss and spirochaeta",
+        "bacillus and cocus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All plants that belong to division thalophyta are aquatic except",
+      "options": [
+        "algae",
+        "fungi",
+        "bacteria",
+        "virus"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The class rhodophyta stored their food products in form of",
+      "options": [
+        "starch and lipid",
+        "glycogen and lipid",
+        "mannitol and laminarm",
+        "starch, sugars, alcohols and floridean"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In a fungus and an alga relationship, ___________ manufactures the food organically photosynthesis",
+      "options": [
+        "none of them",
+        "a fungus",
+        "an algae",
+        "both of them"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Chlamydomonas asexual reproduction is ______________",
+      "options": [
+        "syngamy",
+        "cell division",
+        "conjugation",
+        "binary fission"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The two major layers of cell as contained the phylum coelenterate are __________ and __________",
+      "options": [
+        "epidermis and mesodermis",
+        "epidermis and endodermis",
+        "misedermis and endodermis",
+        "epidermis and gastrodermis"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In multiple division as a form of reproduction is sarcomastigophora, there must be equal number of",
+      "options": [
+        "cytoplasm and flagellum",
+        "cytoplasm and nucleus",
+        "none of the options is correct"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Generally, cnidarians do not possess organs except",
+      "options": [
+        "sensory structures and gonads",
+        "sensory structures only",
+        "gonads only",
+        "none of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In flatworms, flame cells are modified for",
+      "options": [
+        "osmosis and diffusion",
+        "diffusion only",
+        "excretion and osmoregulation",
+        "excretion and diffusion"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The following factors were considered in the classification of algae except",
+      "options": [
+        "cell wall pigments",
+        "the number of filaments",
+        "the nature of stored food reserves",
+        "biochemical activities"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Example of class chrysophyta is",
+      "options": [
+        "nostoc",
+        "ceratium",
+        "diatoms",
+        "euglena"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "An example of coccus arranged in clusters is",
+      "options": [
+        "staphylococcus",
+        "sarcina",
+        "tetrad",
+        "Neisseria"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "During chlamadomonas sexual reproduction, at the point when their flagella disappear, they are known as",
+      "options": [
+        "oospore",
+        "acospores",
+        "zygospore",
+        "sporophore"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The division that led to the zygote formation in the division bryophytes is",
+      "options": [
+        "longitudinal",
+        "plain",
+        "mitotic",
+        "meiotic"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Sometimes taxonomy is widely defined to include the following except",
+      "options": [
+        "classification",
+        "numerical",
+        "identification",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The peptidoglycan complex found in the cellwall of bacteria is",
+      "options": [
+        "peptide acid sugar",
+        "liptide and sugar",
+        "pectin and sugar",
+        "peptidine and glycogen"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The member of the subphylum opalinata found in the rectum of frog is",
+      "options": [
+        "opalinal ranarum",
+        "palinal ranarum",
+        "opalinal ranarum",
+        "opainum ranarum"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Chlamydomonas identical gamete fuse together at the anterior end to form ___________ zygote",
+      "options": [
+        "quadruflagenated",
+        "zygospore",
+        "flagellated",
+        "biflagellated"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ is a variation of isogamy which involves fusion of two identical non-motile gamete",
+      "options": [
+        "pianogamete",
+        "apianogamete",
+        "anisonoisogamy",
+        "zooidogamy"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The body of primitive bryophyte are",
+      "options": [
+        "oogamous",
+        "liverworts",
+        "thalloid",
+        "phyzoid"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following is blue-green algae",
+      "options": [
+        "cyanophyta",
+        "chlorophyta",
+        "chrysophyta",
+        "pyrophyta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Nutrition in bacteria are the following except",
+      "options": [
+        "chemosynthetic",
+        "homosynthetic",
+        "photosynthetic",
+        "parasitic"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Binomial nomenclature was devised",
+      "options": [
+        "Carolus Linneaus",
+        "Beitham",
+        "Eugler"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_____________ are the most primitive class of division thalophyta",
+      "options": [
+        "schizomyetes",
+        "hydra",
+        "algae",
+        "fungi"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Asexual reproduction in bacteria when conditions are unfavourable is",
+      "options": [
+        "binary fusion",
+        "vegetative formation",
+        "binary fission",
+        "spore formation"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Areas or investigation often considered in natural class are",
+      "options": [
+        "physiology and genetics",
+        "morphology and anatomy",
+        "zoology and genetics"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "There are __________ major shapes of bacteria form",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Young diploid that develops from zygote is",
+      "options": [
+        "thaloid",
+        "ciliated zygote",
+        "zygote",
+        "embryo"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Example of flagellated green algae is",
+      "options": [
+        "spirogyra",
+        "chlamydomonas",
+        "volvox"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The plant with true root, true stem and true leaves are known to be",
+      "options": [
+        "imperfect plant",
+        "perfect plant",
+        "vascular plant",
+        "complete plant"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The tentacle of an hydra bears an explosive cell called",
+      "options": [
+        "ononocytes",
+        "nematocytes",
+        "thrombocytes",
+        "melanocytes"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "____________ is an example of zooflagelates",
+      "options": [
+        "trypanosome",
+        "sponges",
+        "amoeba",
+        "plano"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Chlamydomonas pyrenoid at the centre of the chloroplast is used for ________ their products",
+      "options": [
+        "digesting",
+        "storing",
+        "absorbing",
+        "excreting"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "_____________ can be found at the centre of chlamydomonas cytoplasm",
+      "options": [
+        "golgi body",
+        "eye spot",
+        "cell wall",
+        "nucleus"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The name of bacterial in which the cocci are arranged in chain-like structure is __________",
+      "options": [
+        "streptococcus",
+        "staphylococcus",
+        "coccus",
+        "algae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The phylum nematode is _____________",
+      "options": [
+        "round worm",
+        "ringworm",
+        "flatworm",
+        "tapeworm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The asexual reproduction in chlamydomonas is _____________",
+      "options": [
+        "conjugation",
+        "binary fusion",
+        "cell division",
+        "oogamy"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The micro and megametocytes fuse in the gut of the mosquito and become the",
+      "options": [
+        "ookinete",
+        "oocyst",
+        "sporocytes",
+        "sporoportes"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Vibro and spyrillum cause ____________",
+      "options": [
+        "engler",
+        "titanus and typhoid",
+        "cholera and syphilis"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In flatworms, flame cells are modified for _____________ and _______________",
+      "options": [
+        "excretion and osmoregulation",
+        "excretion and diffusion",
+        "osmosis and diffusion (d)diffusion only"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The division products of budding are ___________",
+      "options": [
+        "the same",
+        "unequal",
+        "bigger half"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Algae can be defined as photosynthetic organisms that possess ____________ for photosynthesis",
+      "options": [
+        "photosynthetic organism",
+        "xanthophyll",
+        "chlorophyll",
+        "carotene"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "These are the feeding types in bacteria except",
+      "options": [
+        "saprophytic",
+        "photosynthetic",
+        "predating",
+        "parasitic"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The swelling of imperfectly sterilized food can is as a result of the following except",
+      "options": [
+        "bacteria fermentation",
+        "pressure",
+        "temperature",
+        "respiration of anaerobic bacteria"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Algae are predominantly _____________ organisms",
+      "options": [
+        "aquatic",
+        "terrestrial",
+        "amphibians",
+        "extra terrestrial"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fasiole gigantism are example of adult tubercullaria that lives in the passage of the ____________ of cattle and sheep",
+      "options": [
+        "spleen",
+        "kidney",
+        "intestinal",
+        "liver"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Cryophillic algae is normally found growing in __________",
+      "options": [
+        "rocks",
+        "ice and snows",
+        "sand"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The root-like structure present in plant of division bryophyte is",
+      "options": [
+        "ozygote",
+        "rhizoid",
+        "oogamy",
+        "thalloid"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The association between algae and fungi is",
+      "options": [
+        "lichen",
+        "ilchen",
+        "liiden"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The bacteria spirillium is ______________ in shape",
+      "options": [
+        "rod-like",
+        "comma bent",
+        "spiral",
+        "ovoid"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Bacteria are regarded as prokaryotic because",
+      "options": [
+        "they contain thread-like flagella",
+        "they have no proper nucleus",
+        "they contain a long thread of chromosomes"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Most hydroid possess a small medusa which has a velum but lacks",
+      "options": [
+        "polyp",
+        "medusa",
+        "stomodium",
+        "enteron"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Classification of algae is into ___________ based on biochemical characteristics, cell wall pigments and others",
+      "options": [
+        "three",
+        "seven",
+        "four",
+        "five"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The vibrio form of bacteria causes ____________",
+      "options": [
+        "tetanus",
+        "cholera",
+        "syphyitis",
+        "tuberculosis"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The tentacle of an hydra bears an explosive cells called",
+      "options": [
+        "melanocytes",
+        "nematocysts",
+        "thrombocytes",
+        "monocytes"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Bacteria thrive mostly under which of the following temperature related conditions",
+      "options": [
+        "warm",
+        "cold",
+        "sub-zero",
+        "hot"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Algae can be classified ecologically based on their",
+      "options": [
+        "habit",
+        "reproduction",
+        "photosynthetic pigment",
+        "colour"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The body wall of the cnidarians contains two layers of cells, hence they are known as",
+      "options": [
+        "diplobastic animals",
+        "topoblastic",
+        "monoblastic",
+        "tripoblastic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The exoskeleton or endoskeleton of a named cnidarian is made up of all the following materials except",
+      "options": [
+        "chitinous material",
+        "lipid",
+        "calcerous",
+        "proteinous material"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "All plants that belong to the division thallophytes are aquatic except",
+      "options": [
+        "algae",
+        "bacteria",
+        "virus",
+        "fungi"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Bacteria lives mostly under which of the following temperature related condition",
+      "options": [
+        "hot",
+        "warm",
+        "sub-zero",
+        "cold"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "_____________ is an example of zooflagellate",
+      "options": [
+        "amoeba",
+        "plasmodium",
+        "sponges",
+        "trypanosome"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "____________ is the association formed a fungus and an algae",
+      "options": [
+        "endophyta",
+        "mychorrhizal",
+        "rhizosphore",
+        "lichen"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The class of algae that lack pigment in the dark is ____________",
+      "options": [
+        "rhodophyte",
+        "euglenaphyta",
+        "chlorophyta",
+        "phaeophyta"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Generally, cnidarian do not possess organs except",
+      "options": [
+        "sensory structure and gonads",
+        "sensory structure only",
+        "none",
+        "gonad only"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Anaerobic bacteria can be fermented in one of the following",
+      "options": [
+        "bucket of pond water",
+        "bottle of distilled water",
+        "in the gut of the fish",
+        "bottle of omega Hz"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "One is not the function of flagellum in mastigophora",
+      "options": [
+        "locomotion, defence and food collection",
+        "locomotion, food collection and sensory stimuli",
+        "locomotion defence and food digestion",
+        "food collection, sensory stimuli and defence"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "_____________ has a wider distribution than any other living organism",
+      "options": [
+        "virus",
+        "bacteria",
+        "fungi",
+        "algae"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Autogamy is similar to conjugation except",
+      "options": [
+        "one cell is involved",
+        "two cells are involved",
+        "three cells are involved",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Algae are based on the classification of the following except",
+      "options": [
+        "nature of food reserves",
+        "cell wall pigments",
+        "type of reproduction"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Chlamydomonas is ______________ in shape",
+      "options": [
+        "oval",
+        "spherical",
+        "rounded coccus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which is not true about micro-organisms",
+      "options": [
+        "a typical virus is bigger than a bacteria",
+        "a typical bacteria is bigger than a virus",
+        "a typical virus is smaller than a bacteria",
+        "independent reproduction is impossible once inside a living cell"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria feed in the following ways except",
+      "options": [
+        "saprophytic",
+        "predatic",
+        "parasitic",
+        "photosynthetic"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Ceolentrates have two body layers hence they are",
+      "options": [
+        "dipoblastic",
+        "tripoblastic",
+        "diblastic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In sarcodina, flagella when present are restricted to",
+      "options": [
+        "adult stage",
+        "developing stage",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_____________ is present in the centre of chlamydomonas",
+      "options": [
+        "eyespot",
+        "chloroplast",
+        "nucleus",
+        "golgi body"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The result of investigation for classification are based on",
+      "options": [
+        "comparative anatomy",
+        "all options are correct",
+        "palentology",
+        "comparative morphology"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The two major layers of cell as contained the phylum coelenterate are _______ and __________",
+      "options": [
+        "epidermis and mesodermis",
+        "epidermis and endodermis",
+        "misedermis and endodermis",
+        "epidermis and gastrodermis"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Plant classification could be traced to the following processes",
+      "options": [
+        "anthropology",
+        "geology",
+        "ardiaeology",
+        "palionthology"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Phylogenetic relationship is also known as",
+      "options": [
+        "phenetic similarities",
+        "phynetic similarities",
+        "phonetic similarities"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The form of bacteria that is responsible for sore throat is _____________",
+      "options": [
+        "golgi",
+        "cocci",
+        "coccus"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Plant body with true root, true stem and true leaves is",
+      "options": [
+        "complete plant",
+        "perfect plant",
+        "imperfect plant",
+        "vascularized plant"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "All plants that belong to the division thalophytes are aquatic except",
+      "options": [
+        "fungi",
+        "bacteria",
+        "viruses",
+        "algae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The bacteria form known as spirillium is _______________ morphology",
+      "options": [
+        "spira",
+        "bent",
+        "oval",
+        "spherical A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______________ propel the cell of bacteria through liquid",
+      "options": [
+        "pseudopodium",
+        "flagella",
+        "cytoplasm",
+        "cilia"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Sorethroat is cause by",
+      "options": [
+        "Vibrio Cholarae",
+        "Coccus",
+        "Cluster"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Tooth decay is caused by",
+      "options": [
+        "Streptocaccus mutans",
+        "Bacillus Churingiensis",
+        "Lactococcus mutans",
+        "Streptocaccus decae"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Eggs are laid in Coccous produced by the _______ in class Oligochata of phylum\nannelida",
+      "options": [
+        "Cuttle",
+        "Clitellium",
+        "Coeleom",
+        "Chaeta"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sore throat is caused by ____________",
+      "options": [
+        "Sprial",
+        "Coccus",
+        "Vibrio",
+        "Bacrillus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Egges are laid in cocoon produced by the _______ in the class oligochaetal of phylum\nannelida",
+      "options": [
+        "cilctcllum",
+        "chaeta",
+        "coelom",
+        "cuticle"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The binomial system of nomenclature was design by _________ in the year ________?",
+      "options": [
+        "1707 – 1178",
+        "1707 – 1778",
+        "1707 – 1878",
+        "1707 – 1788"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Grastulation in Eclunoderms is by",
+      "options": [
+        "invigination",
+        "cephalization",
+        "mentation",
+        "insemination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Crustacea or acquatic arthropods respire by which means",
+      "options": [
+        "gills",
+        "lungs",
+        "skin",
+        "trachea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The tymparie or eardrum of a mammal is supported by",
+      "options": [
+        "ossiclular bone",
+        "incus\nbone",
+        "stepis bone"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Crustacca an aquatic arturopods repire by which means",
+      "options": [
+        "gills",
+        "lungs",
+        "skin",
+        "trachea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The reproduction of Bacteria when the condition is not favorable is by __________",
+      "options": [
+        "Binary fusion",
+        "Binary fission",
+        "spore formation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The form assumed by Neisseria gonorrnoeaes _________",
+      "options": [
+        "dipplo cocci",
+        "staphylococci",
+        "Tetracocci",
+        "streptococci"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The 5 – kingdom divided by whittaker in animals is called",
+      "options": [
+        "Hetetrophs",
+        "Autotrophs",
+        "Motility"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The class of organism that is characterized by processing the head, thorax and abdomen\nis form",
+      "options": [
+        "insect",
+        "insect",
+        "Archrida",
+        "Crustaca"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The production of series of publication with comprehensive account of several families\nof flower plants in addition to the systematic classification of cryptograms was made by",
+      "options": [
+        "Engler and pranti",
+        "Bauhin and kasper",
+        "bentham and hooker",
+        "tuner and bauhin"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Eggs are laid in coccon produced by the __________ in class the oligochaete of phylum\nannelida",
+      "options": [
+        "chaeta",
+        "cuticle",
+        "citellium",
+        "coelon"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sexual reproduction in the thallophytes may be by",
+      "options": [
+        "cleistomogamy",
+        "isogamy",
+        "heterogamy",
+        "homeogamy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of reproduction exhibited by bacteria under unfavourable condition is\n______________",
+      "options": [
+        "binary fission",
+        "conjugation",
+        "spore formation (d)multiple\nfission"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Bacteria reproduce by _____ when conditions are suitable",
+      "options": [
+        "binary fusion",
+        "binary fission",
+        "buddy",
+        "karyogenesis"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Eggs are laid in cocoon produced by the _______ in the class oligochaetal of phylum annelida",
+      "options": [
+        "clitellum",
+        "chaeta",
+        "coelom",
+        "cuticle"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Gastrulation in Echinoderms is by",
+      "options": [
+        "invigination",
+        "cephalization",
+        "mentation",
+        "insem ination"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Crustacca an aquatic artropods respire by which means",
+      "options": [
+        "gills",
+        "lungs",
+        "skin",
+        "trachea"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The five kingdom system of classification of living organism was popularized\nby",
+      "options": [
+        "Whittaker and Whittaker",
+        "Carolus Linnaeus",
+        "Joseph Lister",
+        "Robert Hooke"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Lobopodia is a locomotory organelles being used by",
+      "options": [
+        "actinomorpha &\n\ncrithridia",
+        "amoeba & aurella",
+        "arcella & polystomella",
+        "amoeba &\nparamecium"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The thin and long locomotary organelles which is used by polystomella is\n\nknown as",
+      "options": [
+        "lobopodia",
+        "axopodia",
+        "reticulopodia",
+        "filopodia"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Reproduction in sarcomastigophora is mainly by means of",
+      "options": [
+        "budding",
+        "cell\ndivision",
+        "conjugation",
+        "isogamy"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The cilia possessed by phylum chilophora serves two major functions which are",
+      "options": [
+        "locomotion & food collection",
+        "protection & excretion",
+        "nutrition &\nrespiration",
+        "swimming & reproduction"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Reproduction in hydra is by",
+      "options": [
+        "budding",
+        "isogamy",
+        "anisogamy",
+        "alternation of generation"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Asexual reproduction in ciliophora is always by means of",
+      "options": [
+        "transverse binary\nfission",
+        "transverse budding",
+        "transfer multi fission",
+        "spore formation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following organism is characterized by the possession of\npseudocoelom?",
+      "options": [
+        "earthworm",
+        "round worm",
+        "hook worm",
+        "amoeba"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Sexual reproduction in byrophytes is zooidogamous which means it requires",
+      "options": [
+        "water",
+        "nutrients",
+        "salt",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Pteridophytes reproduce by means of spore produced in the",
+      "options": [
+        "sporangia",
+        "sporophylls",
+        "gamentangia",
+        "sperm cell"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Virus cell are surrounded by",
+      "options": [
+        "capsid",
+        "murein",
+        "chitin",
+        "spicules"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fertilization in pteridophytes take place in water by means of",
+      "options": [
+        "ciliated\nfemale gamete",
+        "motile female gamete",
+        "flagellated male gametes",
+        "monoflagellated antherozoid"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The male gametes in spermatophytes reach the egg by means of a tubular\noutgrowth of the male gametophytes known as",
+      "options": [
+        "pollen tube",
+        "pollen grain",
+        "micro gametes (c) micro gametes",
+        "megaspore"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Asexual reproduction in chlamydomonas is by means of ………..",
+      "options": [
+        "zoospores",
+        "binary fission",
+        "isogamy",
+        "anisogamy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The mode of sexual reproduction in chlamydomonas is simply by means of",
+      "options": [
+        "oogamy",
+        "oogonium",
+        "isogamy",
+        "anisogamy"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "………………is a term denoting a situation whereby the parasites are no\nlonger capable of living on their dead host",
+      "options": [
+        "facultatives",
+        "obligates",
+        "saprophytes (d)halophytes"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The digestion of food (substrate) in fungi is by ……….. Means",
+      "options": [
+        "multicellular",
+        "hyphae",
+        "extracellular",
+        "mycelium"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The type of sexual spore that is produced by the sac fungi (ascomycetes) is\ncalled",
+      "options": [
+        "ascopore",
+        "conidia",
+        "zygospore",
+        "basidiospore ANS.A\n\n\fADDITIONAL QUESTIONS"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The Platyhelminthes show some degrees of advancement over sponges and\ncoelenterates by virtue of the following characteristics",
+      "options": [
+        "absence of mesoderm\nas their third layer",
+        "possession of dorsal and ventral surface",
+        "possession of\na well developed nervous coordinating systems extending along their entire body",
+        "possession of internal gonads with definite duct and corpulatory organs"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The two major layers of cell as contained by the phylum coelentrata are\n_____________ and _______________",
+      "options": [
+        "epidermis and mesoderms",
+        "mesoderms and endoderms",
+        "epidermis and endodermis",
+        "epidermis and\ngastrodermis"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Digestion of food in fungi by extracellular enzymes absorbed into hyphae is\ncalled",
+      "options": [
+        "digestion",
+        "absorption heterotrophic",
+        "conjugation"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Syphilis and cholera are diseases caused by _____________ and\n___________ respectively",
+      "options": [
+        "spirilum and vibrio",
+        "vibrio and spirochata",
+        "coccuss and spirochaeta",
+        "bacillus and cocus"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a fungus and an alga relationship, ___________ manufactures the food\norganically by photosynthesis",
+      "options": [
+        "none of them",
+        "a fungus",
+        "an algae",
+        "both\nof them"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Chlamydomonas asexual reproduction is by ______________",
+      "options": [
+        "syngamy",
+        "cell division",
+        "conjugation",
+        "binary fission"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The two major layers of cell as contained by the phylum coelenterate are\n__________ and __________",
+      "options": [
+        "epidermis and mesodermis",
+        "epidermis and\nendodermis",
+        "misedermis and endodermis",
+        "epidermis and gastrodermis"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Binomial nomenclature was devised by",
+      "options": [
+        "Carolus Linneaus",
+        "Beitham",
+        "Eugler"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________\n\nis\n\nthe association formed by a fungus and an algae",
+      "options": [
+        "endophyta",
+        "mychorrhizal",
+        "rhizosphore",
+        "lichen"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The two major layers of cell as contained by the phylum coelenterate are _______ and __________",
+      "options": [
+        "epidermis and\nmesodermis",
+        "epidermis and endodermis",
+        "misedermis and endodermis",
+        "epidermis and gastrodermis"
+      ],
+      "correct": "d"
+    }
+  ]
+}

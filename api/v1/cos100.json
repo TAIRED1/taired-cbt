@@ -1,0 +1,898 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "COS100",
+    "total_questions": 98
+  },
+  "data": [
+    {
+      "question": "A sequence of actions leading to a solution is ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Loop",
+      "b": "Cycle A",
+      "c": "Path",
+      "d": "Tree"
+    },
+    {
+      "question": "D I 2. Adjacent vertices are those that ________",
+      "type": "single",
+      "correct": "d",
+      "a": "Have no connection                              E",
+      "b": "Are identical M",
+      "c": "Are final nodes",
+      "d": "Share an edge B Y U"
+    },
+    {
+      "question": "Machine Learning involves ________ M",
+      "type": "single",
+      "correct": "b",
+      "a": "Data cabling",
+      "b": "Decision tree learning",
+      "c": "Circuit wiring",
+      "d": "Keyboard mapping"
+    },
+    {
+      "question": "AI search is used in ________ systems",
+      "type": "single",
+      "correct": "a",
+      "a": "Navigation",
+      "b": "Screensavers",
+      "c": "Typing tools",
+      "d": "Paint apps"
+    },
+    {
+      "question": "Which of the following is an example of AI in transportation?",
+      "type": "single",
+      "correct": "a",
+      "a": "Autonomous Vehicles",
+      "b": "Manual Ticket Writing",
+      "c": "Stapler Machines",
+      "d": "Chalkboard Displays"
+    },
+    {
+      "question": "Which of the following best explains supervised learning? I A",
+      "type": "single",
+      "correct": "a",
+      "a": "Learning from labeled training data",
+      "b": "Learning without examples E D",
+      "c": "Learning through random guessing",
+      "d": "Manual calculation methods            M Y"
+    },
+    {
+      "question": "B 7. AI systems can improve productivity because they: U",
+      "type": "single",
+      "correct": "a",
+      "a": "Perform tasks efficiently without fatigue M",
+      "b": "Depend on emotions",
+      "c": "Forget instructions quickly",
+      "d": "Avoid repetitive operations"
+    },
+    {
+      "question": "Which AI technology is used in handwriting recognition systems?",
+      "type": "single",
+      "correct": "a",
+      "a": "Optical Character Recognition",
+      "b": "File Allocation",
+      "c": "Disk Scheduling",
+      "d": "Multiprocessing"
+    },
+    {
+      "question": "Which AI application enables computers to convert speech into text?",
+      "type": "single",
+      "correct": "a",
+      "a": "Speech Recognition",
+      "b": "Data Compression",
+      "c": "File Allocation",
+      "d": "Multiprocessing"
+    },
+    {
+      "question": "Data collection involves",
+      "type": "single",
+      "correct": "a",
+      "a": "Multiple sources I A",
+      "b": "Only sensors",
+      "c": "Only databases E D",
+      "d": "Only users"
+    },
+    {
+      "question": "AI improves ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Sleep B Y",
+      "b": "Laziness U M",
+      "c": "Productivity",
+      "d": "Hunger"
+    },
+    {
+      "question": "AI simulates ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Animal behavior",
+      "b": "Human intelligence",
+      "c": "Plant growth",
+      "d": "Weather"
+    },
+    {
+      "question": "GPT models are developed",
+      "type": "single",
+      "correct": "d",
+      "a": "Microsoft",
+      "b": "Apple",
+      "c": "Google",
+      "d": "OpenAI"
+    },
+    {
+      "question": "Breadth First Search (BFS) is a search technique that explores nodes",
+      "type": "single",
+      "correct": "b",
+      "a": "Randomly",
+      "b": "Level by level I A",
+      "c": "Deepest firstj",
+      "d": "Backwards E D"
+    },
+    {
+      "question": "M 15. Which component of an expert system contains facts and rules?",
+      "type": "single",
+      "correct": "a",
+      "a": "Knowledge Base",
+      "b": "Compiler B Y",
+      "c": "Database U M",
+      "d": "Operating System"
+    },
+    {
+      "question": "ML models are trained using ________ data",
+      "type": "single",
+      "correct": "b",
+      "a": "Random",
+      "b": "Training",
+      "c": "Structured",
+      "d": "Testing"
+    },
+    {
+      "question": "Sensors collect data from ________",
+      "type": "single",
+      "correct": "d",
+      "a": "Keyboard",
+      "b": "Screen",
+      "c": "Printer",
+      "d": "Environment"
+    },
+    {
+      "question": "The desired outcome in AI problem solving is called the ________",
+      "type": "single",
+      "correct": "a",
+      "a": "Goal State",
+      "b": "Action State",
+      "c": "Path Cost I A",
+      "d": "Initial State"
+    },
+    {
+      "question": "E D M 19. Which professional traditionally interprets medical images?",
+      "type": "single",
+      "correct": "a",
+      "a": "Radiologist",
+      "b": "Lawyer",
+      "c": "Architect B Y",
+      "d": "Economist U M"
+    },
+    {
+      "question": "Intelligent systems can ________ from experience",
+      "type": "single",
+      "correct": "d",
+      "a": "Sleep",
+      "b": "Hide",
+      "c": "Disconnect",
+      "d": "Learn"
+    },
+    {
+      "question": "AI simulates ________",
+      "type": "single",
+      "correct": "a",
+      "a": "Human Intelligence",
+      "b": "Animal Behaviour",
+      "c": "Weather",
+      "d": "Plant Growth"
+    },
+    {
+      "question": "Intelligent systems can reason and adapt to new ________",
+      "type": "single",
+      "correct": "a",
+      "a": "Situations",
+      "b": "Wires",
+      "c": "Routers",
+      "d": "Browsers I A"
+    },
+    {
+      "question": "Identify the core component of Computer Vision. E D",
+      "type": "single",
+      "correct": "d",
+      "a": "Keyboard Layouts",
+      "b": "Touchscreens                         M",
+      "c": "Hearing Aids B Y",
+      "d": "Interpreting Visual Data from the World U"
+    },
+    {
+      "question": "M 24. Which approach to AI focuses on machines behaving like humans?",
+      "type": "single",
+      "correct": "b",
+      "a": "Thinking Mathematically",
+      "b": "Acting Like Humans",
+      "c": "Thinking Rationally",
+      "d": "Acting Rationally"
+    },
+    {
+      "question": "An AI system designed only for a specific task is known as:",
+      "type": "single",
+      "correct": "c",
+      "a": "General AI",
+      "b": "Strong AI",
+      "c": "Weak AI",
+      "d": "Super AI"
+    },
+    {
+      "question": "Machine Learning is fundamentally data-hungry.",
+      "type": "single",
+      "correct": "a",
+      "a": "True",
+      "b": "False"
+    },
+    {
+      "question": "A leaf node depicts ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Node with no data I A",
+      "b": "Node with no children",
+      "c": "Node with no edge E D",
+      "d": "Node with root"
+    },
+    {
+      "question": "Y 28. What is the full meaning of TPU? B",
+      "type": "single",
+      "correct": "c",
+      "a": "Transmission Processing Unit U",
+      "b": "Transfer Processing Unit M",
+      "c": "Tensor Processing Unit",
+      "d": "Terminal Processing Unit"
+    },
+    {
+      "question": "State space represents all possible ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Programs",
+      "b": "States",
+      "c": "Actions",
+      "d": "Nodes"
+    },
+    {
+      "question": "Which of the following is an example of an informed search algorithm?",
+      "type": "single",
+      "correct": "c",
+      "a": "Breadth-First Search",
+      "b": "Depth-First Search",
+      "c": "Greedy Best-First Search",
+      "d": "Uniform Cost Search"
+    },
+    {
+      "question": "A rational agent is one that ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Always behaves randomly",
+      "b": "Ignores its environment I A",
+      "c": "Acts to maximize its performance measure",
+      "d": "Only follows fixed rules E D M"
+    },
+    {
+      "question": "Intelligent systems can make ________",
+      "type": "single",
+      "correct": "a",
+      "a": "Decisions",
+      "b": "Wires B Y",
+      "c": "Furniture U M",
+      "d": "Noise"
+    },
+    {
+      "question": "Intelligent systems can store and retrieve information from ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Keyboard",
+      "b": "Browser",
+      "c": "Memory",
+      "d": "Mouse"
+    },
+    {
+      "question": "In state space representation, nodes represent ________",
+      "type": "single",
+      "correct": "d",
+      "a": "Actions",
+      "b": "Files",
+      "c": "Errors",
+      "d": "States"
+    },
+    {
+      "question": "BFS guarantees finding the ________ solution first.",
+      "type": "single",
+      "correct": "c",
+      "a": "Deepest",
+      "b": "Most Complex",
+      "c": "Shallowest I A",
+      "d": "Random"
+    },
+    {
+      "question": "E D M 36. Neural Networks are inspired the human ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Leg",
+      "b": "Eye",
+      "c": "Brain B Y",
+      "d": "Mouth U M"
+    },
+    {
+      "question": "Depth of a root node starts from ________",
+      "type": "single",
+      "correct": "a",
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    {
+      "question": "State space includes all possible ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Outputs",
+      "b": "Programs",
+      "c": "States",
+      "d": "Errors"
+    },
+    {
+      "question": "Edges in state space represent ________",
+      "type": "single",
+      "correct": "a",
+      "a": "Actions",
+      "b": "Files",
+      "c": "Errors",
+      "d": "Programs I A"
+    },
+    {
+      "question": "John McCarthy ________ E D",
+      "type": "single",
+      "correct": "c",
+      "a": "Founded Microsoft",
+      "b": "Wrote the First Browser             M",
+      "c": "Coined the Term AI",
+      "d": "Invented the Mouse B Y U"
+    },
+    {
+      "question": "M 41. Expert Systems were popular in ________",
+      "type": "single",
+      "correct": "c",
+      "a": "1800s",
+      "b": "2010s",
+      "c": "1960s–1980s",
+      "d": "1700s"
+    },
+    {
+      "question": "AI uses ________",
+      "type": "single",
+      "correct": "d",
+      "a": "Water",
+      "b": "Food",
+      "c": "Air",
+      "d": "Algorithms"
+    },
+    {
+      "question": "The Turing Test was proposed in ________",
+      "type": "single",
+      "correct": "b",
+      "a": "1940",
+      "b": "1950",
+      "c": "1960",
+      "d": "1980"
+    },
+    {
+      "question": "I A D 44. Fraud detection commonly uses ________ structures.",
+      "type": "single",
+      "correct": "a",
+      "a": "Tree-Based E",
+      "b": "Random",
+      "c": "Linear                              M",
+      "d": "Circular B"
+    },
+    {
+      "question": "Y U 45. Reactive machines ________ M",
+      "type": "single",
+      "correct": "c",
+      "a": "Remember the Past",
+      "b": "Learn from Experience",
+      "c": "Do Not Remember the Past",
+      "d": "Adapt Automatically"
+    },
+    {
+      "question": "K-Means is used for ________",
+      "type": "single",
+      "correct": "d",
+      "a": "Searching",
+      "b": "Sorting",
+      "c": "Printing",
+      "d": "Clustering"
+    },
+    {
+      "question": "Deep Blue's famous victory occurred in ________",
+      "type": "single",
+      "correct": "c",
+      "a": "2015",
+      "b": "2005",
+      "c": "1997",
+      "d": "1980"
+    },
+    {
+      "question": "Recommendation systems are used in ________ I A",
+      "type": "single",
+      "correct": "a",
+      "a": "E-Commerce",
+      "b": "OS Development E D",
+      "c": "Agriculture Only",
+      "d": "Hardware Design                      M"
+    },
+    {
+      "question": "B Y 49. Learning agents improve performance over ________",
+      "type": "single",
+      "correct": "d",
+      "a": "Paper U M",
+      "b": "Paint",
+      "c": "Water",
+      "d": "Time"
+    },
+    {
+      "question": "The starting point of a problem is called the ________",
+      "type": "single",
+      "correct": "a",
+      "a": "Initial State",
+      "b": "Goal State",
+      "c": "Terminal State",
+      "d": "Path Cost"
+    },
+    {
+      "question": "Expert systems are examples of ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Gaming Software",
+      "b": "Browser",
+      "c": "Decision Support Software",
+      "d": "Antivirus Software"
+    },
+    {
+      "question": "I 52. Which AI field focuses on communication between humans and machines using language? A",
+      "type": "single",
+      "correct": "a",
+      "a": "Natural Language Processing",
+      "b": "Multiprocessing E D",
+      "c": "Networking",
+      "d": "File Management M Y"
+    },
+    {
+      "question": "B 53. AI-powered chatbots are mainly used for ________ U",
+      "type": "single",
+      "correct": "a",
+      "a": "Customer Interaction and Support M",
+      "b": "Manual Accounting",
+      "c": "Chalk Production",
+      "d": "Hardware Installation Only"
+    },
+    {
+      "question": "Graphs are made up of ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Inputs Only",
+      "b": "Nodes and Edges",
+      "c": "Outputs Only",
+      "d": "Files"
+    },
+    {
+      "question": "Computer Vision systems rely on image processing because image processing ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Removes Classification Algorithms",
+      "b": "Prevents Feature Extraction",
+      "c": "Enhances Images for Further Analysis",
+      "d": "Eliminates Captured Images"
+    },
+    {
+      "question": "Which field combines AI, sensors, and robotics for industrial I A production?",
+      "type": "single",
+      "correct": "c",
+      "a": "Web Hosting",
+      "b": "Sound Engineering                               E D",
+      "c": "Smart Manufacturing M",
+      "d": "Social Networking B Y"
+    },
+    {
+      "question": "U 57. Machine Learning allows robots to ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Replace Programming Languages M",
+      "b": "Eliminate Data Storage",
+      "c": "Analyze Past Actions and Improve Performance",
+      "d": "Remove All Software Bugs"
+    },
+    {
+      "question": "Machine Learning in healthcare is described as ________",
+      "type": "single",
+      "correct": "a",
+      "a": "Complementary to Doctors",
+      "b": "Useless in Clinical Settings",
+      "c": "Only for Research",
+      "d": "A Replacement for Doctors"
+    },
+    {
+      "question": "ImageNet breakthrough occurred in ________",
+      "type": "single",
+      "correct": "d",
+      "a": "2020",
+      "b": "2015",
+      "c": "2000",
+      "d": "2012"
+    },
+    {
+      "question": "Robotics relies heavily on ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Manual Code Only I A",
+      "b": "Printing",
+      "c": "Search Techniques E D",
+      "d": "Static Files"
+    },
+    {
+      "question": "Y 61. Informed search uses ________ knowledge.",
+      "type": "single",
+      "correct": "d",
+      "a": "No B",
+      "b": "Random U M",
+      "c": "Hidden",
+      "d": "Domain"
+    },
+    {
+      "question": "In Machine Learning, rules are learned from ________",
+      "type": "single",
+      "correct": "d",
+      "a": "Hardware",
+      "b": "Memory",
+      "c": "Code",
+      "d": "Data"
+    },
+    {
+      "question": "Which of the following best describes an agent environment?",
+      "type": "single",
+      "correct": "d",
+      "a": "The Programming Language",
+      "b": "Only the Hardware User",
+      "c": "Agent Memory",
+      "d": "Everything Outside the Agent That It Interacts With"
+    },
+    {
+      "question": "In accessibility research, tactile machine prototype tools respond to ________",
+      "type": "single",
+      "correct": "a",
+      "a": "Neural Implants I A",
+      "b": "Fingerprint Scans",
+      "c": "Only Mouse Clicks E D",
+      "d": "Voice Commands"
+    },
+    {
+      "question": "M Y 65. Teachable Machine relies on transfer learning from which base models?",
+      "type": "single",
+      "correct": "c",
+      "a": "ResNet and AlexNet B U",
+      "b": "YOLO and R-CNN M",
+      "c": "MobileNet and PoseNet",
+      "d": "BERT and GPT"
+    },
+    {
+      "question": "Artificial Intelligence can also be defined as ________",
+      "type": "single",
+      "correct": "b",
+      "a": "The AI Revolution",
+      "b": "Computing Machinery and Intelligence",
+      "c": "Cybernetics and Logic",
+      "d": "Machine Mind"
+    },
+    {
+      "question": "What are the three essential pillars supporting modern AI?",
+      "type": "multiple",
+      "correct": [
+        "b (algorithms",
+        "data",
+        "compute)"
+      ],
+      "a": "Storage, RAM, Display",
+      "b": "Algorithms, Data, Compute",
+      "c": "Code, Internet, Users",
+      "d": "Math, Science, Art"
+    },
+    {
+      "question": "I 69. Who is universally regarded as the Father of Artificial Intelligence?A",
+      "type": "single",
+      "correct": "b",
+      "a": "Charles Babbage",
+      "b": "John McCarthy E D",
+      "c": "Robert Hooke",
+      "d": "Alan Turing                            M"
+    },
+    {
+      "question": "B Y 70. In which year was Artificial Intelligence officially introduced?",
+      "type": "single",
+      "correct": "b",
+      "a": "1965 U M",
+      "b": "1956",
+      "c": "1963",
+      "d": "1805"
+    },
+    {
+      "question": "At which institution was Artificial Intelligence first formally introduced?",
+      "type": "single",
+      "correct": "b",
+      "a": "Harvard University",
+      "b": "Dartmouth College",
+      "c": "Babcock University",
+      "d": "Stanford University"
+    },
+    {
+      "question": "Random Forest is a ________ method.",
+      "type": "single",
+      "correct": "b",
+      "a": "Linear",
+      "b": "Ensemble",
+      "c": "Static",
+      "d": "Single Model"
+    },
+    {
+      "question": "Artificial Narrow Intelligence is also known as ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Strong AI I A",
+      "b": "Weak AI",
+      "c": "AI E D",
+      "d": "Super Intelligent AI"
+    },
+    {
+      "question": "Y 74. Intelligent systems are systems that ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Paint B U",
+      "b": "Perceive Their Environment M",
+      "c": "None of the Above",
+      "d": "Make Decisions"
+    },
+    {
+      "question": "A cycle is a path that ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Connects Two Nodes",
+      "b": "Starts and Ends at the Same Vertex",
+      "c": "Is Connected by Edges",
+      "d": "Is Formed by a Node and Its Descendants"
+    },
+    {
+      "question": "Principles of AI include the following except ________",
+      "type": "single",
+      "correct": "d",
+      "a": "Equity",
+      "b": "Fairness",
+      "c": "Transparency",
+      "d": "Security"
+    },
+    {
+      "question": "A heuristic function in AI is used to ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Store Data",
+      "b": "Estimate How Close a State is to the Goal I A",
+      "c": "Execute Programs",
+      "d": "Compile Code E D M"
+    },
+    {
+      "question": "Depth First Search uses which data structure?",
+      "type": "single",
+      "correct": "b",
+      "a": "Queue",
+      "b": "Stack B Y",
+      "c": "Array U M",
+      "d": "Tree"
+    },
+    {
+      "question": "Spatial Intelligence includes the following except ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Map Readers",
+      "b": "Astronauts",
+      "c": "Physicists",
+      "d": "None of the Above"
+    },
+    {
+      "question": "There are three main types of AI: Weak AI, Strong AI and ________",
+      "type": "single",
+      "correct": "d",
+      "a": "Strong AI",
+      "b": "Weak AI",
+      "c": "AI",
+      "d": "Super Intelligent AI"
+    },
+    {
+      "question": "What is the purpose of a search engine?",
+      "type": "single",
+      "correct": "b",
+      "a": "To host websites",
+      "b": "To locate information on the Internet",
+      "c": "To send emails",
+      "d": "To design webpages I A"
+    },
+    {
+      "question": "Which search engine is owned Microsoft?",
+      "type": "single",
+      "correct": "b",
+      "a": "Yahoo",
+      "b": "Bing E D",
+      "c": "DuckDuckGo",
+      "d": "Baidu M Y"
+    },
+    {
+      "question": "B 83. Which file format is commonly used for web pages?",
+      "type": "single",
+      "correct": "a",
+      "a": ".html",
+      "b": ".mp3",
+      "c": ".exe",
+      "d": ".zip U M"
+    },
+    {
+      "question": "Which of the following is a benefit of cloud computing?",
+      "type": "single",
+      "correct": "a",
+      "a": "Access to files from multiple devices",
+      "b": "Reduced storage capacity",
+      "c": "Slower communication",
+      "d": "No Internet access required"
+    },
+    {
+      "question": "Which term refers to software hosted online and accessed via a browser?",
+      "type": "single",
+      "correct": "a",
+      "a": "SaaS",
+      "b": "CPU",
+      "c": "RAM",
+      "d": "LAN"
+    },
+    {
+      "question": "What does SaaS stand for?",
+      "type": "single",
+      "correct": "a",
+      "a": "Software as a Service",
+      "b": "System as a Source",
+      "c": "Service and Software",
+      "d": "Software and Storage"
+    },
+    {
+      "question": "Which of the following is an example of SaaS?",
+      "type": "single",
+      "correct": "a",
+      "a": "Google Docs",
+      "b": "Keyboard",
+      "c": "Router",
+      "d": "Scanner"
+    },
+    {
+      "question": "What is the purpose of web accessibility? I A D",
+      "type": "single",
+      "correct": "a",
+      "a": "To make websites accessible to all users, including those with disabilities",
+      "b": "To reduce Internet speed",
+      "c": "To increase hardware costs",
+      "d": "To prevent website updates E"
+    },
+    {
+      "question": "M 89. Which organization promotes web accessibility standards?",
+      "type": "single",
+      "correct": "a",
+      "a": "WAI",
+      "b": "WHO",
+      "c": "FIFA",
+      "d": "OPEC B Y"
+    },
+    {
+      "question": "U M90. What is an intranet?",
+      "type": "single",
+      "correct": "a",
+      "a": "A private network within an organization",
+      "b": "A public website",
+      "c": "A search engine",
+      "d": "A social media platform"
+    },
+    {
+      "question": "What is an extranet?",
+      "type": "single",
+      "correct": "b",
+      "a": "A network accessible only to the public",
+      "b": "An extension of an intranet accessible to authorized external users",
+      "c": "A programming language",
+      "d": "A database system"
+    },
+    {
+      "question": "Which of the following is used for real-time online communication?",
+      "type": "single",
+      "correct": "a",
+      "a": "Video conferencing",
+      "b": "Printed letter",
+      "c": "Newspaper",
+      "d": "Billboard"
+    },
+    {
+      "question": "Zoom is an example of:",
+      "type": "single",
+      "correct": "a",
+      "a": "Video conferencing software",
+      "b": "Search engine",
+      "c": "Programming language",
+      "d": "Operating system"
+    },
+    {
+      "question": "What is netiquette?",
+      "type": "single",
+      "correct": "b",
+      "a": "Rules for manufacturing computers",
+      "b": "Guidelines for proper online behavior I A",
+      "c": "Internet hardware design",
+      "d": "Website programming"
+    },
+    {
+      "question": "E D M 95. Which of the following is an example of unethical online behavior?",
+      "type": "single",
+      "correct": "b",
+      "a": "Respecting privacy",
+      "b": "Cyberbullying Y",
+      "c": "Proper citation of sources",
+      "d": "Secure password usage"
+    },
+    {
+      "question": "B U 96. What is plagiarism?",
+      "type": "single",
+      "correct": "b",
+      "a": "Giving credit to original authors M    B. Copying someone else’s work without proper acknowledgment",
+      "b": "",
+      "c": "Creating original content",
+      "d": "Encrypting data"
+    },
+    {
+      "question": "Which of the following helps evaluate website credibility?",
+      "type": "single",
+      "correct": "a",
+      "a": "Author’s credentials",
+      "b": "Website design alone",
+      "c": "Font size only",
+      "d": "Page color only"
+    },
+    {
+      "question": "Which of the following is a characteristic of reliable online information?",
+      "type": "single",
+      "correct": "a",
+      "a": "Verified sources",
+      "b": "Anonymous claims only",
+      "c": "No references",
+      "d": "Unverified rumors"
+    },
+    {
+      "question": "What is the primary goal of the World Wide Web Consortium (W3C)?",
+      "type": "single",
+      "correct": "b",
+      "a": "To create computer hardware",
+      "b": "To develop and maintain web standards",
+      "c": "To sell domain names",
+      "d": "To manufacture routers"
+    }
+  ]
+}

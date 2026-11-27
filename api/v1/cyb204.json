@@ -1,0 +1,905 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "CYB204",
+    "total_questions": 99
+  },
+  "data": [
+    {
+      "question": "Blockchain is best described as a:",
+      "a": "Centralized database",
+      "b": "Decentralized distributed ledger",
+      "c": "Cloud storage",
+      "d": "Operating System",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Who published the Bitcoin whitepaper?",
+      "a": "Vitalik Buterin",
+      "b": "Satoshi Nakamoto",
+      "c": "Adam Back",
+      "d": "Charles Hoskinson",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "In which year was the Bitcoin network officially launched mining the first block?",
+      "a": "2008",
+      "b": "2009",
+      "c": "2010",
+      "d": "2013",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which phase introduced Smart Contracts and DApps?",
+      "a": "Phase 1",
+      "b": "Phase 2",
+      "c": "Phase 3",
+      "d": "Phase 4",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What was the first commercial transaction using Bitcoin?",
+      "a": "Buying a car",
+      "b": "Buying two pizzas",
+      "c": "Paying rent",
+      "d": "Buying a domain",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the maximum supply limit of Bitcoin?",
+      "a": "10 million coins",
+      "b": "21 million coins",
+      "c": "100 million coins",
+      "d": "Unlimited",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which part of the block contains the timestamp, nonce, and previous block hash?",
+      "a": "Block Body",
+      "b": "Block Header",
+      "c": "Merkle Root",
+      "d": "Transaction list",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which type of blockchain is governed a group of organizations rather than a single entity?",
+      "a": "Public",
+      "b": "Private",
+      "c": "Consortium",
+      "d": "Hybrid",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What are the four widely recognized pillars of blockchain?",
+      "a": "Speed, Cost, Storage, UI",
+      "b": "Mining, Staking, Trading, Holding",
+      "c": "Decentralization, Transparency, Immutability, Security",
+      "d": "Java, Python, C++, Solidity",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Who proposed Ethereum?",
+      "a": "Satoshi Nakamoto",
+      "b": "Vitalik Buterin",
+      "c": "Adam Back",
+      "d": "Charles Hoskinson",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the fundamental unit of data in a blockchain?",
+      "a": "Transaction",
+      "b": "Block",
+      "c": "Smart Contract",
+      "d": "Node",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which component of a block includes the timestamp, nonce, and Merkle root?",
+      "a": "Block Body",
+      "b": "Block Header",
+      "c": "Transaction List",
+      "d": "Genesis Block",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What acts as a memory pool where broadcasted transactions await validation?",
+      "a": "Merkle Tree",
+      "b": "Ledger",
+      "c": "Mempool",
+      "d": "Hash Pointer",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which consensus mechanism selects validators based on the number of tokens they hold and stake?",
+      "a": "Proof of Work",
+      "b": "Delegated Proof of Stake",
+      "c": "Proof of Stake",
+      "d": "Practical Byzantine Fault Tolerance",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which layer of the blockchain architecture is responsible for wallets and user interfaces?",
+      "a": "Application layer",
+      "b": "Smart contract layer",
+      "c": "Network layer",
+      "d": "Data layer",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Which property of a good hash function ensures that a small change in input drastically changes the output?",
+      "a": "Deterministic",
+      "b": "Fast computation",
+      "c": "Pre-image resistance",
+      "d": "Avalanche effect",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "In a Merkle tree, what do the leaf nodes contain?",
+      "a": "Cryptographic hashes of individual transactions",
+      "b": "Merkle Root",
+      "c": "Block headers",
+      "d": "Private keys",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Which type of encryption system uses a pair of keys: a public key and a private key?",
+      "a": "Symmetric encryption",
+      "b": "Hash functions",
+      "c": "Asymmetric encryption",
+      "d": "Merkle trees",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is a primary benefit of using a peer-to-peer network in blockchain?",
+      "a": "Centralized control",
+      "b": "Slower transaction speeds",
+      "c": "No single point of failure",
+      "d": "Requirement of intermediaries",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which feature of a digital signature ensures that the sender cannot deny initiating the transaction?",
+      "a": "Authentication",
+      "b": "Non-repudiation",
+      "c": "Data integrity",
+      "d": "Encryption",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What are the three primary components of a block?",
+      "a": "Header, body, and hash of previous block",
+      "b": "Timestamp, nonce, and Merkle root",
+      "c": "Transactions, signatures, and keys",
+      "d": "Header, transactions, and timestamp",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is stored in the block header?",
+      "a": "Transaction list",
+      "b": "Timestamp, nonce, previous hash, and Merkle root",
+      "c": "Digital signatures",
+      "d": "Private keys",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is stored in the block body?",
+      "a": "Metadata",
+      "b": "The actual list of transactions",
+      "c": "The previous block hash",
+      "d": "The Merkle root",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the memory pool where transactions await validation called?",
+      "a": "Block pool",
+      "b": "Mempool",
+      "c": "Hash pool",
+      "d": "Chain pool",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What links one block to the previous block?",
+      "a": "The timestamp",
+      "b": "The nonce",
+      "c": "The hash of the previous block",
+      "d": "The Merkle root",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which cryptographic hash function does Bitcoin use?",
+      "a": "MD5",
+      "b": "SHA-256",
+      "c": "AES-128",
+      "d": "RSA",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What are the properties of a good hash function?",
+      "a": "Deterministic, fast, pre-image resistant, avalanche effect",
+      "b": "Slow, reversible, predictable",
+      "c": "Variable output, insecure",
+      "d": "Centralized, controlled",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What property of a hash function means a small change in input drastically changes the output?",
+      "a": "Deterministic",
+      "b": "Pre-image resistant",
+      "c": "Avalanche effect",
+      "d": "Fast computation",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What property of a hash function means the input cannot be derived from the output?",
+      "a": "Deterministic",
+      "b": "Pre-image resistant",
+      "c": "Avalanche effect",
+      "d": "Fast computation",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a Merkle tree primarily used for in blockchain?",
+      "a": "Encrypting transactions",
+      "b": "Efficiently verifying large sets of transactions",
+      "c": "Storing private keys",
+      "d": "Creating new blocks",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which consensus mechanism uses delegates voted token holders to validate transactions and produce blocks?",
+      "a": "Proof of Work",
+      "b": "Proof of Authority",
+      "c": "Delegated Proof of Stake",
+      "d": "Practical Byzantine Fault Tolerance",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "In a Delegated Proof of Stake (DPoS) system, how is a token holder's voting power determined?",
+      "a": "Proportional to their stake",
+      "b": "By their computing power",
+      "c": "Through identity verification",
+      "d": "One vote per user regardless of stake",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What does a validator risk losing if they act dishonestly in a Proof of Stake network?",
+      "a": "Their mining hardware",
+      "b": "Their computing power",
+      "c": "Part or all of their staked tokens through slashing",
+      "d": "Their physical identity",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which phase is NOT part of the Practical zantine Fault Tolerance (PBFT) process?",
+      "a": "Pre-prepare",
+      "b": "Prepare",
+      "c": "Execute",
+      "d": "Hash-generation",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "What type of blockchains most commonly use Practical zantine Fault Tolerance (PBFT)?",
+      "a": "Public anonymous blockchains",
+      "b": "Permissioned blockchains with authenticated nodes",
+      "c": "Cryptocurrency exchanges",
+      "d": "Proof of Work blockchains",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Proof of Authority (PoA) relies on what characteristic of its validators rather than computational power or stake?",
+      "a": "Their geographic location",
+      "b": "Their internet connection speed",
+      "c": "Their identity and reputation",
+      "d": "Their total number of transactions",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following is a major disadvantage of the Practical zantine Fault Tolerance (PBFT) consensus mechanism?",
+      "a": "High energy consumption",
+      "b": "High communication overhead that limits scalability",
+      "c": "Lack of finality in transactions",
+      "d": "Susceptibility to mining centralization",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the 'nothing-at-stake' problem commonly associated with?",
+      "a": "Proof of Work",
+      "b": "Proof of Stake",
+      "c": "Practical Byzantine Fault Tolerance",
+      "d": "Proof of Authority",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which cryptocurrency transitioned from Proof of Work to Proof of Stake in 2022?",
+      "a": "Bitcoin",
+      "b": "Litecoin",
+      "c": "Ethereum",
+      "d": "Monero",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Why is Proof of Authority (PoA) particularly attractive for enterprise applications?",
+      "a": "It ensures complete decentralization",
+      "b": "It supports anonymous validation",
+      "c": "It uses standard hardware and offers fast transaction processing",
+      "d": "It consumes as much energy as Proof of Work",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What are smart contracts?",
+      "a": "Physical paper contracts",
+      "b": "Self-executing digital agreements on blockchain",
+      "c": "Centralized databases",
+      "d": "Mining algorithms",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Who first introduced the concept of smart contracts?",
+      "a": "Vitalik Buterin",
+      "b": "Satoshi Nakamoto",
+      "c": "Nick Szabo",
+      "d": "Daniel Larimer",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is a reentrancy attack?",
+      "a": "An attack on the hash function",
+      "b": "An attack where a function is called repeatedly before previous calls complete",
+      "c": "An attack on the network",
+      "d": "A private key theft",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Solidity?",
+      "a": "A consensus mechanism",
+      "b": "A smart contract language for Ethereum",
+      "c": "A cryptocurrency",
+      "d": "A blockchain platform",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which language is designed for simplicity and security, omitting features like inheritance?",
+      "a": "Solidity",
+      "b": "Vyper",
+      "c": "Rust",
+      "d": "Move",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which language is used for Solana smart contracts?",
+      "a": "Solidity",
+      "b": "Vyper",
+      "c": "Rust",
+      "d": "Move",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which language emphasizes resource-oriented programming where assets cannot be duplicated?",
+      "a": "Solidity",
+      "b": "Vyper",
+      "c": "Rust",
+      "d": "Move",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "Which chains use Move?",
+      "a": "Ethereum and Bitcoin",
+      "b": "Aptos and Sui",
+      "c": "Solana and NEAR",
+      "d": "Cardano and Polkadot",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Yul?",
+      "a": "A smart contract language",
+      "b": "An intermediate language for EVM optimization",
+      "c": "A consensus mechanism",
+      "d": "A wallet",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What was the DAO hack?",
+      "a": "A mining attack",
+      "b": "A reentrancy vulnerability attack",
+      "c": "A 51 percent attack",
+      "d": "A network shutdown",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What are cryptocurrencies?",
+      "a": "Physical currencies issued by banks",
+      "b": "Digital or virtual currencies operating on decentralized blockchain networks",
+      "c": "Paper money",
+      "d": "Gold coins",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Who created Bitcoin?",
+      "a": "Vitalik Buterin",
+      "b": "Satoshi Nakamoto",
+      "c": "Nick Szabo",
+      "d": "Daniel Larimer",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "In which year was Bitcoin created?",
+      "a": "2008",
+      "b": "2009",
+      "c": "2010",
+      "d": "2015",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the maximum supply of Bitcoin?",
+      "a": "10 million",
+      "b": "21 million",
+      "c": "100 million",
+      "d": "Unlimited",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What consensus mechanism does Bitcoin use?",
+      "a": "Proof of Stake",
+      "b": "Proof of Work",
+      "c": "Delegated Proof of Stake",
+      "d": "PBFT",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Bitcoin is often referred to as what?",
+      "a": "Digital gold",
+      "b": "Digital silver",
+      "c": "Digital cash",
+      "d": "Digital bond",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Who launched Ethereum?",
+      "a": "Satoshi Nakamoto",
+      "b": "Vitalik Buterin",
+      "c": "Nick Szabo",
+      "d": "Charles Hoskinson",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "In which year was Ethereum launched?",
+      "a": "2009",
+      "b": "2010",
+      "c": "2013",
+      "d": "2015",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "What is Ethereum's primary innovation?",
+      "a": "Faster transactions",
+      "b": "Smart contracts",
+      "c": "Lower fees",
+      "d": "More coins",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the Ethereum Virtual Machine?",
+      "a": "A physical computer",
+      "b": "A decentralized runtime environment that executes smart contracts",
+      "c": "A mining device",
+      "d": "A wallet",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which industry uses blockchain for traceability from origin to consumer?",
+      "a": "Healthcare",
+      "b": "Supply Chain Management",
+      "c": "Voting",
+      "d": "Gaming",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is IBM Food Trust?",
+      "a": "A cryptocurrency",
+      "b": "A blockchain solution for food supply chain traceability",
+      "c": "A hospital system",
+      "d": "A voting platform",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does blockchain provide for healthcare records?",
+      "a": "Centralized storage",
+      "b": "Decentralized secure storage and patient control",
+      "c": "Deletion of records",
+      "d": "Public access to all records",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is self-sovereign identity?",
+      "a": "Identity controlled by government",
+      "b": "Individuals controlling their digital identity without centralized authorities",
+      "c": "Identity stored on paper",
+      "d": "Identity controlled by corporations",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which country has experimented with digital voting using blockchain?",
+      "a": "United States",
+      "b": "Estonia",
+      "c": "China",
+      "d": "Japan",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Voatz?",
+      "a": "A cryptocurrency",
+      "b": "A blockchain-based voting pilot project in the U.S.",
+      "c": "A supply chain platform",
+      "d": "A healthcare system",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the main benefit of blockchain in Digital Rights Management?",
+      "a": "Lower quality content",
+      "b": "Decentralized verifiable registration and automated royalty payments",
+      "c": "Centralized control",
+      "d": "Higher prices",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What are NFTs used for in DRM?",
+      "a": "Mining blocks",
+      "b": "Tokenizing unique digital assets for ownership verification",
+      "c": "Creating new cryptocurrencies",
+      "d": "Storing data",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Maersk's TradeLens?",
+      "a": "A cryptocurrency",
+      "b": "A blockchain platform for global shipping logistics",
+      "c": "A healthcare system",
+      "d": "A voting platform",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the main challenge in healthcare that blockchain addresses?",
+      "a": "Data fragmentation and security",
+      "b": "High costs of doctors",
+      "c": "Too many patients",
+      "d": "Lack of hospitals",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is the core strength of blockchain security?",
+      "a": "Centralized servers",
+      "b": "Decentralized structure across multiple nodes",
+      "c": "Single point of control",
+      "d": "No encryption",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What cryptographic hash function is commonly used in blockchain?",
+      "a": "MD5",
+      "b": "SHA-256",
+      "c": "AES-128",
+      "d": "RSA",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a Merkle Tree used for?",
+      "a": "Encrypting transactions",
+      "b": "Efficient verification of large data sets and enabling lightweight clients",
+      "c": "Creating new blocks",
+      "d": "Mining",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a Zero-Knowledge Proof?",
+      "a": "Proving knowledge without revealing the information itself",
+      "b": "Encrypting all data",
+      "c": "Mining blocks",
+      "d": "Creating tokens",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Which cryptocurrency uses zk-SNARKs for privacy?",
+      "a": "Bitcoin",
+      "b": "Zcash",
+      "c": "Ethereum",
+      "d": "Solana",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a 51% attack?",
+      "a": "Controlling more than 50% of network hash rate or staking power",
+      "b": "A software bug",
+      "c": "A regulatory issue",
+      "d": "A privacy breach",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is double spending?",
+      "a": "Spending the same digital currency more than once",
+      "b": "Creating new coins",
+      "c": "Deleting transactions",
+      "d": "Increasing fees",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Which protocol aims to solve interoperability?",
+      "a": "Lightning Network",
+      "b": "Cosmos and Polkadot",
+      "c": "SHA-256",
+      "d": "PoW",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is sharding?",
+      "a": "A consensus mechanism",
+      "b": "A scalability solution dividing the blockchain into smaller parts",
+      "c": "A hashing algorithm",
+      "d": "A smart contract language",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the Lightning Network?",
+      "a": "A new cryptocurrency",
+      "b": "A Layer-2 protocol for Bitcoin scalability",
+      "c": "A consensus mechanism",
+      "d": "A smart contract language",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What do payment channels allow?",
+      "a": "Mining new blocks",
+      "b": "Multiple off-chain transactions without broadcasting each to blockchain",
+      "c": "Creating new tokens",
+      "d": "Storing data",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a sidechain?",
+      "a": "A type of cryptocurrency",
+      "b": "An independent blockchain running parallel to the main chain",
+      "c": "A consensus mechanism",
+      "d": "A wallet",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a DAO?",
+      "a": "A type of mining",
+      "b": "An organization governed by smart contracts and community votes",
+      "c": "A centralized company",
+      "d": "A payment system",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "How does token-based governance work in DAOs?",
+      "a": "All users have equal votes",
+      "b": "Voting power is tied to token ownership",
+      "c": "Only developers vote",
+      "d": "Only miners vote",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is MakerDAO?",
+      "a": "A cryptocurrency",
+      "b": "A DAO that manages the DAI stablecoin",
+      "c": "A mining pool",
+      "d": "A wallet",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a blockchain bridge?",
+      "a": "A physical bridge",
+      "b": "A protocol connecting two or more blockchains",
+      "c": "A consensus mechanism",
+      "d": "A hashing algorithm",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Wrapped Bitcoin?",
+      "a": "A new cryptocurrency",
+      "b": "A tokenized version of Bitcoin on Ethereum",
+      "c": "A Bitcoin fork",
+      "d": "A mining device",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Polkadot used for?",
+      "a": "Mining Bitcoin",
+      "b": "Connecting parachains through the Relay Chain",
+      "c": "Creating NFTs",
+      "d": "Storing data",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Ocean Protocol?",
+      "a": "A cryptocurrency",
+      "b": "A platform for sharing data for AI training without revealing sensitive content",
+      "c": "A consensus mechanism",
+      "d": "A wallet",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "How does blockchain help AI explainability?",
+      "a": "By hiding all data",
+      "b": "By logging every data point and decision transparently",
+      "c": "By centralizing decisions",
+      "d": "By eliminating records",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is SingularityNET?",
+      "a": "A mining pool",
+      "b": "A decentralized marketplace for AI services using tokens",
+      "c": "A wallet",
+      "d": "A consensus mechanism",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is an Optimistic Rollup?",
+      "a": "A consensus mechanism",
+      "b": "A Layer-2 solution assuming transactions are valid unless challenged",
+      "c": "A hashing algorithm",
+      "d": "A wallet type",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a Zero-Knowledge Rollup?",
+      "a": "A Layer-2 solution using cryptographic proofs for verification",
+      "b": "A mining algorithm",
+      "c": "A smart contract language",
+      "d": "A wallet",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the main challenge of DAOs?",
+      "a": "They are too fast",
+      "b": "Regulatory uncertainty and voter apathy",
+      "c": "They cannot make decisions",
+      "d": "They require central authority",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Chainlink CCIP?",
+      "a": "A cryptocurrency",
+      "b": "A cross-chain interoperability protocol for secure messaging",
+      "c": "A consensus mechanism",
+      "d": "A wallet",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a key benefit of blockchain-AI integration in healthcare?",
+      "a": "Lower costs for hospitals",
+      "b": "Secure verifiable medical records for AI diagnostics",
+      "c": "Faster surgery",
+      "d": "More doctors",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is federated learning on blockchain?",
+      "a": "Centralized AI training",
+      "b": "AI models trained across decentralized data sources without data leaving its origin",
+      "c": "No AI training",
+      "d": "Only cloud-based training",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Web3?",
+      "a": "The first generation of internet",
+      "b": "The third generation of internet built on blockchain for decentralization and user ownership",
+      "c": "A centralized platform",
+      "d": "A gaming console",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the Metaverse?",
+      "a": "A physical world",
+      "b": "An immersive virtual world where users socialize, work, trade, and play",
+      "c": "A cryptocurrency",
+      "d": "A consensus mechanism",
+      "correct": "b",
+      "type": "single"
+    }
+  ]
+}

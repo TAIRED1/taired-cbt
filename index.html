@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>TAIRED CBT Portal</title>
+    <!-- Modern Font: Outfit -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css?v=4">
+    <!-- Ionicons for beautiful icons -->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</head>
+<body>
+    <!-- Animated Background Elements -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+    <div class="bg-shape shape-3"></div>
+
+    <!-- App Container -->
+    <div class="app-container">
+        <!-- Header -->
+        <header>
+            <div class="logo-group">
+                <img src="assets/LAUTECH-Logo.png" alt="LAUTECH" class="logo" style="border-radius: 8px;">
+                <img src="assets/TAIRED LOGO.jpg" alt="TAIRED" class="logo round">
+            </div>
+            <div class="header-text">
+                <h1 id="header-title">TAIRED CBT</h1>
+                <p id="header-subtitle" style="font-size: 0.5rem; letter-spacing: 0px;">LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY</p>
+            </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main id="main-content">
+            <!-- Screen 1: Course Selection -->
+            <section id="course-select-screen" class="screen active">
+                <div class="welcome-box">
+                    <h2>Select a Course 📚</h2>
+                    <p>Choose an available course below to start practicing for your exams.</p>
+                    
+                    <a href="https://chat.whatsapp.com/Gw3xxdfx55W8B2Wr3Uv8hV?s=cl&p=a&ilr=1" target="_blank" style="display: flex; align-items: center; justify-content: center; background: #25D366; color: white; padding: 12px; border-radius: 12px; margin-top: 15px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(37, 211, 102, 0.3); transition: transform 0.2s ease;">
+                        <ion-icon name="logo-whatsapp" style="font-size: 24px; margin-right: 10px;"></ion-icon>
+                        Join our Official WhatsApp Group
+                    </a>
+                </div>
+
+                <div class="filter-container" style="display: flex; gap: 10px; margin-bottom: 15px; justify-content: center; flex-wrap: wrap;">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="100">100 Level</button>
+                    <button class="filter-btn" data-filter="200">200 Level</button>
+                </div>
+
+                <div class="courses-list" id="courses-list">
+                    <!-- Courses will be dynamically injected here by app.js -->
+                </div>
+
+                <!-- Lit Developer CTA -->
+                <div class="developer-cta">
+                    <div class="cta-content">
+                        <div class="cta-text">
+                            <span class="cta-title">Built by TAIRED <ion-icon name="flash" class="lit-icon"></ion-icon></span>
+                            <span class="cta-subtitle">Mechanical Engineering • 300L</span>
+                        </div>
+                        <a href="https://wa.me/2348102358068" target="_blank" class="cta-btn">
+                            <ion-icon name="logo-whatsapp"></ion-icon>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Screen 2: Course Landing / Config -->
+            <section id="landing-screen" class="screen">
+                <div class="welcome-box" style="text-align: center;">
+                    <h2 id="selected-course-title">FCS 206 Practice</h2>
+                    <p>Practice with <span id="total-q-display" class="highlight" style="color: var(--primary); font-weight: 800;">0</span> past questions.</p>
+                    
+                    <div class="stats-row">
+                        <div class="stat-card">
+                            <ion-icon name="trophy-outline"></ion-icon>
+                            <span class="stat-value" id="high-score-display">0</span>
+                            <span class="stat-label">High Score</span>
+                        </div>
+                    </div>
+
+                    <div class="config-panel">
+                        <div class="config-group">
+                            <label for="question-count"><ion-icon name="list-outline"></ion-icon> Questions</label>
+                            <select id="question-count" class="cool-select">
+                                <option value="20">20 Qs</option>
+                                <option value="50">50 Qs</option>
+                                <option value="100">100 Qs</option>
+                                <option value="all">All Qs</option>
+                                <option value="custom">Custom...</option>
+                            </select>
+                            <input type="number" id="custom-q-count" class="cool-input" placeholder="E.g. 150" style="display: none;" min="1">
+                        </div>
+                        
+                        <div class="config-group">
+                            <label for="time-limit"><ion-icon name="timer-outline"></ion-icon> Time Limit</label>
+                            <select id="time-limit" class="cool-select">
+                                <option value="0">No Limit</option>
+                                <option value="10">10 Mins</option>
+                                <option value="30">30 Mins</option>
+                                <option value="60">60 Mins</option>
+                                <option value="custom">Custom...</option>
+                            </select>
+                            <input type="number" id="custom-t-limit" class="cool-input" placeholder="E.g. 45" style="display: none;" min="1">
+                        </div>
+                    </div>
+
+                    <button id="start-btn" class="primary-btn pulse-btn" style="margin-bottom: 1rem;">
+                        <span>Start Practice</span>
+                        <ion-icon name="arrow-forward-outline"></ion-icon>
+                    </button>
+                    
+                    <button id="back-to-courses-btn" class="secondary-btn">
+                        <ion-icon name="chevron-back-outline"></ion-icon>
+                        <span>Back to Courses</span>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Screen 3: Quiz Screen -->
+            <section id="quiz-screen" class="screen">
+                <div class="quiz-header">
+                    <div class="progress-container">
+                        <div class="progress-bar" id="progress-bar"></div>
+                    </div>
+                    <div class="quiz-stats">
+                        <span class="q-counter">Q <span id="current-q-num">1</span>/<span id="total-q-num">20</span></span>
+                        <span class="timer-display" id="timer-display" style="display: none;"><ion-icon name="time-outline"></ion-icon> <span id="time-remaining">00:00</span></span>
+                        <span class="score-counter">★ <span id="current-score">0</span></span>
+                    </div>
+                </div>
+
+                <div class="question-box">
+                    <h3 id="question-text">Loading question...</h3>
+                </div>
+
+                <div class="options-grid" id="options-container">
+                    <!-- Options injected via JS -->
+                </div>
+
+                <div class="typing-container" id="typing-container" style="display: none; padding: 1rem;">
+                    <input type="text" id="typing-input" class="cool-input" placeholder="Type your answer here..." style="width: 100%; box-sizing: border-box;">
+                    <button id="typing-submit-btn" class="primary-btn pulse-btn" style="margin-top: 1rem; width: 100%;">Submit Answer</button>
+                    <div id="typing-feedback" style="margin-top: 1rem; font-weight: bold; text-align: center; display: none;"></div>
+                </div>
+
+                <div class="controls-row">
+                    <button id="quit-btn" class="secondary-btn" style="flex: 1; margin-right: 1rem; background: rgba(239, 68, 68, 0.1); color: #EF4444; border-color: rgba(239, 68, 68, 0.3);">Quit</button>
+                    <button id="next-btn" class="primary-btn" disabled style="flex: 2;">Next</button>
+                </div>
+            </section>
+
+            <!-- Screen 4: Results Screen -->
+            <section id="results-screen" class="screen">
+                <div class="results-box">
+                    <div class="result-icon">
+                        <ion-icon name="medal-outline"></ion-icon>
+                    </div>
+                    <h2>Practice Complete!</h2>
+                    
+                    <div class="final-score-circle">
+                        <span id="final-score-val">0</span>
+                        <span class="divider">/</span>
+                        <span id="final-total-val">0</span>
+                    </div>
+
+                    <p id="feedback-text" class="feedback-message">Great job!</p>
+
+                    <div class="action-buttons">
+                        <button id="restart-btn" class="secondary-btn">
+                            <ion-icon name="refresh-outline"></ion-icon> Try Again
+                        </button>
+                        <button id="share-btn" class="primary-btn">
+                            <ion-icon name="share-social-outline"></ion-icon> Share on WhatsApp
+                        </button>
+                        <button id="exit-to-courses-btn" class="secondary-btn" style="background: rgba(255,255,255,0.02);">
+                            <ion-icon name="home-outline"></ion-icon> Main Menu
+                        </button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Script assets -->
+    <script src="questions_bank.js?v=4"></script>
+    <script src="app.js?v=5"></script>
+</body>
+</html>

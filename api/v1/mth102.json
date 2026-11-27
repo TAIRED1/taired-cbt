@@ -1,0 +1,4847 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "MTH102",
+    "total_questions": 488
+  },
+  "data": [
+    {
+      "question": "Who proved the equation e𝐼𝜃 = Cos 𝜃 + Isin 𝜃",
+      "options": [
+        "John Euler",
+        "Leonard Euler",
+        "Algebra",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Convert 30.5220 to DMS",
+      "options": [
+        "3003112011",
+        "3003213311",
+        "300520211",
+        "3003111911"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Convert 200151811 to degree",
+      "options": [
+        "20.2520",
+        "25.200",
+        "20.520 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Convert -20.2250 to DMS",
+      "options": [
+        "2001313011",
+        "2003113011",
+        "2001313011",
+        "-2003011311 2𝜋"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Convert 𝑟𝑎𝑑 to degree 3",
+      "options": [
+        "600",
+        "1200",
+        "1800",
+        "450"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not among the trigonometry Identity?",
+      "options": [
+        "𝑆𝑖𝑛2 𝜃 + 𝐶𝑜𝑠 2 𝜃 = 1",
+        "1 + 𝐶𝑜𝑡 2 𝜃 = 𝑆𝑖𝑛2 𝜃",
+        "1 + 𝑡𝑎𝑛2 𝜃 = 𝑆𝑒𝑐 2 𝜃",
+        "1 + 𝐶𝑜𝑡 2 𝜃 = 𝐶𝑜𝑠𝑐 2 𝜃 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "√( √6+√2 4 (d) √6− √2 4 1 −1 2 2 1−𝑠𝑖𝑛𝜃 1+𝑠𝑖𝑛𝜃 ) equals",
+      "options": [
+        "𝑡𝑎𝑛𝜃 − 𝑠𝑒𝑐𝜃",
+        "𝑠𝑒𝑐𝜃 + 𝑡𝑎𝑛𝜃",
+        "",
+        "√6− √2 4 1 −1 2 2 1−𝑠𝑖𝑛𝜃 1+𝑠𝑖𝑛𝜃 ) equals (a) 𝑡𝑎𝑛𝜃 − 𝑠𝑒𝑐𝜃 (b) 𝑠𝑒𝑐𝜃 + 𝑡𝑎𝑛𝜃 (c) 𝑡𝑎𝑛𝜃 (d) 𝑠𝑒𝑐𝜃 − 𝑡𝑎𝑛𝜃 1+𝑐𝑜𝑡 2 𝜃"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "√ 1+𝑡𝑎𝑛2 𝜃 equals",
+      "options": [
+        "Cot 𝜃",
+        "Tan 𝜃",
+        "Sin 𝜃",
+        "Sec 𝜃 1+𝑡𝑎𝑛𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "equals 1+𝑡𝑎𝑛𝑥",
+      "options": [
+        "tan x",
+        "sin x",
+        "cos x",
+        "sec x 1+𝑡𝑎𝑛2 𝜃"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "√ 1+𝑐𝑜𝑡 2 𝜃 equals",
+      "options": [
+        "tan𝜃",
+        "cot𝜃",
+        "sin𝜃",
+        "sec𝜃"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑐𝑜𝑠2𝛼 Equals one of the following except?",
+      "options": [
+        "𝑐𝑜𝑠 2 𝛼 + 𝑠𝑖𝑛2 𝛼",
+        "𝑐𝑜𝑠 2 𝛼 − 𝑠𝑖𝑛2 𝛼",
+        "1 − 2𝑠𝑖𝑛2 𝛼",
+        "2𝑐𝑜𝑠 2 𝛼 − 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cos(-𝜃) equals",
+      "options": [
+        "𝑐𝑜𝑠𝜃",
+        "– 𝑐𝑜𝑠𝜃",
+        "𝑠𝑖𝑛𝜃",
+        "−𝑠𝑖𝑛𝜃"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑆𝑖𝑛𝜃 =",
+      "options": [
+        "(c) 𝑎𝑏 (d) 2 𝑎2 +𝑏 𝑡𝑎𝑛𝜃+𝑡𝑎𝑛30 1−𝑡𝑎𝑛𝜃+𝑡𝑎𝑛30 𝑎2 +𝑏2 𝑎𝑏 =1 (a) -2 -√3",
+        "",
+        "𝑎𝑏",
+        "2 𝑎2 +𝑏 𝑡𝑎𝑛𝜃+𝑡𝑎𝑛30 1−𝑡𝑎𝑛𝜃+𝑡𝑎𝑛30 𝑎2 +𝑏2 𝑎𝑏 =1 (a) -2 -√3 (b) 2+√3 (c) 6-√3 (d) 6+√3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify tan𝜃 if 𝑡𝑎𝑛𝜃+𝑡𝑎𝑛30 1−𝑡𝑎𝑛𝜃𝑡𝑎𝑛30 = −1",
+      "options": [
+        "2-√3",
+        "-2-√3",
+        "6-√3",
+        "6+√3 𝑎 (a) 30.960 (b) 350 (c) 600 (d) 750"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑆𝑖𝑛−1 equals? 𝑎 𝑎",
+      "options": [
+        "14.48c",
+        "0.253c",
+        "-1.25c (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑡𝑎𝑛−1 (−3) equals?",
+      "options": [
+        "-71.57c",
+        "71.57c",
+        "-1.249c (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the (R) in the equation 2𝑠𝑖𝑛𝑥 + 2𝑐𝑜𝑠𝑥 = √3",
+      "options": [
+        "√2",
+        "2",
+        "√8",
+        "8 𝑎"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Use table to find the values of 𝜃 between 00 and 3600 which satisfy 𝑆𝑖𝑛𝜃 = −0.9336",
+      "options": [
+        "1170 and 2430",
+        "49.620 and 229.620",
+        "2490 and 2910",
+        "1170 and 2490"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of 𝜃 between 00 and 3600 which satisfy the equation 4𝑐𝑜𝑠 2 𝜃 − 3=0",
+      "options": [
+        "00, 300, 2100 and 3300",
+        "300, 1500, 2100 and 3300",
+        "300, 2100, 160.530 and 3300",
+        "300, 1600, 2100 and 1200 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If sin𝜃= , 00<𝜃<4500. Find the possible 2 values of 𝜃.",
+      "options": [
+        "00, 300, 1500",
+        "300, 1500, 4500",
+        "300, 1500, 3500",
+        "600, 1450, 2500"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the values of 𝜃, 00≤ 𝜃 ≤ 3600 which satisfy the equation 8𝑠𝑖𝑛2 𝜃 + 6𝑐𝑜𝑠𝜃 − 9 = 0",
+      "options": [
+        "300, 600, 750, 3000",
+        "300, 2800, 3000, 3300",
+        "600, 75.520, 284.80, 3000",
+        "600, 750, 2850, 3000"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find all values of 𝜃 between 00 and 3600 which satisfy the equation 4𝑠𝑖𝑛𝜃𝑐𝑜𝑠𝜃 + 2𝑐𝑜𝑠𝜃 − 2√3𝑠𝑖𝑛𝜃 − √3 = 0",
+      "options": [
+        "00, 2100 and 3600",
+        "300, 2100 and 3000",
+        "300, 2100 and 3300",
+        "300, 1850, 3300 3𝜋"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑐𝑜𝑠3𝑥 + √3𝑠𝑖𝑛3𝑥 = √3, 0 ≤ 𝑥 ≤ 1800 . Find the value of ‘x’ 𝜋 𝜋",
+      "options": [
+        "(1 + 4𝑛)",
+        "(1 − 4𝑛)",
+        "𝜋 16 6 16 𝜋 (1 + 4𝑛)",
+        "(1 + 4𝑛) 3 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑡𝑎𝑛𝜃 = . Find cos2𝜃",
+      "options": [
+        "7 25",
+        "4 25 7 3 5 5 3",
+        "(d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑎𝑠𝑖𝑛𝜃 + 𝑏𝑐𝑜𝑠𝜃 = √𝑝 and 𝑎𝑐𝑜𝑠𝜃 − 𝑏𝑠𝑖𝑛𝜃 = √𝑞. Evaluate √(𝑝 + 𝑞)",
+      "options": [
+        "√𝑎𝑏",
+        "√(𝑎2 + 𝑏2 )",
+        "ab",
+        "a2 + b2 𝜋"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑡𝑎𝑛−1 (3𝑥) + 𝑡𝑎𝑛−1 (2𝑥) = . Find solve equation; 4𝑐𝑜𝑠(450 + 𝜃) = cos(450 − 𝜃) 00<𝜃<900 the 4 the value of ‘x’ −1 1",
+      "options": [
+        "6",
+        "-6",
+        "",
+        "6 6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝛼 and 𝛽 are acute angles and 8 3 𝑐𝑜𝑠𝛼 = and 𝑡𝑎𝑛𝛽 = . Find 17 value of x.",
+      "options": [
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If tan(𝐴 + 𝐵) = , 𝑡𝑎𝑛𝐴 = . Find tan B",
+      "options": [
+        "−2 11",
+        "2",
+        "11 1 4 11 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑡 = 𝑡𝑎𝑛 𝜃; 𝑠𝑖𝑛𝜃 equals 𝑐+𝑎 2",
+      "options": [
+        "2𝑡 1−𝑡 2 1+𝑡 2",
+        "1−𝑡 2",
+        "2𝑡 1+𝑡 2",
+        "1−𝑡 2 1+𝑡 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑡𝑎𝑛2𝜃 = (c) 2 1−𝑡 2 1−𝑡 1+𝑡 2𝑡𝑎𝑛𝜃 1−𝑡𝑎𝑛2 𝜃 (d) 2 1+𝑡 2 1−𝑡 2 10 then tan22 2 equals",
+      "options": [
+        "-1, -√2",
+        "",
+        "2 1−𝑡 2 1−𝑡 1+𝑡 2𝑡𝑎𝑛𝜃 1−𝑡𝑎𝑛2 𝜃",
+        "2 1+𝑡 2 1−𝑡 2 10 then tan22 2 equals (a) -1, -√2 (b) √2 + 1 (c) 1 - √2 (d) √2 − 1 8"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑡𝑎𝑛𝜃 = where 𝜃 is acute angle. Evaluate",
+      "options": [
+        "240 119 15 𝑠𝑖𝑛2𝜃 ? 𝑐𝑜𝑠𝜃−𝑠𝑖𝑛 119 240",
+        "240",
+        "289",
+        "7 17"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cos4A equals?",
+      "options": [
+        "8𝑐𝑜𝑠 2 𝐴 − 8𝑐𝑜𝑠 2 𝐴 + 1",
+        "8𝑐𝑜𝑠 3 𝐴 − 8𝑐𝑜𝑠 2 𝐴 + 1",
+        "8𝑐𝑜𝑠 4 𝐴 + 8𝑐𝑜𝑠 2 𝐴 + 1",
+        "8𝑐𝑜𝑠 4 𝐴 − 8𝑐𝑜𝑠 2 𝐴 + 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that 𝜃 + ∅ = 450 . (1 + 𝑡𝑎𝑛𝜃)(1 + 𝑡𝑎𝑛∅) equals",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4 Write each of the following as sum of two trigonometric ratios:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sin19xCos13x 1 1",
+      "options": [
+        "(𝑐𝑜𝑠32𝑥 + 6𝑥)",
+        "(𝑠𝑖𝑛32𝑥 + 2 2 1 6𝑥)",
+        "(−𝑠𝑖𝑛32𝑥 + 16𝑥)",
+        "1 2 2 (𝑠𝑖𝑛32𝑥 − 16𝑥)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝐶𝑜𝑠17𝑥𝑆𝑖𝑛5𝑥 1 1",
+      "options": [
+        "(32𝑥 + 𝑆𝑖𝑛2𝑥)",
+        "(32𝑥 − 2 3 1 𝑆𝑖𝑛2𝑥)",
+        "(32𝑥 − 𝑆𝑖𝑛2𝑥) 1 2 2 1 (𝑐𝑜𝑠24𝑥 − 𝑐𝑜𝑠𝑥) (c) (𝑐𝑜𝑠24𝑥 + 𝑐𝑜𝑠𝑥) 2 = 𝑏−𝑐 𝑏+𝑐 𝐴−𝐶 2 2 = 𝑎+𝑐 𝑐−𝑎 𝐴 𝐶−𝐴 2 2 𝑐 𝑐𝑜𝑡 (b) 𝑡𝑎𝑛 𝐴−𝐵 𝑐𝑜𝑡 2 𝑐 = 𝑎−𝑏 𝑎+𝑏 = 𝑐𝑜𝑡",
+        "2 2 Write each of the following as products of trigonometric ratios:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑠𝑖𝑛16𝑥 + 𝑠𝑖𝑛14𝑥",
+      "options": [
+        "2𝑠𝑖𝑛15𝑥𝑐𝑜𝑠𝑥",
+        "𝑠𝑖𝑛15𝑥𝑐𝑜𝑠2𝑥",
+        "2𝑐𝑜𝑠15𝑥𝑠𝑖𝑛𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑠𝑖𝑛14𝑥 − 𝑠𝑖𝑛12𝑥",
+      "options": [
+        "2𝑐𝑜𝑠13𝑥𝑐𝑜𝑠𝑥",
+        "2𝑐𝑜𝑠13𝑥𝑠𝑖𝑛𝑥",
+        "2𝑠𝑖𝑛13𝑥𝑠𝑖𝑛𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑐𝑜𝑠14𝑥 + 𝑐𝑜𝑠12𝑥",
+      "options": [
+        "2𝑐𝑜𝑠3𝑥𝑐𝑜𝑠𝑥",
+        "2𝑠𝑖𝑛13𝑥𝑠𝑖𝑛𝑥",
+        "2𝑐𝑜𝑠13𝑥𝑐𝑜𝑠𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑐𝑜𝑠18𝑥 − 𝑐𝑜𝑠12𝑥",
+      "options": [
+        "−2𝑠𝑖𝑛15𝑥𝑐𝑜𝑠3𝑥",
+        "−3𝑠𝑖𝑛15𝑥𝑠𝑖𝑛2𝑥",
+        "−2𝑠𝑖𝑛15𝑥𝑠𝑖𝑛3𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of 𝛼 𝑓𝑜𝑟 00 ≤ 𝛼 ≤ 3600 in the equation 𝑐𝑜𝑠𝑒𝑐𝛼𝑡𝑎𝑛𝛼 = 𝛼 1, using the substitution 𝑡𝑎𝑛 = 𝑡 2",
+      "options": [
+        "900",
+        "1800",
+        "450",
+        "3600"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find ‘a’ and ‘b’ respectively",
+      "options": [
+        "2, 3",
+        "1, √3",
+        "√3, 1",
+        "3, 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find ‘R’",
+      "options": [
+        "3",
+        "√3",
+        "2",
+        "√2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of ‘x’ 𝜋 𝜋",
+      "options": [
+        "(1 + 4𝑛)",
+        "(1 + 12𝑛)",
+        "𝜋 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑠𝑖𝑛2𝜃+𝑐𝑜𝑠𝜃 2𝑠𝑖𝑛2 𝜃+𝑐𝑜𝑠𝜃 equals",
+      "options": [
+        "tan𝜃",
+        "cot𝜃",
+        "sec𝜃",
+        "0 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑠𝑖𝑛𝐴 = 6 10 and 𝑐𝑜𝑠𝐵 = 8 . Find 10 sin(A+B) and cos(A-B) respectively.",
+      "options": [
+        "1, 24 25",
+        "24 25 , -1",
+        "24 25 , 1(d) 25 24 ,1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Express 1 + 8𝑠𝑖𝑛2 𝜃 in terms of cos𝜃?",
+      "options": [
+        "9 − 8𝑐𝑜𝑠 2 𝜃",
+        "8 − 9𝑐𝑜𝑠 2 𝜃",
+        "9 + 8𝑐𝑜𝑠 2 𝜃 (d)8 + 9𝑐𝑜𝑠 2 𝜃"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑡𝑎𝑛𝐴 = √2 + 1, find 𝑠𝑒𝑐 2 𝐴 – 2",
+      "options": [
+        "2 + 2√2",
+        "2 - 2√2",
+        "4 + 2√2",
+        "4 - 2√2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a triangle ABC, <A=530, sides b and c are 4.2cm and 3.5cm respectively. Find the area of ABC",
+      "options": [
+        "5.87",
+        "6.87",
+        "10.78",
+        "0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In triangle ABC, a=7m, b=4m, c=5m, A=250, find C and the areas.",
+      "options": [
+        "C=17.570 Area=4.23m2",
+        "C=20.570 Area=4.23m2",
+        "C=15.570 Area= - 4.23m2",
+        "C= - 17.570 Area=4.23m2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a triangle ABC, a=10, b=6, c=12. Find the angles and area?",
+      "options": [
+        "A=56.250 B=29.930 C=93.820 Area=29.93m2",
+        "A=56.300 B=20.930 C=98.820 Area=39.93m2",
+        "A=56.250 B=29.930 C=700 Area=29.93m2",
+        "A=45.990 B=29.930 C=93.820 Area=29.93m2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify 𝑐𝑜𝑠 4 𝜃 − 𝑠𝑖𝑛4 𝜃",
+      "options": [
+        "sin2 𝜃",
+        "cos2 𝜃",
+        "tan2 𝜃",
+        "cot2 𝜃"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑎+𝑏+𝑐 𝑎+𝑏−𝑐 𝐴 𝐵 2 2 = 𝑐𝑜𝑡 𝑐𝑜𝑡 and a + b=18mm, A=720, B=460. Find angle C and the sides of the triangle.",
+      "options": [
+        "C=700, a=10.24mm, b=7.75mm, c=9.51mm",
+        "C=620, a=10.24mm, b=7.75mm, c=9.51mm",
+        "C=620, a=10.24mm, b=7.75mm, c=2mm",
+        "C=620, a=4.00mm, b=7.75mm, c=9.51mm"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that in triangle ABC, a=5, b=3, c=6. Find angle A and the area of triangle ABC.",
+      "options": [
+        "A=60.000, 7.4833 Sq Unit",
+        "A=56.500, 6.988 Sq Unit",
+        "A=56.250,"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a triangle ABC, a=7, b=6, c=5. Find angle B and the area of ABC.",
+      "options": [
+        "B=57.120, Area=14.7cm2",
+        "B=60.120, Area=14.7cm2",
+        "B=52.120, Area=14.7cm2",
+        "B=57.120, Area=12.7cm2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify 𝑡𝑎𝑛62−𝑡𝑎𝑛17 1+𝑡𝑎𝑛62𝑡𝑎𝑛17",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4 𝜋"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑡𝑎𝑛𝜃 =",
+      "options": [
+        "𝑚2 +𝑛2 2𝑚𝑛 𝑚2 +𝑛2 𝑡𝑎𝑛𝜃−1 𝑡𝑎𝑛𝛼 (c) 𝑡𝑎𝑛𝛼+1 1+𝑡𝑎𝑛𝛼 (d) ? 𝑚2 −𝑛2 , find sec𝜃 2𝑚𝑛 𝑚2 +𝑛3",
+        "",
+        "𝑡𝑎𝑛𝛼+1 1+𝑡𝑎𝑛𝛼",
+        "? 𝑚2 −𝑛2 , find sec𝜃 2𝑚𝑛 𝑚2 +𝑛3 (b) 2𝑚𝑛 (c) 𝑚3 +𝑛2 2𝑚𝑛 (d) 3𝑚𝑛"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In first quadrant 𝑡𝑎𝑛𝜃 is _______?",
+      "options": [
+        "positive",
+        "negative",
+        "∞",
+        "0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which is correct 𝑐𝑜𝑠 −1 𝑥",
+      "options": [
+        "±𝑐𝑜𝑠 −1 𝑥 + 2𝑛𝜋",
+        "±𝑐𝑜𝑠 −1 𝑥 + 𝑛𝜋",
+        "±𝑐𝑜𝑠 −1 𝑥 + 4𝑛𝜋",
+        "𝑐𝑜𝑠 −1 𝑥 + 2𝑛𝜋"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these is true about 𝑐𝑜𝑠 ( 𝐴 𝐵 2 𝐴+𝐵 2 𝐴+𝐵 𝐴 𝐵 2 2 2 )",
+      "options": [
+        "𝑐𝑜𝑠 + 𝑐𝑜𝑠",
+        "𝑠𝑖𝑛 + 𝑠𝑖𝑛",
+        "𝑠𝑖𝑛 ( 2 )",
+        "sin 𝑐 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑐𝑜𝑠𝜃 > 0 and 𝑠𝑖𝑛𝜃 < 0, then",
+      "options": [
+        "00 < 𝜃 < 900",
+        "1800 < 𝜃 < 2700",
+        "900 < 𝜃 < 1800",
+        "2700 < 𝜃 < 3600"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "1 + 𝑠𝑒𝑐 2 60 𝑖𝑠",
+      "options": [
+        "2",
+        "4",
+        "none",
+        "0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given a triangle with angles ABC and sides a, b, c the area of the triangle is given ; 1 1 1",
+      "options": [
+        "𝑎𝑏𝑠𝑖𝑛𝐴",
+        "𝑎𝑏𝑠𝑖𝑛𝐵",
+        "𝑎𝑏𝑠𝑖𝑛𝐶 2 1 2 2",
+        "𝑎𝑏𝑠𝑖𝑛𝐴𝐵𝐶 2 12"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "2 𝑡𝑎𝑛𝜃−𝑠𝑒𝑐𝜃 is equal to _________? 𝑡𝑎𝑛𝜃𝑠𝑒𝑐𝜃",
+      "options": [
+        "𝑐𝑜𝑠𝜃 − 𝑐𝑜𝑡𝜃",
+        "𝑡𝑎𝑛𝜃 − 𝑐𝑜𝑡𝜃",
+        "𝑐𝑜𝑠𝜃 − 𝑡𝑎𝑛𝜃",
+        "𝑠𝑒𝑐𝜃 − 𝑡𝑎𝑛𝜃 𝑚"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑐𝑜𝑠𝜃 = 1 + 𝑡𝑎𝑛2 𝜃 is _______? 𝑦2 𝑦, 𝑥2 𝑥 2 −𝑦 2 𝑦 2 −𝑥 2 𝑥 𝑦 𝑦 𝑦2",
+      "options": [
+        "2",
+        "",
+        "2",
+        "2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑡𝑎𝑛𝜃 = 𝑦. Find 𝑐𝑜𝑠2𝜃 in terms of y",
+      "options": [
+        "1−𝑦 2 1+𝑦 2 𝑦2 1+𝑦 1−𝑦 1+𝑦",
+        "2",
+        "2",
+        "2 1 2 0 𝑦2 −√3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑠𝑖𝑛𝜃 = and 𝑐𝑜𝑠𝜃 = 0 1+𝑦 2 2 . 𝜃 is? 0",
+      "options": [
+        "30",
+        "60",
+        "150",
+        "1200 1 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "1 If 𝑠𝑖𝑛𝜃 = and 00 < 𝜃 < 900 . 𝑐𝑜𝑠 2 𝜃 tan(900 −𝜃) 2 is",
+      "options": [
+        "4√3",
+        "4 √3",
+        "√3 4",
+        "√3 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑐𝑜𝑠(𝜋 + 𝑥) is equivalent to _________ in radian",
+      "options": [
+        "cos x",
+        "–cos x",
+        "sin x",
+        "–sin x"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of sin 2𝛼 if tan𝛽 = 12 and sin 𝛼 = 5",
+      "options": [
+        "25",
+        "65",
+        "65",
+        "35 𝑑𝑦 𝑥2 𝑦2 𝑎2 𝑥 −𝑎 2 𝑥 −𝑏2 𝑥 𝑏2 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑥,if 𝑎2 + 𝑏2 = 1",
+      "options": [
+        "𝑏2 𝑦",
+        "−𝑎2 𝑥",
+        "𝑎2 𝑦",
+        "𝑎2 𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of cos 22.5 in surd form?",
+      "options": [
+        "√(√2−1) 2",
+        "√(2+√2)",
+        "2 √(2−√2) 2 3−√3 3+√3 −3−√3 3−√3 √ √ √ √ (√2−2) 2",
+        "√"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of 195° in surd form",
+      "options": [
+        "−3+ 3",
+        "3− 3",
+        "3+ 3",
+        "3+ 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of sin 22.5° in surd form",
+      "options": [
+        "𝜋 4 √2+√2 2",
+        "√√2−1 √2−√2 −√√2−2",
+        "2",
+        "2 2 1 6 −1 1 −1 (c) ,1 (d)1, 6 6 6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑐𝑜𝑠3𝑥 + √3𝑠𝑖𝑛3𝑥 = √3, 0 ≤ 𝑥 ≤ 180° find the value of x",
+      "options": [
+        "16 (1 + 4𝑛)",
+        "2 (1 + 4𝑛)",
+        "3 + 6 + 𝜋 𝜋 2𝑛𝑥 (d)- 3 − 6 + 2𝑛𝜋"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ 3 𝑑𝑥",
+      "options": [
+        "ln(10𝑥 3 + 3) + 𝐶",
+        "ln(10𝑥 3 + 3) + 𝐶",
+        "ln(10𝑥 3 + 3) + 𝐶",
+        "ln(10𝑥 3 + 10𝑥 +3 6 3 2 3𝑥) + 𝐶"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ 6𝑥−4 𝑑𝑥",
+      "options": [
+        "3𝑥 − 4 + 𝐶",
+        "3 𝑙𝑛3𝑥 − 4",
+        "3 𝑙𝑛6𝑥 − 4",
+        "2𝑙𝑛6𝑥 − 4 1+𝑐𝑜𝑠𝜃"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "if cos𝜃 = 𝑏 , 𝑡ℎ𝑒𝑛 𝑡𝑎𝑛2 𝜃 𝑖𝑠",
+      "options": [
+        "𝑎2",
+        "𝑎2",
+        "𝑏2",
+        "𝑎2 +𝑐 2 𝑠𝑖𝑛𝐴+𝑐𝑜𝑠𝐴 1 1 1 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify 𝑐𝑜𝑠4 𝐴−𝑠𝑖𝑛4 𝐴",
+      "options": [
+        "𝑠𝑖𝑛𝐴𝑐𝑜𝑠𝐴",
+        "𝑐𝑜𝑠𝐴−𝑠𝑖𝑛𝐴",
+        "𝑠𝑖𝑛𝐴+𝑐𝑜𝑠𝐴",
+        "𝑠𝑖𝑛𝐴"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given 𝑦 = 𝑥 3 − 6𝑥 2 + 2𝑥 Find the inflection point",
+      "options": [
+        "(-2,-12)",
+        "(2,12)",
+        "(-12,-10) (d)(2,-12)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ 5𝑥 2 10𝑥 3 +3 𝑑𝑥",
+      "options": [
+        "ln(10𝑥 3 + 3) + 𝐶 1",
+        "ln(10𝑥 3 + 3) + 𝐶 6 5",
+        "ln(10𝑥 3 + 3) + 𝐶 3 1",
+        "ln(10𝑥 3 + 3𝑥) + 𝐶 2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Evaluate lim(𝑥 2 − 1) 𝑥→1",
+      "options": [
+        "1",
+        "-1",
+        "2",
+        "-2 𝑡𝑎𝑛𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "3. The limits of a constant is ________?",
+      "options": [
+        "1",
+        "0",
+        "∞",
+        "the constant Evaluate lim(6𝑥 3 − 3𝑥 2 + 5𝑥 + 7) 𝑥→0 (a) 7 (b) -7 (c) 10 (d) 0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑥 2 −𝑥−6 Evaluate lim [ 𝑥−3 ] 𝑥→3",
+      "options": [
+        "3",
+        "-3",
+        "5",
+        "-5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "sin 𝑥 Evaluate lim [ 𝑥 ] 𝑥→0",
+      "options": [
+        "0",
+        "1",
+        "∞",
+        "10"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "log 𝑥 𝑒 Evaluate lim ( 𝑥−1 ) 𝑥→1",
+      "options": [
+        "1",
+        "-1",
+        "2",
+        "-2 sin ℎ𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate lim ( 𝑥 𝑥→0 ) 1",
+      "options": [
+        "1",
+        "-1",
+        "∞",
+        "2 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate lim √𝑥 2 𝑥→0",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate lim 𝑥 ∙ (sin 𝑥) 𝑥→0",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "-2 2𝑥 2 +4𝑥−3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate lim 5𝑥 2 −6𝑥+1 1 𝑥→∞ 5 2",
+      "options": [
+        "2",
+        "2",
+        "2",
+        "5 𝑥+𝑠𝑖𝑛𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate lim 2𝑥−𝑠𝑖𝑛𝑥 𝑥→0",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate lim 𝑥 2 𝑠𝑖𝑛𝑥 𝑥→𝜋 𝜋",
+      "options": [
+        "𝜋",
+        "–𝜋",
+        "2",
+        "0 𝑥 2 −4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate lim 𝑥 2 +5𝑥+6 𝑥→2",
+      "options": [
+        "0",
+        "4",
+        "-4",
+        "none 𝑥 2 +2𝑥+1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate lim 𝑥 2 +3𝑥+2 𝑥→−1",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2 1 ] ℎ ) (a) 0 (b) -1 (c) -6 (d) 6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Determine whether or not the function f(x) =4𝑥 3 + 3𝑥 2 + 5𝑥 − 2 is continuous",
+      "options": [
+        "It is continuous",
+        "It is not continuous",
+        "It can’t be determined 𝑥 2 −4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Discuss the continuity of the function 𝑥 2 −𝑥−2",
+      "options": [
+        "Continuous",
+        "discontinuous",
+        "removable continuous"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate lim ( 𝑥→0 𝑥→∞ 𝑡2 1 5 𝑥 3 +5𝑥 2 +3𝑥+2 √𝑡 2 +9−3",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "6 −13 Evaluate lim 𝑥−3 Evaluate lim [ 𝑥→𝜋 (a) 0 (b) 𝜋 (c) – 𝜋 (d) 𝜋 2 𝑡→0 (a) 0 (b) 6 (c) 3 (d) None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Discuss the continuity of 𝑓(𝑥) = 𝑥−1 at x=1",
+      "options": [
+        "continuous",
+        "discontinuous",
+        "removable continuous",
+        "removable discontinuous"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the points of the discontinuity of the 𝑥−3 function; 𝑓(𝑥) = 𝑥 2 +𝑥−6",
+      "options": [
+        "1, 0",
+        "-2, -3",
+        "3, 1",
+        "2, -3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of x for which the function are 𝑥 2 −4 discontinuous 𝑓(𝑥) = 𝑥 2 +5𝑥+6",
+      "options": [
+        "2, 1",
+        "3, 2",
+        "-2, -3",
+        "0, -2 (a) 3sinxcosx (b) 3sin2xcosx (c) 3sin2xsinx (d) 3cos2xcosx"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of 𝑦 = 5√𝑥",
+      "options": [
+        "5 √𝑥 5 5 25 √ √ √",
+        "2 𝑥",
+        "3 𝑥",
+        "2 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of 𝑦 = 3 √𝑥 2",
+      "options": [
+        "−8 2 3 √𝑥 5 𝑑𝑦",
+        "−8",
+        "3 3 √𝑥 2 2 3 −8 3 3 √𝑥 5 2",
+        "−5 3 −5 3 √𝑥 5 (a) 2𝑥 2 + 12𝑥 − 7 (b) 2𝑥 2 + 12𝑥 − 8 (c) 3𝑥 2 + 12𝑥 − 7 (d) 𝑥 2 + 12𝑥 − 7"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 2cosx+5sinx",
+      "options": [
+        "cosx-2sinx",
+        "2cosx-5sinx",
+        "5cosx2sinx",
+        "cosx - sinx"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate e3x",
+      "options": [
+        "3ex",
+        "3e2x",
+        "3e3x",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate y=x2+3 from the first principle",
+      "options": [
+        "2x",
+        "2",
+        "0",
+        "2x+3x 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑦 = 18 𝑥 with respect to x. 5 5 3 6 5",
+      "options": [
+        "𝑥 2",
+        "𝑥 2",
+        "𝑥 2 6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of 𝑦 = 5 𝑥 2 −3𝑥+1 𝑥2 with respect to x 2 3",
+      "options": [
+        "𝑥 2 − 𝑥 3",
+        "𝑥 2 − 𝑥 3",
+        "3𝑥 −2 + 2𝑥 2",
+        "2𝑥 2 − 3𝑥 3 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = (𝑝𝑥 + 𝑞)𝑛 , find 𝑑𝑥",
+      "options": [
+        "𝑛𝑝(𝑝𝑥 + 𝑞)𝑛−1",
+        "𝑛(𝑝𝑥 + 𝑞)𝑛−1",
+        "𝑛(𝑝𝑥 − 𝑞)𝑛−1",
+        "𝑛𝑝(𝑝𝑥 − 𝑞)𝑛−1 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑥 ; If 𝑦 = 𝑥 3 𝑐𝑜𝑠𝑥 2 2",
+      "options": [
+        "3𝑥 𝑠𝑖𝑛𝑥 − 𝑥 cos 𝑥",
+        "3𝑥 𝑐𝑜𝑠𝑥 − 𝑥 3 sin 𝑥",
+        "3𝑥 2 𝑐𝑜𝑡𝑥 − 𝑥 3 tan 𝑥 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = √3+𝑥 2, find y1",
+      "options": [
+        "3 (3+𝑥 3 )2 𝑥",
+        "3",
+        "(3+𝑥 2 )2 4𝑠𝑖𝑛𝑥 3 (3+𝑥 2 )2 𝑠𝑖𝑛𝑥 4𝑠𝑖𝑛𝑥 (a) 𝑐𝑜𝑠𝑥 (b) 4𝑐𝑜𝑠𝑥 (c) 3−𝑐𝑜𝑠𝑥",
+        "4𝑐𝑜𝑠𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑑𝑦 𝑥+2 Find 𝑑𝑥 |𝑥 = 5 if 𝑦 = 𝑥−2 4 −4 9 −9",
+      "options": [
+        "9",
+        "9",
+        "4",
+        "4 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑥 if y=cos6x",
+      "options": [
+        "-6sin6x",
+        "-6sin2x",
+        "-6cos6x",
+        "-6sin2x 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑥 If 𝑦 = (3𝑥 2 + 4)(1 + 𝑥) 4 4",
+      "options": [
+        "3 + 6𝑥 − 𝑥",
+        "3 + 6𝑥 − 𝑥 2 (b) 3 + 6𝑥 − 4 4",
+        "3 + 6𝑥 + 𝑥 2 parabola are 𝑥 = 𝑝𝑡 2 , 𝑦 = 2𝑝𝑡. 𝑑𝑥 =? 1 (a) 𝑡 (b) t (c) 1",
+        "2 2𝑎𝑡 2 2𝑎 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 1+𝑡 2 , 𝑥 = 1+𝑡 2. Find 𝑑𝑥 ?",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑠𝑖𝑛3 (4𝑥 + 10).what is y1?",
+      "options": [
+        "2(sin(4𝑥 + 10))2 cos(4𝑥 + 10)",
+        "(2(sin 12𝑥 + 10))2 cos(4𝑥 + 10)",
+        "2(𝑠𝑖𝑛(4𝑥 − 10))2 cos(4x-10)",
+        "2cos(4x10) 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑥 = 1+𝑡 , 𝑦 = 1+𝑡 . Find 𝑑𝑥 ? 1 1 −1 −1",
+      "options": [
+        "5",
+        "5 𝑡",
+        "5",
+        "5 𝑡 2−3𝑡 −𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate y=cos(5x - 4)",
+      "options": [
+        "5sin(4x-4)",
+        "5sin(5x-4x)",
+        "-5sin(5x-4)",
+        "-4sin(5x+5)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate 𝑦 = ln(3 − 4𝑐𝑜𝑠𝑥) 4𝑠𝑖𝑛𝑥 16(6𝑥 2 −12𝑥+2)",
+      "options": [
+        "4Sint",
+        "-4Sint",
+        "4Cost",
+        "-4Cost 3 −𝑥 −16(6𝑥 2 +12𝑥−2) 𝑑𝑦 6 (a) 18(3x-5) (b) 18(3x+5) (c) 18(3x-5) (d) 18(3x+5)5 2 −16(6𝑥 2 −12𝑥+2) (a) (2𝑥 3 −6𝑥 2 +2𝑥+1)5 (b) (2𝑥 3 +6𝑥 2 −2𝑥+1)5 (c)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of 𝑦 = 𝑒 5𝑥−1 with respect to x",
+      "options": [
+        "5𝑒 5𝑥−1",
+        "5𝑒 5𝑥+1",
+        "6𝑒 6𝑥−1",
+        "6𝑒 6𝑥+1 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate 𝑦 = (2𝑥 3 −6𝑥 2 +2𝑥+1)5 𝑥3 9 6 −5",
+      "options": [
+        "−3𝑥(𝑥 2 + 1) 2",
+        "3𝑥(𝑥 2 − 1) 2",
+        "−6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑥 = 1+𝑡 and y= 1+𝑡 . Find 𝑑𝑥 ? 1 −1",
+      "options": [
+        "5",
+        "5",
+        "5",
+        "-5 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑥 = 𝑎𝑡 2 and 𝑦 = 2𝑎𝑡. Find 𝑑𝑥 ? 1 1",
+      "options": [
+        "t",
+        "𝑡",
+        "a",
+        "𝑎 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑥 2 + 𝑦 2 + 2𝑏𝑥𝑦 = 0, find 𝑑𝑥 ? 𝑏𝑦−𝑥 𝑥+𝑏𝑦",
+      "options": [
+        "− [𝑏𝑥−𝑦]",
+        "− [𝑏𝑥−𝑦]",
+        "−𝑏𝑦+𝑥 𝑏𝑦−𝑥",
+        "𝑏𝑦+𝑥 − [𝑏𝑥+𝑦]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑥 4 + 4𝑥 2 𝑦 2 − 9 = 0 implicitly with respect to x −(𝑥 2 +2𝑦 2 )",
+      "options": [
+        "𝑥 2 +2𝑦 2",
+        "2𝑥𝑦 −𝑥 2 +2𝑦 2",
+        "2𝑥𝑦 2𝑥𝑦",
+        "𝑥2 −𝑏 2 𝑥 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑎 = 𝑡 + 𝑡 and 𝑦 = 𝑡 + 𝑡. What is 𝑑𝑎? 2𝑡−1 −2𝑡+1 (3𝑥𝑐𝑜𝑠3𝑥)+(3𝑐𝑜𝑠3𝑥)−𝑠𝑖𝑛3𝑥",
+      "options": [
+        "(a) 3𝑡 2 −2𝑡",
+        "3𝑡 2 +2𝑡",
+        "3𝑡 2 +2𝑡(d) 3𝑡 2 +2𝑡 (b)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of tan2x2?",
+      "options": [
+        "𝑡𝑎𝑛𝑥 2 𝑠𝑒𝑐 2 𝑥",
+        "4𝑥𝑡𝑎𝑛2 𝑥 2 𝑠𝑒𝑐𝑥",
+        "4𝑥𝑡𝑎𝑛𝑥 2 𝑠𝑒𝑐 2 𝑥 2",
+        "4𝑥𝑠𝑖𝑛𝑥 2 𝑐𝑜𝑡𝑥 2 (c) −1 4 1 1 1 −4𝑠𝑖𝑛4𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate Sin4x?",
+      "options": [
+        "4cos3xsinx",
+        "4cosxsin2x",
+        "4sin3xcosx 3 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑥 , If 𝑥 + 𝑦 = 3𝑥𝑦? 𝑥 2 −𝑦 𝑦−𝑥 2 𝑦+𝑥 2",
+      "options": [
+        "a2x+1logea",
+        "2a2x+1logea",
+        "2x+1logea",
+        "None 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 5 + 2𝑥 4 − 4𝑥 3 − 5𝑥 2 + 8𝑥 − 3. Find y1 when x = - 1?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥𝑠𝑖𝑛𝑥 − 𝑠𝑖𝑛2 𝑥. Find 𝑑𝑥 when 𝑥 = 𝜋2",
+      "options": [
+        "1",
+        "𝜋",
+        "-1",
+        "- 𝜋"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 𝑠𝑖𝑛𝑥 . Find y1?",
+      "options": [
+        "𝑥 𝑠𝑖𝑛𝑥 [ 𝑠𝑖𝑛2𝑥 + 𝑙𝑜𝑔𝑒 𝑥𝑐𝑜𝑠𝑥] 𝑥 𝑠𝑖𝑛𝑥 𝑠𝑖𝑛𝑥",
+        "𝑥 [ 𝑥 + 𝑙𝑜𝑔𝑒 𝑥𝑐𝑜𝑠𝑥] 𝑐𝑜𝑠2𝑥",
+        "𝑥 𝑠𝑖𝑛𝑥 [ 𝑥 + 𝑙𝑜𝑔𝑒 𝑥𝑐𝑜𝑠𝑥]",
+        "𝑥 𝑠𝑖𝑛𝑥 [ 𝑠𝑖𝑛2𝑥 𝑥 + 𝑙𝑜𝑔𝑒 𝑥𝑠𝑖𝑛𝑥] 𝑑𝑦 5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑥 , if y= √𝑥? 𝑑𝑦",
+      "options": [
+        "4x3",
+        "4y3",
+        "4x-1(d) None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑙𝑜𝑔𝑒 𝑠𝑖𝑛𝑥 with respect to x",
+      "options": [
+        "Cot x",
+        "Tan x",
+        "Sec x",
+        "Cosec x"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate ln(3 + 𝑥 4 ) with respect to x 4𝑥 3 4𝑥 3 4𝑥 3 𝑥3",
+      "options": [
+        "3+𝑥 2",
+        "3+𝑥 4",
+        "3−𝑥 4",
+        "3+𝑥 4 𝑒𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivatives of 𝑆𝑒𝑐 3 𝑥?",
+      "options": [
+        "–(6x-2)sin(3x2-2x)",
+        "(6x-2)sin(3x2-2x)",
+        "–(6x-2)sin(3x2+2x)",
+        "(6x+2)sin(3x2-2x) 4 𝑑𝑦 (a) (𝑥+1)2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑥 ? −2𝑥𝑦−𝑦 3 −3 (d) (𝑥+1)2 (3𝑥𝑠𝑖𝑛3𝑥)+(3𝑐𝑜𝑠3𝑥)−𝑠𝑖𝑛3𝑥",
+      "options": [
+        "5x4",
+        "5y4",
+        "",
+        "(𝑥+1)2 (3𝑥𝑠𝑖𝑛3𝑥)+(3𝑐𝑜𝑠3𝑥)−𝑠𝑖𝑛3𝑥 (a) 5x4 (b) 5y4 (c) None (d) 0 𝑥 2 +𝑦 (a) 𝑥−𝑦 (b) 𝑦 2 −𝑥 (c) 𝑦 2 +𝑥 (d) 𝑥+𝑦 −2𝑥𝑦−𝑦 3 −3 (𝑥+1)2 (3𝑥𝑐𝑜𝑠3𝑥)+(3𝑐𝑜𝑠3𝑥)−𝑠𝑖𝑛3𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate with respect to x; 𝑥 2 𝑙𝑜𝑔𝑒 𝑥",
+      "options": [
+        "𝑥 − 2𝑥𝑙𝑜𝑔𝑒 𝑥",
+        "𝑥 + 2𝑥𝑙𝑜𝑔𝑒 𝑥",
+        "𝑥 + 3𝑥𝑙𝑜𝑔𝑒 𝑥",
+        "2𝑥 + 2𝑥𝑙𝑜𝑔𝑒 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate with respect to x; (𝑙𝑜𝑔10 𝑥)2 2",
+      "options": [
+        "𝑥 𝑙𝑜𝑔10 𝑒(𝑙𝑜𝑔10 𝑥) 3",
+        "𝑥 𝑙𝑜𝑔10 𝑒(𝑙𝑜𝑔10 𝑥) 2",
+        "𝑥 𝑙𝑜𝑔10 𝑒(𝑙𝑜𝑔10 2𝑥) 2",
+        "− 𝑥 𝑙𝑜𝑔10 𝑒(𝑙𝑜𝑔10 𝑥)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate with respect to x; e4x",
+      "options": [
+        "4ex",
+        "e4x",
+        "4e4x",
+        "4e3x 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the fifth derivative of 25𝑥 7 + 30𝑥 5 + 15𝑥 2",
+      "options": [
+        "63000𝑥 2 + 3600",
+        "630𝑥 2 + 3600",
+        "63000𝑥 2 + 360",
+        "63000𝑥 2 + 300 = 𝑦."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate with respect to x; 𝑥 2 𝑒 𝑥",
+      "options": [
+        "𝑥 2 𝑒 𝑥 + 2𝑥𝑒 𝑥",
+        "𝑥 2 𝑒 𝑥",
+        "𝑥 2 𝑒 𝑥 − 2𝑒 𝑥 𝑥 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of 𝑒 2𝑥 ln 5𝑥 1",
+      "options": [
+        "−𝑒 2𝑥 (𝑥 + 2 ln 5𝑥)",
+        "𝑒 𝑥 (𝑥 + 2 ln 5𝑥) 1",
+        "𝑒 2𝑥 (𝑥 + 2 ln 5𝑥)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate with respect to x.; 𝑒 𝑐𝑜𝑠𝑥",
+      "options": [
+        "𝑆𝑖𝑛𝑥 𝑐𝑜𝑠𝑥",
+        "−𝑆𝑖𝑛𝑥 𝑒 𝑐𝑜𝑠𝑥",
+        "𝑆𝑖𝑛𝑥 𝑒 𝑐𝑜𝑠𝑥",
+        "𝑆𝑖𝑛𝑥 𝑐𝑜𝑠𝑥 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑥 𝑥 with respect to x",
+      "options": [
+        "𝑥 2+1 (1 + 2𝑙𝑜𝑔𝑒 𝑥)",
+        "𝑥 2𝑥−1 (1 + 𝑙𝑜𝑔𝑒 𝑥) 2+1",
+        "𝑥 𝑥 (1 + 2𝑙𝑜𝑔𝑒 𝑥) 2",
+        "𝑥 𝑥 +1 (1 + 2𝑙𝑜𝑔𝑒 𝑥)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑥 ln 𝑥 with respect to x 2 2 −2",
+      "options": [
+        "[𝑥 ln 𝑥]",
+        "[𝑥 ln 𝑥] 𝑥 ln 𝑥",
+        "[ 𝑥 ln 𝑥]",
+        "−2 [ 𝑥 ln 𝑥] 𝑥 ln 𝑥 𝑥 5−𝑡"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑒 𝑒 with respect to x 𝑥 𝑥+𝑥 𝑥",
+      "options": [
+        "𝑒 𝑒",
+        "𝑒 𝑥+1",
+        "𝑒 𝑒",
+        "𝑒 𝑒 +𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑥15 with respect to 𝑥 5",
+      "options": [
+        "𝑥15",
+        "𝑥 3",
+        "3𝑥 5",
+        "3𝑥10"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑒 𝑥 with respect to ln 𝑥",
+      "options": [
+        "𝑒 𝑥",
+        "ln 𝑥",
+        "𝑒 𝑥 ln 𝑥",
+        "𝑥𝑒 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate Sin x with respect to Cos x",
+      "options": [
+        "Sin x",
+        "–Sin x",
+        "Cot x",
+        "–Cot x"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the second derivative of Cos4x3",
+      "options": [
+        "−12𝑥 2 𝑆𝑖𝑛4𝑥 3",
+        "−24𝑥𝑆𝑖𝑛4𝑥 3 − 144𝑥 4 𝐶𝑜𝑠4𝑥 3",
+        "−24𝑥𝑆𝑖𝑛4𝑥 3 + 144𝑥 4 𝐶𝑜𝑠4𝑥 3 ) 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the third derivatives of 𝑒 𝑥 2 2 2",
+      "options": [
+        "4𝑥𝑒 𝑥 + 8𝑥𝑒 𝑥 + 8𝑥 3 𝑒 𝑥 2 2",
+        "12𝑥𝑒 𝑥 − 8𝑥 3 𝑒 𝑥 2 2",
+        "12𝑥𝑒 𝑥 + 8𝑥 3 𝑒 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of tangent at x=1 to the curve 𝑦 = 3𝑥 2 + 2𝑥 − 1",
+      "options": [
+        "𝑦 = 8𝑥 − 4",
+        "𝑦 = 8𝑥 + 4",
+        "𝑦 = 6𝑥 − 4",
+        "𝑦 = 6𝑥 + 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of normal to 𝑦 = 3𝑥 2 + 2𝑥 − 1 at x=1",
+      "options": [
+        "8y = 30 – x",
+        "8y = 33 – x",
+        "8y = 33 + x",
+        "8y = 30 + x"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the normal to the curve 𝑦 = 𝑥 3 − 2𝑥 2 + 3𝑥 − 1 at the point (2,5) 37 37 37 37",
+      "options": [
+        "−3 + 7",
+        "−3 − 7",
+        "3 + 7",
+        "3 − 7"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the slope of the function 𝑦 = 𝑓(𝑥) = 5𝑡 2 − 5𝑡 + 30, when t1=1, 𝛼𝑡2 = 5",
+      "options": [
+        "5 & 45",
+        "5 & 40",
+        "5 & 35",
+        "5 & 30"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volume of sphere is increasing at the rate of 50cm3/sec. at what rate is the radius of the sphere increasing when the radius of the 4 sphere is 5cm (Hint: Volume V=3 𝜋𝑟 3 )",
+      "options": [
+        "0.159cm",
+        "2.159cm",
+        "159cm (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 4𝑥 3 + 15𝑥 2 − 18𝑥 + 7. Find the minimum point and maximum point respectively. 1 9 1 9",
+      "options": [
+        "(2 , 4), (-3, 88)",
+        "(2 , 4), (3, -88)",
+        "1 −9 1 9 2 2 4 ( , 4 ), (-3, 88)",
+        "( , ), (3, 88)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 3 + 3𝑥 2 , determine the maximum points of the function",
+      "options": [
+        "(-2,4), (0,0)",
+        "(-2,-4), (0,0)",
+        "(-2,4), (0,1)",
+        "(-2,4), (0,-1)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For what value of x will the function 𝑦 = 2𝑥 3 − 3𝑥 2 − 36𝑥 + 6 is maximum",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "-50"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For what value of x will the function 𝑦 = 2𝑥 3 − 3𝑥 2 − 36𝑥 + 6 is minimum",
+      "options": [
+        "2",
+        "3",
+        "-2",
+        "6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the inflection point of the function 𝑦 = 𝑥 3 − 6𝑥 2 + 2𝑥",
+      "options": [
+        "2, 12",
+        "2, -12",
+        "3, 12",
+        "-3, 12 𝑥2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the y-intercept and xintercept respectively.",
+      "options": [
+        "0,0",
+        "1,0",
+        "2,2",
+        "1,2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 2 −1 find the horizontal asymptotes",
+      "options": [
+        "±1",
+        "±2",
+        "0 𝑥+1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 2 −1 find the vertical asymptotes",
+      "options": [
+        "±1",
+        "±2",
+        "0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the average rate of charge given that 𝑠(𝑡) = 2𝑡 2 − 2𝑡 + 30 at t1=3 and t2=5",
+      "options": [
+        "10 and 18",
+        "11 and 18",
+        "12 and 18"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that 𝑚 = 2 + √5, find the value of 𝑚 − 1 𝑚",
+      "options": [
+        "4",
+        "2√5",
+        "4√5",
+        "2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of sin 1950 in surd form",
+      "options": [
+        "1",
+        "1",
+        "1 1 (√6 + √2) (b) (√6 − √2) (c) 4 4 1 − (√6 + √2)",
+        "− (√6 − √2) 4 4"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Given that 𝑦 = (5𝑥 − 2)2 . Find 𝑑𝑦 𝑑𝑥",
+      "options": [
+        "10(5𝑥 − 2)2",
+        "10(5𝑥 − 2)",
+        "10(5𝑥 +"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the intercept of the equation of a line (−1, −2) whose slope is 2",
+      "options": [
+        "−2",
+        "0",
+        "4",
+        "3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The semi major 4𝑥 2 + 9𝑦 2 = 36",
+      "options": [
+        "(9, 4)",
+        "(2, 3)",
+        "(4, 9)",
+        "3, 2"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find 𝑑𝑦 𝑑𝑥 if 𝑦 = log 𝑒 (4𝑥 − 1)2",
+      "options": [
+        "8 4𝑥−1",
+        "8 4𝑥−3",
+        "8 2𝑥−1",
+        "8 4𝑥+1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area enclosed between 𝑦 = 𝑥 2 and 𝑦 = 6𝑥",
+      "options": [
+        "36 sq. unit",
+        "32 sq. unit",
+        "44 sq. unit",
+        "22 sq. unit"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate ∫(sin 𝑥 − 3𝑥 2 ) 𝑑𝑥",
+      "options": [
+        "cos 𝑥 2 + 6 + 𝑐",
+        "𝑥 3 − cos 𝑥 + 𝑐",
+        "cos 𝑥 + 6𝑥 + 𝑐",
+        "− cos 𝑥 − 3𝑥 2 + 𝑐"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Determine ∫ sin2 𝑥 𝑑𝑥",
+      "options": [
+        "1 Answer: D 1 2 (𝑥 − cos 2𝑥 ) + 𝑐 (d) (1 − cos 2𝑥 ) + 𝑐 2 sin 2𝑥 2 ) + 𝑐",
+        "1 2 (𝑥 + sin 2𝑥 2 ) + 𝑐",
+        "",
+        "(1 − cos 2𝑥 ) + 𝑐 2 sin 2𝑥 2 ) + 𝑐 (b) 1 2 (𝑥 + sin 2𝑥 2 ) + 𝑐 (c) 1 2 (1 + Answer: A Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the acute angle between 6𝑥 + 5𝑦 − 1 = 0 and 3𝑦 − 2𝑥 + 4 = 0",
+      "options": [
+        "83",
+        "84",
+        "84",
+        "82"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the length of the tangent of the circle 𝑥 2 + 𝑦 2 + 5𝑥 + 6𝑦 − 10 = 0 from (2, 2)",
+      "options": [
+        "5√4",
+        "√20",
+        "5√5",
+        "4√5"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝑦 − 3𝑥 − 6 = 0. Find the gradient",
+      "options": [
+        "3",
+        "2",
+        "−3",
+        "6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given sin 𝑥 = −0.9063 where 00 ≤ 𝑥 ≤ 2700 , find x",
+      "options": [
+        "1450",
+        "1160",
+        "2450",
+        "650"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "If 𝑎 sin 𝜃 + 𝑏 cos 𝜃 = √𝑝, 𝑎 cos 𝜃 − 𝑏 sin 𝜃 = √𝑞. Evaluate √(𝑝 + 𝑞)",
+      "options": [
+        "√2𝑎𝑏",
+        "√𝑎𝑏",
+        "2𝑎𝑏",
+        "√𝑎2 + 𝑏2"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the distance between (2, −4) and (3, 7)",
+      "options": [
+        "11.05",
+        "10.5",
+        "11.30"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the distance between point 𝐴(−1, 4) and 𝐵(−2, −3)",
+      "options": [
+        "5√2",
+        "50",
+        "√68"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find x and y intercept if 𝑦 = 4𝑥 2 −1 2𝑥 2 −5𝑥+6",
+      "options": [
+        "(−1, 0) and (0,2)",
+        "(−1, 0) and (0, 4) 1 1 2 6",
+        "(−1, 2) and (0, 4)",
+        "(± , 0) and (0, − )"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑦 𝑑𝑥 𝑖𝑓 𝑦 = 3+2𝑥−𝑥 2 √1+𝑥 1 ) 2√1+𝑥 (2−2𝑥)√(1−𝑥)−(3+2𝑥−𝑥 2 )( (1+𝑥)2 1 ) 2√1+𝑥 (2−2𝑥)√1+𝑥−(3+2𝑥−𝑥 2 )(",
+      "options": [
+        "(c) 1+𝑥 1 ) 2√1−𝑥 (2+2𝑥)√(1−𝑥)−(3+2𝑥−𝑥 2 )( 1+𝑥 1 ) 2√1+𝑥 (2+2𝑥)√1+𝑥−(3+2𝑥 2 −𝑥)( 1 √ 1",
+        "",
+        "1+𝑥 1 ) 2√1−𝑥 (2+2𝑥)√(1−𝑥)−(3+2𝑥−𝑥 2 )( 1+𝑥 1 ) 2√1+𝑥 (2+2𝑥)√1+𝑥−(3+2𝑥 2 −𝑥)( 1 √ 1 (b)",
+        "Answer: A 1+𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify ∫ Answer: D 1 𝑑𝑥",
+      "options": [
+        "√1 − 2𝑥 + 𝑐",
+        "− √1 − 2𝑥 + 𝑐",
+        "−2√1 − 2𝑥 + 𝑐",
+        "1−2𝑥 2 2 −√1 − 2𝑥 + 𝑐 Answer: D Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 4 1 1 1 3 3 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate ∫ tan2 𝜃 sec 2 𝜃 𝑑𝜃",
+      "options": [
+        "tan3 𝜃 + 𝑐",
+        "tan4 𝜃 + 𝑐",
+        "tan2 𝜃 + 𝑐",
+        "Answer: A sec 2 𝜃 + 𝑐"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the length of the tangent to the circle 𝑥 2 + 𝑦 2 − 2𝑥 − 4𝑦 − 4 = 0 from the point (8, 10)",
+      "options": [
+        "√56",
+        "√103",
+        "√104",
+        "√113"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the semi axis of the equation of 9𝑥 2 − 4𝑦 2 = 36",
+      "options": [
+        "2, 3",
+        "−3, 2",
+        "2, 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑦 = 𝑥2 𝑥 2 −1 sin 𝜃+sin 3𝜃 cos 𝜃+cos 3𝜃",
+      "options": [
+        "none",
+        "tan 2𝜃",
+        "tan 𝜃",
+        "tan 4𝜃"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "∫−2(𝑥 2 − 𝑥 )(2𝑥 − 1)",
+      "options": [
+        "−18",
+        "16",
+        "−16",
+        "18 1 1 4 7 3 11"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the gradient of line 𝑦 = 2𝑥 + 6",
+      "options": [
+        "2",
+        "6",
+        "−2",
+        "−6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑔2 + 𝑓 2 ≥ 𝑐 of a circle",
+      "options": [
+        "imaginary",
+        "complex",
+        "real",
+        "parabolic"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which is not equation of a circle",
+      "options": [
+        "𝑥 2 − 𝑦 2 + 4𝑥 = 0",
+        "𝑥 2 − 𝑦 2 + 12𝑦 = 9",
+        "𝑥 2 + 𝑦 2 + 2𝑥 − 𝑦 − 3 = 0",
+        "𝑥 2 + 𝑦 2 + 𝑥 + 𝑦 − 7 = 0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the intercept of 2𝑦 − 3𝑥 = 5",
+      "options": [
+        "5",
+        "−3",
+        "",
+        "Answer: D 3 2 3 4 5 10"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of cos(600 − 𝜃), if tan 𝜃 = − where 00 < 𝜃 < 1800",
+      "options": [
+        "+ 2",
+        "− 5 3 2 3 2 3 √3",
+        "− 4 − 10 √3",
+        "− 5 + 10 √3 10"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of 𝜃 if sin 3𝜃 = cos 60",
+      "options": [
+        "60",
+        "10",
+        "30",
+        "90"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify sin 2𝐴 1+cos 2𝐴",
+      "options": [
+        "cot 𝐴",
+        "tan 𝐴",
+        "sec 𝐴",
+        "𝑐𝑜𝑠𝑒𝑐 𝐴"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of the function 𝑦 = (𝑥 2 − 3)4 with respect to x",
+      "options": [
+        "𝑥(𝑥 3 + 3)3",
+        "3𝑥 (𝑥 3 − 3)",
+        "8𝑥 (𝑥 3 − 3)",
+        "8𝑥(𝑥 2 − 3)3"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The radius of a circular disc is increasing at the rate of 0.5𝑐𝑚/𝑠𝑒𝑐. At what rate is the area of the disc increasing when its radius is 6𝑐𝑚",
+      "options": [
+        "7.67𝑐𝑚2",
+        "6𝜋𝑐𝑚2",
+        "8𝜋𝑐𝑚2",
+        "7.80𝑐𝑚2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the equation of the tangent to the curve 𝑦 = 1 − 2𝑥 + 5𝑥 2 − 𝑥 3 at the point 𝑥 = 3",
+      "options": [
+        "𝑦 = 𝑥 + 11",
+        "𝑦 = 𝑥 + 10",
+        "𝑦 = 2𝑥 + 10",
+        "𝑦 = 𝑥 − 11Answer: B 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that 𝑦 − 3𝑥 − 6 = 0, find the slope",
+      "options": [
+        "3",
+        "6",
+        "−6",
+        "−3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "and 𝑁(𝑥, 𝑦) is 𝑃(3, −4). Find the coordinates of points N",
+      "options": [
+        "(−2, 7)",
+        "(2, 7)",
+        "(−2, −7)",
+        "(2, −7)"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Calculate the angle between lines 3𝑥 + 2𝑦 − 8 = 0 and 𝑥 + 7𝑦 + 8 = 0 to the nearest degree",
+      "options": [
+        "80.20",
+        "81.020",
+        "48.20",
+        "800"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "and (5, 7)",
+      "options": [
+        "𝑦 = 4𝑥 + 5",
+        "𝑦 = 2𝑥 + 5",
+        "𝑦 = 4𝑥 − 5",
+        "𝑦 − 2𝑥 + 3 = 0"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the length of a straight line joining points (3, 2) and (5, 5)",
+      "options": [
+        "2.92",
+        "6.3",
+        "3.0",
+        "3.61"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the equation of the tangent to the circle 𝑥 2 + 𝑦 2 − 2𝑥 + 4𝑦 = 15 at the point (−1, 2)",
+      "options": [
+        "2𝑦 − 𝑥 + 5 = 0",
+        "2𝑦 − 𝑥 − 5 = 0",
+        "2𝑦 + 𝑥 + 5 = 0",
+        "2𝑦 +"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the equation of the line whose slope is 2 through the point (−1, −2)",
+      "options": [
+        "none",
+        "𝑦 − 3𝑥 = 2",
+        "𝑦 + 2𝑥 = 0",
+        "2𝑥 + 2 = 𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑦 𝑑𝑥 Answer: A if 𝑦 = 𝑒 sin(4𝑥)",
+      "options": [
+        "4 cos(4𝑥 ) 𝑒 sin(4𝑥)",
+        "4 sin(4𝑥 ) 𝑒 sin(4𝑥)",
+        "4𝑐𝑜𝑠𝑒𝑐 (4𝑥)𝑒 sin(4𝑥)",
+        "4 cot(4𝑥 ) 𝑒 sin(4𝑥) Answer: A Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 6 1 1 3 3 4 4 4 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ cos 4𝑥 𝑑𝑥",
+      "options": [
+        "− sin 4𝑥 + 𝑐",
+        "sin 4𝑥 + 𝑐",
+        "− sin 4𝑥 + 𝑐",
+        "sin 4𝑥 + 𝑐"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the area enclosed between the curves 𝑦 = 𝑥 3 − 2𝑥 2 and 𝑦 = 2𝑥 − 𝑥 2",
+      "options": [
+        "none",
+        "𝑠𝑞. 𝑢𝑛𝑖𝑡",
+        "8 27 3 12"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 2 tan 𝑥, find 𝑑𝑦 𝑠𝑞. 𝑢𝑛𝑖𝑡 (d) 𝑑𝑥 39 12 Answer: C 𝑠𝑞. 𝑢𝑛𝑖𝑡",
+      "options": [
+        "2𝑥 tan 𝑥 − 3𝑥 2 sec 2 𝑥",
+        "2𝑥 tan 𝑥 + 𝑥 2 sec 2 𝑥",
+        "",
+        "𝑑𝑥 39 12"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the value of sin 450 − cos 300",
+      "options": [
+        "2+√6 √2−√3 √2+√3 √2+√3",
+        "",
+        "",
+        "2 2 4 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the length of the tangent from a point (0, 0) to the circle 𝑥 2 + 𝑦 2 + 4𝑥 − 6𝑦 + 10",
+      "options": [
+        "10",
+        "0",
+        "√5",
+        "√10"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the gradient and intercept of the equation 𝑦 + 4𝑥 − 5 = 0",
+      "options": [
+        "4, 0",
+        "4, 5",
+        "4, −5",
+        "−4, 5"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the equation of the normal to the curve 𝑦 = (1 − 𝑥)(3 + 𝑥) at the point 𝑥 = 2",
+      "options": [
+        "6𝑦 − 𝑥 − 32 = 0",
+        "6𝑦 − 𝑥 + 32 = 0",
+        "6𝑦 − 𝑥 − 30",
+        "6𝑦 − 𝑥 − 30"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Evaluate ∫1 √1 + 3𝑥 𝑑𝑥",
+      "options": [
+        "26",
+        "18",
+        "12",
+        "32"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝛽 is an obtuse angle and sin 𝛽 = - 3.43 (d) 3.38 6 10 , find the value of Answer: A 2 tan 𝛽 1−tan2 𝛽",
+      "options": [
+        "3.34",
+        "3.83",
+        "",
+        "3.38 6 10 , find the value of"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of a fixed angle in the trigonometry equation given 2√3 sin 𝜃 + 2 cos 𝜃 = 2",
+      "options": [
+        "90",
+        "0",
+        "60",
+        "30"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "If 𝑥 = a cot 𝜃 and 𝑦 = 𝑏 𝑐𝑜𝑠𝑒𝑐 𝜃, evaluate ( 2 − 2 )",
+      "options": [
+        "sec 𝜃",
+        "𝑐𝑜𝑠𝑒𝑐 𝜃",
+        "1 𝑏",
+        "tan 𝜃"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the value of tan 1950 in surd form",
+      "options": [
+        "3+3√3 3−√3 −3−√3 3−√3",
+        "",
+        "",
+        "3−√3 3+√3 3+√3 −3+√3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 2 sin 2𝑥, find the derivative of y with respect of x",
+      "options": [
+        "2𝑥(sin 2𝑥 + 𝑥 cos(2𝑥 ))",
+        "2𝑥 (tan 𝑥 + 𝑥 2 sin 2𝑥 )",
+        "2𝑥 (tan 𝑥 + 𝑥 2 sec 2 𝑥 ) (c) 2𝑥(sin 𝑥 + Answer: A 2𝑥 2 sec 2 𝑥 )"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Let 𝑦 = 𝑥2 . Find the vertical and horizontal asymptotes",
+      "options": [
+        "𝑥 = +1, 𝑦 = ±1 𝑥 2 −1",
+        "𝑥 = ±2, 𝑦 = ±2",
+        "𝑥 = ±1, 𝑦 = 1",
+        "𝑥 ± 2, 𝑦 = +1"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "If the distance between (2, 𝐿) and (−2, 0) is 5. Find 𝐿",
+      "options": [
+        "±3",
+        "3",
+        "5",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Express sin 2𝐴 cos 4𝐴 as a sum of difference of trigonometric function.",
+      "options": [
+        "1 2 1 1 1 2 2 2 (cos 6𝐴 − sin 2𝐴)",
+        "(sin 6𝐴 + sin 2𝐴)",
+        "(cos 6𝐴 + cos 2𝐴)",
+        "(sin 6𝐴 −"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find ∫ (d) 3 14 3𝑥 7𝑥 2 +2 3 3 3 7 7 14 𝑑𝑥",
+      "options": [
+        "ln(7𝑥 2 + 2) + 𝐶",
+        "ln(7𝑥 + 2) + 𝐶",
+        "",
+        "3 14 3𝑥 7𝑥 2 +2 3 3 3 7 7 14 𝑑𝑥 (a) ln(7𝑥 2 + 2) + 𝐶 (b) ln(7𝑥 + 2) + 𝐶 (c)"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the gradient of the line",
+      "options": [
+        "none",
+        "Answer: B 2 11",
+        "11",
+        "11 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the equation of the tangent of the circle 𝑥 2 + 𝑦 2 − 2𝑥 + 4𝑦 = 15 at a point (−1, 2)?",
+      "options": [
+        "7𝑦 − 2𝑥 + 8 = 0",
+        "7𝑦 − 2𝑥 − 8 = 0",
+        "2𝑦 − 𝑥 − 5 = 0",
+        "Answer: C 7𝑦 + 2𝑥 + 8 = 0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the center and radius of the circle 𝑥 2 + 𝑦 2 − 6𝑥 − 8𝑦 + 5 = 0",
+      "options": [
+        "(3, 4)5√2",
+        "(3, 4) 2√5",
+        "(4, 3) 2√5",
+        "(4, 3) 5√2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following trigonometric formulae is not correct?",
+      "options": [
+        "tan 2𝐴 = 2 tan 𝐴 𝐴 𝐴 2 2",
+        "sin 𝐴 = 2 sin cos 1−tan2 𝐴 𝐴+𝐵 cos 𝐴 + cos 𝐵 = 2 cos ( 2",
+        "cos(𝐴 − 𝐵) = cos 𝐴 cos 𝐵 + sin 𝐴 sin 𝐵",
+        "𝐴−𝐵 ) sin ( 2"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The eccentricity of the equation of the ellipse is?",
+      "options": [
+        "𝑒 > 1",
+        "𝑒 ≠ 0",
+        "𝑒 < 1",
+        "𝑒 = 0"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the semi major axis of the equation 𝑥 2 + 4𝑦 2 = 16",
+      "options": [
+        "4",
+        "6",
+        "3",
+        "16"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate ∫ 𝑒 𝑥 sin 𝑒 𝑑𝑥",
+      "options": [
+        "− sin(𝑒 𝑥 ) + 𝑐",
+        "− cos(𝑒 𝑥 ) + 𝑐",
+        "−𝑒 𝑥 cos 𝑥 + 𝑐",
+        "Answer: B −𝑒 𝑥 cos(𝑒 𝑥 ) + 𝑐"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate ∫(4𝑥 − 6𝑒 2𝑥 − 5)𝑑𝑥",
+      "options": [
+        "2𝑥 2 − 12𝑒 2𝑥 − 3𝑥 + 𝑐",
+        "2𝑥 2 + 12𝑒 2𝑥 + 𝑐",
+        "2𝑒 2 − 3𝑒 2𝑥 + 𝑐",
+        "2𝑥 2 − 3𝑒 2𝑥 − 5𝑥 + 𝑐"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate",
+      "options": [
+        "𝑦 = tan3 (4𝑥 )",
+        "12𝑐𝑜𝑠𝑒𝑐 2 (4𝑥) tan2 (4𝑥 ) 12 𝑐𝑜𝑠𝑒𝑐 2 (4𝑥) cot 2 (4𝑥 )",
+        "12 sec 2 (4𝑥 ) cot 2 (4𝑥 )",
+        "12 sec 2 (4𝑥 ) tan2 (4𝑥 )"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "If 𝑥 2 + 𝑥𝑦 − 𝑦 2 + 1 = 0, find 𝑑𝑦 𝑑𝑥 in terms of x and y",
+      "options": [
+        "−𝑥−𝑦 −𝑥−2𝑦",
+        "−2𝑥−𝑦 𝑥 − 2𝑦 (d) 2𝑥 + 𝑦 − 2𝑦 𝑥−2𝑦",
+        "",
+        "2𝑥 + 𝑦 − 2𝑦 𝑥−2𝑦 (c) 2𝑥 +"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is 2𝜋 3 in degree?",
+      "options": [
+        "1200",
+        "600",
+        "2100",
+        "2700"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The study or solution of triangles in relation to their sides and angle is referred to as",
+      "options": [
+        "line geometry",
+        "circle geometry",
+        "none",
+        "poly geometry"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the value of ‘a’ such that the area of triangle ABC is 3, angle 𝐶 = 900 and 𝑎 + 𝑏 = 12, where 𝑎, 𝑏, 𝑐 represents the sides of a triangle.",
+      "options": [
+        "11.48",
+        "16.25",
+        "6.5",
+        "9.25"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Let 𝑦 = 𝑥2 Answer: B , find the vertical asymptote and horizontal asymptote",
+      "options": [
+        "𝑥 = 𝑥 2 −1 ±2, 𝑦 = 1",
+        "𝑥 = ±1, 𝑦 = 1",
+        "𝑥 = ±2, 𝑦 = 2",
+        "𝑥 = 1, 𝑦 = 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑥 4 + 𝑥𝑦 = 2𝑥, 𝑑𝑦 𝑑𝑥 is",
+      "options": [
+        "2+4𝑥 3 +𝑦 𝑥",
+        "2+4𝑥 3 −𝑦 𝑥",
+        "2−4𝑥 3 +𝑦 𝑥",
+        "Answer: B 2−4𝑥 3 −𝑦 𝑥"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the area enclosed between curves 𝑦 = 𝑥 2 and 𝑦 = 6𝑥",
+      "options": [
+        "44 𝑠𝑞. 𝑢𝑛𝑖𝑡",
+        "36 𝑠𝑞. 𝑢𝑛𝑖𝑡",
+        "32 𝑠𝑞. 𝑢𝑛𝑖𝑡",
+        "22 𝑠𝑞. 𝑢𝑛𝑖𝑡 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the centre of the circle 𝑥 2 + 𝑦 2 − 8𝑥 + 6𝑦 + 16 = 0",
+      "options": [
+        "(−4, −3)",
+        "(−4, 3)",
+        "(4, 3)",
+        "(4, −3)"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the area enclosed between the curved 𝑦 = 𝑥 3 − 2𝑥 2 and 𝑦 = 2𝑥 − 𝑥 2",
+      "options": [
+        "27 12 8 37 3 12 𝑠𝑞. 𝑢𝑛𝑖𝑡",
+        "𝑠𝑞. 𝑢𝑛𝑖𝑡",
+        "𝑠𝑞. 𝑢𝑛𝑖𝑡",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Determine the intercept of the equation 𝑦 = 28𝑥 − 4",
+      "options": [
+        "28",
+        "4",
+        "none",
+        "7"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the centre and radius of the circle 2𝑥 2 + 2𝑦 2 − 𝑥 + 𝑦 − 3 = 0",
+      "options": [
+        "( , ) 1 1 √2 1 1 13 1 1 √2 (c) ( , − ) √ (d) (− , ) 4 2 14 4 4 8 2 2 4",
+        "",
+        "( , − ) √",
+        "(− , ) 4 2 14 4 4 8 2 2 4 (b) (− , )"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Equation of the form 3𝑥 2 + 6𝑦 2 = 12 is called?",
+      "options": [
+        "circle",
+        "hyperbola",
+        "ellipse",
+        "parabola"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Integrate cos 𝑥 sin3 𝑥 with respect to x",
+      "options": [
+        "Answer: C sin 𝑥 4",
+        "cos 𝑥 4",
+        "cos4 𝑥 4",
+        "sin4 𝑥 4"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "If 𝑃 = 2𝑠 3 − 𝑠 2 − 28𝑠, find the value of s which makes 7 (c) −2, (d) −3, 4 3 𝑑𝑝 𝑑𝑠 = 0",
+      "options": [
+        "2, 7",
+        "",
+        "−2,",
+        "−3, 4 3 𝑑𝑝 𝑑𝑠 = 0 (a) 2, 7 (b) −2, 7"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the radius of the circle 5𝑥 2 + 5𝑦 2 + 10𝑥 + 20𝑦 + 15 = 0",
+      "options": [
+        "2",
+        "√3",
+        "√2",
+        "3"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "∫0 (𝑥 3 + 𝑥 )4 (3𝑥 2 + 1) 𝑑𝑥",
+      "options": [
+        "32",
+        "4",
+        "8",
+        "32"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Evaluate ∫ sec 2 𝑥 𝑑𝑥",
+      "options": [
+        "sec 𝑥 tan 𝑥 + 𝑐",
+        "cos 𝑥 + 𝑐",
+        "sec 𝑥 + 𝑐",
+        "tan 𝑥 + 𝑐"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Simplify cos 𝑥 + cos(𝑥 + 30) + sin(𝑥 + 60)",
+      "options": [
+        "(1 + √3) cos 𝑥",
+        "(√3 − 1) sin 𝑥",
+        "(1 + √3) sin 𝑥",
+        "(1 − 3) cos 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of 𝐾, if sin 500 + sin 400 = 𝐾 cos 50",
+      "options": [
+        "2",
+        "√2",
+        "√3",
+        "3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Differentiate 𝑦 = log 𝑒 √(1 + 𝑥 )",
+      "options": [
+        "1 2(1+𝑥 2 )",
+        "1 2(1+𝑥)",
+        "1 2(1−𝑥 2 )",
+        "1 2(1−𝑥)"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the equation of the line passing through (1, 2) and parallel to the line 𝑥 + 𝑦 + 3 = 0",
+      "options": [
+        "𝑥 + 𝑦 − 2 = 0",
+        "𝑥 + 𝑦 − 3 = 0",
+        "−𝑥 − 𝑦 − 3 = 0",
+        "𝑥 − 𝑦 +"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Determine the y intercept of the straight line represented the equation 5𝑥 − 7𝑦 + 13 = 0",
+      "options": [
+        "5 13 6 7 7 13",
+        "1",
+        "",
+        "5"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In a triangle 𝐴𝐵𝐶, 𝑎 = 6, 𝑐 = 4, 𝐴 = 300 , Find the value of 𝐵",
+      "options": [
+        "0.30",
+        "19.50",
+        "1500",
+        "130.50"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Obtain the equation of the straight line with slope 4 and intercept of −2",
+      "options": [
+        "𝑦 − 4𝑥 + 2 = 0",
+        "𝑦 − 4𝑥 + 2",
+        "𝑦 + 4𝑥 − 2 = 0",
+        "𝑦 − 4𝑥 − 2 = 0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given 𝑡 = tan , transforming 𝑑𝑥 into integral of rational function of t gives",
+      "options": [
+        "2 𝑡2 1+𝑡 2 𝑑𝑡",
+        "2 1+𝑡 2 𝑑𝑡",
+        "2𝑡 1+𝑡 2 𝑑𝑡",
+        "𝑡 1+𝑡 2 𝑑𝑡"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the value of 𝛼 if 𝑐𝑜𝑠𝑒𝑐𝛼 tan 𝛼 = 1 using the half substitution method, 𝛼 tan = 𝑡",
+      "options": [
+        "30",
+        "1",
+        "180",
+        "0 2"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find tan 𝐴, if tan(𝐴 − 450 ) =",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8 5"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "If 𝑦 = (𝑥 )(𝑥 − 2)(𝑥 + 3) at point 𝑥 = −1, find the equation of the circle",
+      "options": [
+        "5𝑦 − 2𝑥 − 31 = 0",
+        "5𝑦 − 𝑥 − 30 = 0",
+        "𝑦 − 𝑥 − 31 = 0",
+        "5𝑦 − 𝑥 − 31 = 0"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which is not correct?",
+      "options": [
+        "sin(−𝛼 ) = − sin 𝛼",
+        "none",
+        "tan(−𝛼 ) = − tan 𝛼",
+        "Answer: B cos(−𝛼 ) = cos 𝛼 6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find ∫2 (3𝑥 + 4)",
+      "options": [
+        "−64",
+        "32",
+        "−32",
+        "64"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "If 𝑤 = ∫𝑎 𝑓(𝑥 )𝑑𝑥, which is true?",
+      "options": [
+        "𝑤 = definite integral, 𝑓(𝑥 ) = integrand",
+        "𝑤 = indefinite integral, 𝑓(𝑥 ) = integrand",
+        "𝑤 = finite integral, 𝑎 = lower unit, 𝑓(𝑥 ) = differential",
+        "𝑤 = definite integral, 𝑏 = lower limit and 𝑓 (𝑥 ) = integral"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Acute angle in two straight lines is",
+      "options": [
+        "tan 𝐵 = | 𝑚2 −𝑚1 1+𝑚2 𝑚1 tan 𝐵 = | 𝑚1 −𝑚2 𝑚2 𝑚1 +1 | (c) tan 𝐵 = | 𝑚2 −𝑚1 1+𝑚2 𝑚1 | where 𝑚1 𝑚2 ≠ −1",
+        "",
+        "tan 𝐵 = | 𝑚2 −𝑚1 1+𝑚2 𝑚1 | where 𝑚1 𝑚2 ≠ −1 (b) | where 𝑚1 ≠ −1",
+        "tan 𝐵 = | where 𝑚2 ≠ −1 𝑚2 −𝑚1 1+𝑚2 𝑚1 |"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "sin 𝑥 = −0.9063, where x is 00 ≤ 𝑥 ≤ 2700 . Find x",
+      "options": [
+        "2450",
+        "1150",
+        "650",
+        "1450"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "If 𝑓(𝑥 ) = 3𝑥 + 2 with 𝑥1 = 0 and 𝑥2 = 3, find the rate of change",
+      "options": [
+        "3",
+        "15",
+        "10",
+        "13"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑔2 + 𝑡 2 ≥ 𝑐 in the equation of a circle, the circle is ____________?",
+      "options": [
+        "real",
+        "complex",
+        "imaginary",
+        "complete"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the intercept of a line given 𝑦 = 𝑎𝑥 + 𝑏",
+      "options": [
+        "0",
+        "a",
+        "b",
+        "x"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following is a basic identity",
+      "options": [
+        "1 + tan2 𝜃 = sec 2 𝜃",
+        "cot 2 𝜃 − 𝑐𝑜𝑠𝑒𝑐 2 𝜃 = 1",
+        "sin2 𝜃 + 1 = cos 2 𝜃",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which represents the line perpendicular to a curve?",
+      "options": [
+        "−𝑚1 𝑚2 = 1",
+        "𝑚1 𝑚2 = 0",
+        "𝑚2 = 0",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The formula for distance between two points is given as",
+      "options": [
+        "𝑑2 = [(𝑥2 − 𝑥1 )2 + 1 2 2 (𝑦2 − 𝑦1 )2 ]2",
+        "𝑑 = [(𝑥1 (𝑥2 − 𝑥1 )) + (𝑦1 (𝑦2 − 𝑦1 ))",
+        "𝑑2 = √(𝑥2 )2 + (𝑦2 )2",
+        "none of the above 𝜋 sin 𝜃 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify cos 𝜃 Answer: D 𝑑𝜃",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4 sin 𝛼+cos 𝛼 cos4 𝛼−sin4 𝛼 (a) 1 sin 𝛼 cos 𝛼 Answer: A 1 (b) sin 𝛼−cos 𝛼 (c) 1 (d) sin 𝛼 + cos 𝛼"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the slope of the function 𝑦(𝑡) = 2𝑡 2 − 5𝑡 + 30. Take 𝑡1 = 3 and 𝑡2 = 5",
+      "options": [
+        "11",
+        "23",
+        "10",
+        "21"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the volume obtained rotating area under the curve 𝑦 = 𝑥 2 from 𝑥 = 0 to 𝑥 = 1",
+      "options": [
+        "16𝜋 5",
+        "2𝜋 5",
+        "3𝜋 5",
+        "𝜋"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "When two lines are parallel",
+      "options": [
+        "𝑚1 = 𝑚2",
+        "𝑚1 = 1 + 𝑚",
+        "𝑚1 ÷ 𝑚2 = 0",
+        "Answer: A 𝑚1 ≠ 𝑚2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate ∫ 𝑒 𝑥 𝑑𝑥",
+      "options": [
+        "𝑒 𝑥 + 2 + 𝑐",
+        "2𝑒 𝑥 + c",
+        "𝑒 2𝑥 + 𝑐",
+        "𝑒 𝑥 + 𝑐"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "∫−2 2(𝑥 + 2)𝑑𝑥 = 16 where 𝑡 > 0, find t",
+      "options": [
+        "2",
+        "1",
+        "0",
+        "−2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫0 𝑥 3 𝑑𝑥 = 4. Find K",
+      "options": [
+        "4",
+        "2",
+        "",
+        ""
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The relationship between 𝑎, 𝑏 & 𝑒 in ellipse is given",
+      "options": [
+        "𝑏2 = 𝑎2 (1 − 𝑒)",
+        "𝑏 2 = 𝑎2 (1 − 𝑒 2 )",
+        "𝑎2 = 𝑏2 (1 − 𝑒 2 )",
+        "𝑏2 = 𝑎2 (1 + 𝑒 2 )"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 1 2 𝑑𝑦 𝑑𝑥 𝑡−2𝑡 5 if 𝑥 = √𝑡 − 2𝑡 5",
+      "options": [
+        "2(𝑡−10𝑡 4 )",
+        "1−10𝑡 4 2√𝑡−2𝑡 5",
+        "1 2 1 (𝑡 − 2𝑡 5 )−2",
+        "Answer: B (√𝑡 − 2𝑡 2 )(1 − 10𝑡 4 )"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Consider the function 𝑦 = 𝑓 (𝑥 ) = 3𝑥 + 2 with 𝑥1 = 0, 𝑥2 = 3, what is the rate of change?",
+      "options": [
+        "3",
+        "13",
+        "15",
+        "10"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the ellipse with centre (1, 2) and semi axis 4 and 2",
+      "options": [
+        "(𝑥−1)2 16 (𝑦−2)2 2 + (𝑦−2)2 =1 4 = 1",
+        "(𝑥−1)2 4 + (𝑦−2)2 16 = 1",
+        "(𝑥−1)2 16 + (𝑦−2)2 4 = 1",
+        "(𝑥−1)2 4 +"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Evaluate ∫ 𝑥𝑒 2𝑥 𝑑𝑥",
+      "options": [
+        "𝑥𝑒 2𝑥 + Answer: A 1 𝑒 2𝑥 2 2 + 𝑐",
+        "𝑥𝑒 2𝑥 − 1 𝑒 2𝑥 2 4 + 𝑐",
+        "𝑥𝑒 2𝑥 − +𝑐"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A straight line which is perpendicular to the tangent at p is called ____________",
+      "options": [
+        "Tangent",
+        "normal",
+        "diagonal",
+        "linear"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑦 𝑑𝑥 Answer: B of 𝑦 = cot 2 (𝑥 3 )",
+      "options": [
+        "−6𝑥 2 𝑐𝑜𝑠𝑒𝑐 2 (𝑥 3 ) cot(𝑥 3 )",
+        "6𝑥 2 sec 2 (𝑥 3 ) cot(𝑥 3 )",
+        "−6𝑥 2 𝑐𝑜𝑠𝑒𝑐 2 (𝑥 3 )",
+        "−6𝑥 2 sec 2 (𝑥 3 ) cot(𝑥 3 ) 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate ∫1 (1 − 𝑢)√𝑢 𝑑𝑢",
+      "options": [
+        "− 11 25",
+        "− 116 15",
+        "− 14 29",
+        "− 110 Answer: B 7"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area of ∆𝐴𝐵𝐶 if 𝐴 = 400 , 𝐵 = 700 and 𝑎 = 3.5",
+      "options": [
+        "3.64",
+        "9.86",
+        "4.93",
+        "8.42"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ 𝑑𝑥 1−cos 𝑥 Answer: D 𝑥 𝑥 𝑥 2 2 2",
+      "options": [
+        "ln |tan−1 | + c",
+        "− tan + c",
+        "none",
+        "tan−1 + c Answer: C 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Integrate 3 √𝑥 3 with respect to x",
+      "options": [
+        "7 12 7 𝑥 4 + 𝑐",
+        "12 7 4 𝑥 7 + 𝑐",
+        "12 7 4 𝑥7 + 𝑐 7",
+        "12𝑥 4 7"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the derivative of the function 𝑦 = √(7 − 2𝑥 )4 with respect to x",
+      "options": [
+        "6𝑥 − 5",
+        "8𝑥 + 28",
+        "6𝑥 + 8",
+        "8𝑥 − 28"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A straight line which is perpendicular to a tangent at the curve 𝑦 = 𝑓 (𝑥 ) is called",
+      "options": [
+        "asymptote",
+        "intercept",
+        "normal",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of the function 𝑦 = 3𝑥 2 + (c) 6𝑥 − ln(𝑥 ) (d) 6𝑥 + ln(𝑥 ) 1 𝑥 Answer: C",
+      "options": [
+        "3𝑥 − ln(𝑥 )",
+        "",
+        "6𝑥 − ln(𝑥 )",
+        "6𝑥 + ln(𝑥 ) 1 𝑥"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following trigonometric substitutions is correct about 𝑎 𝑎 𝑎 ∫ √𝑎 + 𝛽 2 𝑡 2 𝑑𝑡",
+      "options": [
+        "𝑡 = √𝛽 tan 𝜃",
+        "𝑡 = √𝛽 sec 𝜃",
+        "none",
+        "𝑡 = √𝛽 sin 𝜃 √𝒂 tan 𝜽 is in the option, pick it. 𝛽 But if t="
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑2 𝑦 𝑑𝑥 2 Answer: C if 𝑦 = 3𝑥𝑒 −2𝑥",
+      "options": [
+        "6𝑥𝑒 −2 − 3𝑒 −2",
+        "3𝑥𝑒 −2 + 6𝑒 −2",
+        "6𝑥𝑒 −2𝑥 − 6𝑒 −2𝑥",
+        "3𝑥𝑒 −2 − 6𝑒 −2"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Given (𝑝𝑥 + 𝑞)𝑛 ; find 𝑑𝑦 𝑑𝑥",
+      "options": [
+        "𝑛𝑝(𝑝𝑥 + 𝑞 )𝑛−1",
+        "𝑛(𝑝𝑥 + 𝑞 )𝑛−1",
+        "𝑛(𝑝𝑥 + 𝑞)𝑛",
+        "Answer: A 𝑛(𝑝𝑥 + 𝑞)𝑛−1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Two lines 𝑦1 = 𝑚1 𝑥1 + 𝑐1 and 𝑦2 = 𝑚2 𝑥 + 𝑐2 are said to be perpendicular if",
+      "options": [
+        "1 = −𝑚1 𝑚2",
+        "𝑚1 − 𝑚2 = 1",
+        "𝑚1 𝑚2 − 1 = 0",
+        "𝑚1 = 𝑚2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the semi minor of an ellipse 5𝑥 2 + 10𝑦 2 = 150",
+      "options": [
+        "√30",
+        "15",
+        "√15",
+        "30"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The angle between the line 3𝑥 + 3𝑦 − 7 = 0 and 4𝑥 − 3𝑦 + 8 = 0",
+      "options": [
+        "𝑎𝑟𝑐 tan(1) −7 1 8 7",
+        "𝑎𝑟𝑐 tan(7)",
+        "𝑎𝑟𝑐 tan",
+        "𝑎𝑟𝑐 tan"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following values of 𝜃 satisfies 8 sin2 𝜃 + 6 cos 𝜃 − 9 = 0",
+      "options": [
+        "300",
+        "3000",
+        "3300",
+        "600"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the eccentricity of an ellipse 4𝑥 2 + 9𝑦 2 = 36",
+      "options": [
+        "1.74",
+        "0.174",
+        "0.074 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If ∫0 𝑥 3 dx = 4. Find k",
+      "options": [
+        "4",
+        "",
+        "2 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that sin x = Answer: C √3 √3 , for 900 < x < 1800, evaluate sin 2x",
+      "options": [
+        "1",
+        "−",
+        "2",
+        "-2 2 2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the value of cos 150 in surd form",
+      "options": [
+        "√2 √2+ √3 √6 +1 (√3 + 1)",
+        "none",
+        "",
+        "4 4 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "It cot 𝜃 = 12 13 12 𝑐𝑜𝑠2𝜃 5 𝑠𝑖𝑛𝜃+cos𝜃 , where 𝜃 is an acute angle. Evaluate",
+      "options": [
+        "16 23",
+        "7 13",
+        "144 169",
+        "Answer: B Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 16"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area of triangle ABC if A=400 , B=700, a=3.5",
+      "options": [
+        "3.5",
+        "5.11",
+        "8.42 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the tangent to the curve y=2x2 – 5 at x=2",
+      "options": [
+        "y=8x - 13",
+        "y=3x +2",
+        "y=4x-5",
+        "y=3x-2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the tangent to the curve y=2x3 - x2 + 3x +1 at the point x=1",
+      "options": [
+        "y=7x-2",
+        "y=7x+2",
+        "y=7x-3 (d)y=7x+3 Answer: A 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If ∫0 (3𝑥 𝑘 − 1) = 0, find the value of k.",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area enclosed the curves y=x2 – x – 6",
+      "options": [
+        "(c) 151 6 𝑠𝑞 𝑢𝑛𝑖𝑡 (d) 135 6 147 6 Answer D 𝑠𝑞 𝑢𝑛𝑖𝑡",
+        "",
+        "151 6 𝑠𝑞 𝑢𝑛𝑖𝑡",
+        "135 6 147 6"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the semi minor axis of an ellipse 5x2 +10y2 = 150",
+      "options": [
+        "√30",
+        "15",
+        "√15",
+        "30"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The angle between the line 3x + 3y – 7 =0 and 4x – 3y + 8 =0",
+      "options": [
+        "tan-1 1",
+        "tan-1 7",
+        "tan-1 −7 8",
+        "tan-1 1"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Given that sin 𝜃=0.5 and tan 𝜃=2, what is the value of cos 𝜃",
+      "options": [
+        "1",
+        "4",
+        "75.5",
+        "0.25"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑2 𝑦 𝑑𝑥 2 Answer: D if y = loge (1 + 2x)2",
+      "options": [
+        "8 1+2𝑥 8",
+        "(1+2𝑥)2",
+        "−8 (1+2𝑥)",
+        "−8 (1−2𝑥)2"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the area enclosed between the curve y=x3 - 2x2 and y=2x - x2",
+      "options": [
+        "none",
+        "",
+        "27 12",
+        "8 3 37 12"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the equation of the normal to the curve y= x(x – 2)(x + 3) at the point x= -1.",
+      "options": [
+        "5y – x – 38 =0",
+        "5y – 2x – 31 = 0",
+        "5y – x – 31 =0",
+        "y – x – 31 =0"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Evaluate ∫0 𝑠𝑒𝑐 2 𝜃",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Given t= tan , transforming dx into integral of ratio gives",
+      "options": [
+        "(c) 𝑡2 1+𝑡 2 Answer: A 𝑑𝑡 (d) 2𝑡 1+𝑡 2 dt 𝑑𝑡",
+        "",
+        "𝑡2 1+𝑡 2 Answer: A 𝑑𝑡",
+        "2𝑡 1+𝑡 2 dt 𝑑𝑡 (b) 𝑡 1+𝑡 2 𝑑𝑡"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the line passing through (1, 2) and parallel to the line x + y + 3=0",
+      "options": [
+        "𝑦 + 𝑥 + 5 = 0",
+        "𝑦 + 𝑥 – 3 = 0",
+        "𝑦 + 𝑥 + 3 = 0",
+        "𝑥 2 +"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the value of k if sin50 0 + sin40 0 = kcos5",
+      "options": [
+        "2",
+        "√2",
+        "√3 (𝑑)3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "If 𝑦 = 2𝑥 2 , find the approximate increase in y when x increases from3 to 3.02",
+      "options": [
+        "0.42",
+        "0.24",
+        "0.52",
+        "0.63"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Given that sin 𝑥 =",
+      "options": [
+        "45",
+        "1",
+        "90",
+        "0 √3 √3 for 900 < x < 1800. Calculate sin 2𝑥. (a) 1 (b)- (c)-2(d) 2 2 2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the radius of the circle 𝑥 2 + 𝑦 2 − 2𝑥 − 6𝑦 = 15",
+      "options": [
+        "16",
+        "4",
+        "25",
+        "5"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What is the value of x if cos 2𝑥 = 𝑠𝑖𝑛66",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Given sin 𝑥 = −0.9063, find the equivalent of 𝑥 in third quadrant",
+      "options": [
+        "640",
+        "1200",
+        "1150",
+        "1850"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the equation of a line which is parallel to 2𝑦 + 𝑥 = 3, passes through the mid-point (-2, 3) and (5, 4).",
+      "options": [
+        "4𝑦 + 2𝑥 − 17 = 0",
+        "2𝑦 + 4𝑥 + 17 = 0",
+        "𝑦 + 2𝑥 + 17 = 0",
+        "𝑛𝑜𝑛𝑒 𝑑𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify ∫ 1",
+      "options": [
+        "4√𝑥 (1 + 2𝑥 ) − (1−2𝑥)2 2√ 𝑥 (d) √𝑥 (1 + 2𝑥 ) + (1−2𝑥)2 2√ 𝑥",
+        "4√𝑥 (1 + 2𝑥 ) + (1−2𝑥)2 Answer: C 2√ 𝑥 𝑑𝑥 (a) ½ √1 − 2𝑥 + 𝑐 (b) − √1 − 2𝑥 + 𝑐",
+        "",
+        "√𝑥 (1 + 2𝑥 ) + (1−2𝑥)2 2√ 𝑥 (b) 4√𝑥 (1 + 2𝑥 ) + (1−2𝑥)2"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find ∫ √1−2𝑥 𝑡𝑎𝑛−1 𝜃 1+ 𝜃 2 𝑐 (d) ½ ( 1 1+𝜃2 𝑑𝜃",
+      "options": [
+        "𝑙𝑛(1 + 𝜃 2 ) + 𝑐",
+        "𝑙𝑛(𝑡𝑎𝑛−1 𝜃) + 𝑐",
+        "",
+        "½ ( 1 1+𝜃2 𝑑𝜃 (a) 𝑙𝑛(1 + 𝜃 2 ) + 𝑐 (b) 𝑙𝑛(𝑡𝑎𝑛−1 𝜃) + 𝑐 (c) ½ (𝑡𝑎𝑛−1 𝜃)2 +"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Solve the equation 2𝑐𝑜𝑠 2 𝜃 − 𝑐𝑜𝑠𝜃 = 0 𝑤ℎ𝑒𝑟𝑒 00 < 𝜃 < 900",
+      "options": [
+        "900",
+        "600",
+        "300",
+        "750"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the value of 𝜃 if 𝑠𝑖𝑛3𝜃 = 𝑐𝑜𝑠60",
+      "options": [
+        "10",
+        "30",
+        "90 (d)60"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Express 𝑠𝑖𝑛7𝑥 𝑐𝑜𝑠3𝑥 as a sum of trigonometric function",
+      "options": [
+        "1 1 2 2 1 2 Answer: A (𝑠𝑖𝑛10𝑥 + 𝑠𝑖𝑛4𝑥 )",
+        "− (𝑠𝑖𝑛10𝑥 − 4𝑥 )",
+        "− (𝑠𝑖𝑛10𝑥 + 𝑠𝑖𝑛4𝑥 )",
+        "½ 𝑠𝑖𝑛10𝑥 − 4𝑥)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑦 𝑑𝑥 if 𝑦 = 𝑎1+𝑡𝑎𝑛𝑥",
+      "options": [
+        "𝑎1+𝑡𝑎𝑛𝑥 𝑠𝑒𝑐 2 𝑥 logea",
+        "𝑎1+𝑡𝑎𝑛𝑥 𝑐𝑜𝑡 2 𝑥𝑙𝑜𝑔ea",
+        "2 𝑎1+𝑡𝑎𝑛 𝑥 𝑠𝑖𝑛2 𝑥𝑙𝑜𝑔ea",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of a fixed angle in the trigonometric equation 2√3𝑠𝑖𝑛𝜃 + 2𝑐𝑜𝑠𝜃 = 2",
+      "options": [
+        "300",
+        "600",
+        "900",
+        "1200"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑦 𝑑𝑥 if 𝑦 = 𝑙𝑜𝑔e (3𝑥 + 2)",
+      "options": [
+        "3𝑥 3𝑥+2",
+        "3 3𝑥+2",
+        "2 3𝑥+2",
+        "3 (3𝑥+2)2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find 𝑑𝑦 𝑑𝑥",
+      "options": [
+        "𝑦 = 2𝑎𝑡1 +2𝑥",
+        "𝑦 = 2𝑥",
+        "y=2at22 + t1",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Evaluate 1−𝑥 1 1+𝑐𝑜𝑠450 )",
+      "options": [
+        "2 1−𝑥 2",
+        "1+𝑥 (1−𝑥)2",
+        "𝑥 1−𝑥",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the area of a triangle WXY is 1, where the side w=2 and y=1, what is the value of X",
+      "options": [
+        "90",
+        "30",
+        "0",
+        "1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A straight line passes through (1, 2) and makes an angle 450 with x axis, find its equation",
+      "options": [
+        "2𝑦 = 𝑥 + 5",
+        "𝑦 = 𝑥 + 3",
+        "𝑦 = −𝑥 + 3",
+        "25 = 𝑥 + 5"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "If asin 𝜃 + 𝑏 cos 𝜃 = √𝑝 and acos 𝜃 − 𝑏 sin 𝜃 = √𝑞, evaluate √(𝑝 + 𝑞)",
+      "options": [
+        "√𝑎𝑏",
+        "√2𝑎𝑏",
+        "√𝑎2 + 𝑏2",
+        "√𝑎2 − 𝑏2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify 1 sec 𝜃−1 + 1 sec 𝜃+1",
+      "options": [
+        "2 tan 𝜃",
+        "2 cot 𝜃",
+        "2 sec 𝜃",
+        "2 cot 𝜃𝑐𝑜𝑠𝑒𝑐𝜃 D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑦 𝑑𝑥 𝑥2 𝑦2 𝑏2 𝑥 𝑎2 𝑥 −𝑏2 𝑥 𝑎 𝑏 𝑎 𝑦 𝑏 𝑦 𝑎2 𝑦 if 2 + 2 = 1",
+      "options": [
+        "2",
+        "2",
+        "",
+        "−𝑎2 𝑥 C 𝑏2 𝑦"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = tan 3𝑥 − 2 sin 3𝑥 + 2𝑥 2 , find the derivative of y with respect to x",
+      "options": [
+        "3 sec 2 3𝑥 − 6 cos 3𝑥 + 4𝑥",
+        "3 tan 3𝑥 + 6 cos 6𝑥 + 4𝑥",
+        "3 sin2 𝑥 + 6 cos 3𝑥 + 4𝑥",
+        "3 tan 3𝑥 − 6 cos 3𝑥 + 5 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If tan 𝐴 = √2 + 1, find sec 2 𝐴 − 2",
+      "options": [
+        "4 + 2√2",
+        "2 − 2√2",
+        "2 + 2√2",
+        "2√2 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If tan 𝜃 = 𝑦, find cos 2𝜃 in terms of y",
+      "options": [
+        "𝑦2 1+𝑦 2",
+        "1−𝑦 2 1−𝑦 2 1+𝑦 𝑦2 2",
+        "",
+        "1+𝑦 2 B 1−𝑦 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 3 + 3𝑥 2 , find the maximum and minimum points",
+      "options": [
+        "(0, 0) and (−2, 3)",
+        "(0, 0) and (−2, 4)",
+        "(0, 0) and (2, 3)",
+        "(0, 0) and (−2, 5) 𝜋 −1 4 6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If tan−1 3𝑥 + tan−1 2𝑥 = , find the value of x",
+      "options": [
+        "−1, B 1 −1 6 6",
+        ", −1",
+        "1, 1",
+        ", 1 6 D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑥 = asin 𝜃 and 𝑦 = 𝑏 cos 𝜃, evaluate √4(𝑏2 𝑥 2 + 𝑎2 𝑦 2 )",
+      "options": [
+        "√𝑎𝑏",
+        "𝑎𝑏",
+        "2𝑎2 𝑏2",
+        "2𝑎𝑏 D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find ∫ 𝑑𝑥 1−cos 𝑥 and 2 3 3 5 A 2𝑥𝑦+4𝑥 −2𝑥𝑦−4 B if 𝑥 2 𝑦 + 𝑦 2 − 4𝑥 = 1",
+      "options": [
+        "− and −2 (c) and −3 (d) 1 2 (c) , (d) , 𝑥 2 +2𝑦 4−2𝑥𝑦",
+        "",
+        "and −3",
+        "1 2 (c) , (d) , 𝑥 2 +2𝑦 4−2𝑥𝑦 (b) 2 𝑥 +2𝑦 (c) 𝑥 3 +𝑦 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑃 = 2𝑆 3 − 𝑆 2 − 28𝑆, find the value of 𝑆 which makes 7 1 1",
+      "options": [
+        "− , −",
+        "− , 𝑑𝑝 𝑑𝑠 −5 7 = 0 (a) and −1 (b) 3 B 3 𝑥 𝑥 𝑥 𝑥 2 2 2 2 (a) tan (b) − cot",
+        "− 𝑐𝑜𝑠𝑒𝑐",
+        "− sec B Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 21"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Determine ∫ ( sec2 𝑥+sec 𝑥 tan 𝑥 sec 𝑥+tan 𝑥 ) 𝑑𝑥",
+      "options": [
+        "ln(sec 𝑥 + tan 𝑥 ) + 𝐶",
+        "ln(𝑐𝑜𝑠𝑒𝑐 𝑥 − cos 𝑥) + 𝐶",
+        "ln(sec 𝑥 − sin 𝑥 ) + 𝐶",
+        "ln(cot 𝑥 + sec 2 𝑥 ) + 𝐶"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Integrate 𝑦 2 −1 √𝑦 5 5 1 5 2 A 1 2 2 5 5 with respect to y",
+      "options": [
+        "𝑦 2 − 𝑦 2 + 𝐶",
+        "𝑦 2 − 𝑦 2 + 𝐶",
+        "𝑦 2 − 2 5 1 2 2𝑦 + 𝐶",
+        "All of the above C 𝑥 sin 2𝑥 2 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of tangent to the curve 𝑦 = 3𝑥 2 + 2𝑥 − 1 at 𝑥 = 1",
+      "options": [
+        "𝑦 = 8𝑥 + 2",
+        "𝑦 = 8𝑥 − 4",
+        "𝑦 = 6𝑥 − 4",
+        "𝑦 = 8𝑥 + 4 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of 𝜃 in range 1800 ≤ 𝜃 ≤ 3600 which satisfies 1+cos 𝜃 2−cos 𝜃 = 1",
+      "options": [
+        "3000",
+        "2100",
+        "3300",
+        "600 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Consider the function 𝑦 = 𝑓(𝑥 ) = 3𝑥 + 2 with 𝑥1 = 0, 𝑥2 = 3. What is the average rate of the change",
+      "options": [
+        "3",
+        "10",
+        "13",
+        "15"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ 3 𝑥 ln 𝑥 A 3 𝑥2 2 2 𝑑𝑥",
+      "options": [
+        "3𝑥 ln 𝑥 + 𝐶",
+        "3 ln(ln 𝑥 ) + 𝐶",
+        "(𝑥 2 ln 𝑥 − ) + 𝐶",
+        "3(ln 𝑥 )2 + B 𝐶 8"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area between the curve 𝑦 = 𝑥 63 − 2𝑥 2 and 𝑦 = 2𝑥 − 𝑥 2",
+      "options": [
+        "𝑠𝑞. 𝑢𝑛𝑖𝑡 3",
+        "27 12 𝑠𝑞. 𝑢𝑛𝑖𝑡",
+        "37 12 𝑠𝑞. 𝑢𝑛𝑖𝑡",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ 6𝑥 𝑑𝑥",
+      "options": [
+        "6 + 𝐶",
+        "3𝑥 2 + 𝐶",
+        "6𝑥 ln 𝑥 + 𝐶 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Express tan 1950 in terms of surd",
+      "options": [
+        "6𝑥 ln 6 +𝐶 3+√3 3−√3 −3−√3 3−√3",
+        "",
+        "",
+        "3−√3 3+√3 3+√3 −3+√3 D B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find ∫ 1 3 2 1 1 1 6 3 3 𝑑𝑥",
+      "options": [
+        "ln(3𝑥 − 2) + 𝐶",
+        "ln(2𝑥 − 3) + 𝐶",
+        "ln(3𝑥 + 5) + 𝐶",
+        "6𝑥−4 D ln(3𝑥 − 2) + 𝐶"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find ∫ cos 3 𝑥 𝑑𝑥",
+      "options": [
+        "(d) cos3 𝑥 3 cos3 𝑥 3 − cos 𝑥 + 𝐶",
+        "sin 𝑥 − sin3 𝑥 3 + 𝐶",
+        "",
+        "cos3 𝑥 3 cos3 𝑥 3 − cos 𝑥 + 𝐶 (b) sin 𝑥 − sin3 𝑥 3 + 𝐶 (c) tan 𝑥 + tan3 𝑥 3 +𝐶 B − cos 2 𝑥 + 𝐶"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify (sec 𝜃 − tan 𝜃)(sec 𝜃 + tan 𝜃 ) + (𝑐𝑜𝑠𝑒𝑐 𝜃 − cot 𝜃)(𝑐𝑜𝑠𝑒𝑐 𝜃 + cot 𝜃 )",
+      "options": [
+        "−2",
+        "−1",
+        "1",
+        "2 D 1 1 4 (c) (d) 3 −2 7 3 11 7 11 (c) 33 16"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a triangle 𝐴𝐵𝐶, < 𝐴 = 53.10 , sides b and c are 4.2𝑐𝑚 and 3.5𝑐𝑚 respectively, find the area of the triangle",
+      "options": [
+        "8.70𝑐𝑚2",
+        "5.87𝑐𝑚2",
+        "4.87𝑐𝑚2",
+        "16.24𝑐𝑚2 B 1 𝑥 2 −1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫−1 𝑑𝑥",
+      "options": [
+        "0",
+        "−1",
+        "−2",
+        "2 𝑥+1 5 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ ( + 4𝑥) 𝑑𝑥",
+      "options": [
+        "3 1 6 1 C ( + 4𝑥) + 𝐶",
+        "24 3 1 1 6 ( + 4𝑥) + 𝐶",
+        "12 3 1 5 1 ( + 4𝑥) + 𝐶",
+        "24 3 3 1 1 A ( + 4𝑥) + 𝐶 8 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify cos 4 𝜃 − sin4 𝜃",
+      "options": [
+        "tan 2𝜃",
+        "sin 2𝜃",
+        "cos 2𝜃",
+        "𝑐𝑜𝑠𝑒𝑐 2𝜃 + 𝐶 (c) C C Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 23"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of the function 𝑦 = tan(2𝑥 + 45)",
+      "options": [
+        "2 sin(2𝑥 + 45)",
+        "2 cos(2𝑥 + 45)",
+        "2𝑐𝑜𝑠𝑒𝑐 (2𝑥 + 45)",
+        "2 sec 2 (2𝑥 + 45)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that 𝑦 = 𝑥2 D , find x and y intercepts",
+      "options": [
+        "(2, 0)",
+        "(0, 2)",
+        "(0, 0)",
+        "𝑥 2 −1 C (−2, −1)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Make sin 22.5 in surd form",
+      "options": [
+        "0 √(√2−1)",
+        "2 √(2−√2) 2 √(√2−2) √2+√2",
+        "",
+        "2 2 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A straight line perpendicular to the curve is",
+      "options": [
+        "tangent",
+        "chord",
+        "normal",
+        "gradient C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 2 sin 2𝑥, find the derivative of y in terms of x",
+      "options": [
+        "𝑥 cos 2𝑥 + sin 2𝑥",
+        "2𝑥 sin 𝑥 + 𝑥 cos 2𝑥",
+        "2𝑥[𝑥 cos 𝑥 + sin 𝑥 ]",
+        "none C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the derivative of 𝑦 = 𝑒 2𝑥+3 with respect to x",
+      "options": [
+        "2𝑒 2𝑥+3",
+        "2𝑒 2𝑥−3",
+        "3𝑒 2𝑥+3",
+        "𝑒 2𝑥+3 A 𝐾 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If an integral ∫0 𝑥 3 𝑑𝑥 = 4, find the value of K",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3 2 𝑥 2 +𝑥−2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the volume generated revolving about the x-axis along the curve 𝑥𝑦 = 2 1 3 2 2 which lies between 𝑥 = 2 and 𝑥 = 8",
+      "options": [
+        "𝜋 𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝜋 𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "5 2 7 𝜋 𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝜋 𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡 B 2 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If ∫−2(𝐾𝑡 − 1)𝑑𝑡 = 0, find the value of 𝐾",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate ∫ sin 4𝑡 cos 2𝑡 𝑑𝑡",
+      "options": [
+        "− − sin 6𝑡 12 − sin 2𝑡 4 + 𝐶 (d) none sin 2𝑡 12 + cos 6𝑡 6 + 𝐶",
+        "− cos 6𝑡 12 C − cos 2𝑡 4 + 𝐶",
+        "",
+        "none sin 2𝑡 12 + cos 6𝑡 6 + 𝐶 (b) − cos 6𝑡 12 C − cos 2𝑡 4 + 𝐶 (c) B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volume of a sphere is increasing at the rate of 20𝑐𝑚3 /𝑠𝑒𝑐. At what rate is the radius increasing when the radius of the sphere is 5𝑐𝑚?",
+      "options": [
+        "2𝜋𝑐𝑚/𝑠",
+        "5𝜋𝑐𝑚/𝑠",
+        "5 2𝜋 𝑐𝑚/𝑠",
+        "1 5𝜋 𝑐𝑚/𝑠 D Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 24"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 4𝑥 2 −1 , find the vertical and horizontal asymptotes",
+      "options": [
+        "(1, 2) and 3",
+        "𝑥 2 −5𝑥+6 (3, 2) and 3",
+        "(3, 4) and 3",
+        "(3, 2) and 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find ∫ 5𝑥 2 10𝑥 3 +3 D 1 1 1 6 6 3 𝑑𝑥",
+      "options": [
+        "ln(10𝑥 3 + 3)2 + 𝐶",
+        "ln(10𝑥 3 + 3) + 𝐶",
+        "ln(10𝑥 3 + 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that 𝑤 = ∫𝑎 𝑓(𝑥 )𝑑𝑥, which of the following statements is true?",
+      "options": [
+        "w is indefinite integral and 𝑓(𝑥 ) is integrand",
+        "w is definite integral, b is lower limit and 𝑓(𝑥 ) is integrand",
+        "w is definite integral, a is lower limit and 𝑓(𝑥 ) is differential",
+        "w is definite integral, and 𝑓(𝑥 ) is integrand D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volume generated when the area enclosed a curve 𝑦 = 𝑓(𝑥 ) and line 𝑥 = 𝑎 𝑎, 𝑥 = 𝑏 is rotated about x-axis through 2𝜋 radian is given",
+      "options": [
+        "𝑉𝑥 = ∫𝑏 𝜋𝑦 2 𝑑𝑥 𝑏 𝑏",
+        "𝑉𝑥 = ∫𝑎 𝜋𝑦 2 𝑑𝑥",
+        "𝑉𝑥 = ∫𝑎 2𝜋𝑦𝑥 𝑑𝑥",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate cos 22.5 in surd form",
+      "options": [
+        "0 √(√2−1) 2",
+        "B √(2−√2) 2",
+        "√2+√2 2",
+        "√(√2−2) 2 C cos 𝑥+sin 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ ( 1 2 sin 2𝑥 ) 𝑑𝑥",
+      "options": [
+        "1 2 1 ln sec 𝑥 + ln 𝑐𝑜𝑠𝑒𝑐 𝑥 + 𝐶 2",
+        "1 2 [ln|sec 𝑥 + tan 𝑥 | + 1 1 2 2 ln|𝑐𝑜𝑠𝑒𝑐 𝑥 − cot 𝑥 |] + 𝐶",
+        "[ln|sec 𝑥 − tan 𝑥 | + ln 𝑐𝑜𝑠𝑒𝑐 𝑥 ] + 𝐶",
+        "sin2 𝑥 + B 𝐶"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A radius of a circular disc is increasing at the rate of 0.5𝑐𝑚/𝑠, at what rate is the area of the disc increasing when radius is 6𝑐𝑚",
+      "options": [
+        "2𝜋𝑐𝑚2 /𝑠",
+        "6𝜋𝑐𝑚2 /𝑠",
+        "6𝑐𝑚2 /𝑠",
+        "2𝑐𝑚2 /𝑠"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Compute sin 750 in surd form",
+      "options": [
+        "1 √6+√3 √6+√2 √3+1",
+        "",
+        "",
+        "2 4 8 √3 B B Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 25"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Compute sin 3150",
+      "options": [
+        "−√2 −√3 √2 √3",
+        "",
+        "",
+        "2 2 2 2 B 4 12 63 5 13 65"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify √ 1−cos 2𝑥 1+cos 2𝑥",
+      "options": [
+        "sin 𝑥",
+        "tan 𝑥",
+        "sec 𝑥",
+        "cot 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of tan 22 10 2 B in surd form",
+      "options": [
+        "1 − √2",
+        "−1 + √2",
+        "1 − √3",
+        "B 1 + √3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify tan 62−tan 17 1+tan 62 tan 17 1+sin 𝜃 1−sin 𝜃",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3 B (a) (cos 𝜃 − sin 𝜃)2 (b) (sec 𝜃 + tan 𝜃)2 (c) sec 𝜃 + tan 𝜃 (d) none B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify 1−cos 𝜃 1+cos 𝜃",
+      "options": [
+        "(sin 𝜃 − tan 𝜃)2",
+        "(cos 𝜃 − sin 𝜃)2",
+        "(𝑐𝑜𝑠𝑒𝑐 𝜃 − cot 𝜃)2",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify C 1+sin 𝑥+cos 𝑥 1+sin 𝑥−cos 𝑥 𝑥 𝑥 𝑥 𝑥 2 2 2 3",
+      "options": [
+        "tan",
+        "cot",
+        "𝑐𝑜𝑠𝑒𝑐",
+        "cot"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of A if cot 𝑥 + tan 𝑥 = 𝐴 sin 2𝑥",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find without using table, the value of sin 2𝜃, if tan 𝜃 = (d) 5 12",
+      "options": [
+        "116 169 C",
+        "120 169 125",
+        "",
+        "5 12 (a) 116 169 C (b) 120 169 125 (c) 158 169 B 169"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝜃 is an acute angle, and sin 𝜃 = 0.6, find the value of (d) B 2 tan 𝜃 1−tan2 𝜃",
+      "options": [
+        "3 25",
+        "16 24 7",
+        "",
+        "B 2 tan 𝜃 1−tan2 𝜃 (a) 3 25 (b) 16 24 7 (c) 13 27 B 29"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Express cos 14𝐴 + cos 12𝐴 as a product of trigonometric function",
+      "options": [
+        "2 cos 13𝐴 cos 𝐴",
+        "2 sin 13𝐴 cos 𝐴",
+        "cos 12𝐴 sin 𝐴",
+        "2 sin 15𝐴 cos 3𝐴 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Express sin 4𝐴 cos 2𝐴 − sin 6𝐴 cos 6𝐴 as a sum of difference of sine",
+      "options": [
+        "1 2 [sin 6𝐴 + sin 2𝐴 − sin 12𝐴]",
+        "1 1 2 [sin 4𝐴 + sin 𝐴 − sin 10𝐴]",
+        "sin 5𝐴 − sin 20𝐴]",
+        "[sin 15𝐴 + sin 2𝐴 + sin 2𝐴] 2 1 2 [sin 2𝐴 + A Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 26"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that (sin 𝛼 − cos 𝛼 )2 + (sin 𝛼 + cos 𝛼 )2 = 𝑥, find the value of 𝑥",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If C sin 𝛼+cos 𝛼 cos4 𝛼−sin4 𝛼 = 𝑚 , find m?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3 B = cot 𝑚𝜃, find 𝑚 (a) 2 (b) 5 (c) 7 (d) 9 B cos 𝛼−sin 𝛼 cos 2𝜃+cos 8𝜃+cos 5𝜃 sin 2𝜃+sin 8𝜃+sin 5𝜃"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of x if tan−1 3𝑥 + tan−1 2𝑥 = 3𝜋 4",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that tan 𝜃 = 𝑥, find the value of sin 2𝜃 where 𝜃 ranges from 00 to 900",
+      "options": [
+        "𝑥 𝑥 2 +3 2𝑥",
+        "2 𝑥 +1",
+        "3𝑥 1+𝑥",
+        "none B 4 12 21 5 13 65"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate in degrees",
+      "options": [
+        "600",
+        "900",
+        "1200",
+        "1500 C tan 69+tan 66 C 1−tan 69 tan 66 (a) 0 (b) 1 (c) −1 (d) −2 2 5 5 11"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that tan 𝑥 = 1, find the value of cos 2𝑥",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3 1 1−cos 𝜃 + 1 1+cos 𝜃 𝜋 𝜋 3 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify 15",
+      "options": [
+        "2 sin2 𝜃",
+        "2𝑐𝑜𝑠𝑒𝑐 2 𝜃",
+        "2 cot 2 𝜃",
+        "2 sec 2 𝜃 B (a) 1 2 [sin 2𝜋 3 ] (b) 1 2 𝜋 1 7 2 [sin + sin 2𝜋](c) 𝜋 2𝜋 3 5 [cos + cos ] (d) A sin 2𝜋"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify cot 𝜃 + A sin 𝜃 1+cos 𝜃",
+      "options": [
+        "sec 𝜃",
+        "𝑐𝑜𝑠𝑒𝑐 𝜃",
+        "cot 𝜃",
+        "tan 𝜃 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If cos 3𝑥 + √3 sin 3𝑥 is expressed in the form 𝑅 cos(3𝑥 − 𝛼 ), find the value of 𝑅 𝜋 2𝜋 3 9 and 𝛼",
+      "options": [
+        "2 and 900",
+        "2 and",
+        "3 and",
+        "4 and 𝜋 7 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Express sin 𝑥 − 2 cos 𝑥 in the form of 𝑅 sin(𝑥 − 𝛼 ) where 𝛼 is an acute angle and 𝑅 is a positive real number",
+      "options": [
+        "√7 sin(𝑥 − 63.430 )",
+        "√5 sin(𝑥 − 63.430 )",
+        "√3 sin(𝑥 − 450 )",
+        "none B Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 27"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given that 3 cos 𝜃 − 4 sin 𝜃 = 𝑅 cos(𝜃 + 𝛼 ), find 𝑅 and 𝛼",
+      "options": [
+        "5 and 53.130",
+        "2 and 450",
+        "3 and 600",
+        "4 and 280 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Express sin 10𝐴 sin 8𝐴 − sin 18𝐴 sin 18𝐴 as a sum or difference of cosine",
+      "options": [
+        "1 2 [cos 2𝐴 − cos 18𝐴 − cos 0 + cos 36𝐴] 1",
+        "2 [cos 15𝐴 − cos 12𝐴 + cos 𝐴 + 1 cos 5𝐴]",
+        "[cos 𝐴 − cos 3𝐴 + cos 5𝐴 + cos 27𝐴]",
+        "all of the above A 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 4(1+cot2 𝜃) 1+tan2 𝜃 𝐴 𝐵 2 2 = 𝑦 cot 𝜃, find the value of y",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3 C = cot cot and 𝑎 + 𝑏 = 18.5𝑚𝑚, 𝐴 = 72.30 , 𝐵 = 45.70 , find 𝐶 and side 𝑎+𝑏−𝑐 𝑐 (a) 620 , 6.2𝑚𝑚 (b) 620 , 9.7907𝑚𝑚 (c) 620 , 3.2𝑚𝑚 (d) 450 , 5.31𝑚𝑚"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Evaluate ∫ 𝑒 sin 𝜃 cos 𝜃 𝑑𝜃",
+      "options": [
+        "𝑒 𝑐𝑜𝑠𝑒𝑐 𝜃 + 𝐶",
+        "𝑒 sin 𝜃 + 𝐶",
+        "𝑒 cos 𝜃 + 𝐶",
+        "𝑒 tan 𝜃 + B 𝐶 𝑥+1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "∫ 2 𝑥 +2𝑥 1 3 1 1 1 2 2 𝑥 𝑑𝑥",
+      "options": [
+        "(𝑥 2 + 2𝑥 ) + 𝐶",
+        "ln(𝑥 2 + 2𝑥 ) + 𝐶",
+        "3𝑥 2 + 5𝑥 + + 𝐶",
+        "B ln(𝑥 2 + 2𝑥 ) + 𝐶"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the acute angle between the lines 5𝑥 + 4𝑦 = 3 and 𝑦 − 3𝑥 = 2",
+      "options": [
+        "260",
+        "350",
+        "57.090",
+        "95.250 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "M is the mid-point of 𝐽𝐾. If the coordinate of 𝐽 is (−5, 4) and 𝑚 is (−2, 1), find the coordinate of 𝐾?",
+      "options": [
+        "(2, −1)",
+        "(1, −2)",
+        "(2, −3)",
+        "(1, 4) B Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 28"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "is (−𝐾, 𝐾), find 𝐾?",
+      "options": [
+        "−1",
+        "−2",
+        "−3",
+        "−4 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the mid-point of 𝐴(−3, 1), 𝐵(7, 3)",
+      "options": [
+        "(2, 2)",
+        "(1, 2)",
+        "(2, 3)",
+        "(3, 5) A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A straight line touching a curve at a specific point without crossing the curve is",
+      "options": [
+        "normal",
+        "tangent",
+        "chord",
+        "diameter B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A straight line which is perpendicular to the tangent is known as ________",
+      "options": [
+        "chord",
+        "diameter",
+        "tangent",
+        "normal D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The equation of the tangent at point (𝑥, 𝑦) is given as",
+      "options": [
+        "𝑦 − 𝑥1 = 𝑚(𝑥 − 𝑦1 )",
+        "𝑦 − 𝑦1 = 𝑚(𝑥 − 𝑥1 )",
+        "𝑥 − 𝑥1 = 𝑦(𝑚 − 𝑦1 )",
+        "𝑥 − 𝑥1 = 𝑚(𝑦 − 𝑦1 ) B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the tangent to the curve 𝑦 = 3𝑥 2 + 2𝑥 − 1 at 𝑥 = 1",
+      "options": [
+        "𝑦 = 2𝑥 − 4",
+        "𝑦 = 8𝑥 − 4",
+        "𝑦 − 16𝑥 − 7",
+        "𝑦 − 8𝑥 + 4 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the normal to the curve 𝑦 = 3𝑥 2 + 2𝑥 − 1 at 𝑥 = 1",
+      "options": [
+        "8𝑦 = 33 − 𝑥",
+        "8𝑦 = 22 − 4𝑥",
+        "8𝑦 = 𝑥 + 11",
+        "none A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When two lines are perpendicular",
+      "options": [
+        "𝑚1 = 𝑚2",
+        "𝑚12 = 1 + 𝑚2",
+        "𝑚1 𝑚2 = −1",
+        "𝑚1 ≠ 𝑚2 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The radius of a circular disc is increasing at the rate of 0.5𝑐𝑚/𝑠𝑒𝑐. At what rate is the area of the disc increasing when its radius is 6𝑐𝑚 (𝐴 = 𝜋𝑟 2 )",
+      "options": [
+        "6𝜋𝑐𝑚2 /𝑠𝑒𝑐",
+        "12𝜋𝑐𝑚2 /𝑠𝑒𝑐",
+        "24𝜋𝑐𝑚2 /𝑠𝑒𝑐",
+        "48𝜋𝑐𝑚2 /𝑠𝑒𝑐"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "At the maximum point",
+      "options": [
+        "> 0",
+        "𝑑𝑦 𝑑𝑥 = 0",
+        "𝑑𝑦 𝑑𝑥 A < 0",
+        "𝑑𝑦 𝑑𝑥 𝑑2 𝑦 𝑑2 𝑦 𝑑2 𝑦 𝑑2 𝑦 𝑑𝑥 𝑑𝑥 𝑑𝑥 𝑑𝑥 2 2 < 0 (b) 2 > 0 (c) 2 = 0 (d) 𝑑2 𝑦 𝑑2 𝑦 𝑑2 𝑦 𝑑2 𝑦 𝑑𝑥 𝑑𝑥 𝑑𝑥 𝑑𝑥 2 2 < 0 (b) 2 = 0 (c) B ≠0 2 > 0 (d) = −1 B = −2 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑦 = cos(𝐴𝑥 + 𝐵) with respect to x at 𝑥 = 0",
+      "options": [
+        "−𝐴 sin 𝐵",
+        "𝐴 cos 𝐵",
+        "0",
+        "− sin 𝐵 A Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 29"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 cos 𝑥 − sin 𝑥, find 𝑑𝑦 𝑑𝑥",
+      "options": [
+        "−𝑥 cos 𝑥",
+        "𝑥 cos 𝑥 − sin 𝑥",
+        "−𝑥 sin 𝑥",
+        "C 𝑥 cos 𝑥 sin 𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find 𝑑𝑦 𝑑𝑥 at 𝑥 = 0, when 𝑦 = sin(𝐴𝑥 + 𝐵)",
+      "options": [
+        "cos 𝐵",
+        "− cos 𝐵",
+        "𝐴 cos 𝐵",
+        "C −𝐴 sin 𝐵 cos 𝐵 𝑥 99"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Differentiate 𝑦 = (1 − ) 3 𝑥 98 (c) 33 (1 − ) 3 𝑥 98 with respect to x",
+      "options": [
+        "99 (1 − ) 3 1 𝑥 98 3 3",
+        "",
+        "33 (1 − ) 3 𝑥 98 with respect to x (a) 99 (1 − ) 3 1 𝑥 98 3 3 (b) − (1 − ) 𝑥 98",
+        "−33 (1 − ) D 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the approximate increase in 𝜃 when 𝑟 increases from 1 to 1.05 using a relation 𝜃 = 𝑟 3 − 𝑟",
+      "options": [
+        "0.15",
+        "0.1",
+        "0.108",
+        "1.01 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the radius r of a circular disc which increases at the rate of 0.25𝑐𝑚/𝑠𝑒𝑐 given that its area 𝐴 = 𝜋𝑟 2 increases at the rate of 8𝜋𝑐𝑚2 /𝑠𝑒𝑐",
+      "options": [
+        "2𝑐𝑚",
+        "4𝑐𝑚",
+        "8𝑐𝑚",
+        "16𝑐𝑚 D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 2𝑥 2, find the approximate increase in y when x increases from 2 to 2.002",
+      "options": [
+        "0.16",
+        "0.004",
+        "0.016",
+        "0.04 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The radius r of a circular disc is increasing at the rate of 0.5𝑐𝑚/𝑠𝑒𝑐. At what rate is the area of the disc increasing when its radius is 4𝑐𝑚, given that 𝐴 = 𝜋𝑟 2 ?",
+      "options": [
+        "4𝜋𝑐𝑚2 /𝑠𝑒𝑐",
+        "8𝜋𝑐𝑚2 /𝑠𝑒𝑐",
+        "2𝜋𝑐𝑚2 /𝑠𝑒𝑐",
+        "16𝜋𝑐𝑚2 /𝑠𝑒𝑐 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area enclosed between the curves 𝑦 = 𝑥 2 & 𝑦 = 6𝑥",
+      "options": [
+        "9 square unit",
+        "18 square unit",
+        "36 square unit",
+        "72 square unit C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volume obtained if the axis of revolution is the x – axis is obtained",
+      "options": [
+        "𝑏 𝑉𝑥 = ∫𝑎 𝜋𝑥 2 𝑑𝑥",
+        "𝑏 𝑉𝑥 = ∫𝑎 𝜋𝑦 2 𝑑𝑥",
+        "𝑏 𝑉𝑥 = ∫𝑎 𝜋(𝑦 2 − 𝑥 2 )𝑑𝑥",
+        "𝑏 𝑉𝑥 = B ∫𝑎 𝜋 2 𝑦 2 𝑥 2 𝑑𝑥 𝑏"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volume obtained if the axis of revolution is the y – axis is",
+      "options": [
+        "𝑉𝑦 = ∫𝑎 𝜋𝑦 2 𝑑𝑥 𝑏",
+        "𝑉𝑦 = ∫𝑎 2𝜋𝑥𝑦 𝑑𝑥",
+        "𝑉𝑦 = ∫ 𝜋𝑥 2 𝑦 2 𝑑𝑥",
+        "𝑉𝑦 = ∫ 3𝑥 2 𝑦 2 𝑑𝑦 B Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 30"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the volume obtained rotating the area under the curve 𝑦 = 𝑥 2 from 𝑥 = 𝜋 𝜋 2 3 0 to 𝑥 = 1 through 3600 about the x – axis",
+      "options": [
+        "𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝜋 5 𝜋 𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡 C 7"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area between the curve 𝑦 = cos 𝑥 and its x – axis from 𝑥 = 0 to 𝑥 = 𝜋",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area between the curve 𝑦 = 6𝑥 2 − 6𝑥 − 12 and the x – axis from 𝑥 = −3 to 𝑥 = 3",
+      "options": [
+        "36𝑠𝑞𝑢𝑎𝑟𝑒 𝑢𝑛𝑖𝑡",
+        "52𝑠𝑞𝑢𝑎𝑟𝑒 𝑢𝑛𝑖𝑡",
+        "75𝑠𝑞𝑢𝑎𝑟𝑒 𝑢𝑛𝑖𝑡",
+        "A 27𝑠𝑞𝑢𝑎𝑟𝑒 𝑢𝑛𝑖𝑡"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area enclosed the curves 𝑦 = 2𝑥 − 7 and 𝑦 = 𝑥 2 − 6𝑥",
+      "options": [
+        "36",
+        "54",
+        "72",
+        "85 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area enclosed the curves 𝑦 = 20 − 𝑥 2 , 𝑦 = 𝑥 2 − 12",
+      "options": [
+        "315 7 (d) 413 215 3",
+        "512 3",
+        "",
+        "413 215 3 (b) 512 3 (c) B 5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The x – coordinate is called the ________",
+      "options": [
+        "ordinate",
+        "singleton",
+        "abscissa",
+        "ortified C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The y – coordinate is called the ________",
+      "options": [
+        "abscissa",
+        "ordinate",
+        "singleton",
+        "ortified B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the length of the line joining 𝐴(1, 3) and 𝐵 (4, 7)",
+      "options": [
+        "2units",
+        "3units",
+        "4units",
+        "5units D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the line of gradient 3, which passes through the point (0, 2)",
+      "options": [
+        "𝑦 = 2𝑥 + 3",
+        "𝑦 = 3𝑥 + 2",
+        "𝑦 = 5𝑥 + 3",
+        "𝑦 = 4𝑥 + 7 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the acute angle between the lines 2𝑥 + 5𝑦 = 12 and 2𝑦 − 3𝑥 = −7",
+      "options": [
+        "17 22 19 16 15 7 16 5 tan−1",
+        "tan−1",
+        "tan−1",
+        "tan−1 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "which is parallel to 𝑦 = 3𝑥 + 1",
+      "options": [
+        "𝑦 − 𝑥 = −10",
+        "𝑦 − 2𝑥 = −10",
+        "𝑦 − 3𝑥 = −10",
+        "𝑦 − 4𝑥 = −10 C Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 31"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "and radius 5",
+      "options": [
+        "𝑥 2 + 𝑦 2 − 3𝑥 + 2𝑦 = 15",
+        "𝑥 2 + 𝑦 2 − 4𝑥 + 2𝑦 = 20",
+        "𝑥 2 − 𝑦 2 + 3𝑥 + 4𝑦 = 20",
+        "𝑥 2 + B 𝑦 2 − 5𝑥 + 6𝑦 = 20"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the circle with centre (2, 3) which passes through the point (1, 1)",
+      "options": [
+        "𝑥 2 + 𝑦 2 − 4𝑥 − 6𝑦 + 8 = 0",
+        "𝑥 2 + 𝑦 2 + 4𝑥 + 6𝑦 − 8 = 0",
+        "𝑥 2 + 𝑦 2 + 2𝑥 + 4𝑦 = 0",
+        "𝑥 2 + 𝑦 2 + 4𝑥 + 6𝑦 + 9 = 0 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the circle which passes through the points (2, 1), (0, −3) and (4, 3)",
+      "options": [
+        "𝑥 2 + 𝑦 2 − 20𝑥 + 6𝑦 + 27 = 0",
+        "𝑥 2 + 𝑦 2 − 11𝑥 + 5𝑦 + 8 = 0",
+        "𝑥 2 + 𝑦 2 − 22𝑥 + 12𝑦 + 27 = 0",
+        "𝑥 2 + 𝑦 2 + 3𝑥 + 4𝑦 + 7 = 0 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the tangent to the circle 𝑥 2 + 𝑦 2 − 2𝑥 + 4𝑦 − 15 = 0 at the 𝑥 5 𝑥 5 𝑥 5 𝑥 5 3 2 4 3 7 3 2 2 point (−1, 2)",
+      "options": [
+        "𝑦 = +",
+        "𝑦 = +",
+        "𝑦 = +",
+        "𝑦 = + D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the eccentricity of the hyperbola 𝑥2 9 − 𝑦2 25 C = 1",
+      "options": [
+        "3 2 √15 √34",
+        "",
+        "",
+        "3 3 √15 √34 A 𝑥2 𝑦2 𝑎 𝑏"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following represents the equation of an ellipse?",
+      "options": [
+        "2 − 2 = 1",
+        "𝑥2 𝑦2 𝑥2 𝑦2 𝑥2 𝑦2 𝑎 𝑏 𝑏 𝑎 𝑏 𝑎 2 + 2 = 1",
+        "2 − 2 = 1",
+        "2 + 2 = 1 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the semi-major and semi-minor axes of the ellipse 4𝑥 2 + 9𝑦 2 = 36",
+      "options": [
+        "2, 3",
+        "3, 2",
+        "1, 2",
+        "3, 4 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the eccentricity of the ellipse 4𝑥 2 + 9𝑦 2 = 36",
+      "options": [
+        "0.2",
+        "0.57",
+        "0.74 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the circle with centre (−1, 2) and radius 3",
+      "options": [
+        "𝑥 2 + 𝑦 2 + 3𝑥 − 2𝑦 + 6 = 0",
+        "𝑥 2 + 𝑦 2 + 2𝑥 − 4𝑦 − 4 = 0",
+        "𝑥 2 + 𝑦 2 + 4𝑥 − 6𝑦 + 9 = 0",
+        "𝑥 2 + 𝑦 2 + 4𝑥 − 8𝑦 + 20 = 0 B Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple… 32"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of a circle centered at the origin with radius √3",
+      "options": [
+        "𝑥 2 + 𝑦 2 = 3",
+        "𝑥 2 + 2𝑦 2 = √3",
+        "𝑥 2 + 𝑦 2 = 6",
+        "𝑥 2 + 𝑦 2 + 6𝑥 + 4𝑦 = 0 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the circle with centre (−2, 3) which passes through the point (1, 2)",
+      "options": [
+        "𝑥 2 + 𝑦 2 − 2𝑥 + 4𝑦 + 15 = 0",
+        "𝑥 2 + 𝑦 2 + 4𝑥 − 6𝑦 + 3 = 0",
+        "𝑥 2 + 𝑦 2 + 9𝑥 + 6𝑦 = 0",
+        "𝑥 2 + 𝑦 2 + 2𝑥 + 6𝑦 + 1 = 0 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the radius and the coordinate of the centre of a circle 𝑥 2 + 𝑦 2 − 4𝑥 + 2𝑦 − 3 = 0",
+      "options": [
+        "(1, −2), √8",
+        "(2, 1), √2",
+        "(2, −1), √8",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of a circle which passes C through the point (2, 1), (0, −3) & (4, 3)",
+      "options": [
+        "𝑥 2 + 𝑦 2 − 22𝑥 + 12𝑦 + 27 = 0",
+        "𝑥 2 + 𝑦 2 + 11𝑥 + 22𝑦 + 21 = 0",
+        "𝑥 2 + 𝑦 2 + 3𝑥 + 4𝑦 + 19 = 0",
+        "none A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of tangent to the circle 𝑥 2 + 𝑦 2 + 4𝑥 − 10𝑦 = 12 at the point (3, 1)",
+      "options": [
+        "3𝑥 − 4𝑦 − 11 = 0",
+        "5𝑥 − 4𝑦 − 11 = 0",
+        "5𝑥 − 2𝑦 − 11 = 0",
+        "3𝑥 − 2𝑦 + 11 = 0 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Verify that 𝑥 2 + 𝑦 2 − 4𝑥 − 6𝑦 + 9 = 0 represents a circle finding its radius",
+      "options": [
+        "4",
+        "2√2",
+        "−2",
+        "2 D"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Obtain the equation of the circle through the three points 𝐴(1, 3), 𝐵(2, −3) and 𝐶 (−1, 1)",
+      "options": [
+        "𝑥 2 + 𝑦 2 − 11𝑥 + 9𝑦 = 12",
+        "5𝑥 2 + 5𝑦 2 − 11𝑥 − 9𝑦 = 12",
+        "3𝑥 2 + 3𝑦 2 + 9𝑥 − 11𝑦 = 24",
+        "5𝑥 2 + 5𝑦 2 = 12 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Obtain the equation of circle with centre (1, 2) and radius 5",
+      "options": [
+        "𝑥 2 + 𝑦 2 − 2𝑥 − 4𝑦 = 20",
+        "𝑥 2 + 𝑦 2 − 4𝑥 − 2𝑦 = 20",
+        "2𝑥 2 + 2𝑦 2 + 𝑥 + 2𝑦 = 10",
+        "2𝑥 2 + 2𝑦 2 − 4𝑥 − 4𝑦 = 40 A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these represents a circle with centre 0 and radius r",
+      "options": [
+        "𝑟 2 = (𝑥 − 𝑎)2 + (𝑦 − 𝑏)2",
+        "𝑟 2 = (𝑥 + 𝑎)2 + (𝑦 − 𝑏)2",
+        "𝑟 2 = 𝑥 2 + 𝑦 2",
+        "𝑟 2 = (𝑦 + 𝑏)2 C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the length of a tangent from point (−3, 2) to the circle 𝑥 2 + 𝑦 2 − 6𝑥 − 4𝑦 + 9 = 0",
+      "options": [
+        "2√2",
+        "4√2",
+        "√2",
+        "2√4 B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given just three letters A, B and C, how many permutations of size 3 can we get?",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12 B Continue to share the good news of s around and mobilize the fresher’s to the . s …making the complex simple…"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑐𝑜𝑠2𝐴 = 2𝑐𝑜𝑠 2 𝐴 − 1. Cos4A\nequals?",
+      "options": [
+        "8𝑐𝑜𝑠 2 𝐴 − 8𝑐𝑜𝑠 2 𝐴 + 1",
+        "8𝑐𝑜𝑠 3 𝐴 − 8𝑐𝑜𝑠 2 𝐴 + 1",
+        "8𝑐𝑜𝑠 4 𝐴 +\n8𝑐𝑜𝑠 2 𝐴 + 1",
+        "8𝑐𝑜𝑠 4 𝐴 − 8𝑐𝑜𝑠 2 𝐴 +\n1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value of 𝛼 𝑓𝑜𝑟 00 ≤ 𝛼 ≤\n3600 in the equation 𝑐𝑜𝑠𝑒𝑐𝛼𝑡𝑎𝑛𝛼 =\n𝛼\n1, by using the substitution 𝑡𝑎𝑛 = 𝑡\n2",
+      "options": [
+        "900",
+        "1800",
+        "450",
+        "3600"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given a triangle with angles ABC and\nsides a, b, c the area of the triangle is\ngiven by;\n1\n1\n1",
+      "options": [
+        "𝑎𝑏𝑠𝑖𝑛𝐴",
+        "𝑎𝑏𝑠𝑖𝑛𝐵",
+        "𝑎𝑏𝑠𝑖𝑛𝐶\n2\n1\n\n2\n\n2",
+        "𝑎𝑏𝑠𝑖𝑛𝐴𝐵𝐶\n2\n\n12"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If y=92x+1. Find 𝑑𝑥 ?\n\n−2𝑥𝑦−𝑦 3 −3\n\n(d)\n\n(𝑥+1)2\n(3𝑥𝑠𝑖𝑛3𝑥)+(3𝑐𝑜𝑠3𝑥)−𝑠𝑖𝑛3𝑥",
+      "options": [
+        "5x4",
+        "5y4",
+        "",
+        "(𝑥+1)2\n(3𝑥𝑠𝑖𝑛3𝑥)+(3𝑐𝑜𝑠3𝑥)−𝑠𝑖𝑛3𝑥\n\n(a) 5x4 (b) 5y4 (c) None (d) 0\n\n𝑥 2 +𝑦\n\n(a) 𝑥−𝑦 (b) 𝑦 2 −𝑥 (c) 𝑦 2 +𝑥 (d) 𝑥+𝑦\n\n−2𝑥𝑦−𝑦 3 −3\n\n(𝑥+1)2\n(3𝑥𝑐𝑜𝑠3𝑥)+(3𝑐𝑜𝑠3𝑥)−𝑠𝑖𝑛3𝑥"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If 𝑦 = 𝑥 2 −1. Find the y-intercept and xintercept respectively.",
+      "options": [
+        "0,0",
+        "1,0",
+        "2,2",
+        "1,2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The midpoint of the points 𝑀(4, −1) and 𝑁(𝑥, 𝑦) is 𝑃(3, −4). Find the\ncoordinates of points N",
+      "options": [
+        "(−2, 7)",
+        "(2, 7)",
+        "(−2, −7)",
+        "(2, −7)"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the equation of the line passing through (1, −1) and (5, 7)",
+      "options": [
+        "𝑦 = 4𝑥 + 5",
+        "𝑦 = 2𝑥 + 5",
+        "𝑦 = 4𝑥 − 5",
+        "𝑦 − 2𝑥 + 3 = 0"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the value of a fixed angle in the trigonometry equation given by 2√3 sin 𝜃 +\n2 cos 𝜃 = 2",
+      "options": [
+        "90",
+        "0",
+        "60",
+        "30"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Given that 𝑦 + 2𝑥 = 11. Find the gradient of the line",
+      "options": [
+        "none",
+        "Answer: B\n2\n11",
+        "11",
+        "11\n2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Determine the y intercept of the straight line represented by the equation 5𝑥 −\n7𝑦 + 13 = 0",
+      "options": [
+        "5\n13\n\n6\n\n7\n\n7\n\n13",
+        "1",
+        "",
+        "5"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the value of 𝛼 if 𝑐𝑜𝑠𝑒𝑐𝛼 tan 𝛼 = 1 by using the half substitution method,\n𝛼\n\ntan = 𝑡",
+      "options": [
+        "30",
+        "1",
+        "180",
+        "0\n2"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the intercept of a line given by 𝑦 = 𝑎𝑥 + 𝑏",
+      "options": [
+        "0",
+        "a",
+        "b",
+        "x"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the volume obtained by rotating area under the curve 𝑦 = 𝑥 2 from 𝑥 = 0 to\n𝑥 = 1",
+      "options": [
+        "16𝜋\n5",
+        "2𝜋\n5",
+        "3𝜋\n5",
+        "𝜋"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The relationship between 𝑎, 𝑏 & 𝑒 in ellipse is given by",
+      "options": [
+        "𝑏2 = 𝑎2 (1 − 𝑒)",
+        "𝑏 2 = 𝑎2 (1 − 𝑒 2 )",
+        "𝑎2 = 𝑏2 (1 − 𝑒 2 )",
+        "𝑏2 = 𝑎2 (1 + 𝑒 2 )"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area enclosed by the curves y=x2 – x – 6",
+      "options": [
+        "(c)\n\n151\n6\n\n𝑠𝑞 𝑢𝑛𝑖𝑡 (d)\n\n135\n6\n\n147\n6\n\nAnswer D\n\n𝑠𝑞 𝑢𝑛𝑖𝑡",
+        "",
+        "151\n6\n\n𝑠𝑞 𝑢𝑛𝑖𝑡",
+        "135\n6\n\n147\n6"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Find the volume generated by revolving about the x-axis along the curve 𝑥𝑦 = 2\n1\n\n3\n\n2\n\n2\n\nwhich lies between 𝑥 = 2 and 𝑥 = 8",
+      "options": [
+        "𝜋 𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝜋 𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "5\n2\n\n7\n\n𝜋 𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝜋 𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡\n\nB\n\n2\n\n3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volume generated when the area enclosed by a curve 𝑦 = 𝑓(𝑥 ) and line 𝑥 =\n𝑎\n\n𝑎, 𝑥 = 𝑏 is rotated about x-axis through 2𝜋 radian is given by",
+      "options": [
+        "𝑉𝑥 = ∫𝑏 𝜋𝑦 2 𝑑𝑥\n𝑏\n\n𝑏",
+        "𝑉𝑥 = ∫𝑎 𝜋𝑦 2 𝑑𝑥",
+        "𝑉𝑥 = ∫𝑎 2𝜋𝑦𝑥 𝑑𝑥",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the mid-point of the line joining (1 − 𝐾, −4) and (2, 𝐾 + 1) is (−𝐾, 𝐾), find 𝐾?",
+      "options": [
+        "−1",
+        "−2",
+        "−3",
+        "−4\n\nC"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volume obtained if the axis of revolution is the x – axis is obtained by",
+      "options": [
+        "𝑏\n\n𝑉𝑥 = ∫𝑎 𝜋𝑥 2 𝑑𝑥",
+        "𝑏\n\n𝑉𝑥 = ∫𝑎 𝜋𝑦 2 𝑑𝑥",
+        "𝑏\n\n𝑉𝑥 = ∫𝑎 𝜋(𝑦 2 − 𝑥 2 )𝑑𝑥",
+        "𝑏\n\n𝑉𝑥 =\nB\n\n∫𝑎 𝜋 2 𝑦 2 𝑥 2 𝑑𝑥\n𝑏"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the volume obtained by rotating the area under the curve 𝑦 = 𝑥 2 from 𝑥 =\n𝜋\n\n𝜋\n\n2\n\n3\n\n0 to 𝑥 = 1 through 3600 about the x – axis",
+      "options": [
+        "𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝜋\n5\n\n𝜋\n\n𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡",
+        "𝑐𝑢𝑏𝑖𝑐 𝑢𝑛𝑖𝑡\n\nC\n\n7"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area enclosed by the curves 𝑦 = 2𝑥 − 7 and 𝑦 = 𝑥 2 − 6𝑥",
+      "options": [
+        "36",
+        "54",
+        "72",
+        "85\n\nA"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the area enclosed by the curves 𝑦 = 20 − 𝑥 2 , 𝑦 = 𝑥 2 − 12",
+      "options": [
+        "315\n7\n\n(d)\n\n413\n\n215\n3",
+        "512\n3",
+        "",
+        "413\n\n215\n3\n\n(b)\n\n512\n3\n\n(c)\n\nB\n\n5"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the line through the point (3, −1) which is parallel to 𝑦 =\n3𝑥 + 1",
+      "options": [
+        "𝑦 − 𝑥 = −10",
+        "𝑦 − 2𝑥 = −10",
+        "𝑦 − 3𝑥 = −10",
+        "𝑦 − 4𝑥 = −10\nC\nContinue to share the good news of s around and mobilize the fresher’s to the .\n s …making the complex simple…\n\nBest wishes\n\n\f31"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the equation of the circle with centre (2, −1) and radius 5",
+      "options": [
+        "𝑥 2 + 𝑦 2 −\n3𝑥 + 2𝑦 = 15",
+        "𝑥 2 + 𝑦 2 − 4𝑥 + 2𝑦 = 20",
+        "𝑥 2 − 𝑦 2 + 3𝑥 + 4𝑦 = 20",
+        "𝑥 2 +\nB\n\n𝑦 2 − 5𝑥 + 6𝑦 = 20"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Verify that 𝑥 2 + 𝑦 2 − 4𝑥 − 6𝑦 + 9 = 0 represents a circle by finding its radius",
+      "options": [
+        "4",
+        "2√2",
+        "−2",
+        "2\n\nD"
+      ],
+      "correct": "a"
+    }
+  ]
+}

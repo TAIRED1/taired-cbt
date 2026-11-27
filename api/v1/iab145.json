@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "IAB145",
+    "total_questions": 9
+  },
+  "data": [
+    {
+      "question": "9 4.4 4.5 4.7 4.4 4.5 4.9 4.7 4.5 4.6",
+      "options": [
+        "Arrange the data in 8 equal classes between 4.2 and 4.9 mm.",
+        "Determine the frequency distribution.",
+        "Draw the frequency histogram.\n\n2\n\nThe diameters of 75 rollers gave the following frequency distribution:\nDiameter x (mm)\nFrequency f\nDiameter x (mm)\nFrequency f"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "17–9.21\n\n15\n\n10\n\n5\n\n2\n\n\fData handling and statistics\n\n1073",
+      "options": [
+        "For each class, calculate (i) the central value, (ii) the relative frequency.",
+        "Draw the relative frequency histogram.",
+        "State (i) the lower boundary of the third class, (ii) the upper boundary\nof the sixth class, (iii) the class interval.\n3\n\nThe thicknesses of 40 samples of steel plate were measured:\nThickness x (mm)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "4–11.6\n\n7\n\n4\n\n3\n\nFrequency f\nThickness x (mm)\nFrequency f\n\nUsing coding procedure, calculate:",
+      "options": [
+        "the mean",
+        "the standard deviation",
+        "the mode",
+        "the median of the set of values given.\n4\n\nThe lengths of 50 copper plugs gave the following frequency distribution:\nLength x (mm)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "41\n\n3\n\n10\n\n19\n\n20\n\n18\n\n13\n\n7\n\nFrequency f\n\nCalculate",
+      "options": [
+        "the mean,",
+        "the standard deviation,",
+        "the mode and",
+        "the\nmedian of the set of values.\n5\n\nForty concrete cubes were subjected to failure tests in a crushing machine.\nFailure loads were as follows:\nLoad x (kN)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "6\n\nFrequency f\n\n2\n\n8\n\n14\n\n10\n\n4\n\n2\n\nCalculate",
+      "options": [
+        "the mean,",
+        "the standard deviation,",
+        "the mode and",
+        "the\nmedian of the set of results.\n6\n\nThe time taken by employees to complete an operation was recorded on\n80 occasions:\nTime (min)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "638\n\n3\n4\n\n5\n6\n7\n8\n\n3\n\n13 983 816",
+      "options": [
+        "40 320",
+        "3 628 800",
+        "4080",
+        "24\n(e) 24\n(a) 56 (b) 455 (c) 159 (d) 1\n128a7 \u0002 2240a6 b þ 16 800a5 b2 \u0002\n70 000a4 b3 þ 175 000a3 b4 \u0002 262 500a2 b5 þ\n218 750ab6 \u0002 78 125b7\n9\n:\n1 2 \u0003 10\n(a)\n(b) 4:5 \u0003 109\nx7\n3nð5 \u0002 nÞ\n(a) 1035 (b)\n2\n9, 400"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "9518 to 3 dp\n528300 1800",
+      "options": [
+        "1.47 rad",
+        "1.21 rad",
+        "4\u0019=3 rad\n(a) 122.568 (b) 300.008 (c) 162.008\n(a) 0.9511 (b) 0.2817 (c) 0.6235",
+        "0.8785 (e) 1.1595 (f) 1.5152"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "3068 to 3 dp\n638120 5800 to the nearest second",
+      "options": [
+        "0.54 rad",
+        "0.84 rad",
+        "5\u0019=4 rad\n(a) 102.228 (b) 135.008 (c) 144.008\n(a) 0.5095 (b) 0.5878 (c) 5.6713",
+        "71.6221 (e) 1432.3946 (f) 0.4120"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "2\ndy\ndy\n¼ 4x3 þ 15x2 \u0002 12x þ 7,\n¼ 59\ndx\ndx\n\n3\n4",
+      "options": [
+        "(i) 6x2 \u0002 22x þ 12, 12x \u0002 22 (ii)\n\n2\n,3\n3\n\ndy\n¼ 6 cosð2x þ 1Þ \u0002 12 sinð3x \u0002 1Þ,\ndx\n2\nd y\n¼ \u000212 sinð2x þ 1Þ \u0002 36 cosð3x \u0002 1Þ\ndx2\n(a) xðx cos x þ 2 sin xÞ",
+        "x2 ex ðx þ 3Þ\n\u0002x sin x \u0002 2 cos x\n2ex ðtan x \u0002 sec2 xÞ\n(d)",
+        "",
+        "(c)\n3\nx\ntan2 x\n3\n(a) 20ð5x þ 2Þ (b) 3 cosð3x þ 2Þ\n(c) 4e4x\u00021 (d) \u000210 sinð2x þ 3Þ\n4\n(e) \u00023 cos2 x: sin x (f)\n4x \u0002 5"
+      ],
+      "correct": "a"
+    }
+  ]
+}

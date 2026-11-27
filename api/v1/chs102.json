@@ -1,0 +1,1913 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "CHS102",
+    "total_questions": 211
+  },
+  "data": [
+    {
+      "question": "Multiple Choice Questions with",
+      "type": "single",
+      "correct": "b",
+      "a": "nswers Module: CHS102 - Introduction to Consumer and Home Economics Science Topic:",
+      "b": "asic Principles of Financial Management Which faculty offers the",
+      "c": "HS102 course?",
+      "d": "Social Sciences"
+    },
+    {
+      "question": "What is the course code for \"Introduction to Consumer and Home Economics Science\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "CHE102",
+      "b": "FCS102",
+      "c": "CHS102",
+      "d": "ICO102"
+    },
+    {
+      "question": "How many credit units does CHS102 carry?",
+      "type": "single",
+      "correct": "b",
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    {
+      "question": "Who is the lecturer for CHS102?",
+      "type": "single",
+      "correct": "c",
+      "a": "Ade, F. B.",
+      "b": "Fatima, S. K.",
+      "c": "Oluwagbemileke, F. B.",
+      "d": "No lecturer specified"
+    },
+    {
+      "question": "What is the main difference between Ade and Fatima in the modular introduction?",
+      "type": "single",
+      "correct": "c",
+      "a": "Ade earns more than Fatima.",
+      "b": "Fatima spends more than Ade.",
+      "c": "Fatima practices financial management while Ade struggles.",
+      "d": "Ade saves more money than Fatima."
+    },
+    {
+      "question": "The analogy of a skilled farmer tending crops is used to describe the importance of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Agricultural management",
+      "b": "Bountiful harvests",
+      "c": "Financial management",
+      "d": "Future planning"
+    },
+    {
+      "question": "What is the ultimate goal of applying basic principles of financial management?",
+      "type": "single",
+      "correct": "c",
+      "a": "To earn a high salary",
+      "b": "To live paycheck to paycheck",
+      "c": "To cultivate a secure and prosperous future",
+      "d": "To accumulate debt"
+    },
+    {
+      "question": "Personal financial management involves making informed decisions about all of the following EXCEPT:",
+      "type": "single",
+      "correct": "c",
+      "a": "Earning",
+      "b": "Spending",
+      "c": "Borrowing from friends",
+      "d": "Investing"
+    },
+    {
+      "question": "Which of the following is NOT explicitly mentioned as part of the scope of personal financial management?",
+      "type": "single",
+      "correct": "d",
+      "a": "Budgeting",
+      "b": "Managing debt",
+      "c": "Planning for retirement",
+      "d": "Starting a business"
+    },
+    {
+      "question": "What does \"sound financial management\" primarily aim to reduce?",
+      "type": "single",
+      "correct": "b",
+      "a": "Income",
+      "b": "Stress and anxiety related to money",
+      "c": "Financial goals",
+      "d": "Investment risks"
+    },
+    {
+      "question": "Achieving financial goals, whether short-term or long-term, is a benefit of:",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring financial advice",
+      "b": "Sound financial management",
+      "c": "Spontaneous spending",
+      "d": "Accumulating liabilities"
+    },
+    {
+      "question": "What does effective financial management help create for unexpected events?",
+      "type": "single",
+      "correct": "b",
+      "a": "More debt",
+      "b": "A financial safety net",
+      "c": "Reduced income",
+      "d": "Uninformed decisions"
+    },
+    {
+      "question": "Which of the following is a direct outcome of improved decision-making in financial management?",
+      "type": "single",
+      "correct": "c",
+      "a": "Increased stress",
+      "b": "Reduced financial security",
+      "c": "Better spending and investment choices",
+      "d": "Higher liabilities"
+    },
+    {
+      "question": "What is defined as the money you receive from various sources?",
+      "type": "single",
+      "correct": "c",
+      "a": "Expenses",
+      "b": "Assets",
+      "c": "Income",
+      "d": "Liabilities"
+    },
+    {
+      "question": "Which of these is an example of investment income?",
+      "type": "single",
+      "correct": "c",
+      "a": "Salary from employment",
+      "b": "Profits from a business",
+      "c": "Dividends from stocks",
+      "d": "Government benefits"
+    },
+    {
+      "question": "Costs incurred in day-to-day living or for specific purposes are called:",
+      "type": "single",
+      "correct": "c",
+      "a": "Income",
+      "b": "Assets",
+      "c": "Expenses",
+      "d": "Savings"
+    },
+    {
+      "question": "What type of expenses remain relatively constant over time?",
+      "type": "single",
+      "correct": "b",
+      "a": "Variable expenses",
+      "b": "Fixed expenses",
+      "c": "Unexpected expenses",
+      "d": "Investment expenses"
+    },
+    {
+      "question": "Rent and loan payments are examples of what type of expenses?",
+      "type": "single",
+      "correct": "c",
+      "a": "Variable",
+      "b": "Discretionary",
+      "c": "Fixed",
+      "d": "Seasonal"
+    },
+    {
+      "question": "Food and transportation costs are examples of what type of expenses?",
+      "type": "single",
+      "correct": "c",
+      "a": "Fixed",
+      "b": "Consistent",
+      "c": "Variable",
+      "d": "Permanent"
+    },
+    {
+      "question": "What are things you own that have economic value called?",
+      "type": "single",
+      "correct": "d",
+      "a": "Liabilities",
+      "b": "Debts",
+      "c": "Expenses",
+      "d": "Assets"
+    },
+    {
+      "question": "What kind of assets can be easily and quickly converted into cash without significant loss of value?",
+      "type": "single",
+      "correct": "c",
+      "a": "Illiquid Assets",
+      "b": "Fixed Assets",
+      "c": "Liquid Assets",
+      "d": "Tangible Assets"
+    },
+    {
+      "question": "Cash on hand and money in savings accounts are examples of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Illiquid assets",
+      "b": "Long-term investments",
+      "c": "Liquid assets",
+      "d": "Liabilities"
+    },
+    {
+      "question": "What type of assets are not easily converted into cash or may take time to sell?",
+      "type": "single",
+      "correct": "c",
+      "a": "Liquid Assets",
+      "b": "Current Assets",
+      "c": "Illiquid Assets",
+      "d": "Short-term Assets"
+    },
+    {
+      "question": "Property (land and buildings) and long-term investments like stocks are examples of:",
+      "type": "single",
+      "correct": "b",
+      "a": "Liquid assets",
+      "b": "Illiquid assets",
+      "c": "Current liabilities",
+      "d": "Short-term assets"
+    },
+    {
+      "question": "What are your financial obligations or debts owed to others called?",
+      "type": "single",
+      "correct": "c",
+      "a": "Assets",
+      "b": "Income",
+      "c": "Liabilities",
+      "d": "Equity"
+    },
+    {
+      "question": "Debts that are typically due within a year are classified as:",
+      "type": "single",
+      "correct": "b",
+      "a": "Long-Term Liabilities",
+      "b": "Short-Term Liabilities",
+      "c": "Fixed Liabilities",
+      "d": "Investment Liabilities"
+    },
+    {
+      "question": "Credit card debt and short-term personal loans are examples of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Long-term liabilities",
+      "b": "Assets",
+      "c": "Short-term liabilities",
+      "d": "Equity"
+    },
+    {
+      "question": "Debts payable over a period longer than a year are called:",
+      "type": "single",
+      "correct": "c",
+      "a": "Short-Term Liabilities",
+      "b": "Current Liabilities",
+      "c": "Long-Term Liabilities",
+      "d": "Immediate Debts"
+    },
+    {
+      "question": "Mortgages for property and loans for education are examples of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Short-term liabilities",
+      "b": "Liquid assets",
+      "c": "Long-term liabilities",
+      "d": "Fixed expenses"
+    },
+    {
+      "question": "How is Net Worth calculated?",
+      "type": "single",
+      "correct": "c",
+      "a": "Income + Expenses",
+      "b": "Assets + Liabilities",
+      "c": "Assets - Liabilities",
+      "d": "Income - Taxes"
+    },
+    {
+      "question": "A positive net worth indicates that:",
+      "type": "single",
+      "correct": "c",
+      "a": "You owe more than you own.",
+      "b": "Your liabilities exceed your assets.",
+      "c": "Your assets exceed your liabilities.",
+      "d": "You have no debts."
+    },
+    {
+      "question": "What generally happens to your financial health when your net worth increases?",
+      "type": "single",
+      "correct": "c",
+      "a": "It declines.",
+      "b": "It remains stagnant.",
+      "c": "It improves.",
+      "d": "It becomes negative."
+    },
+    {
+      "question": "What represents the cost of borrowing money or the return on an investment?",
+      "type": "single",
+      "correct": "c",
+      "a": "Net Worth",
+      "b": "Inflation",
+      "c": "Interest Rates",
+      "d": "Compounding"
+    },
+    {
+      "question": "The process which interest earned on an initial investment also earns interest over time is called:",
+      "type": "single",
+      "correct": "b",
+      "a": "Simple interest",
+      "b": "Compounding",
+      "c": "Depreciation",
+      "d": "Inflation"
+    },
+    {
+      "question": "In the compounding example, why did the interest earned in Year 2 (₦52.50) exceed Year 1 (₦50)?",
+      "type": "single",
+      "correct": "c",
+      "a": "The initial investment increased.",
+      "b": "Interest was earned only on the principal.",
+      "c": "Interest was earned on the principal plus prior interest.",
+      "d": "The interest rate changed."
+    },
+    {
+      "question": "Over longer periods, the effect of compounding:",
+      "type": "single",
+      "correct": "c",
+      "a": "Becomes less significant",
+      "b": "Remains constant",
+      "c": "Becomes even more significant",
+      "d": "Decreases the value of investments"
+    },
+    {
+      "question": "What concept states that \"A naira today is worth more than a naira tomorrow\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "Inflation",
+      "b": "Compounding",
+      "c": "Time Value of Money",
+      "d": "Net Worth"
+    },
+    {
+      "question": "What is the current value of a future sum of money given a specified rate of return?",
+      "type": "single",
+      "correct": "b",
+      "a": "Future Value",
+      "b": "Present Value",
+      "c": "Net Worth",
+      "d": "Interest Rate"
+    },
+    {
+      "question": "Which concept helps in determining how much a future amount is worth in today's Naira?",
+      "type": "single",
+      "correct": "c",
+      "a": "Future Value",
+      "b": "Saving",
+      "c": "Present Value",
+      "d": "Investing"
+    },
+    {
+      "question": "What is the value of an asset or investment at a specified date in the future?",
+      "type": "single",
+      "correct": "c",
+      "a": "Present Value",
+      "b": "Market Value",
+      "c": "Future Value",
+      "d": "Book Value"
+    },
+    {
+      "question": "Setting aside a portion of your current income for future use is known as:",
+      "type": "single",
+      "correct": "c",
+      "a": "Investing",
+      "b": "Spending",
+      "c": "Saving",
+      "d": "Budgeting"
+    },
+    {
+      "question": "Which type of account typically pays a small amount of interest and allows for easy access to money?",
+      "type": "single",
+      "correct": "c",
+      "a": "Fixed Deposit Accounts",
+      "b": "Money Market Accounts",
+      "c": "Savings Accounts",
+      "d": "Checking Accounts"
+    },
+    {
+      "question": "Which savings account type usually offers higher interest rates but has restrictions on withdrawals before maturity?",
+      "type": "single",
+      "correct": "b",
+      "a": "Savings Accounts",
+      "b": "Fixed Deposit Accounts",
+      "c": "Money Market Accounts",
+      "d": "Checking Accounts"
+    },
+    {
+      "question": "Money Market Accounts typically offer higher interest rates than regular savings accounts and may have features like:",
+      "type": "single",
+      "correct": "b",
+      "a": "Unlimited withdrawals",
+      "b": "Limited check-writing abilities",
+      "c": "No minimum balance",
+      "d": "Instant cash access"
+    },
+    {
+      "question": "What is a recommended way to ensure consistent saving without conscious effort?",
+      "type": "single",
+      "correct": "b",
+      "a": "Withdraw cash frequently",
+      "b": "Set up automatic transfers to savings",
+      "c": "Spend all income first",
+      "d": "Avoid tracking expenses"
+    },
+    {
+      "question": "Allocating money with the expectation of generating future income or profit is:",
+      "type": "single",
+      "correct": "d",
+      "a": "Saving",
+      "b": "Spending",
+      "c": "Budgeting",
+      "d": "Investing"
+    },
+    {
+      "question": "Investing is particularly important for achieving:",
+      "type": "single",
+      "correct": "c",
+      "a": "Short-term financial goals",
+      "b": "Immediate gratification",
+      "c": "Long-term financial goals",
+      "d": "Daily expenses"
+    },
+    {
+      "question": "What represents ownership shares in a publicly traded company?",
+      "type": "single",
+      "correct": "c",
+      "a": "Bonds",
+      "b": "Mutual Funds",
+      "c": "Stocks",
+      "d": "Real Estate"
+    },
+    {
+      "question": "What represents loans made an investor to a borrower, usually paying a fixed interest rate?",
+      "type": "single",
+      "correct": "b",
+      "a": "Stocks",
+      "b": "Bonds",
+      "c": "Mutual Funds",
+      "d": "Certificates of Deposit"
+    },
+    {
+      "question": "What investment option pools money from many investors to invest in a diversified portfolio managed a professional?",
+      "type": "single",
+      "correct": "c",
+      "a": "Individual Stocks",
+      "b": "Savings Accounts",
+      "c": "Mutual Funds",
+      "d": "Real Estate"
+    },
+    {
+      "question": "What is the relationship between risk and return in investing?",
+      "type": "single",
+      "correct": "a",
+      "a": "Higher potential returns often come with higher levels of risk.",
+      "b": "Higher potential returns always mean lower risk.",
+      "c": "Risk and return are unrelated.",
+      "d": "Lower risk always leads to higher returns."
+    },
+    {
+      "question": "What is an obligation to repay money borrowed from a lender?",
+      "type": "single",
+      "correct": "c",
+      "a": "Asset",
+      "b": "Income",
+      "c": "Debt",
+      "d": "Equity"
+    },
+    {
+      "question": "Which type of debt is often used to acquire assets that may appreciate in value?",
+      "type": "single",
+      "correct": "c",
+      "a": "Bad debt",
+      "b": "High-interest debt",
+      "c": "Good debt",
+      "d": "Consumable debt"
+    },
+    {
+      "question": "A mortgage for a home is typically considered:",
+      "type": "single",
+      "correct": "b",
+      "a": "Bad debt",
+      "b": "Good debt",
+      "c": "Short-term debt",
+      "d": "Consumable debt"
+    },
+    {
+      "question": "Which type of debt is typically used to finance consumable goods or services that do not appreciate and can accrue high interest?",
+      "type": "single",
+      "correct": "c",
+      "a": "Good debt",
+      "b": "Investment debt",
+      "c": "Bad debt",
+      "d": "Education loan"
+    },
+    {
+      "question": "High-interest credit card debt is an example of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Good debt",
+      "b": "Investment",
+      "c": "Bad debt",
+      "d": "An asset"
+    },
+    {
+      "question": "Financial goals intended to be achieved within one year are classified as:",
+      "type": "single",
+      "correct": "c",
+      "a": "Long-Term Goals",
+      "b": "Medium-Term Goals",
+      "c": "Short-Term Goals",
+      "d": "Immediate Goals"
+    },
+    {
+      "question": "Saving for a holiday or buying a small appliance are examples of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Long-term goals",
+      "b": "Medium-term goals",
+      "c": "Short-term goals",
+      "d": "Life goals"
+    },
+    {
+      "question": "Financial goals planned to be accomplished within one to five years are:",
+      "type": "single",
+      "correct": "b",
+      "a": "Short-Term Goals",
+      "b": "Medium-Term Goals",
+      "c": "Long-Term Goals",
+      "d": "Very Short-Term Goals"
+    },
+    {
+      "question": "Saving for a down payment on a car or funding further education are examples of:",
+      "type": "single",
+      "correct": "b",
+      "a": "Short-term goals",
+      "b": "Medium-term goals",
+      "c": "Long-term goals",
+      "d": "Immediate goals"
+    },
+    {
+      "question": "Financial goals aimed to be achieved over a period of five years or more are:",
+      "type": "single",
+      "correct": "c",
+      "a": "Short-Term Goals",
+      "b": "Medium-Term Goals",
+      "c": "Long-Term Goals",
+      "d": "Annual Goals"
+    },
+    {
+      "question": "Buying a house or saving for retirement are examples of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Short-term goals",
+      "b": "Medium-term goals",
+      "c": "Long-term goals",
+      "d": "Daily goals"
+    },
+    {
+      "question": "When a goal is \"Specific,\" it means you should:",
+      "type": "single",
+      "correct": "b",
+      "a": "Make it easy to achieve.",
+      "b": "Clearly define what you want to achieve.",
+      "c": "Set a deadline.",
+      "d": "Ensure it is realistic."
+    },
+    {
+      "question": "In the example \"I will save ₦50,000 August 13, 2025, to purchase a new Binatone BLG-406 blender...\", what makes it \"Specific\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "It has a deadline.",
+      "b": "The amount and purpose are clearly defined.",
+      "c": "It is realistic to save that amount.",
+      "d": "It is relevant to financial objectives."
+    },
+    {
+      "question": "How is the goal \"I will save ₦50,000 August 13, 2025, to purchase a new Binatone BLG-406 blender...\" \"Measurable\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "It aligns with financial objectives.",
+      "b": "Progress can be tracked by the amount saved per paycheck and total.",
+      "c": "It is easy to achieve.",
+      "d": "It has a clear deadline."
+    },
+    {
+      "question": "What makes the goal \"I will save ₦50,000 August 13, 2025, to purchase a new Binatone BLG-406 blender...\" \"Achievable\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "It has a clear deadline.",
+      "b": "It involves purchasing an appliance.",
+      "c": "It is presented with a realistic plan for how it will be achieved.",
+      "d": "The amount is fixed."
+    },
+    {
+      "question": "\" May 15, 2037, I will accumulate ₦10,000,000 in a diversified investment portfolio to contribute towards my retirement, investing ₦69,444 monthly with an anticipated average annual return of 7%.\" This goal is an example of which type of financial goal?",
+      "type": "single",
+      "correct": "c",
+      "a": "Short-term",
+      "b": "Medium-term",
+      "c": "Long-term",
+      "d": "Immediate"
+    },
+    {
+      "question": "In the goal \"I will save ₦80,000 to purchase a specific high-efficiency refrigerator (e.g., LG GN B372PQGB) using my next four monthly salaries,\" what makes it \"Specific\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "The number of salaries.",
+      "b": "The specific refrigerator model and amount.",
+      "c": "It's a saving goal.",
+      "d": "It has a deadline."
+    },
+    {
+      "question": "\" May 31, 2028, I will have saved ₦300,000 for a professional development course in data analytics allocating ₦8,333 monthly to a dedicated savings account.\" This goal is a good example of:",
+      "type": "single",
+      "correct": "c",
+      "a": "A non-SMART goal",
+      "b": "A short-term goal",
+      "c": "A medium-term goal",
+      "d": "A long-term goal"
+    },
+    {
+      "question": "\"I will pay off my ₦45,000 credit card debt making extra payments of ₦7,500 per month above the minimum due. This will take me six months.\" This goal is an lent example of:",
+      "type": "single",
+      "correct": "b",
+      "a": "An unachievable goal",
+      "b": "A SMART financial goal",
+      "c": "A long-term investment",
+      "d": "A variable expense"
+    },
+    {
+      "question": "\"I will fully fund my children's education with ₦8,000,000 in a dedicated education savings plan contributing ₦44,444 per month, assuming an average annual growth rate of 5%.\" This goal is likely:",
+      "type": "single",
+      "correct": "c",
+      "a": "A short-term goal",
+      "b": "A medium-term goal",
+      "c": "A long-term goal",
+      "d": "A vague goal"
+    },
+    {
+      "question": "What is fundamental to understanding where your money is coming from and going?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring expenses",
+      "b": "Tracking income and expenses",
+      "c": "Only tracking income",
+      "d": "Only tracking expenses"
+    },
+    {
+      "question": "Awareness of income and expenses is essential for all of the following EXCEPT:",
+      "type": "single",
+      "correct": "c",
+      "a": "Budgeting",
+      "b": "Identifying areas to save",
+      "c": "Making uninformed financial decisions",
+      "d": "Making informed financial decisions"
+    },
+    {
+      "question": "Which of these is a manual method for record-keeping?",
+      "type": "single",
+      "correct": "c",
+      "a": "Budgeting apps",
+      "b": "Personal finance software",
+      "c": "Notebooks",
+      "d": "Notes applications on your phone"
+    },
+    {
+      "question": "Which of these is a digital tool for tracking finances?",
+      "type": "single",
+      "correct": "c",
+      "a": "Ledgers",
+      "b": "Spreadsheets (manual use)",
+      "c": "Budgeting apps",
+      "d": "Notebooks"
+    },
+    {
+      "question": "The modular summary states that basic principles of financial management are crucial for:",
+      "type": "single",
+      "correct": "b",
+      "a": "Accumulating debt",
+      "b": "Building a strong financial future",
+      "c": "Living paycheck to paycheck",
+      "d": "Ignoring financial risks"
+    },
+    {
+      "question": "What is the fundamental principle of the time value of money according to the NB section?",
+      "type": "single",
+      "correct": "b",
+      "a": "A Naira received in the future is worth more than a Naira today.",
+      "b": "A Naira today is worth more than a Naira received in the future.",
+      "c": "The value of a Naira never changes.",
+      "d": "Inflation increases the purchasing power of money."
+    },
+    {
+      "question": "Why is a Naira received today worth more than a Naira received in the future?",
+      "type": "single",
+      "correct": "b",
+      "a": "Because of deflation.",
+      "b": "Money received today can be invested and potentially grow.",
+      "c": "Future money is always uncertain.",
+      "d": "Interest rates are always negative."
+    },
+    {
+      "question": "What contributes to the concept of time value of money eroding the purchasing power of money?",
+      "type": "single",
+      "correct": "d",
+      "a": "Compounding",
+      "b": "Interest",
+      "c": "Deflation",
+      "d": "Inflation"
+    },
+    {
+      "question": "What term describes the money earned from employment or business activities?",
+      "type": "single",
+      "correct": "c",
+      "a": "Assets",
+      "b": "Expenses",
+      "c": "Income",
+      "d": "Liabilities"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a fixed expense?",
+      "type": "single",
+      "correct": "c",
+      "a": "Rent",
+      "b": "Insurance premiums",
+      "c": "Entertainment",
+      "d": "Loan payments"
+    },
+    {
+      "question": "What is the primary characteristic of liquid assets?",
+      "type": "single",
+      "correct": "c",
+      "a": "They are difficult to sell quickly.",
+      "b": "They offer very high returns.",
+      "c": "They can be easily converted to cash without significant loss.",
+      "d": "They are long-term investments only."
+    },
+    {
+      "question": "Which of these is an example of a short-term liability?",
+      "type": "single",
+      "correct": "c",
+      "a": "A 30-year mortgage",
+      "b": "A car loan spanning 5 years",
+      "c": "Credit card debt due next month",
+      "d": "A student loan repaid over 10 years"
+    },
+    {
+      "question": "If your net worth is negative, what does that signify?",
+      "type": "single",
+      "correct": "c",
+      "a": "Your assets are greater than your liabilities.",
+      "b": "You have no income.",
+      "c": "You owe more than you own.",
+      "d": "You are financially secure."
+    },
+    {
+      "question": "The \"interest on interest\" effect is a key characteristic of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Simple interest",
+      "b": "Fixed expenses",
+      "c": "Compounding",
+      "d": "Depreciation"
+    },
+    {
+      "question": "What does \"Present Value\" help you understand?",
+      "type": "single",
+      "correct": "b",
+      "a": "How much an investment will be worth in the future.",
+      "b": "The current worth of a future sum of money.",
+      "c": "The total interest earned on a savings account.",
+      "d": "Your current monthly income."
+    },
+    {
+      "question": "Setting aside money for emergencies is a primary purpose of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Investing",
+      "b": "Incurring bad debt",
+      "c": "Saving",
+      "d": "Speculating in stocks"
+    },
+    {
+      "question": "Which investment option allows for professional management of a diversified portfolio?",
+      "type": "single",
+      "correct": "c",
+      "a": "Individual stocks",
+      "b": "Bonds (purchased individually)",
+      "c": "Mutual Funds",
+      "d": "Savings accounts"
+    },
+    {
+      "question": "What is the primary benefit of good debt?",
+      "type": "single",
+      "correct": "c",
+      "a": "It finances consumable goods.",
+      "b": "It always has very low interest rates.",
+      "c": "It is used to acquire assets that may appreciate or generate income.",
+      "d": "It reduces your net worth."
+    },
+    {
+      "question": "Saving for a child's university education starting when they are young would typically fall under which goal category?",
+      "type": "single",
+      "correct": "c",
+      "a": "Short-term",
+      "b": "Medium-term",
+      "c": "Long-term",
+      "d": "Immediate"
+    },
+    {
+      "question": "When making a financial goal \"Achievable,\" you should consider:",
+      "type": "single",
+      "correct": "b",
+      "a": "Only the desired outcome.",
+      "b": "Your resources and capabilities.",
+      "c": "The exact date it will be completed.",
+      "d": "How vague the goal is."
+    },
+    {
+      "question": "What is the overarching purpose of record-keeping in financial management?",
+      "type": "single",
+      "correct": "b",
+      "a": "To avoid paying taxes.",
+      "b": "To understand where money comes from and goes.",
+      "c": "To complicate financial decisions.",
+      "d": "To make budgeting unnecessary."
+    },
+    {
+      "question": "Aspect: Communication and Conflict Resolution in Families; Impact of Family Dynamics on Individual Health and Wellbeing What is the primary purpose of communication in the context of families?",
+      "type": "single",
+      "correct": "b",
+      "a": "To avoid discussions",
+      "b": "To share and exchange information, feelings, thoughts, and meanings",
+      "c": "To control family members",
+      "d": "To limit emotional expression"
+    },
+    {
+      "question": "Which of the following is NOT encompassed family communication?",
+      "type": "single",
+      "correct": "d",
+      "a": "Verbal interactions",
+      "b": "Non-verbal interactions",
+      "c": "Shaping family relationships",
+      "d": "External political debates"
+    },
+    {
+      "question": "A group composed of two individuals who share some traits and are connected in some way is known as a:",
+      "type": "single",
+      "correct": "b",
+      "a": "Triad",
+      "b": "Dyad",
+      "c": "Group",
+      "d": "Community"
+    },
+    {
+      "question": "Which of these is an example of a dyad as described in the text?",
+      "type": "single",
+      "correct": "b",
+      "a": "A team of five colleagues",
+      "b": "A parent and child",
+      "c": "A large family gathering",
+      "d": "A classroom of students"
+    },
+    {
+      "question": "Dyadic communication primarily involves:",
+      "type": "single",
+      "correct": "b",
+      "a": "Large group discussions",
+      "b": "Direct face-to-face interaction between two people",
+      "c": "Written correspondence",
+      "d": "Public speaking"
+    },
+    {
+      "question": "In dyadic communication, what do people who communicate this way often share?",
+      "type": "single",
+      "correct": "c",
+      "a": "Conflicting goals",
+      "b": "Limited common interests",
+      "c": "Similar thoughts, behaviors, or a common goal",
+      "d": "Strictly opposing views"
+    },
+    {
+      "question": "Which communication style aims to dominate or control the other person, often involving attacking or blaming?",
+      "type": "single",
+      "correct": "c",
+      "a": "Passive communication",
+      "b": "Assertive communication",
+      "c": "Aggressive communication",
+      "d": "Manipulative communication"
+    },
+    {
+      "question": "Suppressing your needs and feelings, and avoiding conflict, is characteristic of which communication style?",
+      "type": "single",
+      "correct": "b",
+      "a": "Assertive communication",
+      "b": "Passive communication",
+      "c": "Passive-aggressive communication",
+      "d": "Aggressive communication"
+    },
+    {
+      "question": "Expressing hostility or aggression indirectly, such as through sarcasm or backhanded compliments, defines which communication style?",
+      "type": "single",
+      "correct": "c",
+      "a": "Assertive communication",
+      "b": "Manipulative communication",
+      "c": "Passive-aggressive communication",
+      "d": "Aggressive communication"
+    },
+    {
+      "question": "Which communication style involves using tactics to control or influence others using guilt, fear, or emotional appeals?",
+      "type": "single",
+      "correct": "c",
+      "a": "Assertive communication",
+      "b": "Aggressive communication",
+      "c": "Manipulative communication",
+      "d": "Passive communication"
+    },
+    {
+      "question": "Which communication style involves expressing your needs, feelings, and opinions clearly, directly, and respectfully?",
+      "type": "single",
+      "correct": "c",
+      "a": "Aggressive communication",
+      "b": "Passive communication",
+      "c": "Assertive communication",
+      "d": "Passive-aggressive communication"
+    },
+    {
+      "question": "Assertive communication focuses on finding a balance between being:",
+      "type": "single",
+      "correct": "b",
+      "a": "Rude and polite",
+      "b": "Passive and aggressive",
+      "c": "Dominating and submissive",
+      "d": "Silent and loud"
+    },
+    {
+      "question": "According to the text, assertive communication comes from a place of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Fear",
+      "b": "Confusion",
+      "c": "Confidence",
+      "d": "Manipulation"
+    },
+    {
+      "question": "What is a key piece of assertive communication, as exemplified in the text?",
+      "type": "single",
+      "correct": "c",
+      "a": "Blaming statements",
+      "b": "\"You\" statements",
+      "c": "\"I\" statements",
+      "d": "Threatening language"
+    },
+    {
+      "question": "What communication skill involves fully focusing, understanding, responding, and remembering what is being said?",
+      "type": "single",
+      "correct": "b",
+      "a": "Passive communication",
+      "b": "Active listening",
+      "c": "Aggressive questioning",
+      "d": "Selective hearing"
+    },
+    {
+      "question": "In the sibling conflict example, \"When you interrupt me while I’m speaking, I feel disrespected. I’d like you to let me finish before you respond,\" what makes it assertive?",
+      "type": "single",
+      "correct": "c",
+      "a": "It blames the other person.",
+      "b": "It avoids the conflict.",
+      "c": "It states the behavior, feeling, and a respectful request.",
+      "d": "It uses a sarcastic tone."
+    },
+    {
+      "question": "What makes the statement \"We keep arguing over chores. Let’s sit down and come up with a fair schedule together\" assertive?",
+      "type": "single",
+      "correct": "c",
+      "a": "It avoids the issue.",
+      "b": "It blames one sibling.",
+      "c": "It offers a collaborative solution.",
+      "d": "It dictates the solution."
+    },
+    {
+      "question": "When setting boundaries among siblings, the statement \"If that doesn’t happen, I’ll have to keep my things in a locked drawer\" serves as a:",
+      "type": "single",
+      "correct": "d",
+      "a": "Threat",
+      "b": "Blame",
+      "c": "Defined boundary",
+      "d": "Firm but fair consequence"
+    },
+    {
+      "question": "Which example demonstrates asserting a boundary around chores in a marriage?",
+      "type": "single",
+      "correct": "b",
+      "a": "\"Your laundry skills are terrible.\"",
+      "b": "\"I'd really like to handle the grocery shopping this week. It helps me feel more in control.\"",
+      "c": "\"You never do the chores correctly.\"",
+      "d": "\"I'll do all the chores, it's fine.\""
+    },
+    {
+      "question": "In the marriage example, \"I was disappointed that you didn't call me back when you said you would. It made me feel like my needs weren't a priority. Could we talk about how to better manage our communication in the future?\", this is an example of:",
+      "type": "single",
+      "correct": "b",
+      "a": "Aggressive behavior",
+      "b": "Expressing disappointment in a calm manner",
+      "c": "Passive acceptance",
+      "d": "Manipulative communication"
+    },
+    {
+      "question": "The assertive example \"I'm worried about your cooking skills; maybe I should take over or you need more lessons\" is a miscategorization in the text. Which style does it actually represent?",
+      "type": "single",
+      "correct": "c",
+      "a": "Passive",
+      "b": "Aggressive",
+      "c": "Manipulative",
+      "d": "Assertive"
+    },
+    {
+      "question": "Which of the following is a benefit of assertive communication in marriage?",
+      "type": "single",
+      "correct": "c",
+      "a": "It increases conflict.",
+      "b": "It leads to suppressed emotions.",
+      "c": "It strengthens communication skills and fosters open exchange.",
+      "d": "It creates an unequal dynamic."
+    },
+    {
+      "question": "Assertive communication contributes to a stronger sense of connection and intimacy building:",
+      "type": "single",
+      "correct": "c",
+      "a": "Distance and detachment",
+      "b": "Fear and anxiety",
+      "c": "Respect and trust",
+      "d": "Indifference and apathy"
+    },
+    {
+      "question": "How does assertive communication help couples address conflicts?",
+      "type": "single",
+      "correct": "c",
+      "a": "By avoiding them completely.",
+      "b": "By addressing them destructively.",
+      "c": "By addressing them constructively.",
+      "d": "By allowing one partner to dominate."
+    },
+    {
+      "question": "Expressing needs and opinions assertively can boost an individual's:",
+      "type": "single",
+      "correct": "c",
+      "a": "Low self-esteem",
+      "b": "Anxiety levels",
+      "c": "Self-esteem and confidence",
+      "d": "Need for external validation"
+    },
+    {
+      "question": "What is one stated reason for passive communication?",
+      "type": "single",
+      "correct": "b",
+      "a": "Desire for control",
+      "b": "Fear of conflict",
+      "c": "High self-esteem",
+      "d": "Excellent communication skills"
+    },
+    {
+      "question": "Avoiding emotional confrontation is a reason for which communication style?",
+      "type": "single",
+      "correct": "c",
+      "a": "Assertive",
+      "b": "Aggressive",
+      "c": "Passive",
+      "d": "Manipulative"
+    },
+    {
+      "question": "What can happen when family members are not assertive in expressing their needs, wants, and feelings?",
+      "type": "single",
+      "correct": "b",
+      "a": "Immediate conflict resolution",
+      "b": "Resentment can build",
+      "c": "Increased understanding",
+      "d": "Stronger family bonds"
+    },
+    {
+      "question": "When conflicts are constantly avoided, what negative emotions can build up in a relationship?",
+      "type": "single",
+      "correct": "b",
+      "a": "Joy and happiness",
+      "b": "Resentment and anger",
+      "c": "Peace and harmony",
+      "d": "Mutual respect"
+    },
+    {
+      "question": "A lack of assertiveness in family relationships might lead family members, especially children, to experience:",
+      "type": "single",
+      "correct": "c",
+      "a": "High self-esteem",
+      "b": "Strong individual identities",
+      "c": "Low self-esteem",
+      "d": "Enhanced confidence"
+    },
+    {
+      "question": "When children witness parents who are not assertive, they might learn to:",
+      "type": "single",
+      "correct": "b",
+      "a": "Express their needs healthily",
+      "b": "Suppress or over-express their own needs and feelings",
+      "c": "Resolve conflicts effectively",
+      "d": "Engage in active listening"
+    },
+    {
+      "question": "What is a key characteristic of a healthy family relationship related to valuing opinions and needs?",
+      "type": "single",
+      "correct": "b",
+      "a": "Unresolved conflicts",
+      "b": "Mutual Respect",
+      "c": "Poor communication",
+      "d": "Individual isolation"
+    },
+    {
+      "question": "In a healthy family relationship, members should feel safe to express thoughts and feelings without fear of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Agreement",
+      "b": "Openness",
+      "c": "Judgment or repercussions",
+      "d": "Collaboration"
+    },
+    {
+      "question": "What does a healthy relationship involve, where everyone works together to find solutions?",
+      "type": "single",
+      "correct": "c",
+      "a": "Domination",
+      "b": "Avoidance",
+      "c": "Collaboration and Compromise",
+      "d": "Passive acceptance"
+    },
+    {
+      "question": "Conflict occurs in families when all of the following are present EXCEPT:",
+      "type": "single",
+      "correct": "c",
+      "a": "Constant arguing and inability to resolve disagreement",
+      "b": "Physical or emotional violence",
+      "c": "Strong mutual respect and open communication",
+      "d": "Intense sibling rivalry"
+    },
+    {
+      "question": "Which conflict resolution technique involves neither party getting what they want, often distracting themselves from the issue?",
+      "type": "single",
+      "correct": "c",
+      "a": "Accommodating",
+      "b": "Compromising",
+      "c": "Avoiding",
+      "d": "Collaborating"
+    },
+    {
+      "question": "Avoiding as a conflict resolution technique is considered unproductive among family members because:",
+      "type": "single",
+      "correct": "b",
+      "a": "It leads to quick resolution.",
+      "b": "It makes the conflict worse.",
+      "c": "It ensures everyone gets what they want.",
+      "d": "It fosters open communication."
+    },
+    {
+      "question": "Which conflict resolution technique is used when one sees that the issue causing disagreement is more important to the other person?",
+      "type": "single",
+      "correct": "c",
+      "a": "Dominating",
+      "b": "Avoiding",
+      "c": "Accommodating or giving in",
+      "d": "Compromising"
+    },
+    {
+      "question": "In which conflict resolution technique is there control over the other person to act in a desired manner, often seen as bullying in a family?",
+      "type": "single",
+      "correct": "c",
+      "a": "Avoiding",
+      "b": "Accommodating",
+      "c": "Dominating/competing",
+      "d": "Compromising"
+    },
+    {
+      "question": "When using \"Compromising\" as a conflict resolution technique, what is the outcome?",
+      "type": "single",
+      "correct": "c",
+      "a": "One party gets everything they want.",
+      "b": "Neither party gets anything they want.",
+      "c": "Both parties get some of what they want, but also leave some on the table.",
+      "d": "A win-win situation is always achieved."
+    },
+    {
+      "question": "Which conflict resolution technique is described as the \"way to go\" for resolving conflicts, though it takes time and patience?",
+      "type": "single",
+      "correct": "d",
+      "a": "Avoiding",
+      "b": "Dominating",
+      "c": "Compromising",
+      "d": "Collaboration"
+    },
+    {
+      "question": "What grows when collaboration is used as a conflict resolution technique?",
+      "type": "single",
+      "correct": "c",
+      "a": "Resentment",
+      "b": "Distrust",
+      "c": "Trust and understanding",
+      "d": "Unresolved issues"
+    },
+    {
+      "question": "What are \"Family Dynamics\" described as?",
+      "type": "single",
+      "correct": "b",
+      "a": "Static rules within a household",
+      "b": "Forms of interactions, relationships, roles, and hierarchy in families",
+      "c": "Only financial interactions",
+      "d": "Individual behaviors separate from the family"
+    },
+    {
+      "question": "Which of these can influence family dynamics?",
+      "type": "single",
+      "correct": "b",
+      "a": "Only positive events",
+      "b": "Family members taking on caregiving roles for aging parents",
+      "c": "Only financial stability",
+      "d": "External political situations solely"
+    },
+    {
+      "question": "A \"functional family\" is also known as a:",
+      "type": "single",
+      "correct": "c",
+      "a": "Dysfunctional family",
+      "b": "Fragmented family",
+      "c": "Healthy family",
+      "d": "Unsupportive family"
+    },
+    {
+      "question": "A functional family is characterized all of the following EXCEPT:",
+      "type": "single",
+      "correct": "c",
+      "a": "Effective communication",
+      "b": "Mutual respect",
+      "c": "Poor communication",
+      "d": "Supportive relationships"
+    },
+    {
+      "question": "Which feature of a functional family involves members communicating openly, honestly, and respectfully without fear of judgment?",
+      "type": "single",
+      "correct": "b",
+      "a": "Lack of Boundaries",
+      "b": "Open Communication",
+      "c": "Role Confusion",
+      "d": "Emotional Neglect"
+    },
+    {
+      "question": "The feature of \"Healthy Boundaries\" in a functional family allows individuals to have:",
+      "type": "single",
+      "correct": "b",
+      "a": "Complete enmeshment",
+      "b": "Personal space, autonomy, and individual identities",
+      "c": "Unclear roles",
+      "d": "Constant conflict"
+    },
+    {
+      "question": "What is a key feature of a functional family in coping with adversity?",
+      "type": "single",
+      "correct": "c",
+      "a": "Blame and guilt",
+      "b": "Secret-keeping",
+      "c": "Resilience in Adversity",
+      "d": "Chronic conflict"
+    },
+    {
+      "question": "A dysfunctional family is defined as one that is unable to meet basic needs, provide emotional support, or:",
+      "type": "single",
+      "correct": "a",
+      "a": "Function well as a unit",
+      "b": "Celebrate achievements",
+      "c": "Maintain open communication",
+      "d": "Promote individual growth"
+    },
+    {
+      "question": "Aspect: Importance of Housing in Family Well-being; Basic Principles of Interior Design and Space Management; Selecting and Maintaining Household Equipment; Understanding Family Structures and Functions Beyond providing shelter, housing is considered a key determinant of family well-being because it influences all of the following EXCEPT:",
+      "type": "single",
+      "correct": "c",
+      "a": "Physical health",
+      "b": "Mental stability",
+      "c": "Economic inflation rates",
+      "d": "Social relationships"
+    },
+    {
+      "question": "Poor housing conditions, such as mold or lead paint, can cause which of these health issues, especially in children?",
+      "type": "single",
+      "correct": "b",
+      "a": "Improved vision",
+      "b": "Asthma, allergies, and poisoning",
+      "c": "Enhanced immunity",
+      "d": "Better academic performance"
+    },
+    {
+      "question": "What does a stable home environment primarily foster?",
+      "type": "single",
+      "correct": "b",
+      "a": "Increased financial debt",
+      "b": "Mental health and emotional security",
+      "c": "Social isolation",
+      "d": "Frequent relocations"
+    },
+    {
+      "question": "According to the text, families in overcrowded homes experience higher levels of:",
+      "type": "single",
+      "correct": "b",
+      "a": "Privacy and comfort",
+      "b": "Stress and conflict",
+      "c": "Social cohesion",
+      "d": "Economic stability"
+    },
+    {
+      "question": "What does living near job markets help reduce for families?",
+      "type": "single",
+      "correct": "b",
+      "a": "Employment opportunities",
+      "b": "Commuting stress",
+      "c": "Wealth building",
+      "d": "Cost burden on housing"
+    },
+    {
+      "question": "Which of the following is a consequence of high rent or mortgage payments (cost burden) on families?",
+      "type": "single",
+      "correct": "b",
+      "a": "Increased spending on education",
+      "b": "Limited spending on food, education, and healthcare",
+      "c": "Wealth building opportunities",
+      "d": "Reduced anxiety"
+    },
+    {
+      "question": "Child developmental delays are listed as an effect of which housing challenge?",
+      "type": "single",
+      "correct": "c",
+      "a": "Affordable Housing Programs",
+      "b": "Home Maintenance",
+      "c": "Homelessness and Inadequate Housing",
+      "d": "Universal Design"
+    },
+    {
+      "question": "Subsidies and low-income housing projects are examples of strategies under:",
+      "type": "single",
+      "correct": "b",
+      "a": "Family-Level Solutions",
+      "b": "Government and Policy Interventions",
+      "c": "Sustainable and Inclusive Housing Designs",
+      "d": "Home Maintenance"
+    },
+    {
+      "question": "What is a recommended family-level solution for improving housing well-being?",
+      "type": "single",
+      "correct": "b",
+      "a": "Waiting for government subsidies",
+      "b": "Prioritizing affordable, safe living spaces through budgeting",
+      "c": "Ignoring rent hikes",
+      "d": "Avoiding community involvement"
+    },
+    {
+      "question": "What type of housing design is adaptable for children, the elderly, and persons with disabilities?",
+      "type": "single",
+      "correct": "c",
+      "a": "Eco-friendly Homes",
+      "b": "Traditional Design",
+      "c": "Universal Design",
+      "d": "Minimalist Design"
+    },
+    {
+      "question": "What is the primary benefit of effective interior design and space management?",
+      "type": "single",
+      "correct": "c",
+      "a": "To complicate living environments",
+      "b": "To maximize clutter",
+      "c": "To enhance the quality of life by optimizing space utilization",
+      "d": "To reduce comfort"
+    },
+    {
+      "question": "Mirroring elements on either side of a central axis to create formal harmony is an example of which design principle?",
+      "type": "single",
+      "correct": "c",
+      "a": "Asymmetrical Balance",
+      "b": "Rhythm",
+      "c": "Symmetrical Balance",
+      "d": "Contrast"
+    },
+    {
+      "question": "What principle involves the strategic use of opposing elements (e.g., light/dark, smooth/textured) to add interest?",
+      "type": "single",
+      "correct": "c",
+      "a": "Repetition",
+      "b": "Transition",
+      "c": "Contrast",
+      "d": "Proportion"
+    },
+    {
+      "question": "What serves as a natural focal point in a room's design?",
+      "type": "single",
+      "correct": "b",
+      "a": "A plain wall",
+      "b": "A fireplace or large window",
+      "c": "A small table",
+      "d": "An empty space"
+    },
+    {
+      "question": "What effect do warm colors like reds and oranges have on spaces?",
+      "type": "single",
+      "correct": "c",
+      "a": "Promote calmness",
+      "b": "Can make spaces appear cold",
+      "c": "Energize spaces",
+      "d": "Provide flexibility"
+    },
+    {
+      "question": "Dividing spaces into zones using furniture or visual cues is a strategy for:",
+      "type": "single",
+      "correct": "c",
+      "a": "Furniture Selection",
+      "b": "Vertical Space Utilization",
+      "c": "Functional Zoning",
+      "d": "Decluttering"
+    },
+    {
+      "question": "For effective traffic flow, what minimum pathway width is recommended for easy movement?",
+      "type": "single",
+      "correct": "c",
+      "a": "1 foot",
+      "b": "2 feet",
+      "c": "3 feet",
+      "d": "4 feet"
+    },
+    {
+      "question": "Beds with storage and extendable tables are examples of:",
+      "type": "single",
+      "correct": "c",
+      "a": "Single-purpose furniture",
+      "b": "Overpriced items",
+      "c": "Multi-purpose furniture",
+      "d": "Fixed furniture"
+    },
+    {
+      "question": "What is a technique for optimizing small spaces?",
+      "type": "single",
+      "correct": "c",
+      "a": "Using large, heavy furniture",
+      "b": "Painting walls dark colors",
+      "c": "Using mirrors to create an illusion of depth",
+      "d": "Overcrowding the room with decor"
+    },
+    {
+      "question": "For family-centric design, what type of materials are recommended for high-traffic areas?",
+      "type": "single",
+      "correct": "c",
+      "a": "Delicate, easily stained materials",
+      "b": "Soft, easily damaged materials",
+      "c": "Durable, stain-resistant materials",
+      "d": "Rough, abrasive materials"
+    },
+    {
+      "question": "Aspect: Budgeting and Financial Planning for Individuals and Families In the modular introduction, a skilled sailor charting a course is an analogy for the need for what in financial lives?",
+      "type": "single",
+      "correct": "b",
+      "a": "Aimless drifting",
+      "b": "A roadmap to guide us towards our goals",
+      "c": "Relying on chance",
+      "d": "Avoiding any planning"
+    },
+    {
+      "question": "Budgeting is defined as the process of creating a detailed plan for how you will spend your money over a:",
+      "type": "single",
+      "correct": "b",
+      "a": "Lifetime",
+      "b": "Specific short period",
+      "c": "Decade",
+      "d": "Unspecified future"
+    },
+    {
+      "question": "What does a budget act as, helping you track spending and ensure money aligns with priorities?",
+      "type": "single",
+      "correct": "c",
+      "a": "A burden",
+      "b": "A limitation",
+      "c": "A guide",
+      "d": "An unnecessary document"
+    },
+    {
+      "question": "Which of the following is NOT an aspect of financial planning mentioned in the text?",
+      "type": "single",
+      "correct": "c",
+      "a": "Saving",
+      "b": "Investing",
+      "c": "Daily social media use",
+      "d": "Retirement planning"
+    },
+    {
+      "question": "What is a key benefit of budgeting that helps prevent overspending and ensures you are living within your means?",
+      "type": "single",
+      "correct": "b",
+      "a": "Avoiding awareness of spending",
+      "b": "Controlling Spending",
+      "c": "Increasing debt",
+      "d": "Ignoring financial limits"
+    },
+    {
+      "question": "Building an emergency fund, which acts as a safety net for unexpected expenses, is part of:",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring financial risks",
+      "b": "Managing Financial Emergencies",
+      "c": "Increasing discretionary spending",
+      "d": "Relying solely on credit"
+    },
+    {
+      "question": "What is the first step in creating a budget?",
+      "type": "single",
+      "correct": "b",
+      "a": "Tracking current expenses",
+      "b": "Identifying Income Sources",
+      "c": "Setting financial goals",
+      "d": "Allocating funds"
+    },
+    {
+      "question": "What does \"net income\" refer to in the context of identifying income sources?",
+      "type": "single",
+      "correct": "b",
+      "a": "Gross salary before deductions",
+      "b": "Income after all deductions",
+      "c": "Investment income only",
+      "d": "Business profits only"
+    },
+    {
+      "question": "Which of these is a manual method for tracking current expenses?",
+      "type": "single",
+      "correct": "c",
+      "a": "Tracking apps",
+      "b": "Linking to bank accounts",
+      "c": "Expense diaries",
+      "d": "Personal finance software"
+    },
+    {
+      "question": "After having a clear picture of income and current spending, what is the next step in creating a budget?",
+      "type": "single",
+      "correct": "c",
+      "a": "Monitoring the budget",
+      "b": "Adjusting expenses",
+      "c": "Setting Financial Goals",
+      "d": "Identifying spending leaks"
+    },
+    {
+      "question": "When allocating funds, it is crucial to prioritize:",
+      "type": "single",
+      "correct": "c",
+      "a": "Wants",
+      "b": "Luxury items",
+      "c": "Needs (essential expenses)",
+      "d": "Entertainment"
+    },
+    {
+      "question": "A budget is described as not being a static document; therefore, it needs to be:",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignored once created",
+      "b": "Monitored regularly and adjusted",
+      "c": "Reviewed annually only",
+      "d": "Kept secret from family members"
+    },
+    {
+      "question": "Small, often unnoticed expenses that can add up over time (e.g., daily snacks) are referred to as:",
+      "type": "single",
+      "correct": "c",
+      "a": "Major investments",
+      "b": "Income sources",
+      "c": "Spending Leaks",
+      "d": "Fixed expenses"
+    },
+    {
+      "question": "An emergency fund is a readily accessible savings account containing enough money to cover how many months of essential living expenses?",
+      "type": "single",
+      "correct": "b",
+      "a": "One month",
+      "b": "Three to six months",
+      "c": "Twelve months",
+      "d": "Unlimited"
+    },
+    {
+      "question": "Which budgeting method involves allocating every Naira of your income to a specific category so that income minus expenses equals zero?",
+      "type": "single",
+      "correct": "c",
+      "a": "50/30/20 Rule",
+      "b": "Envelope System",
+      "c": "Zero-Based Budgeting",
+      "d": "Budgeting Apps and Software"
+    },
+    {
+      "question": "Aspect: Basic Principles of Financial Management Which budgeting method uses cash in labeled envelopes for different spending categories?",
+      "type": "single",
+      "correct": "c",
+      "a": "Zero-Based Budgeting",
+      "b": "50/30/20 Rule",
+      "c": "Envelope System",
+      "d": "Budgeting Apps and Software"
+    },
+    {
+      "question": "What is a key feature offered budgeting apps and software?",
+      "type": "single",
+      "correct": "c",
+      "a": "Manual recording of every expenditure",
+      "b": "Restrictions on withdrawals before maturity",
+      "c": "Automatic transaction import and visual charts",
+      "d": "Fixed interest rates only"
+    },
+    {
+      "question": "In Kwame's scenario, what is his net monthly salary?",
+      "type": "single",
+      "correct": "c",
+      "a": "₦70,000",
+      "b": "₦54,000",
+      "c": "₦250,000",
+      "d": "₦374,000"
+    },
+    {
+      "question": "Kwame's guardian in the UK sends him £30 monthly. What is the Naira equivalent used in his budget?",
+      "type": "single",
+      "correct": "b",
+      "a": "₦30,000",
+      "b": "₦54,000",
+      "c": "₦70,000",
+      "d": "₦250,000"
+    },
+    {
+      "question": "What is Kwame's total monthly income after identifying all sources?",
+      "type": "single",
+      "correct": "c",
+      "a": "₦250,000",
+      "b": "₦70,000",
+      "c": "₦374,000",
+      "d": "₦54,000"
+    },
+    {
+      "question": "What is Kwame's average monthly expense for rent?",
+      "type": "single",
+      "correct": "b",
+      "a": "₦70,000",
+      "b": "₦80,000",
+      "c": "₦40,000",
+      "d": "₦25,000"
+    },
+    {
+      "question": "Kwame's short-term goal is to save ₦150,000 for a laptop in 5 months. How much does he need to save approximately per month for this goal?",
+      "type": "single",
+      "correct": "b",
+      "a": "₦20,833",
+      "b": "₦30,000",
+      "c": "₦12,500",
+      "d": "₦15,000"
+    },
+    {
+      "question": "Kwame's medium-term goal is to save ₦500,000 for a car down payment in 2 years. Approximately how much should he save per month for this?",
+      "type": "single",
+      "correct": "c",
+      "a": "₦21,000",
+      "b": "₦33,000",
+      "c": "₦20,833",
+      "d": "₦26,000"
+    },
+    {
+      "question": "In Kwame's allocated budget, what percentage of his income is allocated to \"Needs\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "20%",
+      "b": "30%",
+      "c": "50%",
+      "d": "Not specified"
+    },
+    {
+      "question": "What percentage of Kwame's income is allocated to \"Savings\" in his new budget plan?",
+      "type": "single",
+      "correct": "b",
+      "a": "20%",
+      "b": "30%",
+      "c": "50%",
+      "d": "Not specified"
+    },
+    {
+      "question": "What percentage of Kwame's income is allocated to \"Wants\" in his new budget plan?",
+      "type": "single",
+      "correct": "a",
+      "a": "20%",
+      "b": "30%",
+      "c": "50%",
+      "d": "Not specified"
+    },
+    {
+      "question": "After allocating funds in his budget, what are Kwame's total estimated expenses?",
+      "type": "single",
+      "correct": "b",
+      "a": "₦374,000",
+      "b": "₦370,000",
+      "c": "₦300,000",
+      "d": "₦250,000"
+    },
+    {
+      "question": "How often does Kwame decide to monitor his spending using his tracking app?",
+      "type": "single",
+      "correct": "c",
+      "a": "Monthly",
+      "b": "Annually",
+      "c": "Weekly",
+      "d": "Bi-annually"
+    },
+    {
+      "question": "When Kwame spent ₦30,000 on eating out instead of the allocated amount, what did he do to stay within his overall budget?",
+      "type": "single",
+      "correct": "b",
+      "a": "Increased his total income",
+      "b": "Reduced his \"Entertainment\" budget to compensate",
+      "c": "Ignored the overspending",
+      "d": "Increased his \"Eating Out\" budget further"
+    },
+    {
+      "question": "What did Kwame do with the small bonus he received from work?",
+      "type": "single",
+      "correct": "b",
+      "a": "Spent it all on \"Wants\"",
+      "b": "Allocated half to his emergency fund and split the other half between laptop and car savings",
+      "c": "Saved it all for the house purchase",
+      "d": "Used it to pay off credit card debt"
+    },
+    {
+      "question": "The modular summary emphasizes that mastering budgeting and financial planning skills is essential for:",
+      "type": "single",
+      "correct": "c",
+      "a": "Accumulating debt",
+      "b": "Living paycheck to paycheck",
+      "c": "Taking control of your financial future and achieving aspirations",
+      "d": "Relying on others for financial stability"
+    },
+    {
+      "question": "The fundamental principle of the time value of money states that a Naira received today is worth more than a Naira received in the future because:",
+      "type": "single",
+      "correct": "b",
+      "a": "It is subject to deflation.",
+      "b": "Money received today can be invested and potentially grow.",
+      "c": "Future money is guaranteed.",
+      "d": "Inflation increases its purchasing power."
+    },
+    {
+      "question": "What concept contributes to the time value of money eroding the purchasing power of money over time?",
+      "type": "single",
+      "correct": "c",
+      "a": "Compounding",
+      "b": "Present Value",
+      "c": "Inflation",
+      "d": "Future Value"
+    },
+    {
+      "question": "\"Identifying Income Sources\" and \"Tracking Current Expenses\" are the first two steps in:",
+      "type": "single",
+      "correct": "b",
+      "a": "Setting financial goals",
+      "b": "Creating a budget",
+      "c": "Investing in stocks",
+      "d": "Managing liabilities"
+    },
+    {
+      "question": "If a financial goal is \"Achievable,\" it means it is:",
+      "type": "single",
+      "correct": "b",
+      "a": "Easy to complete without effort.",
+      "b": "Realistic given your resources and capabilities.",
+      "c": "Not specific or measurable.",
+      "d": "Only for short-term aspirations."
+    },
+    {
+      "question": "Which type of asset can be easily and quickly converted into cash without significant loss of value?",
+      "type": "single",
+      "correct": "c",
+      "a": "Illiquid Assets",
+      "b": "Fixed Assets",
+      "c": "Liquid Assets",
+      "d": "Intangible Assets"
+    },
+    {
+      "question": "A mortgage for a home is typically categorized as what type of liability?",
+      "type": "single",
+      "correct": "c",
+      "a": "Short-Term Liability",
+      "b": "Current Liability",
+      "c": "Long-Term Liability",
+      "d": "Investment Liability"
+    },
+    {
+      "question": "What is the calculation for Net Worth?",
+      "type": "single",
+      "correct": "c",
+      "a": "Income + Expenses",
+      "b": "Assets + Liabilities",
+      "c": "Assets - Liabilities",
+      "d": "Income - Taxes"
+    },
+    {
+      "question": "If you deposit ₦1,000 at a 5% annual interest rate, compounded annually, in Year 2 you earn more interest than Year 1 due to:",
+      "type": "single",
+      "correct": "c",
+      "a": "Simple interest",
+      "b": "Depreciation",
+      "c": "Compounding",
+      "d": "Inflation"
+    },
+    {
+      "question": "What is the value of an asset or investment at a specified date in the future, based on an assumed rate of growth?",
+      "type": "single",
+      "correct": "c",
+      "a": "Present Value",
+      "b": "Market Value",
+      "c": "Future Value",
+      "d": "Book Value"
+    },
+    {
+      "question": "Which type of savings account usually offers higher interest rates but has restrictions on withdrawals before maturity?",
+      "type": "single",
+      "correct": "c",
+      "a": "Savings Accounts",
+      "b": "Checking Accounts",
+      "c": "Fixed Deposit Accounts",
+      "d": "Money Market Accounts"
+    },
+    {
+      "question": "What investment option represents ownership shares in a publicly traded company?",
+      "type": "single",
+      "correct": "c",
+      "a": "Bonds",
+      "b": "Mutual Funds",
+      "c": "Stocks",
+      "d": "Real Estate"
+    },
+    {
+      "question": "The relationship between risk and return in investing generally states that:",
+      "type": "single",
+      "correct": "b",
+      "a": "Higher potential returns always mean lower risk.",
+      "b": "Higher potential returns often come with higher levels of risk.",
+      "c": "Risk and return are unrelated.",
+      "d": "Lower risk always leads to higher returns."
+    },
+    {
+      "question": "Debt used to acquire assets that may appreciate in value or generate future income is considered:",
+      "type": "single",
+      "correct": "c",
+      "a": "Bad debt",
+      "b": "High-interest debt",
+      "c": "Good debt",
+      "d": "Consumable debt"
+    },
+    {
+      "question": "Saving for a holiday or buying a small appliance are examples of what type of financial goal?",
+      "type": "single",
+      "correct": "c",
+      "a": "Long-Term Goals",
+      "b": "Medium-Term Goals",
+      "c": "Short-Term Goals",
+      "d": "Immediate Goals"
+    },
+    {
+      "question": "\" May 15, 2037, I will accumulate ₦10,000,000 in a diversified investment portfolio to contribute towards my retirement...\" This is an example of what type of financial goal?",
+      "type": "single",
+      "correct": "c",
+      "a": "Short-term",
+      "b": "Medium-term",
+      "c": "Long-term",
+      "d": "Immediate"
+    },
+    {
+      "question": "The example goal \"I will save ₦50,000 August 13, 2025, to purchase a new Binatone BLG-406 blender...\" is considered \"Measurable\" because:",
+      "type": "single",
+      "correct": "c",
+      "a": "It has a clear deadline.",
+      "b": "The amount and purpose are clearly defined.",
+      "c": "Progress can be tracked by the amount saved and per paycheck.",
+      "d": "It aligns with current needs."
+    },
+    {
+      "question": "Which of these is a digital tool for record-keeping in financial management?",
+      "type": "single",
+      "correct": "c",
+      "a": "Notebooks",
+      "b": "Ledgers",
+      "c": "Budgeting apps",
+      "d": "Spreadsheets (manual use)"
+    },
+    {
+      "question": "Tracking your income and expenses is fundamental for all of the following EXCEPT:",
+      "type": "single",
+      "correct": "c",
+      "a": "Budgeting",
+      "b": "Identifying areas to save",
+      "c": "Making uninformed financial decisions",
+      "d": "Making informed financial decisions"
+    }
+  ]
+}

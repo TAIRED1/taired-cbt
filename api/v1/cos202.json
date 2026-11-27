@@ -1,0 +1,1085 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "COS202",
+    "total_questions": 119
+  },
+  "data": [
+    {
+      "question": "What is the primary purpose of Object Oriented Programming?",
+      "a": "To execute code faster than procedural programming",
+      "b": "To model real-world entities and their interactions within a digital environment",
+      "c": "To eliminate the need for functions in code",
+      "d": "To replace all data structures with objects",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "In Python, what keyword is used to create a class?",
+      "a": "object",
+      "b": "define",
+      "c": "class",
+      "d": "struct",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following best describes an object in Python?",
+      "a": "A blueprint for creating classes",
+      "b": "A specific instance of a class with its own data",
+      "c": "A function inside a module",
+      "d": "A built-in data type like list or dict",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What three components does an object consist of?",
+      "a": "Name, type, value",
+      "b": "State, behavior, identity",
+      "c": "Class, method, attribute",
+      "d": "Input, process, output",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does the init method do in a Python class?",
+      "a": "Deletes an object from memory",
+      "b": "Initializes a new object's attributes when created",
+      "c": "Converts an object to a string",
+      "d": "Compares two objects for equality",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "In the Dog class example, what is species = \"Canine\" considered?",
+      "a": "An instance attribute",
+      "b": "A local variable",
+      "c": "A class attribute",
+      "d": "A private method",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is inheritance in Python?",
+      "a": "Deleting a parent class from memory",
+      "b": "A child class inheriting attributes and methods from a parent class",
+      "c": "Hiding data from other classes",
+      "d": "Creating multiple instances of the same class",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which type of inheritance involves a child class inheriting from two or more parent classes?",
+      "a": "Single inheritance",
+      "b": "Multilevel inheritance",
+      "c": "Multiple inheritance",
+      "d": "Hierarchical inheritance",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "In the code class Labrador(Dog):, what is Labrador?",
+      "a": "The parent class",
+      "b": "The child class",
+      "c": "An instance of Dog",
+      "d": "A method of Dog",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is polymorphism in Python?",
+      "a": "Having only one method per class",
+      "b": "Methods with the same name behaving differently based on the object",
+      "c": "Preventing methods from being overridden",
+      "d": "Storing multiple data types in a single variable",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which type of polymorphism is determined during program execution (run-time)?",
+      "a": "Compile-time polymorphism",
+      "b": "Method overloading",
+      "c": "Operator overloading",
+      "d": "Run-time polymorphism",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "What is encapsulation?",
+      "a": "Splitting code into multiple files",
+      "b": "Bundling data and methods within a class and restricting access to some components",
+      "c": "Allowing any function to modify any variable",
+      "d": "Converting a class into a module",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "In Python, how is a protected member typically denoted?",
+      "a": "With two underscores prefix (e.g., __age)",
+      "b": "With one underscore prefix (e.g., _breed)",
+      "c": "With no special notation",
+      "d": "With a dollar sign prefix",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "How is a private member denoted in Python classes?",
+      "a": "With one underscore prefix",
+      "b": "With two underscores prefix (e.g., __age)",
+      "c": "With the keyword private",
+      "d": "With the keyword protected",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is abstraction in OOP?",
+      "a": "Making all attributes public",
+      "b": "Hiding internal implementation details while exposing only necessary functionality",
+      "c": "Creating as many classes as possible",
+      "d": "Removing all methods from a class",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is an abstract class?",
+      "a": "A class that can be instantiated directly",
+      "b": "A class that contains only concrete methods",
+      "c": "A class that cannot be instantiated directly and is meant to be extended by subclasses",
+      "d": "A class with no methods",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which module in Python is used to create abstract base classes?",
+      "a": "abc",
+      "b": "abstract",
+      "c": "oop",
+      "d": "base",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What decorator is used to mark a method as abstract in Python?",
+      "a": "@virtual",
+      "b": "@abstract",
+      "c": "@abstractmethod",
+      "d": "@interface",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What happens if you try to instantiate an abstract class directly?",
+      "a": "The class is created with empty methods",
+      "b": "Python returns None",
+      "c": "A TypeError is raised",
+      "d": "The abstract methods are automatically implemented",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is a concrete method in an abstract class?",
+      "a": "A method that must be overridden by subclasses",
+      "b": "A method with a full implementation that subclasses can inherit and use directly",
+      "c": "A method that raises an error if called",
+      "d": "A method that cannot be inherited",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the scope of a variable defined at the top level of a module?",
+      "a": "Local scope only",
+      "b": "Enclosing scope only",
+      "c": "Global scope",
+      "d": "Built-in scope",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is an iterator in Python?",
+      "a": "A function that creates lists",
+      "b": "An object that allows sequential access to elements in a collection",
+      "c": "A type of variable that stores multiple values",
+      "d": "A built-in module for mathematics",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which two methods are the primary methods of Python iterators?",
+      "a": "start() and stop()",
+      "b": "begin() and end()",
+      "c": "iter() and next()",
+      "d": "open() and close()",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What does the iter function do?",
+      "a": "It stops an iteration",
+      "b": "It creates an iterator object from an iterable",
+      "c": "It deletes an iterator",
+      "d": "It counts the number of items in a collection",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does the next function do?",
+      "a": "It restarts the iterator from the beginning",
+      "b": "It returns the next item from an iterator",
+      "c": "It deletes the current item",
+      "d": "It jumps to the last item",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What exception is raised when next is called on an iterator with no more items?",
+      "a": "IndexError",
+      "b": "KeyError",
+      "c": "StopIteration",
+      "d": "ValueError",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is an iterable in Python?",
+      "a": "An object that can be looped over, like a list or tuple",
+      "b": "A function that performs iteration",
+      "c": "A type of loop statement",
+      "d": "A module for iteration",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is the difference between an iterator and an iterable?",
+      "a": "There is no difference",
+      "b": "An iterable can be looped over; an iterator does the looping and keeps state",
+      "c": "An iterator can be looped over; an iterable cannot",
+      "d": "An iterable uses more memory than an iterator",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does the enumerate function do?",
+      "a": "It counts the number of items in a list",
+      "b": "It returns pairs of index and value while looping",
+      "c": "It sorts a list in ascending order",
+      "d": "It reverses a list",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the output of list(enumerate([\"a\", \"b\", \"c\"]))?",
+      "a": "[(0, 'a'), (1, 'b'), (2, 'c')]",
+      "b": "[('a', 0), ('b', 1), ('c', 2)]",
+      "c": "[0, 1, 2]",
+      "d": "['a', 'b', 'c']",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "How can you change the starting index of enumerate?",
+      "a": "You cannot change it",
+      "b": "Use the index parameter",
+      "c": "Use the start parameter",
+      "d": "Use the begin parameter",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is a stack in data structures?",
+      "a": "First In First Out (FIFO)",
+      "b": "Last In First Out (LIFO)",
+      "c": "Random access structure",
+      "d": "A type of loop",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which method adds an item to the top of a stack implemented with a list?",
+      "a": "insert()",
+      "b": "add()",
+      "c": "append()",
+      "d": "push()",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which method removes an item from the top of a stack implemented with a list?",
+      "a": "remove()",
+      "b": "delete()",
+      "c": "pop()",
+      "d": "popleft()",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What does LIFO stand for?",
+      "a": "Last In First Out",
+      "b": "First In Last Out",
+      "c": "Last In Last Out",
+      "d": "First In First Out",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following describes a key difference between SOAP and REST?",
+      "a": "SOAP is an architectural style, while REST is a strict protocol",
+      "b": "SOAP only allows JSON, while REST supports multiple formats",
+      "c": "SOAP only allows XML, while REST supports multiple formats",
+      "d": "SOAP is used for local APIs, while REST is for web APIs",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which queue operation is used to get the front item without removing it?",
+      "a": "enqueue",
+      "b": "dequeue",
+      "c": "front",
+      "d": "rear",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "How many architectural constraints does REST have for building applications that work over HTTP?",
+      "a": "Four",
+      "b": "Five",
+      "c": "Six",
+      "d": "Seven",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Why is the enumerate function commonly used in Python loops?",
+      "a": "To load the entire collection into memory at once",
+      "b": "To replace the need for manually using a counter variable",
+      "c": "To implement a thread-safe stack",
+      "d": "To automatically install missing modules",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following methods is typically used for API authentication?",
+      "a": "Only using HTTP POST requests",
+      "b": "Using API keys or OAuth tokens",
+      "c": "Using SOAP protocol exclusively",
+      "d": "Disabling the requests library",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "153. What is rate limiting in API usage?",
+      "a": "Making the API run faster",
+      "b": "Limiting the number of requests a client can make in a given time period",
+      "c": "Increasing the response size",
+      "d": "Deleting the API",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "154. How can you handle API errors gracefully in Python?",
+      "a": "Ignore all errors",
+      "b": "Use try-except blocks to catch exceptions",
+      "c": "Stop the program",
+      "d": "Print nothing",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "155. What is the purpose of the API documentation?",
+      "a": "To hide API features",
+      "b": "To explain how to use the API, including endpoints, parameters, and authentication",
+      "c": "To delete the API",
+      "d": "To compile the API code",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "156. Which status code indicates that authentication is required and has failed or not been provided?",
+      "a": "200",
+      "b": "404",
+      "c": "401",
+      "d": "500",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "157. What is the base URL of an API?",
+      "a": "The error message",
+      "b": "The common prefix for all API endpoints",
+      "c": "The response data",
+      "d": "The authentication token",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "158. What does the following code do? try: response = requests.get(url, timeout=5) except requests.exceptions.Timeout: print(\"Request timed out\")",
+      "a": "It ignores timeouts",
+      "b": "It sends a request and catches a timeout exception if the request takes longer than 5 seconds",
+      "c": "It always prints Request timed out",
+      "d": "It deletes the request",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "159. What is the purpose of the params parameter in requests.get?",
+      "a": "To send data in the request body",
+      "b": "To add query parameters to the URL",
+      "c": "To set request headers",
+      "d": "To authenticate the request",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "160. What is an SDK in relation to APIs?",
+      "a": "A type of API",
+      "b": "A Software Development Kit that provides tools and libraries to work with an API",
+      "c": "A database system",
+      "d": "A programming language",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "161. What is searching in computer science?",
+      "a": "Sorting data in a specific order",
+      "b": "Locating a target element within a collection of data",
+      "c": "Deleting elements from a list",
+      "d": "Adding elements to an array",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "162. Which membership operator returns True if an element is present in a sequence?",
+      "a": "not in",
+      "b": "in",
+      "c": "is",
+      "d": "is not",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "163. What does the not in operator do?",
+      "a": "Returns True if an element is present",
+      "b": "Returns True if an element is not present in the sequence",
+      "c": "Always returns False",
+      "d": "Always returns True",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "164. What is the output of print('apple' in ['orange', 'apple', 'grape'])?",
+      "a": "False",
+      "b": "True",
+      "c": "None",
+      "d": "Error",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "165. What is the main limitation of membership operators for searching?",
+      "a": "They are too slow",
+      "b": "They only return True or False, not the position of the element",
+      "c": "They only work with numbers",
+      "d": "They cannot be used with strings",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "166. What is linear search?",
+      "a": "A search algorithm that repeatedly divides the search interval in half",
+      "b": "A search algorithm that checks each element sequentially until the target is found",
+      "c": "A search algorithm that jumps ahead by fixed steps",
+      "d": "A search algorithm that uses a formula to guess the position",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "167. What is the time complexity of linear search in the worst case?",
+      "a": "O(1)",
+      "b": "O(log n)",
+      "c": "O(n)",
+      "d": "O(n^2)",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What are the two critical components of recursion in Python?",
+      "a": "Base Case and Recursive Case",
+      "b": "Iterative Case and Function Case",
+      "c": "Loop Case and Base Case",
+      "d": "Variable Case and Constant Case",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is the time complexity of Merge sort in all cases?",
+      "a": "O(n^2)",
+      "b": "O(n log n)",
+      "c": "O(n)",
+      "d": "O(log n)",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which sorting algorithm picks an element as a pivot and partitions the array around it?",
+      "a": "Bubble sort",
+      "b": "Selection sort",
+      "c": "Quick sort",
+      "d": "Insertion sort",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "How does Selection sort work?",
+      "a": "By continuously dividing the array into two halves",
+      "b": "By picking a pivot element and partitioning the array",
+      "c": "By comparing adjacent elements and swapping them",
+      "d": "By repeatedly selecting the smallest element from the unsorted portion and swapping it with the first unsorted element",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "In Insertion sort, which element does the algorithm typically start with, assuming the preceding elements are already sorted?",
+      "a": "The first element",
+      "b": "The second element",
+      "c": "The middle element",
+      "d": "The last element",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is merge sort?",
+      "a": "A sorting algorithm that uses adjacent comparisons",
+      "b": "A divide and conquer algorithm that divides the array into halves, sorts them, and merges",
+      "c": "A sorting algorithm that selects a pivot",
+      "d": "An algorithm that only works on small arrays",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is quick sort?",
+      "a": "A divide and conquer algorithm that picks a pivot and partitions the array around it",
+      "b": "A sorting algorithm that uses adjacent comparisons",
+      "c": "An algorithm that only works on strings",
+      "d": "A stable sorting algorithm",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What are the three main steps in quick sort?",
+      "a": "Compare, swap, repeat",
+      "b": "Choose a pivot, partition the array, recursively call on sub-arrays",
+      "c": "Split, sort, merge",
+      "d": "Insert, delete, sort",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the base case for recursion in quick sort?",
+      "a": "When the array has one element or is empty",
+      "b": "When the array has 10 elements",
+      "c": "When the pivot is the largest element",
+      "d": "When all elements are equal",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is a recursive function?",
+      "a": "A function that calls itself",
+      "b": "A function that calls another function",
+      "c": "A function that never returns",
+      "d": "A function that only runs once",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What are the two critical components of recursion?",
+      "a": "Loop and condition",
+      "b": "Base case and recursive case",
+      "c": "Start and end",
+      "d": "Input and output",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the base case in a recursive function?",
+      "a": "The condition that causes infinite recursion",
+      "b": "The condition that terminates the recursion",
+      "c": "The first function call",
+      "d": "The last function call",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What happens if a recursive function has no base case?",
+      "a": "It runs once and stops",
+      "b": "It returns None",
+      "c": "It calls itself forever, causing a RecursionError",
+      "d": "It automatically adds a base case",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the output of factorial(5) using the recursive factorial function?",
+      "a": "15",
+      "b": "120",
+      "c": "60",
+      "d": "25",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the base case in the recursive factorial function?",
+      "a": "num == 0",
+      "b": "num == 1",
+      "c": "num == 2",
+      "d": "num == num",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the recursive case in the factorial function?",
+      "a": "factorial(num)",
+      "b": "num * factorial(num - 1)",
+      "c": "factorial(num + 1)",
+      "d": "num + factorial(num - 1)",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the Fibonacci sequence?",
+      "a": "1, 3, 5, 7, 9",
+      "b": "2, 4, 6, 8, 10",
+      "c": "0, 1, 1, 2, 3, 5, 8, 13",
+      "d": "1, 4, 9, 16, 25",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the recursive formula for Fibonacci numbers?",
+      "a": "F(n) = F(n-1) * F(n-2)",
+      "b": "F(n) = F(n-1) + F(n-2)",
+      "c": "F(n) = F(n-1) - F(n-2)",
+      "d": "F(n) = F(n-1) / F(n-2)",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is one disadvantage of recursion?",
+      "a": "It always runs faster than iteration",
+      "b": "It uses less memory than iteration",
+      "c": "Each recursive call adds a new layer to the stack, causing memory overhead",
+      "d": "It cannot solve complex problems",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is an advantage of recursion?",
+      "a": "It always uses less memory",
+      "b": "It can reduce code length for problems naturally recursive like tree traversals",
+      "c": "It is always faster than iteration",
+      "d": "It never causes errors",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the difference between recursion and iteration?",
+      "a": "Recursion uses loops; iteration uses function calls",
+      "b": "Recursion uses function calls; iteration uses loops",
+      "c": "They are exactly the same",
+      "d": "Recursion is always better",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the merge function in merge sort responsible for?",
+      "a": "Splitting the array into halves",
+      "b": "Merging two sorted sub-arrays into one sorted array",
+      "c": "Choosing a pivot",
+      "d": "Swapping adjacent elements",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the partition function in quick sort responsible for?",
+      "a": "Merging sorted arrays",
+      "b": "Rearranging elements around the pivot and returning the pivot's final position",
+      "c": "Inserting elements into sorted position",
+      "d": "Swapping adjacent elements",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the time complexity of bubble sort in the worst case?",
+      "a": "O(n)",
+      "b": "O(n log n)",
+      "c": "O(n^2)",
+      "d": "O(log n)",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the output of the following code? try: print(\"try\") except: print(\"except\") else: print(\"else\")",
+      "a": "try",
+      "b": "try except",
+      "c": "try else",
+      "d": "try except else",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the output of the following code? try: x=1/0 except ZeroDivisionError: print(\"caught\") else: print(\"no error\")",
+      "a": "caught",
+      "b": "no error",
+      "c": "caught no error",
+      "d": "Error",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What does the raise statement do?",
+      "a": "It catches an exception",
+      "b": "It manually raises an exception",
+      "c": "It ignores an exception",
+      "d": "It prints an error message",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the syntax for raising an exception?",
+      "a": "catch Exception",
+      "b": "throw Exception",
+      "c": "raise Exception",
+      "d": "error Exception",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Can you create your own custom exceptions in Python?",
+      "a": "No, only built-in exceptions are allowed",
+      "b": "Yes, by creating a class that inherits from the built-in Exception class",
+      "c": "Yes, but only using the except keyword",
+      "d": "No, Python does not support user-defined exceptions",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is BaseException in Python?",
+      "a": "A specific error for division by zero",
+      "b": "The base class for all built-in exceptions",
+      "c": "A function that catches errors",
+      "d": "A module for handling files",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is ArithmeticError?",
+      "a": "An error that occurs when a file is not found",
+      "b": "The base class for arithmetic errors like ZeroDivisionError and OverflowError",
+      "c": "An error for invalid syntax",
+      "d": "An error for type mismatches",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "When is AssertionError raised?",
+      "a": "When a file is not found",
+      "b": "When an assert statement fails",
+      "c": "When dividing by zero",
+      "d": "When a variable is not defined",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "When is AttributeError raised?",
+      "a": "When a file is not found",
+      "b": "When an attribute reference or assignment fails",
+      "c": "When a variable is not defined",
+      "d": "When a list index is out of range",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "When is EOFError raised?",
+      "a": "When a file is not found",
+      "b": "When the input() function hits an end-of-file condition without reading any data",
+      "c": "When a variable is not defined",
+      "d": "When a list is empty",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "When is ImportError raised?",
+      "a": "When a variable is not defined",
+      "b": "When an import statement fails to load a module",
+      "c": "When a file is not found",
+      "d": "When a function is called with wrong arguments",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is LookupError?",
+      "a": "A specific error for missing files",
+      "b": "A base class for errors that occur when a collection lookup fails",
+      "c": "An error for invalid syntax",
+      "d": "An error for type mismatches",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "When is MemoryError raised?",
+      "a": "When a file is too large",
+      "b": "When the program runs out of memory",
+      "c": "When a list is empty",
+      "d": "When a function is called recursively",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "When is NameError raised?",
+      "a": "When a file is not found",
+      "b": "When a local or global name is not found",
+      "c": "When a list index is out of range",
+      "d": "When a function argument is invalid",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "When is OSError raised?",
+      "a": "When a system-level problem occurs, like failing to find a file or running out of disk space",
+      "b": "When a variable is not defined",
+      "c": "When a list index is out of range",
+      "d": "When dividing by zero",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "When is RuntimeError raised?",
+      "a": "When an error does not fit into any other specific category",
+      "b": "When a file is not found",
+      "c": "When a variable is not defined",
+      "d": "When a function is called correctly",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is StopIteration used for?",
+      "a": "To stop the entire Python program",
+      "b": "To signal that an iterator has no more items to return",
+      "c": "To pause a function temporarily",
+      "d": "To raise a syntax error",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "When is SyntaxError raised?",
+      "a": "When the code has improper syntax",
+      "b": "When a file is not found",
+      "c": "When a variable is not defined",
+      "d": "When a list index is out of range",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "When is TypeError raised?",
+      "a": "When an operation is performed on an object of the wrong type",
+      "b": "When a file is not found",
+      "c": "When a variable is not defined",
+      "d": "When a list index is out of range",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "When is ValueError raised?",
+      "a": "When a function receives an argument of the correct type but with an invalid value",
+      "b": "When a file is not found",
+      "c": "When a variable is not defined",
+      "d": "When a list index is out of range",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What does GUI stand for?",
+      "a": "Graphical User Interface",
+      "b": "General User Integration",
+      "c": "Graphic Utility Interface",
+      "d": "Guided User Interaction",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is a GUI?",
+      "a": "A text-based interface for typing commands",
+      "b": "An interface that uses visual indications and graphical elements like buttons and checkboxes",
+      "c": "A type of programming language",
+      "d": "A database management system",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What was used for computer interaction before GUIs?",
+      "a": "Voice commands",
+      "b": "Touch screens",
+      "c": "Text-based commands typed into a command-line interface",
+      "d": "Mouse only",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which GUI toolkit comes built-in with Python?",
+      "a": "PyQt",
+      "b": "wxPython",
+      "c": "tkinter",
+      "d": "Kivy",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the first step in creating a GUI using tkinter?",
+      "a": "Create a button",
+      "b": "Import the tkinter module",
+      "c": "Set the window title",
+      "d": "Start the event loop",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does the Tk constructor do in tkinter?",
+      "a": "Creates a button widget",
+      "b": "Creates the main window of the GUI",
+      "c": "Closes the window",
+      "d": "Sets the window title",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does the mainloop method do in tkinter?",
+      "a": "Creates a new window",
+      "b": "Destroys all widgets",
+      "c": "Keeps the window open and running, waiting for user events",
+      "d": "Closes the application",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is a widget in tkinter?",
+      "a": "A type of loop",
+      "b": "A graphical user interface control like a button or label",
+      "c": "A file handling function",
+      "d": "An exception handler",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which widget is used to display a single line of text or an image?",
+      "a": "Button",
+      "b": "Entry",
+      "c": "Label",
+      "d": "Text",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which widget is used to accept a single line of text input from the user?",
+      "a": "Label",
+      "b": "Entry",
+      "c": "Text",
+      "d": "Button",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which widget is used for multi-line text input?",
+      "a": "Entry",
+      "b": "Label",
+      "c": "Text",
+      "d": "Button",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which widget is clicked to trigger an action?",
+      "a": "Label",
+      "b": "Entry",
+      "c": "Button",
+      "d": "Text",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the syntax for creating a Label widget?",
+      "a": "Label = label(root, text=\"Hello\")",
+      "b": "label = Label(root, text=\"Hello\")",
+      "c": "label = Label(text=\"Hello\")",
+      "d": "label = Label(root, \"Hello\")",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the pack method used for?",
+      "a": "To destroy a widget",
+      "b": "To arrange widgets in rows or columns to optimize the parent area",
+      "c": "To change the color of a widget",
+      "d": "To bind an event to a widget",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the grid method used for?",
+      "a": "To pack widgets in rows or columns",
+      "b": "To arrange widgets in a 2-dimensional tabular structure with rows and columns",
+      "c": "To place widgets at absolute positions",
+      "d": "To delete all widgets",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the place method used for?",
+      "a": "To pack widgets in rows",
+      "b": "To arrange widgets in a grid",
+      "c": "To explicitly set the position and size of a widget using absolute or relative coordinates",
+      "d": "To delete a widget",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which geometry manager must be used exclusively and cannot be mixed with others in the same master window?",
+      "a": "Only pack and grid can be mixed",
+      "b": "All three can be mixed freely",
+      "c": "Each master window can only use one geometry manager; they cannot be mixed",
+      "d": "Only place can be mixed with others",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What does the Checkbutton widget do?",
+      "a": "Displays a single line of text",
+      "b": "Displays a toggle button that can be checked or unchecked, allowing multiple selections",
+      "c": "Displays a button that triggers an action",
+      "d": "Displays a text entry field",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does the Radiobutton widget do?",
+      "a": "Allows multiple selections like Checkbutton",
+      "b": "Displays a toggle button where only one option can be selected from a group",
+      "c": "Displays a text entry field",
+      "d": "Displays a single line of text",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the difference between Checkbutton and Radiobutton?",
+      "a": "Checkbutton allows only one selection; Radiobutton allows multiple",
+      "b": "Checkbutton allows multiple selections; Radiobutton allows only one selection per group",
+      "c": "They are identical",
+      "d": "Checkbutton is for text; Radiobutton is for images",
+      "correct": "b",
+      "type": "single"
+    }
+  ]
+}

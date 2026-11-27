@@ -1,0 +1,5485 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "GST112",
+    "total_questions": 610
+  },
+  "data": [
+    {
+      "question": "COMPI LEDGST112QUESTI ONSFOREXAM ANONYMOUSCREW : 1.Anat ionst atehasaper manent_ ___ _",
+      "type": "single",
+      "correct": "b",
+      "a": "Ter ri tor y",
+      "b": "Popul ati on",
+      "c": "Gov ernment",
+      "d": "Option D"
+    },
+    {
+      "question": "Whendi dNi ger iabecomedemocr ati c",
+      "type": "single",
+      "correct": "a",
+      "a": "1999",
+      "b": "1989",
+      "c": "2009",
+      "d": "2019"
+    },
+    {
+      "question": "ue 4.Yout hunempl oymentl eadst o",
+      "type": "single",
+      "correct": "a",
+      "a": "Chr oni cpov ert y",
+      "b": "Educat ion",
+      "c": "Nat ional uni ty",
+      "d": "Cul tur eint egr ati on"
+    },
+    {
+      "question": ".. .. . 6._ ___ _ref erst oconf li cti nvol vi ngt woormor ecommuni ti esengagi ngt hemsel vesi n di sagr eement",
+      "type": "single",
+      "correct": "a",
+      "a": "Communal conf li ct",
+      "b": "Cul tur alconf li ct",
+      "c": "nat ional conf li ct",
+      "d": "Option D"
+    },
+    {
+      "question": "_ ___ _account abi l ityi sapr ocesswher el eader srenderaccountoft hei rst ewar dshi p",
+      "type": "single",
+      "correct": "a",
+      "a": "Leader shi p",
+      "b": "Gov ernance",
+      "c": "Ci ti zen",
+      "d": "Option D"
+    },
+    {
+      "question": "Adj ust ingt othewest erni deol ogi esl eadt o a.Nat ionbui l ding bconf li cts c. pov ert y",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "_ ___hasbeenr avagi ngcommuni ti es",
+      "type": "single",
+      "correct": "b",
+      "a": "Er osi on",
+      "b": "Cor rupt ion",
+      "c": "Rel i giousconf li ct",
+      "d": "Option D"
+    },
+    {
+      "question": "Whi choft hef oll owi ngi snotusedi nnat ionbui l ding",
+      "type": "single",
+      "correct": "c",
+      "a": "Di alogue",
+      "b": "Reconci l iat ion",
+      "c": "Conf li ct",
+      "d": "Option D"
+    },
+    {
+      "question": "Whi chonei sasubgr oupofNi ger -Congo",
+      "type": "single",
+      "correct": "a",
+      "a": "WestAdamawa",
+      "b": "Ber berbr anch",
+      "c": "Handzabr anch",
+      "d": "Ni l oti cbr anch"
+    },
+    {
+      "question": "",
+      "type": "single",
+      "correct": "d",
+      "a": "Mani pul ati onofpol i ty",
+      "b": "Ev ery dayabuseofent rust edpowerbyl owandmi dlev elpubl i cof fi cial s",
+      "c": "Mani pul ati onofi nst it uti on",
+      "d": "Pi ckpocket ing"
+    },
+    {
+      "question": "Accor dingt oGr eenber g,Ni ger ial anguageshav ebeencat egor izedi nto",
+      "type": "single",
+      "correct": "a",
+      "a": "4",
+      "b": "3",
+      "c": "5",
+      "d": ""
+    },
+    {
+      "question": ". .. .. .isnotacul tur alat tri but eofanat ion",
+      "type": "single",
+      "correct": "d",
+      "a": ".Rel i gion",
+      "b": ".",
+      "c": "ust om C.Language",
+      "d": ".Age"
+    },
+    {
+      "question": ". .. ..Di spar it iesexi stamongmember sofv ari ousgeo- pol i tical zones",
+      "type": "single",
+      "correct": "b",
+      "a": "Houses",
+      "b": "Gr oss",
+      "c": "sky",
+      "d": "Wat er"
+    },
+    {
+      "question": "Ful lmeani ngofI POB",
+      "type": "single",
+      "correct": "c",
+      "a": ".I ndependentpeopl eofBi afr a",
+      "b": ".I nter nat ional peopl eofBi afr a",
+      "c": ".I ndi genousPeopl eofBi afr a",
+      "d": ".I ndi genousper sonofBi afr a"
+    },
+    {
+      "question": "Nat ionst atei schar act eri zed ?",
+      "type": "single",
+      "correct": "a",
+      "a": ". Pol i tical andcul tur alboundar ies",
+      "b": ".Soci alboundar y",
+      "c": ".Pol i tical boundar y",
+      "d": ".Cul tur alboundar y"
+    },
+    {
+      "question": "Maj oret hni cgr oupsandmaj orl i ngui sti cgr oupar enott hesame A. True B. Fal se",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Gov ernanceandCi vi lresponsi bil i tyar eunder ___ __",
+      "type": "single",
+      "correct": "a",
+      "a": ".Pol i tical",
+      "b": ".Cul tur al",
+      "c": ".Soci al",
+      "d": ".Economi c"
+    },
+    {
+      "question": "Whi choft hef oll owi ngi snoti nvol vedi nconduct ingf reeandf airel ect ion",
+      "type": "single",
+      "correct": "a",
+      "a": ".Thesoci ety",
+      "b": ".Thet ri bunal",
+      "c": ".I NEC",
+      "d": ".Thej udi ciar y"
+    },
+    {
+      "question": ".. .. . 22._f avort hedi str ibut ionoft angi bleandi ntangi bler esour ces",
+      "type": "single",
+      "correct": "a",
+      "a": ". Uni ver sit y",
+      "b": ".Chi l dren",
+      "c": ".Nor th",
+      "d": ".None"
+    },
+    {
+      "question": "Kanohas_ ___ ___l ocal gov ernmentAr ea",
+      "type": "single",
+      "correct": "b",
+      "a": "23",
+      "b": "44",
+      "c": "5",
+      "d": "34"
+    },
+    {
+      "question": "Kwai sunderwhi chgr oup_ ___ _?",
+      "type": "single",
+      "correct": "b",
+      "a": ".Af ro- Asi ati c",
+      "b": ". Niger -Congo",
+      "c": ".Ni l oSahar a",
+      "d": ".Yor uba"
+    },
+    {
+      "question": "Anot hernamef orNi l o-Sahar ani s__ __",
+      "type": "single",
+      "correct": "c",
+      "a": ".Sahar an",
+      "b": ".Semi ti c",
+      "c": ".Sudani c",
+      "d": ".Khoi san"
+    },
+    {
+      "question": "AnationStat eshas_meani ngul ti mat eaut hor iywi t thi nitbor der sandi t' snotsubj ect edt o anyext ernalpower",
+      "type": "single",
+      "correct": "a",
+      "a": "Sov erei gnt y",
+      "b": "t err it ory",
+      "c": "Gov ernment",
+      "d": "Nat ional ident it y"
+    },
+    {
+      "question": "Subgr oupunderCl i ckf ami l yis_ ___ __",
+      "type": "single",
+      "correct": "a",
+      "a": ".Handz a",
+      "b": ".Ar abi c",
+      "c": ".Chadi c",
+      "d": ".Kwa"
+    },
+    {
+      "question": "Jussol ii sther ightofci ti zenshi p. .. .. .. .",
+      "type": "single",
+      "correct": "d",
+      "a": ".Bl ood",
+      "b": ".Bi rt h",
+      "c": ".Fami l y",
+      "d": ".None"
+    },
+    {
+      "question": "Howmanycl assi fi cat ionsofl i ngui sti csdowehav e?",
+      "type": "single",
+      "correct": "d",
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4 e)5"
+    },
+    {
+      "question": "Anat ionst atehasaper manent_ ___ __",
+      "type": "single",
+      "correct": "a",
+      "a": ".Popul ati on",
+      "b": ".Count ry",
+      "c": ".Ter ri tor y",
+      "d": ".Count ri es"
+    },
+    {
+      "question": "Whathasbeent hemaj orchal l engeofNi ger iast atesi nce21stcent ury",
+      "type": "single",
+      "correct": "b",
+      "a": ", nat ionst ate",
+      "b": ", nat ionbui l ding",
+      "c": ", nat ional ident it y",
+      "d": "Option D"
+    },
+    {
+      "question": "t heaf roAsi ati cgr oupconsi stsof",
+      "type": "single",
+      "correct": "c",
+      "a": ", yor ubas",
+      "b": ", kwasubgr oup",
+      "c": ", Hausa",
+      "d": ", Igbos"
+    },
+    {
+      "question": "DrGoodl uckJonat hanwast he_ ___ ___ ___ __ofNi ger ia",
+      "type": "single",
+      "correct": "c",
+      "a": "mi nist er",
+      "b": "gov ernor",
+      "c": "pr esi dent",
+      "d": "chai rman"
+    },
+    {
+      "question": "Kadunahashowmanyl ocal gov ernment",
+      "type": "single",
+      "correct": "b",
+      "a": "33",
+      "b": "44",
+      "c": "32",
+      "d": "30"
+    },
+    {
+      "question": "_ ___ __occur sinmostpl acesi nNi ger ia",
+      "type": "single",
+      "correct": "b",
+      "a": ". Erosi on",
+      "b": "cor rupt ion",
+      "c": "hi ghr ainf all",
+      "d": "Option D"
+    },
+    {
+      "question": "___ __bel ongst otheAsi ati cFami l y",
+      "type": "single",
+      "correct": "a",
+      "a": ". Araabi cbr anch",
+      "b": ".Ni l oti cbr anch",
+      "c": ".Chadi cbr anch",
+      "d": "Option D"
+    },
+    {
+      "question": "Anat ionst atei schar act eri zed a.Pol i tical andsoci alboundar ies bcul tur alboundar y cpol i tical andst ruct ural boundar y",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Niger iai sa_ _soci ety /count ry",
+      "type": "single",
+      "correct": "a",
+      "a": "Mul ti ethni c",
+      "b": "Pol yet hni c",
+      "c": "Mono- ethni c",
+      "d": "Option D"
+    },
+    {
+      "question": "_ _ar efav our edi nthedi str i i butonoft angi bleandi ntangi blemat eri als a.Yout h b.I ndust ry",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "All cit izensshoul dhav eaccesst oenabl i ng_ _andl evel play inggr ound a.Env ironment b.School",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Thecur rentcent uryofNi ger iahasbeenf acedwi th",
+      "type": "single",
+      "correct": "a",
+      "a": "Cr isi s",
+      "b": "Et hni cmi l iti a",
+      "c": "Pr otest s",
+      "d": "Ri ots"
+    },
+    {
+      "question": ":ABSOLUTEAUTHORI TY 43. Gener all yNi ger iahashowmanyl i ngui sti cgr oup. .. .. .",
+      "type": "single",
+      "correct": "4",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Languagebar ri ercanf ost ereconomi cdev elopment a. True b. Fal se",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "JosephGr eenber g(1963)i snot abl efort hecoi nageof",
+      "type": "single",
+      "correct": "b",
+      "a": "maj orcompar ison",
+      "b": "masscompar ison",
+      "c": "maj orl i ngui sti cgr oup",
+      "d": "mastcompar ison"
+    },
+    {
+      "question": "Ni ger iar est oreddemocr ati crul einy ear_ ___ ___ ___",
+      "type": "single",
+      "correct": "b",
+      "a": ".2009",
+      "b": ".1999",
+      "c": ".2019",
+      "d": ".1989"
+    },
+    {
+      "question": "West erni deol ogi esi ncl ude- -- -- -- -- -- -- -- -",
+      "type": "single",
+      "correct": "a",
+      "a": ".Capi tal i sm",
+      "b": ".Fuel",
+      "c": ".Sky",
+      "d": ".Ai rl ine"
+    },
+    {
+      "question": ":Theconcept ,maj orl i ngui sti csgr oup, ethni cgr oupar enott hesame A.Tr ue B.Fal se",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nat ionbui l dingai m att hedev elopmentoft hef oll ngexcept_ owi ___ ___ ___ ___ __",
+      "type": "single",
+      "correct": "b",
+      "a": ".I nfr ast ruct ure",
+      "b": ".Ani mosi ty",
+      "c": ".St ruct ure",
+      "d": ".I nst it uti on"
+    },
+    {
+      "question": "Recogni ti onofgenderi ssueshav eal ott odowi tht he. .",
+      "type": "single",
+      "correct": "c",
+      "a": ".Legal inst it uti on",
+      "b": ".Soci ali nst it uti on",
+      "c": ".I nst it uti onofhumanr ight s ( PG29)",
+      "d": "Option D"
+    },
+    {
+      "question": "TheEngl i shl anguagel i kemanyot heri ndi genousl anguagei nNi ger iai sat onal language A.Tr ue B.Fal se",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "TheKwasubgr oupi sunderwhi chcl assofl anguage",
+      "type": "single",
+      "correct": "d",
+      "a": "Nil oSahar an",
+      "b": "Khoi san",
+      "c": "Afr o-Asi ati c",
+      "d": "Niger ia- CongoFami l y"
+    },
+    {
+      "question": "Pi ckt heoddone",
+      "type": "single",
+      "correct": "a",
+      "a": "LackofHomeTr aini ng",
+      "b": "Grandcor rupt ion",
+      "c": "Pet tycor rupt ion",
+      "d": "Pol i tical cor rupt ion"
+    },
+    {
+      "question": "-Sudani cfami l y* 57.AnationStat eshas_meani ngul ti mat eaut hor iywi t thi nitbor der sandi t' snotsubj ect edt o anyext ernalpower",
+      "type": "single",
+      "correct": "a",
+      "a": "Sov erei gnt y",
+      "b": "t err it ory",
+      "c": "Gov ernment",
+      "d": "Option D"
+    },
+    {
+      "question": "Languagecangot oext inct Tr ue f alse",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "-8 61.Anat ionst atehascl ear lydef inedgeogr aphi cal bor der sref err edt oas",
+      "type": "single",
+      "correct": "b",
+      "a": "bor der",
+      "b": "t err it ory",
+      "c": "boundar y",
+      "d": ""
+    },
+    {
+      "question": "Ni ger iai sa_ ___ __t ypeofcount ry",
+      "type": "single",
+      "correct": "a",
+      "a": "mul ti li ngual",
+      "b": "bi l ingual",
+      "c": "monol i ngual",
+      "d": "Option D"
+    },
+    {
+      "question": "Aut hor it y 65.Ni ger iacanbesai dtohav e__ ___ ___ ___ _",
+      "type": "single",
+      "correct": "b",
+      "a": "bi l ingual language",
+      "b": "mul ti li ngual language",
+      "c": "monol i ngual language",
+      "d": "mul ti dynami csoci ety"
+    },
+    {
+      "question": ":st udyofl anguage 68.. .. .. .isnotacul tur alat tri but eofanat ion",
+      "type": "single",
+      "correct": "d",
+      "a": ".Rel i gion",
+      "b": ".Cust om",
+      "c": ".Language",
+      "d": ".Age"
+    },
+    {
+      "question": ". .. ..Di spar it iesexi stamongmember sofv ari ousgeo- pol i tical zones",
+      "type": "single",
+      "correct": "b",
+      "a": "Houses",
+      "b": "Gr oss",
+      "c": "sky",
+      "d": "Wat er"
+    },
+    {
+      "question": ". .. ..Di spar it iesal soexi stamongt hegeopol i tical zonesi nNi ger ia",
+      "type": "single",
+      "correct": "b",
+      "a": "Peopl e",
+      "b": "Soci alcul tur al",
+      "c": "Sky",
+      "d": "Wat er"
+    },
+    {
+      "question": ":page18oft hemanual 75. : Reasonsf ornat ionbui l ding",
+      "type": "single",
+      "correct": "a",
+      "a": "nat ional uni ty",
+      "b": "Et hni cDi ver sit y",
+      "c": "st rongeconomy",
+      "d": ""
+    },
+    {
+      "question": "Li ngui sti csi s-- -",
+      "type": "single",
+      "correct": "a",
+      "a": ".St udyofl anguage",
+      "b": ".Sci ent if icst udyofl anguage",
+      "c": ".Sci enceofl anguage",
+      "d": ". .."
+    },
+    {
+      "question": "Man' sact ionar eal way sref lect edi nlanguageuse Tr ue f alse",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Badgov ernmenthas_ ___ __Ni ger iaeconomy A.Hi nder ed B.I ncr ease . .. .",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Gr eenber ggr oupNi ger ial anguagesi nto_ ___ ___ ___ _.",
+      "type": "single",
+      "correct": "c",
+      "a": "5",
+      "b": "8",
+      "c": "4",
+      "d": "2"
+    },
+    {
+      "question": ".. .. . 82. Ther ehav ebeensev eral kindsofst atesapar tfr om_ ___ __",
+      "type": "single",
+      "correct": "c",
+      "a": "Ri ver s",
+      "b": "Hi stor y",
+      "c": "Nat ionst ate",
+      "d": "Option D"
+    },
+    {
+      "question": ":8 85. Lingui sti csi s__ __",
+      "type": "single",
+      "correct": "a",
+      "a": "St udyofl anguages",
+      "b": "Sci enceofl anguages",
+      "c": "Sci ent if icst udyofl anguages",
+      "d": "Ican' tremember"
+    },
+    {
+      "question": "Whi choft hef oll owi ngbel ongst otheNi ger congof ami l y",
+      "type": "single",
+      "correct": "b",
+      "a": "Kor dof ani an",
+      "b": "WestAt lant ic",
+      "c": "Ber berbr anch",
+      "d": "Handzabr anch"
+    },
+    {
+      "question": ";B 90. Oneoft hef oll owi ngi sabr anchoft hecl i ckf ami l y a) Handzabr anch b)Ber berbr anch",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Anat ionst atehasagov ernmentt hatexer cises a)aut hor it y b)power",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "ESERTI FICATI ON 93. Ther ecentNi ger iahascont inuedt owi tnessr isi ngandper sist entcasesof .. .",
+      "type": "single",
+      "correct": "c",
+      "a": ".Et hni cmi l iti a",
+      "b": ".Ri ots",
+      "c": ".Cr ises",
+      "d": "Option D"
+    },
+    {
+      "question": "Hasbeenr avi ngamongst atei nNi ger ia",
+      "type": "single",
+      "correct": "a",
+      "a": ". erosi on",
+      "b": "dev elopment",
+      "c": "pol i tics",
+      "d": "educat ion"
+    },
+    {
+      "question": "Recogni ti onofgenderi ssueshav eal ott odowi tht he. .",
+      "type": "single",
+      "correct": "c",
+      "a": ".Legal inst it uti on",
+      "b": ".Soci ali nst it uti on",
+      "c": ".I nst it uti onofhumanr ight s ( PG29)",
+      "d": "Option D"
+    },
+    {
+      "question": "Pi ckt heoddone",
+      "type": "single",
+      "correct": "a",
+      "a": "LackofHomeTr aini ng",
+      "b": "Grandcor rupt ion",
+      "c": "Pet tycor rupt ion",
+      "d": "Pol i tical cor rupt ion"
+    },
+    {
+      "question": "Thef oll owi ngar echar act eri sti csofnat ionst ateexcept",
+      "type": "single",
+      "correct": "a",
+      "a": ".Conf li ct",
+      "b": ".Ter ri tor y",
+      "c": ". popul ati on",
+      "d": ".Nat ional ident it y"
+    },
+    {
+      "question": "Kanohas_Local gov ernmentar eas",
+      "type": "single",
+      "correct": "b",
+      "a": "50",
+      "b": "44",
+      "c": "20",
+      "d": "13"
+    },
+    {
+      "question": "_ _ispar toft heAf roAsi ant icf ami l y",
+      "type": "single",
+      "correct": "b",
+      "a": "TheKwasubgr oup",
+      "b": "TheHausa",
+      "c": "TheI gbo",
+      "d": "TheYor uba"
+    },
+    {
+      "question": "101: Theal gamat ionoft henor ther nandsout her npr otect orat ecameupi nthey ear ___ ___ ___ ? a)1902 b) 1914",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "TheI feandModakekeconf li ctwas_v iol ence",
+      "type": "single",
+      "correct": "a",
+      "a": "El ect oral",
+      "b": "Landowner shi p",
+      "c": "Rel i gious",
+      "d": "Option D"
+    },
+    {
+      "question": "Ni ger iawasconsi der edapol i tical uni tin",
+      "type": "single",
+      "correct": "a",
+      "a": "1913",
+      "b": "1908",
+      "c": "1909",
+      "d": "1904"
+    },
+    {
+      "question": "NOQUESTI ON",
+      "type": "single",
+      "correct": "a",
+      "a": ". erosi on",
+      "b": "dev elopment",
+      "c": "pol i tics",
+      "d": "educat ion"
+    },
+    {
+      "question": "Greenber ggr oupNi ger ial anguagesi nto_ ___ ___ ___ _.",
+      "type": "single",
+      "correct": "c",
+      "a": "5",
+      "b": "8",
+      "c": "4",
+      "d": "2"
+    },
+    {
+      "question": "Responsi vel eader shi pisa_ ___cont ractbet weent hel eaderandt heLed",
+      "type": "single",
+      "correct": "c",
+      "a": ".Busi ness",
+      "b": ". Tender",
+      "c": ".Soci al",
+      "d": ".Massi ve"
+    },
+    {
+      "question": "t heaf roAsi ati cgr oupconsi stsof",
+      "type": "single",
+      "correct": "c",
+      "a": ", yor ubas",
+      "b": ", kwasubgr oup",
+      "c": ", Hausa",
+      "d": ", Igbos"
+    },
+    {
+      "question": "Anat ionst atehasaper manent_ ___ __",
+      "type": "single",
+      "correct": "a",
+      "a": ".Popul ati on",
+      "b": ".Count ry",
+      "c": ".Ter ri tor y",
+      "d": ".Count ies"
+    },
+    {
+      "question": "Sout hEasthast he_ ___ ___st ate",
+      "type": "single",
+      "correct": "d",
+      "a": "none",
+      "b": "many",
+      "c": "few",
+      "d": "least"
+    },
+    {
+      "question": "110_r emai namaj orchal l enget otheNi ger ianst ateupt il lthe21stcent ury ANat ionbui l ding BTer ri tor y",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": ":Whatt ypeofcor rupt ioni sfakedr ugpr oduct ion",
+      "type": "single",
+      "correct": "a",
+      "a": "Economi ccor rupt ion",
+      "b": "Mor alcor rupt ion",
+      "c": "medi cal cor rupt ion",
+      "d": "Fr aud"
+    },
+    {
+      "question": "_ Noquest ion",
+      "type": "single",
+      "correct": "c",
+      "a": ".Rel i giousper spect ive",
+      "b": ".Phi l osophi cal per spect ive",
+      "c": ".TheBi ble/ Qur an",
+      "d": ".Soci ologi cal per spect ive"
+    },
+    {
+      "question": ":Nor th 114. Thet hreenat ional admi nist rat ionar i enatonal aut hor it y,nat ional cour tsy stem and",
+      "type": "single",
+      "correct": "a",
+      "a": ".Nat ional treasur y",
+      "b": ".Nat ional law",
+      "c": ".Nat ional val ue",
+      "d": ".Nat ional syst em."
+    },
+    {
+      "question": "Noquest ion. ..",
+      "type": "single",
+      "correct": "a",
+      "a": ".Endemi ccor rupt ion",
+      "b": ".Pet tycor rupt ion",
+      "c": ".Gr andcor rupt ion",
+      "d": ".Pol i tical Cor rupt ion"
+    },
+    {
+      "question": "Whent hepeopl ear en' tcomi ngt oget her ,they 'r erul edempi reand. .. . a.Ki ngdom b.Rul er C.Leader D.St ates",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Howmanyl ocal gov ernment sar einKanost ate_ ___ __?",
+      "type": "single",
+      "correct": "a",
+      "a": ".44",
+      "b": ".20",
+      "c": ".18",
+      "d": ".50"
+    },
+    {
+      "question": "B 122_Languagesar eext incti nni ger ia",
+      "type": "single",
+      "correct": "c",
+      "a": "2",
+      "b": "4",
+      "c": "8",
+      "d": "10"
+    },
+    {
+      "question": "Thoseci vi li",
+      "type": "single",
+      "correct": "t",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "hatar enotpar tofnat ionar egov ernedempi resand_",
+      "type": "single",
+      "correct": "a",
+      "a": "Kingdoms",
+      "b": "Rul ers",
+      "c": "Leader s",
+      "d": "Mini ster"
+    },
+    {
+      "question": "_cannotbeconsi der edasf act ort hathi nderaci ti zenofacount ry",
+      "type": "single",
+      "correct": "d",
+      "a": "Cust om",
+      "b": "Language",
+      "c": "Descent",
+      "d": "Age"
+    },
+    {
+      "question": ":KWASUBGROUP 128. Howmanyl anguagesgoext inct",
+      "type": "single",
+      "correct": "8",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "se 132.Whati sthet erml i ngui sti csmeans? a.Sci ent if icst udyofl anguage b. studyofl anguage",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "The.RecentNi ger iai sex per ienci ngwhat",
+      "type": "single",
+      "correct": "a",
+      "a": "Conf li ct",
+      "b": "*Ri ot",
+      "c": "*Pr otest",
+      "d": "*Et hni cmi l iti a"
+    },
+    {
+      "question": "Whatpar tisi nsi det heNi ger congof ami l y",
+      "type": "single",
+      "correct": "d",
+      "a": ") *ni l icot inf ami l y",
+      "b": ") *ber berf ami l y",
+      "c": ") *hadani fami l y",
+      "d": ")noneoft heabov e"
+    },
+    {
+      "question": "se 136. Goodl uckJonat hanwast he. .. .. .. .. .. orNi ger ia Pr esi dent Gov ernor Chi efpr iest Oba",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Howmanyl anguagesar eext incti nNi ger ia",
+      "type": "single",
+      "correct": "8",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "l 139. Maj oret hni cgr oupsandmaj orl i ngui sti cgr oupar enott hesame A. True B. Fal se",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Soci etyandcommuni tygat her ing 142:",
+      "type": "single",
+      "correct": "a",
+      "a": "nat ionst atehasaper manent_ ___ __ A.Popul ati on",
+      "b": ".Count ry",
+      "c": ".Ter ri tor y",
+      "d": ".Count ies"
+    },
+    {
+      "question": "Nil oSahar ani sot her wisecal l ed_ __ A.Sudani cfami l y B.Kor dof ani anf ami l y",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nil oSahar anhas_ _br anch A.Ber berbr anch B. Nil oti cbr anch",
+      "type": "single",
+      "correct": "8",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "___ arecl aimedt obel i vingl anguage",
+      "type": "single",
+      "correct": "a",
+      "a": ". 505",
+      "b": ". 515",
+      "c": ".525",
+      "d": "508"
+    },
+    {
+      "question": "___hasbeenamaj orchal l enget otheNi ger iast atet il l21stcent ury A.Nat ionbui l ding B.Nat ionst ate",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "147_ __gov ernorwi l lhel ptobui l dgoodnat ion",
+      "type": "single",
+      "correct": "b",
+      "a": ".Bad",
+      "b": ".Good",
+      "c": ".Cor rupt",
+      "d": "Option D"
+    },
+    {
+      "question": ".. .. . 149. Char act eri sti csofSt atei dent if icat ionar e……except",
+      "type": "single",
+      "correct": "b",
+      "a": ".Cul tur e",
+      "b": ".Host il it y",
+      "c": ".Mor als",
+      "d": ".Humi l ity"
+    },
+    {
+      "question": "_ ___ _hasbeenr avagi ngmanyst atesi nNi ger ia",
+      "type": "single",
+      "correct": "c",
+      "a": ".Pol i tics",
+      "b": ".Dev elopment",
+      "c": ".Er osi on",
+      "d": ".Educat ion"
+    },
+    {
+      "question": "Ni ger iandemocr ati crul eisi nthe_ __r epubl i c",
+      "type": "single",
+      "correct": "d",
+      "a": ".4",
+      "b": ".10",
+      "c": ".64",
+      "d": ".5"
+    },
+    {
+      "question": "se 153. west erni deol ogi esl eadt o",
+      "type": "single",
+      "correct": "a",
+      "a": ".Nat ionbui l ding",
+      "b": ".Nat ionst ate",
+      "c": ".Nat ional popul ati on",
+      "d": ".Ni gerDel ta"
+    },
+    {
+      "question": "154NOQUESTI ON",
+      "type": "single",
+      "correct": "b",
+      "a": ".Bi ologi cal l ybound",
+      "b": ".Sci ent if ical l ybound",
+      "c": ".Cul tur all ybound",
+      "d": ".Psy chol ogi cal l ybound"
+    },
+    {
+      "question": "Cor rupt ionoccur sinbot hpubl i cand_ ___ _li vesoft hepeopl e",
+      "type": "single",
+      "correct": "b",
+      "a": ".Sect ional",
+      "b": ".Pr ivat e",
+      "c": ".Regi onal",
+      "d": ".Communi ti es"
+    },
+    {
+      "question": "Whi chi sfoundundersudani cgr oup",
+      "type": "single",
+      "correct": "c",
+      "a": ".Handza",
+      "b": ".Ber ber",
+      "c": ".Ni l oti c",
+      "d": ".Ni gercongo"
+    },
+    {
+      "question": "Cit izenshi pcanbegai nedt hroughal lbutoneoft hef oll owi ng",
+      "type": "single",
+      "correct": "b",
+      "a": ".Bi rt h",
+      "b": ".Deat h",
+      "c": ".Nat ural i zat ion",
+      "d": ".Descent"
+    },
+    {
+      "question": "Ethni cit yleadst o",
+      "type": "single",
+      "correct": "d",
+      "a": ".Medi ocr it y",
+      "b": ".Pr oduct ivi ty",
+      "c": ".Cor rupt ion",
+      "d": ".Conf li ct"
+    },
+    {
+      "question": "Engl i shi sal anguaget hati stonal li keot herl anguagesi nNi ger ia A.Tr ue B.Fal se",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "TheAdamawabr anchi sundert he",
+      "type": "single",
+      "correct": "a",
+      "a": ".Ni gercongof ami l y",
+      "b": ".Af ro- Asi ati cfami l y",
+      "c": ".Ni l o-sahar anf ami l y",
+      "d": ".Cl i ckf ami l y"
+    },
+    {
+      "question": "Oneoft hef oll owi ngi sanAf ro-",
+      "type": "single",
+      "correct": "a",
+      "a": "si ati cfami l y A.Ber ber",
+      "b": ".Mandebr anch",
+      "c": ".Handzabr anch",
+      "d": ".Ni l oti cbr anch"
+    },
+    {
+      "question": "Al lbutoneoft hef oll owi ngar especi fi yr l cal esponsi blet oensur eaf reeandf airel ect ion",
+      "type": "single",
+      "correct": "c",
+      "a": ".I NEC",
+      "b": ".Thej udi ciar y",
+      "c": ".Thesoci ety",
+      "d": ".Thet ri bunal"
+    },
+    {
+      "question": "TheEgbesuboy sar emi l itant sof",
+      "type": "single",
+      "correct": "a",
+      "a": ".Sout hWest",
+      "b": ".Nor thnor th",
+      "c": ".Sout hSout h",
+      "d": ".Sout hEast"
+    },
+    {
+      "question": "TheSout hEasthas_ ___ _numberofst ates",
+      "type": "single",
+      "correct": "a",
+      "a": ".Hi ghest",
+      "b": ".Least",
+      "c": ".Mi ddl e",
+      "d": ".Zer o"
+    },
+    {
+      "question": "Ni ger iawasconsi der edapol i tical uni tin",
+      "type": "single",
+      "correct": "a",
+      "a": ".1913",
+      "b": ".1908",
+      "c": ".1900",
+      "d": ".1904"
+    },
+    {
+      "question": "Ni ger iai sknownt obea_ ___",
+      "type": "single",
+      "correct": "a",
+      "a": ".Mul ti ethni csoci ety",
+      "b": ".Di ethni csoci ety",
+      "c": ".Pol ytechni csoci ety",
+      "d": ".Bi l ingual soci ety"
+    },
+    {
+      "question": "Whatpr otect orat edi dtheBr it ishst artl ocal gov ernment",
+      "type": "single",
+      "correct": "a",
+      "a": ".Sout her npr otect orat e",
+      "b": ".Nor ther npr otect orat e",
+      "c": ".Sout hWest ernpr otect orat e",
+      "d": ".East ernpr otect orat e"
+    },
+    {
+      "question": "Ni ger iabecameapol i tical ent it yint hey ear",
+      "type": "single",
+      "correct": "a",
+      "a": ".1914",
+      "b": ".1900",
+      "c": ".2002",
+      "d": ".2004"
+    },
+    {
+      "question": "JusSol imeans_ ___",
+      "type": "single",
+      "correct": "b",
+      "a": ".Ri ghtbybl ood",
+      "b": ".Ri ghtofsoi l",
+      "c": ".Ri ghtbyi dent it y",
+      "d": ".Ri ghtofl i fe"
+    },
+    {
+      "question": "Howmanyl anguagesar einexi stencei nNi ger ia",
+      "type": "single",
+      "correct": "b",
+      "a": ".8",
+      "b": ".505",
+      "c": ".200",
+      "d": ".56"
+    },
+    {
+      "question": "Asamemberofanat iony ouar ea_ ___ _",
+      "type": "single",
+      "correct": "a",
+      "a": ".Ci ti zen",
+      "b": ".Fol l ower s",
+      "c": ".Member",
+      "d": ".I ndi gene"
+    },
+    {
+      "question": "LagosandMai dugur iar eaf fect ed_ ___",
+      "type": "single",
+      "correct": "a",
+      "a": ".Fl oodi ng",
+      "b": ".Deser ti fi cat ion",
+      "c": ".Land",
+      "d": ".Pol l uti on"
+    },
+    {
+      "question": "Howmanyper centmadedecel erat ioni nthef avourofwomendur ingt heBei j ing confer ence",
+      "type": "single",
+      "correct": "b",
+      "a": ".40",
+      "b": ".35",
+      "c": ".15",
+      "d": ".4"
+    },
+    {
+      "question": "Ni ger iawassepar atedi ntonor ther n,sout her nand_ ___ _pr otect orat e",
+      "type": "single",
+      "correct": "a",
+      "a": ".West ern",
+      "b": ".EastAt lant ic",
+      "c": ".",
+      "d": "."
+    },
+    {
+      "question": "Goodl uckJonat hanwasa_ ___ __ofNi ger ia",
+      "type": "single",
+      "correct": "a",
+      "a": ".Pr esi dent",
+      "b": ".Ki ng",
+      "c": ".Gov ernor",
+      "d": ".Rul er"
+    },
+    {
+      "question": "Ni ger iai sa_ ___t ypeofcount ry",
+      "type": "single",
+      "correct": "a",
+      "a": ".Mul ti li ngual",
+      "b": ".Bi l ingual",
+      "c": ".Monol i ngual",
+      "d": ".Het erol i ngual"
+    },
+    {
+      "question": "Anat ionst atehascl ear lydef inedgeogr aphi cal bor der sknowas",
+      "type": "single",
+      "correct": "c",
+      "a": ".Bor der s",
+      "b": ".Boundar ies",
+      "c": ".Ter ri tor y",
+      "d": ".Popul ati on"
+    },
+    {
+      "question": "Languagedoesn' thel ptobr ingeconomyandsoci ali ntegr ati on A.Tr ue B.Fal se",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Badgov ernmenthas_ ___ _Ni ger ianeconomy",
+      "type": "single",
+      "correct": "b",
+      "a": ".Est abl i shed",
+      "b": ".Hi nder ed",
+      "c": ".I ncr eased",
+      "d": ".Pr omot ed"
+    },
+    {
+      "question": "Ther ecentNi ger iahascont ri but edt owi tnessr isi ngandper sist entcasesof_ ___",
+      "type": "single",
+      "correct": "a",
+      "a": ".Cr ises",
+      "b": ".Ri ots",
+      "c": ".Et hni cmi l iti a",
+      "d": "."
+    },
+    {
+      "question": "TheNat ionst atehas_ ___ _meani ngi thasul tmat i eaut hor it ywi thi nit sbor der sandi snot subj ectt oanyext ernal pol i cies",
+      "type": "single",
+      "correct": "d",
+      "a": ".Ter ri tor y",
+      "b": ".Gov ernment",
+      "c": ".Popul ati on",
+      "d": ".Sov erei gnt y"
+    },
+    {
+      "question": "_ ___ __hasr emai nedamaj orchal l enget otheNi ger ianst ateupt il lthe21stcent ury",
+      "type": "single",
+      "correct": "b",
+      "a": ".Nat ionst ate",
+      "b": ".Nat ionbui l ding",
+      "c": ".Ci ti zenshi p",
+      "d": ".Nat ional ident it y"
+    },
+    {
+      "question": "Ni ger iademocr ati crul eisi nthe_ ___r epubl i c",
+      "type": "single",
+      "correct": "c",
+      "a": ".Tent h",
+      "b": ".Si xthf our th",
+      "c": ".Fi ft h",
+      "d": ".Four th"
+    },
+    {
+      "question": ".. .. 185._ ___i stheest imat eper cent agei nfav ourofwomendur ingt heBei j ingconf erence",
+      "type": "single",
+      "correct": "a",
+      "a": ".35%",
+      "b": ".15%",
+      "c": ".25%",
+      "d": ".10%"
+    },
+    {
+      "question": "Af ri canl anguagesar ecl assi fi edi nto_ ___ _",
+      "type": "single",
+      "correct": "c",
+      "a": ".Sudani c,Af ro- Asi ati c,Ni l o-sahar an",
+      "b": ".Kor dof ani an,",
+      "c": "li ck, Nil oti c,Chadi c C.Ni ger -congo, Afr o-Asi ati c,Ni l o-sahar an",
+      "d": ".Kwa, Ber ber ,Vol tai c, Sundawe"
+    },
+    {
+      "question": "Khoi sani ssubgr oupi nto_ ___ _",
+      "type": "single",
+      "correct": "d",
+      "a": ".Mande",
+      "b": ".Amhar ic",
+      "c": ".Songhai c",
+      "d": ".Handza"
+    },
+    {
+      "question": "Whent hepeopl ear en' tcomi ngt oget her ,theyar erul edempi reand_ ___ _",
+      "type": "single",
+      "correct": "a",
+      "a": ".Ki ngdom",
+      "b": ".Rul er",
+      "c": ".Leader",
+      "d": ".St ate"
+    },
+    {
+      "question": "Thenumberofl anguaget hatar ecl aimedt obel i vingi s",
+      "type": "single",
+      "correct": "c",
+      "a": ".515",
+      "b": ".508",
+      "c": ".505",
+      "d": ".520"
+    },
+    {
+      "question": "JosephGr eenber gcl assi fi edAf ri cai nto4basedon_ ___",
+      "type": "single",
+      "correct": "c",
+      "a": ".Maj orcompar ism",
+      "b": ".Mi norcompar ism",
+      "c": ".Masscompar ism",
+      "d": "."
+    },
+    {
+      "question": "Thewest erni deol ogyi ncl ude",
+      "type": "single",
+      "correct": "c",
+      "a": ".Oi l",
+      "b": ".Fuel",
+      "c": ".Capi tal i sat ion",
+      "d": ".Sky"
+    },
+    {
+      "question": "Outoft hecl assi fi cat ionofthel anguagemadeJosephGr eenber g.Howmanymaj or l anguagedowehaveinNiger ia",
+      "type": "single",
+      "correct": "c",
+      "a": ".2",
+      "b": ".3",
+      "c": ".4",
+      "d": ".5"
+    },
+    {
+      "question": "Apr obl em t hathasbeenaset backi nNi ger iai s",
+      "type": "single",
+      "correct": "a",
+      "a": ".Et hni cmi l iti a",
+      "b": ".Ri ot",
+      "c": ".Chaos",
+      "d": ".Pr otest"
+    },
+    {
+      "question": "Ther elat ionshi pbet weent hel eader sandt hel edi s",
+      "type": "single",
+      "correct": "a",
+      "a": ".Soci al",
+      "b": ".Economi c",
+      "c": ".Pol i tical",
+      "d": "."
+    },
+    {
+      "question": ".. .. . 196.Adj ust ingt owest erni deol ogi esl eadst o",
+      "type": "single",
+      "correct": "a",
+      "a": ".Nat ionbui l ding",
+      "b": ".Pov ert y",
+      "c": ".",
+      "d": ". cor rupt ion"
+    },
+    {
+      "question": "___ _account abi l ityi sapr ocesswher el eader srender saccountt othei rst ewar dshi p",
+      "type": "single",
+      "correct": "a",
+      "a": ".Leader shi p",
+      "b": ".Gov ernance",
+      "c": ".Gov ernment",
+      "d": ".Pr esi dent"
+    },
+    {
+      "question": "Nat ioncor rel ateswi th_ ___ _",
+      "type": "single",
+      "correct": "a",
+      "a": ".Soci alandcul tur alboundar ies",
+      "b": ".Legal andpol i tical ent it y",
+      "c": ".",
+      "d": "Option D"
+    },
+    {
+      "question": "Li ngui sti csi s__ ___ _",
+      "type": "single",
+      "correct": "a",
+      "a": ".St udyofl anguage",
+      "b": ".Sci ent if icst udyofl anguage",
+      "c": ".Sci enceofl anguage",
+      "d": "."
+    },
+    {
+      "question": "_ _ _ _ref erst oconf li cti nv v oli ngt woormor ecommuni ti esengagi ngt hemsel vesi n di sagreement",
+      "type": "single",
+      "correct": "a",
+      "a": ".Communal conf li ct",
+      "b": ".Per sonal conf li ct",
+      "c": ".Pol i tical conf li ct",
+      "d": "."
+    },
+    {
+      "question": "Manuf act uri ngoff akedr ugsi sanexampl eof",
+      "type": "single",
+      "correct": "c",
+      "a": "fr aud",
+      "b": "mor alcor rupt ion",
+      "c": "Economi ccor rupt ion",
+      "d": "soci alcor rupt ion"
+    },
+    {
+      "question": ": -hasbeenr avi ngamongst atei nNi ger ia",
+      "type": "single",
+      "correct": "a",
+      "a": ". erosi on",
+      "b": "dev elopment",
+      "c": "pol i tics",
+      "d": "educat ion"
+    },
+    {
+      "question": "Gender inequalities are (",
+      "type": "typing",
+      "correct": "B (PAGE 28)",
+      "a": ". Natural biologically defined (",
+      "b": ". Socio-culturally defined (",
+      "c": ". Politically defined (",
+      "d": ". Economically defined"
+    },
+    {
+      "question": "What does IMF stand for (",
+      "type": "typing",
+      "correct": "C (PAGE 25)",
+      "a": ". International Money Fund (",
+      "b": ". international Monetary Forum (",
+      "c": ". International Monetary Fund (",
+      "d": ". International Money Forum"
+    },
+    {
+      "question": "Political and socio-economic disparities is not a problem in Nigeria (",
+      "type": "typing",
+      "correct": "B (PAGE 31)",
+      "a": ". True (",
+      "b": ". False (",
+      "c": ". None of the above (",
+      "d": ". All of the above"
+    },
+    {
+      "question": "A nation state focus on ____________- (",
+      "type": "typing",
+      "correct": "B (PAGE 17)",
+      "a": ". Cultural and social bonds (",
+      "b": ". Legal and political entity (",
+      "c": ". Territorial and common identity (",
+      "d": ". Spartial and geographical settings"
+    },
+    {
+      "question": "The English language, like many Nigerian indigenous language, is (a). tonal language (b).",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "____________ refers to a felt struggle between two or more independent individuals (",
+      "type": "single",
+      "correct": "c",
+      "a": ". Education (",
+      "b": ". Marriage (",
+      "c": ". Conflict (",
+      "d": ". Family"
+    },
+    {
+      "question": "South-East geopolitical zone has the ___________ states (",
+      "type": "typing",
+      "correct": "B (PAGE 31)",
+      "a": ". middle (",
+      "b": ". least (",
+      "c": ". none (",
+      "d": ". highest"
+    },
+    {
+      "question": "____________ governance leads to strong nation building (",
+      "type": "typing",
+      "correct": "A (PAGE 35)",
+      "a": ". Responsive (",
+      "b": ". Weak (",
+      "c": ". Elderly (",
+      "d": ". Bad"
+    },
+    {
+      "question": "(",
+      "type": "multiple",
+      "correct": [
+        "d (odd one out",
+        "not part of the 6 geopolitical zones)"
+      ],
+      "a": ". South-south (",
+      "b": ". South-west (",
+      "c": ". South-East (",
+      "d": ". Southern Nigeria"
+    },
+    {
+      "question": "(",
+      "type": "single",
+      "correct": "d",
+      "a": ". Psychologically Constructed (",
+      "b": ". Politically Defined (",
+      "c": ". Natural Biological Differences (",
+      "d": ". Socio-culturally defined"
+    },
+    {
+      "question": "For most parts of Nigeria’s existence as a nation-state, ___________ has been identified as a major challenge? (",
+      "type": "single",
+      "correct": "d",
+      "a": ". Protests (",
+      "b": ". Disturbances (",
+      "c": ". Riots (",
+      "d": ". Corruption"
+    },
+    {
+      "question": "One of the following belongs to the Sudanic family. (",
+      "type": "typing",
+      "correct": "C (PAGE 69)",
+      "a": ". the Handza branch (",
+      "b": ". the Berber branch (",
+      "c": ". the Nilotic branch (",
+      "d": ". the kwa subgroup"
+    },
+    {
+      "question": "English language is originally an indigenous language in Nigeria (a). False (b). True",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Economic development in nation-building focuses on: (",
+      "type": "single",
+      "correct": "b",
+      "a": ". Limiting job creation (",
+      "b": ". Stabilizing and growing the economy (",
+      "c": ". Decreasing foreign investment (",
+      "d": ". Promoting only agriculture"
+    },
+    {
+      "question": "Political _________ in resolving sectarian uprising (",
+      "type": "single",
+      "correct": "a",
+      "a": ". approach (",
+      "b": ". college (",
+      "c": ". houses (",
+      "d": ". people"
+    },
+    {
+      "question": "Another name for nation building is _________ (",
+      "type": "typing",
+      "correct": "B (PAGE 21)",
+      "a": ". City building (",
+      "b": ". National formulation (",
+      "c": ". National peace (",
+      "d": ". Nation growth"
+    },
+    {
+      "question": "__________ affirmative declaration in favour of women during the Beijing conference in 1995 (",
+      "type": "typing",
+      "correct": "C (PAGE 29)",
+      "a": ". 20% (",
+      "b": ". 30% (",
+      "c": ". 35% (",
+      "d": ". 25%"
+    },
+    {
+      "question": "Which of the following is a feature of African economy (",
+      "type": "typing",
+      "correct": "A (PAGE 31)",
+      "a": ". Low productivity (",
+      "b": ". High productivity (",
+      "c": ". Business (",
+      "d": ". Water (e). Sanitation"
+    },
+    {
+      "question": "Which of the following belongs to the NigerCongo family",
+      "type": "single",
+      "correct": "C (PAGE 69)",
+      "a": "The Berber branch",
+      "b": "The Nilotic branch",
+      "c": "The West Atlantic branch",
+      "d": "The Handza branch or Saharan branch"
+    },
+    {
+      "question": "One of the following belong to the sudanic family",
+      "type": "single",
+      "correct": "B (PAGE 69)",
+      "a": "the Berber branch",
+      "b": "the Saharan branch",
+      "c": "the Kwa subgroup",
+      "d": "the Handza branch"
+    },
+    {
+      "question": "Kwa subgroup is a branch of _______",
+      "type": "single",
+      "correct": "C (PAGE 69)",
+      "a": "NiloSaharan",
+      "b": "AfroAsiatic group",
+      "c": "NigerCongo group",
+      "d": "Handza group"
+    },
+    {
+      "question": "All the following is means of identifying a nation except",
+      "type": "multiple",
+      "correct": [
+        "a(page 21",
+        "65)"
+      ],
+      "a": "Treason",
+      "b": "National anthem",
+      "c": "National pledge",
+      "d": "Emblem"
+    },
+    {
+      "question": "Which of the following is not a national symbol",
+      "type": "single",
+      "correct": "D (PAGE 21)",
+      "a": "National flag",
+      "b": "Emblem",
+      "c": "Anthem",
+      "d": "Treason"
+    },
+    {
+      "question": "The year female was given equal rights to participate in politics",
+      "type": "single",
+      "correct": "A (PAGE 29)",
+      "a": "1995",
+      "b": "2005",
+      "c": "2015",
+      "d": "2010"
+    },
+    {
+      "question": "All Nigeria citizens have the right to all these except",
+      "type": "single",
+      "correct": "d",
+      "a": "Vote",
+      "b": "Work",
+      "c": "Live",
+      "d": "Crime"
+    },
+    {
+      "question": "Goodluck Jonathan was the _________ of Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 32)",
+      "a": "Governor",
+      "b": "Senator",
+      "c": "President",
+      "d": "Senator"
+    },
+    {
+      "question": "Production of fake drug is what type of corruption",
+      "type": "single",
+      "correct": "B (PAGE 26)",
+      "a": "Moral corruption",
+      "b": "Economic corruption",
+      "c": "Political corruption",
+      "d": "Ethical corruption"
+    },
+    {
+      "question": "Manufacturing of fake drugs in the country is an example of __________",
+      "type": "single",
+      "correct": "B (PAGE 26)",
+      "a": "Medical corruption",
+      "b": "Economic corruption",
+      "c": "Moral corruption",
+      "d": "Fraud"
+    },
+    {
+      "question": "_________ sees corruption as an abuse of office or trust for private benefits (",
+      "type": "typing",
+      "correct": "A (PAGE 25)",
+      "a": ". IMF (",
+      "b": "African Development (",
+      "c": "Central Bank"
+    },
+    {
+      "question": "_________ is a social conflict that relates to a group or group of society",
+      "type": "single",
+      "correct": "C (PAGE 33)",
+      "a": "Group of society",
+      "b": "Social",
+      "c": "Communal",
+      "d": "Political"
+    },
+    {
+      "question": "________ refers to conflict involving two or more communities engaging themselves in disagreement or act of violence over issues (",
+      "type": "typing",
+      "correct": "A (PAGE 33)",
+      "a": ". Communal conflict (",
+      "b": "Social conflict (",
+      "c": "Political conflict"
+    },
+    {
+      "question": "Multi-linguistic group and multi-ethnic group are not the same (a) . True (b) False",
+      "type": "multiple",
+      "correct": [
+        "a (page 68",
+        "they are not the same.. language is different from"
+      ],
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "__________ has remained a major challenge to the Nigeria state up till the 21st century",
+      "type": "single",
+      "correct": "B (PAGE 22)",
+      "a": "Nation-state",
+      "b": "Nation building",
+      "c": "Citizenship",
+      "d": "National identity"
+    },
+    {
+      "question": "Regional imbalance is part of the challenges facing Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 31)",
+      "a": "True",
+      "b": "False",
+      "c": "Undecided",
+      "d": "Unknown"
+    },
+    {
+      "question": "The English language, like every other language is a tonal language (a) . True (b) False",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria was considered a political unit in what year",
+      "type": "single",
+      "correct": "a",
+      "a": "1913",
+      "b": "1908",
+      "c": "1900",
+      "d": "1904"
+    },
+    {
+      "question": "Arewa youth came up to champion the interest of ________ region in Nigeria",
+      "type": "single",
+      "correct": "B (PAGE 25)",
+      "a": "Southern Nigeria",
+      "b": "Northern Nigeria",
+      "c": "Western Nigeria",
+      "d": "South western Nigeria"
+    },
+    {
+      "question": "A person who legally belongs to a particular country is called",
+      "type": "single",
+      "correct": "D (PAGE 19)",
+      "a": "Native",
+      "b": "Aborigine",
+      "c": "Indigene",
+      "d": "Citizen"
+    },
+    {
+      "question": "What type of conflict was the Ife and Modakeke conflict? (",
+      "type": "typing",
+      "correct": "B (PAGE 34)",
+      "a": ". Economic conflict (",
+      "b": ". Election violence (",
+      "c": ". Religious conflict (",
+      "d": ". Class conflict"
+    },
+    {
+      "question": "For most parts of Nigeria’s existence as a country, which of the following has been a continous political problem (",
+      "type": "typing",
+      "correct": "A (PAGE 25)",
+      "a": ". Corruption (",
+      "b": "Violence (",
+      "c": "Protest"
+    },
+    {
+      "question": "__________ comprises of the afro-asiatic group",
+      "type": "single",
+      "correct": "A (PAGE 70)",
+      "a": "Hausa",
+      "b": "Igbo",
+      "c": "Yoruba",
+      "d": "Nigeria"
+    },
+    {
+      "question": "The Afro-Asiatic group consist of",
+      "type": "single",
+      "correct": "C (PAGE 70)",
+      "a": "Yoruba",
+      "b": "Kwa-subgroup",
+      "c": "Hausa",
+      "d": "Igbo"
+    },
+    {
+      "question": "How many languages was in indigenous language in Nigeria",
+      "type": "single",
+      "correct": "D (PAGE 68) (3 SHOULD BE THE BEST OPTION PROVIDED IT IS THERE",
+      "a": "10",
+      "b": "8",
+      "c": "2",
+      "d": "4"
+    },
+    {
+      "question": "Which of the following state was non-existent in history",
+      "type": "single",
+      "correct": "B (PAGE 18)",
+      "a": "Political unit",
+      "b": "Rivers state",
+      "c": "Nation state",
+      "d": "Government state"
+    },
+    {
+      "question": "Language barrier might be a problem in economical activities (a) . True (b) False",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria is classified as __________",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "Multiethnic groups",
+      "b": "Polyethnic groups",
+      "c": "Monoethnic groups",
+      "d": "Biethnic groups"
+    },
+    {
+      "question": "Nigeria is a _______ type of Nation",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "Multiethnic",
+      "b": "Uniethnic",
+      "c": "Monoethnic",
+      "d": "Polyethnic"
+    },
+    {
+      "question": "Nigeria can be said to be ________",
+      "type": "single",
+      "correct": "B (PAGE 68)",
+      "a": "Bilingual society",
+      "b": "Multilingual society",
+      "c": "Monolingual society",
+      "d": "Multidynamic society"
+    },
+    {
+      "question": "Greenberg group Nigeria languages into ________",
+      "type": "single",
+      "correct": "C (PAGE 68) (3 SHOULD BE THE BEST OPTION PROVIDED IT IS THERE",
+      "a": "5",
+      "b": "8",
+      "c": "4",
+      "d": "2"
+    },
+    {
+      "question": "ACCORDING PAGE 68 AND 69) 64. Greenberg in 1963 classified African language into _______",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "4",
+      "b": "5",
+      "c": "2",
+      "d": "3"
+    },
+    {
+      "question": "According to the Beihringer principle, how many major linguistic groups do wehave",
+      "type": "single",
+      "correct": "b",
+      "a": "5",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    {
+      "question": "Nigeria became a political entity in the year _______",
+      "type": "single",
+      "correct": "a",
+      "a": "1914",
+      "b": "1900",
+      "c": "2002",
+      "d": "2003"
+    },
+    {
+      "question": "Jus soil is a right of citizenship ________",
+      "type": "single",
+      "correct": "A (PAGE 20)",
+      "a": "Marriage",
+      "b": "Adoption",
+      "c": "Blood",
+      "d": "Death"
+    },
+    {
+      "question": "Linguistics means study of _________ (",
+      "type": "single",
+      "correct": "c",
+      "a": ". Science languages (",
+      "b": "Science language (",
+      "c": "Many languages (",
+      "d": ""
+    },
+    {
+      "question": "Youth unemployment leads to _________",
+      "type": "single",
+      "correct": "A (PAGE 33)",
+      "a": "Chronic poverty",
+      "b": "Education",
+      "c": "Development",
+      "d": "Academic"
+    },
+    {
+      "question": "Nigeria democratic role is in the ________republic",
+      "type": "single",
+      "correct": "C (PAGE 30)",
+      "a": "Sixty-fourth",
+      "b": "Tenth",
+      "c": "Fourth",
+      "d": "Fifth"
+    },
+    {
+      "question": "The following are examples of sectarian and ethnic militia groups except ________",
+      "type": "single",
+      "correct": "C (PAGE 23)",
+      "a": "Boko Haram Sect",
+      "b": "Movement for the Emancipation of the Niger Delta (MEND)",
+      "c": "Student Union Government",
+      "d": "Niger Delta Avengers (NDA)"
+    },
+    {
+      "question": "The statement “Nigeria has consistently appeared on the top most position on one of the most corrupt countries in the world on the corruption perception index” was released _________",
+      "type": "single",
+      "correct": "C (PAGE 26)",
+      "a": "World Health Organization",
+      "b": "United Nations",
+      "c": "Transparency International",
+      "d": "Economic Financial and Crime Commission"
+    },
+    {
+      "question": "Creation of national _____________ is to enhance sound nation building",
+      "type": "single",
+      "correct": "B (PAGE 23)",
+      "a": "State",
+      "b": "Consciousness",
+      "c": "Map",
+      "d": "Roads"
+    },
+    {
+      "question": "In history, there have been several kinds of states apart from the ___________",
+      "type": "single",
+      "correct": "D (PAGE 18)",
+      "a": "Rivers",
+      "b": "Political unit",
+      "c": "Boundaries",
+      "d": "Nation-State"
+    },
+    {
+      "question": "The original Hausa states are known as __________",
+      "type": "single",
+      "correct": "d",
+      "a": "Bayajidda",
+      "b": "Daura",
+      "c": "Banza bakwai",
+      "d": "Hausa bakwai"
+    },
+    {
+      "question": "Regional imbalance is part of the challenges facing Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 31)",
+      "a": "Undecided",
+      "b": "False",
+      "c": "True",
+      "d": "Unknown"
+    },
+    {
+      "question": "Which social issues can undermine nation building?",
+      "type": "single",
+      "correct": "A (PAGE28)",
+      "a": "Social inequality",
+      "b": "Community engagement",
+      "c": "Equal rights",
+      "d": "National pride"
+    },
+    {
+      "question": "__________ has constituted a major threat to youth survival in Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 32)",
+      "a": "Cities",
+      "b": "Air",
+      "c": "Youth unemployment",
+      "d": "Towns"
+    },
+    {
+      "question": "Which of the following is a key component of nation building",
+      "type": "single",
+      "correct": "C (PAGE )",
+      "a": "Reducing taxes",
+      "b": "Building skyscraper",
+      "c": "Political integration",
+      "d": "Exporting goods"
+    },
+    {
+      "question": "Strategies of _________ is part of solution to challenges of nation building",
+      "type": "single",
+      "correct": "d",
+      "a": "Sailing",
+      "b": "Car assembling",
+      "c": "marriage",
+      "d": "Development"
+    },
+    {
+      "question": "Political violence has constituted a bane in the Nigerian _________",
+      "type": "single",
+      "correct": "D (PAGE 29)",
+      "a": "Domestic consolidation",
+      "b": "All of the above",
+      "c": "Governance",
+      "d": "Electoral process"
+    },
+    {
+      "question": "A nation state has a government that exercises _______",
+      "type": "single",
+      "correct": "B (PAGE 17)",
+      "a": "Directives",
+      "b": "Authority",
+      "c": "Power",
+      "d": "Force"
+    },
+    {
+      "question": "Joseph Greenberg(1963) is notable for the coinage of ___________",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "Mass comparison",
+      "b": "Major linguistic groups",
+      "c": "Major comparison",
+      "d": "Mast comparison"
+    },
+    {
+      "question": "Joseph Greenberg (1963) was known for his work on ______",
+      "type": "single",
+      "correct": "B (PAGE 68)",
+      "a": "Mast comparison",
+      "b": "Mass comparison",
+      "c": "Major linguistic groups",
+      "d": "Major comparison"
+    },
+    {
+      "question": "The incremental positive change in the construction of a single national identity is ________",
+      "type": "single",
+      "correct": "A (PAGE 21)",
+      "a": "Nation-building",
+      "b": "Nation-state",
+      "c": "State building",
+      "d": "National identity"
+    },
+    {
+      "question": "Nation-building aims at the development of the following except",
+      "type": "single",
+      "correct": "D (PAGE 20)",
+      "a": "Institute",
+      "b": "Structure",
+      "c": "Infrastructure",
+      "d": "Animosity"
+    },
+    {
+      "question": "Ethnicity contribute to ______________ (",
+      "type": "typing",
+      "correct": "C (PAGE 30)",
+      "a": ". Production (",
+      "b": "Distribution (",
+      "c": "Conflict"
+    },
+    {
+      "question": "Ethnicity promotes",
+      "type": "single",
+      "correct": "A (PAGE 31)",
+      "a": "Mediocrity",
+      "b": "Business",
+      "c": "Productivity",
+      "d": "Electricity"
+    },
+    {
+      "question": "The Afro-asiatic community is under",
+      "type": "single",
+      "correct": "C (PAGE 70)",
+      "a": "Yoruba",
+      "b": "Igbo",
+      "c": "Hausa",
+      "d": "Kwa subgroup"
+    },
+    {
+      "question": "There should be an enabling _________ and level playing ground for citizen",
+      "type": "single",
+      "correct": "A (PAGE 35)",
+      "a": "Environment",
+      "b": "Road",
+      "c": "Home",
+      "d": "School"
+    },
+    {
+      "question": "A nation state has a permanent _________",
+      "type": "single",
+      "correct": "A (PAGE 17)",
+      "a": "Population",
+      "b": "Country",
+      "c": "Territory",
+      "d": "Countries"
+    },
+    {
+      "question": "A nation state has permanent ________",
+      "type": "single",
+      "correct": "C (PAGE 17)",
+      "a": "Territory",
+      "b": "Sovereignty",
+      "c": "Population",
+      "d": "Government"
+    },
+    {
+      "question": "South east has the __________ state",
+      "type": "single",
+      "correct": "D (PAGE 31)",
+      "a": "None",
+      "b": "Many",
+      "c": "Few",
+      "d": "Least"
+    },
+    {
+      "question": "How many languages has gone into extinction",
+      "type": "single",
+      "correct": "B (PAGE 68)",
+      "a": "4",
+      "b": "8",
+      "c": "3",
+      "d": "7"
+    },
+    {
+      "question": "Manufacturing of fake drug is an example of",
+      "type": "single",
+      "correct": "C (PAGE 28)",
+      "a": "Fraud",
+      "b": "Moral corruption",
+      "c": "Economic corruption",
+      "d": "Social corruption"
+    },
+    {
+      "question": "Registration underage voting is an example of _________ corruption (",
+      "type": "typing",
+      "correct": "A (PAGE 26)",
+      "a": ". Electoral corruption (",
+      "b": "Moral corruption (",
+      "c": "Political corruption"
+    },
+    {
+      "question": "Nation building often requires the creation of __________",
+      "type": "single",
+      "correct": "D (PAGE 17)",
+      "a": "Private armies",
+      "b": "Cultural divides",
+      "c": "Isolationist trade policies",
+      "d": "National policies and laws"
+    },
+    {
+      "question": "The three national administration are national authority, national court system and ___________",
+      "type": "single",
+      "correct": "c",
+      "a": "National treasury",
+      "b": "National law",
+      "c": "National value",
+      "d": "National system"
+    },
+    {
+      "question": "When did Nigeria become democratic",
+      "type": "single",
+      "correct": "a",
+      "a": "1999",
+      "b": "1989",
+      "c": "2009",
+      "d": "2019"
+    },
+    {
+      "question": "What year did Nigeria gain democratic rule",
+      "type": "single",
+      "correct": "d",
+      "a": "2001",
+      "b": "1989",
+      "c": "2016",
+      "d": "1999"
+    },
+    {
+      "question": "Nigeria restored democratic rule in what year",
+      "type": "single",
+      "correct": "b",
+      "a": "2009",
+      "b": "1999",
+      "c": "2019",
+      "d": "1989"
+    },
+    {
+      "question": "_______ accountability is a process where leaders have to render account of their stewardship to the electorate",
+      "type": "single",
+      "correct": "A (PAGE 35)",
+      "a": "Leadership",
+      "b": "Governance",
+      "c": "People",
+      "d": "Socio economic"
+    },
+    {
+      "question": "___________ has been ravaging many states in Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 36)",
+      "a": "Erosion",
+      "b": "Education",
+      "c": "Development",
+      "d": "Politics"
+    },
+    {
+      "question": "Which of the following is not used in nation building (",
+      "type": "single",
+      "correct": "c",
+      "a": ". Dialogue (",
+      "b": "Reconciliation (",
+      "c": "Conflict",
+      "d": "Option D"
+    },
+    {
+      "question": "Conflict has not been a major problem in Nigeria’s existence (a) . True (b) False",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Which one is a sub-group of Niger-congo",
+      "type": "single",
+      "correct": "A (PAGE 69)",
+      "a": "West Adamawa",
+      "b": "Berber branch",
+      "c": "Handza branch",
+      "d": "Nilotic branch"
+    },
+    {
+      "question": "According to Greenberg, Nigeria languages have been categorized into ________",
+      "type": "single",
+      "correct": "B (PAGE 68)",
+      "a": "4",
+      "b": "3",
+      "c": "5",
+      "d": "6"
+    },
+    {
+      "question": "Merit has been compromised on the alter of",
+      "type": "single",
+      "correct": "D (PAGE 31)",
+      "a": "Kings",
+      "b": "Rulers",
+      "c": "Welfare",
+      "d": "Expediency"
+    },
+    {
+      "question": "Recognition of gender issues have a lot to do with the ________",
+      "type": "single",
+      "correct": "C (PAGE 29)",
+      "a": "Legal institution",
+      "b": "Social institution",
+      "c": "Institution of human rights",
+      "d": "Gender institution"
+    },
+    {
+      "question": "____________has been ravaging among states in Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 36)",
+      "a": "erosion",
+      "b": "Development",
+      "c": "Politics",
+      "d": "Education"
+    },
+    {
+      "question": "The recent Nigeria has continued to witness rising and persistent cases of _________",
+      "type": "single",
+      "correct": "A (PAGE 23)",
+      "a": "Ethnic militia",
+      "b": "Riots",
+      "c": "Crises",
+      "d": "Protests"
+    },
+    {
+      "question": "One of the following is a branch of the click family",
+      "type": "single",
+      "correct": "A (PAGE 69)",
+      "a": "the Handza branch",
+      "b": "the Berber branch",
+      "c": "the Nilotic branch",
+      "d": "the Kwa subgroup"
+    },
+    {
+      "question": "_________ does not exist in isolation as it usually occur in social relationships (a). Conflict",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria was considered a political unit in",
+      "type": "single",
+      "correct": "a",
+      "a": "1913",
+      "b": "1908",
+      "c": "1900",
+      "d": "1904"
+    },
+    {
+      "question": "People who did not see themselves as united or sharing any sort of identity were ruled empires and __________",
+      "type": "single",
+      "correct": "B (PAGE 18)",
+      "a": "Lords",
+      "b": "Kingdoms",
+      "c": "Citizens",
+      "d": "Rulers"
+    },
+    {
+      "question": "When people are not coming together, they are ruled empires and ______",
+      "type": "single",
+      "correct": "A (PAGE 18)",
+      "a": "Kingdom",
+      "b": "Ruler",
+      "c": "Leader",
+      "d": "States"
+    },
+    {
+      "question": "____________ is shaped various factors such as shared history, culture, language and values",
+      "type": "single",
+      "correct": "D (PAGE 18)",
+      "a": "Boundaries",
+      "b": "Authority",
+      "c": "Sovereignty",
+      "d": "National identity"
+    },
+    {
+      "question": "There have been several kinds of states apart from ________ (",
+      "type": "typing",
+      "correct": "C (PAGE 18)",
+      "a": ". Rivers (",
+      "b": "History (",
+      "c": "Nation state"
+    },
+    {
+      "question": "A nation-state is characterized _________ and ____________ boundaries",
+      "type": "single",
+      "correct": "C (PAGE 17)",
+      "a": "Social and geographical",
+      "b": "Historical and social",
+      "c": "Political and cultural",
+      "d": "Regional and local"
+    },
+    {
+      "question": "Linguistic is",
+      "type": "single",
+      "correct": "c",
+      "a": "Study of languages",
+      "b": "Modern study of languages",
+      "c": "Scientific study of languages",
+      "d": "Traditional study of languages"
+    },
+    {
+      "question": "Which of the following belongs to the Nigercongo family",
+      "type": "single",
+      "correct": "A and B (PAGE 69)",
+      "a": "Kordofanian",
+      "b": "West Atlabntic branch",
+      "c": "Berber Branch",
+      "d": "Handza Branch"
+    },
+    {
+      "question": "The Niger congo have the following branch",
+      "type": "single",
+      "correct": "A (PAGE 69)",
+      "a": "West Atlantic branch",
+      "b": "Saharan branch",
+      "c": "Berber branch",
+      "d": "Nilotic branch"
+    },
+    {
+      "question": "__________ is not a cultural attribute of a nation",
+      "type": "single",
+      "correct": "D (PAGE 5)",
+      "a": "Religion",
+      "b": "Custom",
+      "c": "Languages",
+      "d": "Age"
+    },
+    {
+      "question": "_____________ disparities exist among members of various geopolitical zones",
+      "type": "single",
+      "correct": "B (PAGE 32)",
+      "a": "Houses",
+      "b": "Gross",
+      "c": "Sky",
+      "d": "Water"
+    },
+    {
+      "question": "__________ disparities also exist among the geopolitical zones in Nigeria",
+      "type": "single",
+      "correct": "b",
+      "a": "People",
+      "b": "Socio-economic",
+      "c": "Houses",
+      "d": "Water"
+    },
+    {
+      "question": "South East geo-political zone has _________ state",
+      "type": "single",
+      "correct": "A (PAGE 31)",
+      "a": "Least",
+      "b": "Middle",
+      "c": "Highest",
+      "d": "None"
+    },
+    {
+      "question": "Full meaning of IPOB is (",
+      "type": "single",
+      "correct": "c",
+      "a": ". Independent people of Bafria (",
+      "b": "Independent People of Baia (",
+      "c": "Indigenous People of Biafra",
+      "d": "Option D"
+    },
+    {
+      "question": "Why is political instability a challenge in Nation building (",
+      "type": "typing",
+      "correct": "A (PAGE 29)",
+      "a": ". It disrupts development (",
+      "b": "Increases nation unity (",
+      "c": "Increases foreign investment"
+    },
+    {
+      "question": "NiloSaharan group is also known as",
+      "type": "single",
+      "correct": "C (PAGE 36)",
+      "a": "Kordofany family",
+      "b": "Kordofanian family",
+      "c": "Sudanic family",
+      "d": "Swahili family"
+    },
+    {
+      "question": "Nilosaharan group is represented in Nigeria principally",
+      "type": "single",
+      "correct": "C (PAGE 70)",
+      "a": "Swahili family",
+      "b": "Kwa subgroup",
+      "c": "Kanuri",
+      "d": "NigerCongo group"
+    },
+    {
+      "question": "Nilosharan is specifically found in (",
+      "type": "typing",
+      "correct": "A (PAGE 70)",
+      "a": ". Kanuri (",
+      "b": "Swahili family (",
+      "c": "River"
+    },
+    {
+      "question": "Which of the following is a member of the Nilo sahara language family",
+      "type": "single",
+      "correct": "B (PAGE 70)",
+      "a": "Swahili",
+      "b": "Kanuri",
+      "c": "Luo",
+      "d": "Lango"
+    },
+    {
+      "question": "Popular beijing coference where declaration that favored women for political position was made in what year",
+      "type": "single",
+      "correct": "B (PAGE 29)",
+      "a": "2015",
+      "b": "1995",
+      "c": "2005",
+      "d": "1985"
+    },
+    {
+      "question": "The affirmative deceleration was made in favour of woman during Beijing conference in what year",
+      "type": "single",
+      "correct": "B (PAGE 29)",
+      "a": "1985",
+      "b": "1995",
+      "c": "2009",
+      "d": "2015"
+    },
+    {
+      "question": "The Afro-Asiatic have the following sub-group",
+      "type": "single",
+      "correct": "d",
+      "a": "Atlantic subgroup",
+      "b": "Kwa subgroup",
+      "c": "Nilo-Saharan",
+      "d": "None"
+    },
+    {
+      "question": "Which of the following is not a national symbol",
+      "type": "single",
+      "correct": "C (PAGE 65)",
+      "a": "National flag",
+      "b": "Anthem",
+      "c": "Treason",
+      "d": "Emblem"
+    },
+    {
+      "question": "All of the following is a means of identifying a nation except",
+      "type": "single",
+      "correct": "A (PAGE 65)",
+      "a": "Treason",
+      "b": "National anthem",
+      "c": "National pledge",
+      "d": "Emblem"
+    },
+    {
+      "question": "How many living languages are in Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "505",
+      "b": "515",
+      "c": "502",
+      "d": "508"
+    },
+    {
+      "question": "There are ______ living languages in Nigeria",
+      "type": "single",
+      "correct": "B (PAGE 68)",
+      "a": "515",
+      "b": "505",
+      "c": "502",
+      "d": "512"
+    },
+    {
+      "question": "Underemployment can cause _________",
+      "type": "single",
+      "correct": "C (PAGE 33)",
+      "a": "Sanitation",
+      "b": "Food",
+      "c": "Desperation",
+      "d": "Progress"
+    },
+    {
+      "question": "Kano group is a branch of ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Afro-Asiatic group",
+      "b": "Nilo-Saharan",
+      "c": "Hausa group",
+      "d": "Niger congo group"
+    },
+    {
+      "question": "Kano state has ______ local government area",
+      "type": "single",
+      "correct": "B (PAGE 31)",
+      "a": "56",
+      "b": "44",
+      "c": "104",
+      "d": "59"
+    },
+    {
+      "question": "Between Kano and Lagos, what affects them most (",
+      "type": "typing",
+      "correct": "B (PAGE 37)",
+      "a": ". Erosion (",
+      "b": "Flood (",
+      "c": "Corruption"
+    },
+    {
+      "question": "When did Nigeria become a political unit",
+      "type": "single",
+      "correct": "b",
+      "a": "1902",
+      "b": "1914",
+      "c": "1802",
+      "d": "1960"
+    },
+    {
+      "question": "Nigeria became a social political state in",
+      "type": "single",
+      "correct": "c",
+      "a": "1930",
+      "b": "1900",
+      "c": "1914",
+      "d": "1960"
+    },
+    {
+      "question": "Language barrier is a conflict of the society (a) . True (b) False",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Linguistic is",
+      "type": "single",
+      "correct": "a",
+      "a": "Scientific study of languages",
+      "b": "Science of study",
+      "c": "Morphology of languages",
+      "d": "Study of languages"
+    },
+    {
+      "question": "Western ideologies includes __________",
+      "type": "single",
+      "correct": "C (PAGE 36)",
+      "a": "Fuel",
+      "b": "Sky",
+      "c": "Capatalism",
+      "d": "Airline"
+    },
+    {
+      "question": "Adjustment to existing western ideologies in Nigeria will enhance ___________",
+      "type": "single",
+      "correct": "A (PAGE 36)",
+      "a": "Nation building",
+      "b": "Houses",
+      "c": "Babies",
+      "d": "Roads"
+    },
+    {
+      "question": "How many ethnic groups are in Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 26)",
+      "a": "250",
+      "b": "350",
+      "c": "400",
+      "d": "200"
+    },
+    {
+      "question": "Nigeria is classified a multi-ethnic society with over _______ ethnic groups",
+      "type": "single",
+      "correct": "A (PAGE 26)",
+      "a": "250",
+      "b": "350",
+      "c": "450",
+      "d": "150"
+    },
+    {
+      "question": "Citizenship can be acquired through the following except",
+      "type": "single",
+      "correct": "B (PAGE 19 AND 20)",
+      "a": "Birth",
+      "b": "Death",
+      "c": "Descent",
+      "d": "Socialization"
+    },
+    {
+      "question": "Citizenship can be acquired through the following except",
+      "type": "single",
+      "correct": "B (PAGE 20)",
+      "a": "Neutralization",
+      "b": "Death",
+      "c": "Birth",
+      "d": "Descent"
+    },
+    {
+      "question": "The nation state has a permanent _ (",
+      "type": "typing",
+      "correct": "A (PAGE 17)",
+      "a": ". Population (",
+      "b": "Territory (",
+      "c": "Boundary"
+    },
+    {
+      "question": "The English language alongside other indigenous language is a tonal language (a) . True (b) False",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Yoruba belongs to __________ language",
+      "type": "single",
+      "correct": "B (PAGE 70)",
+      "a": "Afro-Asiatic",
+      "b": "Niger congo",
+      "c": "Hausa/fulani",
+      "d": "Swalli family"
+    },
+    {
+      "question": "Responsive leadership is a _________ contract between the leader and the led",
+      "type": "single",
+      "correct": "C (PAGE 35)",
+      "a": "Business",
+      "b": "Tender",
+      "c": "Social",
+      "d": "Massive"
+    },
+    {
+      "question": "_______ governance leads to strong nation building",
+      "type": "single",
+      "correct": "B (PAGE 35)",
+      "a": "Bad",
+      "b": "Responsive",
+      "c": "Good",
+      "d": "Corrupt"
+    },
+    {
+      "question": "Language barrier can foster economic diversity (a) . True (b) False",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria identity can lead to _______ and ______ if used to distinguished separate groups",
+      "type": "single",
+      "correct": "A (PAGE 18)",
+      "a": "Unity and pride",
+      "b": "Exclusion and conflict",
+      "c": "Social cohesion and harmony",
+      "d": "Peace and progress"
+    },
+    {
+      "question": "The responsibilities of a citizen include the following except",
+      "type": "single",
+      "correct": "b",
+      "a": "Patriotism",
+      "b": "Disloyalty",
+      "c": "Pay taxes",
+      "d": "Obey laws"
+    },
+    {
+      "question": "Which of the following is property of a good citizen",
+      "type": "single",
+      "correct": "a",
+      "a": "Paying taxes",
+      "b": "Disloyalty",
+      "c": "Disobedience",
+      "d": "None of the above"
+    },
+    {
+      "question": "What led to the conflict between Agulanta and Umulanta",
+      "type": "single",
+      "correct": "B (PAGE 34)",
+      "a": "Political diversity",
+      "b": "Land ownership disputes",
+      "c": "Religion difference",
+      "d": "Economic conflict"
+    },
+    {
+      "question": "What led to the conflict between Aguleri and Umuleri communities",
+      "type": "single",
+      "correct": "B (PAGE 34)",
+      "a": "Religious differences",
+      "b": "Land ownership disputes",
+      "c": "Political rivalry",
+      "d": "Economic competition"
+    },
+    {
+      "question": "Nation building aim at the development of the following except _____________",
+      "type": "single",
+      "correct": "B (PAGE 20)",
+      "a": "Infrastructure",
+      "b": "Animosity",
+      "c": "Structure",
+      "d": "Institution"
+    },
+    {
+      "question": "National identity is shaped the following except",
+      "type": "single",
+      "correct": "d",
+      "a": "History",
+      "b": "Culture",
+      "c": "Language",
+      "d": "Hostility"
+    },
+    {
+      "question": "The amalgamation of the northern and southern protectorate came up in ___________",
+      "type": "single",
+      "correct": "b",
+      "a": "1900",
+      "b": "1914",
+      "c": "1902",
+      "d": "1906"
+    },
+    {
+      "question": "Merit has been compromised on the altar of ________",
+      "type": "single",
+      "correct": "C (PAGE 31)",
+      "a": "King",
+      "b": "Welfare",
+      "c": "Expediency",
+      "d": "Rulers"
+    },
+    {
+      "question": "_______ was the presidential election annulled Babangida’s regime",
+      "type": "single",
+      "correct": "C (PAGE 31)",
+      "a": "October 1, 1960",
+      "b": "September 11, 2003",
+      "c": "June 12, 1993",
+      "d": "January 15, 1973."
+    },
+    {
+      "question": "A state is a ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Political and legal entity",
+      "b": "Religious and cultural practice",
+      "c": "Geographical and spatial setting",
+      "d": "Social and community gathering"
+    },
+    {
+      "question": "The incremental positive change in the construction of a single national identity is _____",
+      "type": "single",
+      "correct": "A (PAGE 21)",
+      "a": "Nation-building",
+      "b": "State",
+      "c": "Nation",
+      "d": "Citizenship"
+    },
+    {
+      "question": "The recent Nigeria has continued to witness rising and persistent cases of _____",
+      "type": "single",
+      "correct": "C (PAGE 23)",
+      "a": "Riots",
+      "b": "Crisis",
+      "c": "Ethnic militia",
+      "d": "Protests"
+    },
+    {
+      "question": "The following are example of sectarian and ethnic militia groups except",
+      "type": "single",
+      "correct": "D (PAGE 23)",
+      "a": "Emacipation of the Niger Delta",
+      "b": "Boko haram sec",
+      "c": "Niger Delta Avengers",
+      "d": "Student Union Government"
+    },
+    {
+      "question": "The popular Beijing conference where declaration that favored women for political positions was made in what year",
+      "type": "single",
+      "correct": "A (PAGE 29)",
+      "a": "1995",
+      "b": "2005",
+      "c": "2015",
+      "d": "1998"
+    },
+    {
+      "question": "The following are responsibilities of a citizen except",
+      "type": "single",
+      "correct": "b",
+      "a": "Patriotism",
+      "b": "Disloyalty",
+      "c": "Obedience",
+      "d": "Pay taxes"
+    },
+    {
+      "question": "________ has punctured nation building efforts in Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 30)",
+      "a": "Inter-ethnic antagonism",
+      "b": "University",
+      "c": "Lagos",
+      "d": "Business"
+    },
+    {
+      "question": "Nigerians need to contribute their _______ to the national development",
+      "type": "single",
+      "correct": "a",
+      "a": "quota",
+      "b": "Homes",
+      "c": "People",
+      "d": "Families"
+    },
+    {
+      "question": "The process of colonialism in Nigeria consequently affected our collective _______",
+      "type": "single",
+      "correct": "A (PAGE 8)",
+      "a": "Retrogression",
+      "b": "Atmosphere",
+      "c": "Resolution",
+      "d": "Culture"
+    },
+    {
+      "question": "What year was Nigeria colonized",
+      "type": "single",
+      "correct": "a",
+      "a": "1914",
+      "b": "1884",
+      "c": "1960",
+      "d": "1784"
+    },
+    {
+      "question": "Ethnicity is described as a social phenomenon associated with _______",
+      "type": "single",
+      "correct": "B (PAGE 30)",
+      "a": "Citizenship",
+      "b": "Identity of members of the largest",
+      "c": "National identification number",
+      "d": "Voter’s registration"
+    },
+    {
+      "question": "Language does not help to bring about economic and social integration (a) . True (b) False",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria is separated three groups namely, northern personate, Southern personate and _____ (",
+      "type": "single",
+      "correct": "b",
+      "a": ". Mid western personate (",
+      "b": "Western personate (",
+      "c": "Eastern personate",
+      "d": "Option D"
+    },
+    {
+      "question": "What is the primary goal of nation-building",
+      "type": "single",
+      "correct": "C (PAGE 21)",
+      "a": "Military",
+      "b": "Cultural diversity",
+      "c": "National unity",
+      "d": "Economic growth"
+    },
+    {
+      "question": "Challenges of nation building in Nigeria include",
+      "type": "single",
+      "correct": "B (PAGE 23)",
+      "a": "Economic stability",
+      "b": "Sectarian uprising and ethnic militia group",
+      "c": "High level of literacy",
+      "d": "Cultural unity"
+    },
+    {
+      "question": "How can political instability affect state building",
+      "type": "single",
+      "correct": "C (PAGE 29/30)",
+      "a": "It ensures ethnic unity",
+      "b": "It increases progress",
+      "c": "It disrupts national development",
+      "d": "It helps in foreign exchange"
+    },
+    {
+      "question": "___________ is common especially among the youth which is alarming",
+      "type": "single",
+      "correct": "D (PAGE 32)",
+      "a": "House",
+      "b": "People",
+      "c": "Government",
+      "d": "Youth unemployment"
+    },
+    {
+      "question": "__________ in Nigeria especially among youth has remained alarming",
+      "type": "single",
+      "correct": "C (PAGE 32)",
+      "a": "House",
+      "b": "Globalization",
+      "c": "Youth unemployment",
+      "d": "People"
+    },
+    {
+      "question": "Which of the following symbol of the Nigeria assembly?",
+      "type": "single",
+      "correct": "A (PAGE 21)",
+      "a": "National flag",
+      "b": "Culture",
+      "c": "Terrain",
+      "d": "National anthem"
+    },
+    {
+      "question": "In 1900, Nigeria was divided into three separate territories, namely, the Niger coast/Southern protectorate, the Northern protectorate and _______",
+      "type": "single",
+      "correct": "c",
+      "a": "Mid-western protectorate",
+      "b": "Eastern protectorate",
+      "c": "Western protectorate",
+      "d": "Colony"
+    },
+    {
+      "question": "The unemployment rate among Nigerian youth according to 2015 NBS figure is",
+      "type": "single",
+      "correct": "C (PAGE 83)",
+      "a": "16 million",
+      "b": "80 million",
+      "c": "64 million",
+      "d": "32 million"
+    },
+    {
+      "question": "Native administration is a kind of Local Government administration introduced in British to govern each community in",
+      "type": "single",
+      "correct": "c",
+      "a": "Southern protectorate",
+      "b": "Nigeria protectorate",
+      "c": "Northern protectorate",
+      "d": "Lagos protectorate"
+    },
+    {
+      "question": "The Introduction of Sharia law in 2000 occurred in",
+      "type": "single",
+      "correct": "C (PAGE 25)",
+      "a": "Southern Nigeria",
+      "b": "Eastern Nigeria",
+      "c": "Northern Nigeria",
+      "d": "Western Nigeria"
+    },
+    {
+      "question": "The Transition tonation-states in Europe was",
+      "type": "single",
+      "correct": "B (PAGE 18)",
+      "a": "18th century",
+      "b": "19th Century",
+      "c": "20th Century",
+      "d": "21st Century"
+    },
+    {
+      "question": "Citizenship regimes in nation states are ______",
+      "type": "single",
+      "correct": "B (PAGE 19)",
+      "a": "Arbitary and random",
+      "b": "Institutionalized standards for naturalization",
+      "c": "Not important",
+      "d": "Defined by temporary rules"
+    },
+    {
+      "question": "The Egbesu Boys are militant youth wing of the ______ region in Nigeria",
+      "type": "single",
+      "correct": "B (PAGE 25)",
+      "a": "South-Southern",
+      "b": "South-Western",
+      "c": "North-Eastern",
+      "d": "North-Western"
+    },
+    {
+      "question": ".",
+      "type": "single",
+      "correct": "d",
+      "a": "Deities",
+      "b": "Dilemma",
+      "c": "Dialect",
+      "d": "Dialogue"
+    },
+    {
+      "question": "..",
+      "type": "single",
+      "correct": "d",
+      "a": "Scientifically",
+      "b": "Biologically",
+      "c": "Physiologically",
+      "d": "Culturally"
+    },
+    {
+      "question": "..",
+      "type": "single",
+      "correct": "C (PAGE 25)",
+      "a": "Petty corruption",
+      "b": "Grand corruption",
+      "c": "Endemic corruption",
+      "d": "Political corruption"
+    },
+    {
+      "question": "Corruption has continued to manifest both in public and ______ lives of Nigeria people",
+      "type": "single",
+      "correct": "A (PAGE 25)",
+      "a": "Private",
+      "b": "Regional",
+      "c": "Community",
+      "d": "Sector"
+    },
+    {
+      "question": "A nation-state has ________ meaning has the ultimate authority within its borders and is not subject to any external power",
+      "type": "single",
+      "correct": "C (PAGE 17)",
+      "a": "Population",
+      "b": "Territory",
+      "c": "Sovereignty",
+      "d": "Government"
+    },
+    {
+      "question": "Creation of national __________ is to enhance sound nation building",
+      "type": "single",
+      "correct": "C (PAGE 23 OR 35)",
+      "a": "Roads",
+      "b": "State",
+      "c": "Consciousness",
+      "d": "Map"
+    },
+    {
+      "question": "The following are ways a nation can be built except (",
+      "type": "typing",
+      "correct": "A (PAGE 34)",
+      "a": ". Conflict (",
+      "b": "Good leaderdship (",
+      "c": "Patrotism"
+    },
+    {
+      "question": "A nation state has _______ with clearly defined geographical borders (",
+      "type": "typing",
+      "correct": "B (PAGE 17)",
+      "a": ". population (",
+      "b": "Territory (",
+      "c": "State environment"
+    },
+    {
+      "question": "Ethnicity is based on (",
+      "type": "single",
+      "correct": "c",
+      "a": ". Voter card (",
+      "b": "Citizenship (",
+      "c": "Individual",
+      "d": "Option D"
+    },
+    {
+      "question": "The type of conflict between two communities over a dispute is (",
+      "type": "typing",
+      "correct": "A (PAGE 33)",
+      "a": ". Communal (",
+      "b": "Social (",
+      "c": "Political"
+    },
+    {
+      "question": "(",
+      "type": "single",
+      "correct": "b",
+      "a": ". Everyday abuse of entrusted power by low and mid-level public officials (",
+      "b": ". Distortion of policy (",
+      "c": ". Pick pocket (",
+      "d": ". Manipulation of polity Clear my choice"
+    },
+    {
+      "question": "The idea of male and female selection can be described with the term (",
+      "type": "typing",
+      "correct": "B (PAGE 28)",
+      "a": ". Gender equality (",
+      "b": "Gender inequality (",
+      "c": "Gender discrimination"
+    },
+    {
+      "question": "Who led the Biafra group",
+      "type": "single",
+      "correct": "b",
+      "a": "Nnamdi Azikwe",
+      "b": "Nnamdi Kanu",
+      "c": "Peter Okopi",
+      "d": "Nnamkwo Kanu"
+    },
+    {
+      "question": "One of the following belongs to the NigerCongo family",
+      "type": "single",
+      "correct": "D (PAGE 69)",
+      "a": "the Berber branch",
+      "b": "the Nilotic branch",
+      "c": "the Handza branch",
+      "d": "the West Atlantic branch"
+    },
+    {
+      "question": "The following are to specifically ensure the conduct of free and fair elections in Nigeria",
+      "type": "single",
+      "correct": "D (PAGE 30)",
+      "a": "The Tribunals",
+      "b": "The society",
+      "c": "The Judiciary",
+      "d": "The Independent National Electoral Commission (INEC)"
+    },
+    {
+      "question": "The shared beliefs about governance and civic responsibilities is called",
+      "type": "single",
+      "correct": "d",
+      "a": "Social ideal",
+      "b": "Cultural ideal",
+      "c": "Religious ideal",
+      "d": "Political ideal"
+    },
+    {
+      "question": "The following are concepts of national identity except",
+      "type": "single",
+      "correct": "C (PAGE 18)",
+      "a": "Political ideas",
+      "b": "Culture",
+      "c": "Dishonesty",
+      "d": "Language"
+    },
+    {
+      "question": "Which of the following is not a method of nation-building",
+      "type": "single",
+      "correct": "d",
+      "a": "National education system",
+      "b": "Social programmers",
+      "c": "Cultural integration",
+      "d": "Political fragmentation"
+    },
+    {
+      "question": "(",
+      "type": "typing",
+      "correct": "B IS THE ODD ONE",
+      "a": ". Grand corruption (",
+      "b": ". Lack of Home Training (",
+      "c": ". Moral corruption (",
+      "d": "Petty corruption Clear my choice"
+    },
+    {
+      "question": "How can economic disparity affect nation-building?",
+      "type": "single",
+      "correct": "C (PAGE 32)",
+      "a": "It enhances educational access",
+      "b": "It strengthens social cohesion",
+      "c": "It creates divisions and unrest",
+      "d": "It promotes equal opportunities"
+    },
+    {
+      "question": "Which of the following options has the major linguistic groups in Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 69)",
+      "a": "Hausa, Igbo and Yoruba",
+      "b": "AfroAsiatic, NiloSaharan and CongoNiger",
+      "c": "AfroAsiatic, NiloSaharan and NigerCongo",
+      "d": "Kordofanian, Rodovital and NiloSaharan"
+    },
+    {
+      "question": "______ often times result to loss of lives and properties",
+      "type": "single",
+      "correct": "B (PAGE 33)",
+      "a": "Education",
+      "b": "Communal conflict",
+      "c": "Development",
+      "d": "Industry"
+    },
+    {
+      "question": "(",
+      "type": "multiple",
+      "correct": [
+        "a (page 25 and 26",
+        "the odd one out)"
+      ],
+      "a": ". Public corruption (",
+      "b": ". Moral corruption (",
+      "c": "Political corruption (",
+      "d": "Grand corruption"
+    },
+    {
+      "question": "Language classification is essential has the following except ________",
+      "type": "single",
+      "correct": "A (PAGE 72)",
+      "a": "Conflict development",
+      "b": "Language documentation or Language development",
+      "c": "Language preservation",
+      "d": "Educational development"
+    },
+    {
+      "question": "(",
+      "type": "typing",
+      "correct": "D IS THE ODD ONE OUT OF THE 6 GEOPOLITICAL ZONES",
+      "a": ". South-South (",
+      "b": ". South-West (",
+      "c": ". South-East (",
+      "d": ". Southern Nigeria"
+    },
+    {
+      "question": "_____ refers to conflict involving two or more communities engaging themselves in disagreement or act of violence over issues",
+      "type": "single",
+      "correct": "D (PAGE 72)",
+      "a": "Development",
+      "b": "People",
+      "c": "Education",
+      "d": "Communal conflict"
+    },
+    {
+      "question": "________ the wide gap between the rich and the poor will enhance strong nation building in Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 37)",
+      "a": "Supporting",
+      "b": "Increasing",
+      "c": "Bridging",
+      "d": "Enlarging"
+    },
+    {
+      "question": "Ife and modekeke conflict was more of _________ violence",
+      "type": "single",
+      "correct": "B (PAGE 34)",
+      "a": "Religious",
+      "b": "Electoral",
+      "c": "Children",
+      "d": "Church"
+    },
+    {
+      "question": "________ is used to describe the gap of discrepancies or imbalances between male and female",
+      "type": "single",
+      "correct": "D (PAGE 28)",
+      "a": "Gender balance",
+      "b": "Gender equity",
+      "c": "Gender quality",
+      "d": "Gender inequality"
+    },
+    {
+      "question": "_______ is the status of belonging to a nation",
+      "type": "single",
+      "correct": "C (PAGE 18)",
+      "a": "Fellowship",
+      "b": "Membership",
+      "c": "Citizenship",
+      "d": "Friendship"
+    },
+    {
+      "question": "Which of this is advantageous in the distribution of tangible and intangible resources (",
+      "type": "typing",
+      "correct": "C (PAGE 31)",
+      "a": ". Children (",
+      "b": "Youth (",
+      "c": "North"
+    },
+    {
+      "question": "In what year was the UN’s fourth world conference on women held in Beijing China",
+      "type": "single",
+      "correct": "D (PAGE 29)",
+      "a": "1985",
+      "b": "2005",
+      "c": "2015",
+      "d": "1995"
+    },
+    {
+      "question": "Which of the following is a much larger linguistic group",
+      "type": "single",
+      "correct": "A (PAGE 70)",
+      "a": "AfroAsiatic",
+      "b": "Niger-Congo-Kordofanian",
+      "c": "Nilo-Saharan",
+      "d": "Khoisan"
+    },
+    {
+      "question": "Federal government was accused for the following except ________ the Niger Delta",
+      "type": "single",
+      "correct": "A (PAGE 24)",
+      "a": "Undue Exploitation",
+      "b": "Lack of Government presence",
+      "c": "Long period of Neglect",
+      "d": "Presidential position"
+    },
+    {
+      "question": "___________ leadership contribute to a strong nation",
+      "type": "single",
+      "correct": "C (PAGE 35)",
+      "a": "Weak",
+      "b": "Tender",
+      "c": "Responsive",
+      "d": "Bad"
+    },
+    {
+      "question": "Communal conflict occurs at either ______ or ______ level",
+      "type": "single",
+      "correct": "A (PAGE 34)",
+      "a": "Inter or Intra",
+      "b": "Intra or Endeavor",
+      "c": "People or Culture",
+      "d": "Inter or indigenous",
+      "e": "Enterprise and extravaneous"
+    },
+    {
+      "question": "Underemployment among youths in Nigeria has promote (",
+      "type": "typing",
+      "correct": "C (PAGE 33)",
+      "a": ". Progress (",
+      "b": "Food (",
+      "c": "Desperation"
+    },
+    {
+      "question": "Why is political stability major in nation building",
+      "type": "single",
+      "correct": "D (PAGE 21)",
+      "a": "Encourages social unrest",
+      "b": "Limits international relations",
+      "c": "Fosters economic inequality",
+      "d": "Promotes consistent governance"
+    },
+    {
+      "question": "A nation state has clearly defined geographical borders referred to as ______",
+      "type": "single",
+      "correct": "D (PAGE 17)",
+      "a": "Edges",
+      "b": "Borders",
+      "c": "Frontiers",
+      "d": "Territory"
+    },
+    {
+      "question": "The following characteristics of nation state except",
+      "type": "single",
+      "correct": "A (PAGE 17)",
+      "a": "Conflict",
+      "b": "Territory",
+      "c": "Population",
+      "d": "National identity"
+    },
+    {
+      "question": "Lagos and Maiduguri are affected ______ (",
+      "type": "typing",
+      "correct": "A (PAGE 37)",
+      "a": ". Flood (",
+      "b": "Desertification (",
+      "c": "Land"
+    },
+    {
+      "question": "________ remained unabated in places like lagos and Maiduguri (",
+      "type": "typing",
+      "correct": "B (PAGE 37)",
+      "a": ". Desertification (",
+      "b": "Flood (",
+      "c": "Land"
+    },
+    {
+      "question": "_______ is common with African economies",
+      "type": "single",
+      "correct": "B (PAGE 31)",
+      "a": "Water",
+      "b": "Low productivity",
+      "c": "Road",
+      "d": "High productivity"
+    },
+    {
+      "question": "________ is the major alarming problem among Nigerian youths today",
+      "type": "single",
+      "correct": "A (PAGE 32)",
+      "a": "Youth unemployment",
+      "b": "Language",
+      "c": "Diversity",
+      "d": "Ethnic groups"
+    },
+    {
+      "question": "_______ is a major need in Nigeria from the time past",
+      "type": "single",
+      "correct": "A (PAGE 20)",
+      "a": "Nation building",
+      "b": "Instability",
+      "c": "Nation state",
+      "d": "Ethnic groups"
+    },
+    {
+      "question": "Status of being membership of a country is known as",
+      "type": "single",
+      "correct": "a",
+      "a": "Citizenship",
+      "b": "Membership",
+      "c": "Fellowship",
+      "d": "Friendship"
+    },
+    {
+      "question": "What is common challenges in nature building",
+      "type": "single",
+      "correct": "C (PAGE 23)",
+      "a": "Overabundance of resources",
+      "b": "Excessive unity",
+      "c": "Ethnic tensions",
+      "d": "Rapid industrialization"
+    },
+    {
+      "question": "The following are characteristics of culture except",
+      "type": "single",
+      "correct": "D (PAGE 5)",
+      "a": "Learned",
+      "b": "Shared",
+      "c": "Integration",
+      "d": "None"
+    },
+    {
+      "question": "What roles does language play in culture",
+      "type": "single",
+      "correct": "C (PAGE 73)",
+      "a": "It is irrelevant",
+      "b": "It only affect written culture",
+      "c": "It serves as a primary means of communication and cultural expression",
+      "d": "It is only important in formal education"
+    },
+    {
+      "question": "Kanuri belongs to which family (",
+      "type": "typing",
+      "correct": "A (PAGE 70)",
+      "a": ". Sudanic (",
+      "b": "Click (",
+      "c": "Kordofan"
+    },
+    {
+      "question": "During the precolonial, Nigeria was divided into Southern protectorate, Northern protectorate and ________ (a) . Eastern protectorate (b) Westeren protectorate",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Restoration of democratic rule was in the year (",
+      "type": "typing",
+      "correct": "A (page 30)",
+      "a": ". 1999 (",
+      "b": "1998 (",
+      "c": "2002"
+    },
+    {
+      "question": "Which militant group emerged from the South East to demand succession?",
+      "type": "single",
+      "correct": "C (PAGE 24 AND 25)",
+      "a": "Boko Haram",
+      "b": "Movement for the Emancipation of Niger Delta (MEND)",
+      "c": "Indigenous People of Biafra (IPOB)",
+      "d": "Arewa Youths"
+    },
+    {
+      "question": "Grand corruption is characterized ?",
+      "type": "single",
+      "correct": "B (PAGE 25)",
+      "a": "Low-level officials’ misconduct",
+      "b": "High-level acts distorting polity for personal gain",
+      "c": "Minor administrative practices",
+      "d": "Legal financial practices"
+    },
+    {
+      "question": "The Yoruba people are known for their",
+      "type": "single",
+      "correct": "A (PAGE 60)",
+      "a": "Rich oral traditions",
+      "b": "Nomadic lifestyle",
+      "c": "Fishing practices",
+      "d": "Agricultural techniques"
+    },
+    {
+      "question": "Which of the following is a feature of African economy (",
+      "type": "typing",
+      "correct": "A (PAGE 31)",
+      "a": ". Low productivity (",
+      "b": ". High productivity (",
+      "c": ". Business (",
+      "d": ". Water (e). Sanitation"
+    },
+    {
+      "question": "Which of the following belongs to the NigerCongo family",
+      "type": "single",
+      "correct": "C (PAGE 69)",
+      "a": "The Berber branch",
+      "b": "The Nilotic branch",
+      "c": "The West Atlantic branch",
+      "d": "The Handza branch or Saharan branch"
+    },
+    {
+      "question": "One of the following belong to the sudanic family",
+      "type": "single",
+      "correct": "B (PAGE 69)",
+      "a": "the Berber branch",
+      "b": "the Saharan branch",
+      "c": "the Kwa subgroup",
+      "d": "the Handza branch"
+    },
+    {
+      "question": "Kwa subgroup is a branch of _______",
+      "type": "single",
+      "correct": "C (PAGE 69)",
+      "a": "NiloSaharan",
+      "b": "AfroAsiatic group",
+      "c": "NigerCongo group",
+      "d": "Handza group"
+    },
+    {
+      "question": "All the following is means of identifying a nation except",
+      "type": "multiple",
+      "correct": [
+        "a(page 21",
+        "65)"
+      ],
+      "a": "Treason",
+      "b": "National anthem",
+      "c": "National pledge",
+      "d": "Emblem"
+    },
+    {
+      "question": "Which of the following is not a national symbol",
+      "type": "single",
+      "correct": "D (PAGE 21)",
+      "a": "National flag",
+      "b": "Emblem",
+      "c": "Anthem",
+      "d": "Treason"
+    },
+    {
+      "question": "The year female was given equal rights to participate in politics (",
+      "type": "typing",
+      "correct": "A (PAGE 29)",
+      "a": ". 1995 (",
+      "b": "2005 (",
+      "c": "2015"
+    },
+    {
+      "question": "All Nigeria citizens have the right to all these except",
+      "type": "single",
+      "correct": "d",
+      "a": "Vote",
+      "b": "Work",
+      "c": "Live",
+      "d": "Crime"
+    },
+    {
+      "question": "Goodluck Jonathan was the _________ of Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 32)",
+      "a": "Governor",
+      "b": "Senator",
+      "c": "President",
+      "d": "Senator"
+    },
+    {
+      "question": "Production of fake drug is what type of corruption",
+      "type": "single",
+      "correct": "B (PAGE 26)",
+      "a": "Moral corruption",
+      "b": "Economic corruption",
+      "c": "Political corruption",
+      "d": "Ethical corruption"
+    },
+    {
+      "question": "Manufacturing of fake drugs in the country is an example of __________",
+      "type": "single",
+      "correct": "B (PAGE 26)",
+      "a": "Medical corruption",
+      "b": "Economic corruption",
+      "c": "Moral corruption",
+      "d": "Fraud"
+    },
+    {
+      "question": "_________ sees corruption as an abuse of office or trust for private benefits (",
+      "type": "typing",
+      "correct": "A (PAGE 25)",
+      "a": ". IMF (",
+      "b": "African Development (",
+      "c": "Central Bank"
+    },
+    {
+      "question": "_________ is a social conflict that relates to a group or group of society",
+      "type": "single",
+      "correct": "C (PAGE 33)",
+      "a": "Group of society",
+      "b": "Social",
+      "c": "Communal",
+      "d": "Political"
+    },
+    {
+      "question": "________ refers to conflict involving two or more communities engaging themselves in disagreement (",
+      "type": "typing",
+      "correct": "A (PAGE 33)",
+      "a": ". Communal conflict (",
+      "b": "Social conflict (",
+      "c": "Political conflict"
+    },
+    {
+      "question": "Multi-linguistic group and multi-ethnic group are not the same (a) . True (b) False",
+      "type": "multiple",
+      "correct": [
+        "a (page 68",
+        "they are not the same.. language is different from"
+      ],
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "__________ remained a major challenge to the Nigeria state up till the 21st century",
+      "type": "single",
+      "correct": "B (PAGE 22)",
+      "a": "Nation state",
+      "b": "Nation building",
+      "c": "Citizen",
+      "d": "National identity"
+    },
+    {
+      "question": "Regional imbalance is part of the challenges facing Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 31)",
+      "a": "True",
+      "b": "False",
+      "c": "Undecided",
+      "d": "Unknown"
+    },
+    {
+      "question": "English language, like every other language is a tonal language (a) . True (b) False",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria was considered a political unit in what year",
+      "type": "single",
+      "correct": "a",
+      "a": "1913",
+      "b": "1908",
+      "c": "1900",
+      "d": "1904"
+    },
+    {
+      "question": "Arewa youth came up to champion the interest of ________ region in Nigeria",
+      "type": "single",
+      "correct": "B (PAGE 25)",
+      "a": "Southern Nigeria",
+      "b": "Northern Nigeria",
+      "c": "Western Nigeria",
+      "d": "South western Nigeria"
+    },
+    {
+      "question": "A person who legally belongs to a particular country is called",
+      "type": "single",
+      "correct": "D (PAGE 19)",
+      "a": "Native",
+      "b": "Aborigine",
+      "c": "Indigene",
+      "d": "Citizen"
+    },
+    {
+      "question": "What type of conflict was the Ife and Modakeke conflict? (",
+      "type": "typing",
+      "correct": "B (PAGE 34)",
+      "a": ". Economic conflict (",
+      "b": ". Election violence (",
+      "c": ". Religious conflict (",
+      "d": ". Class conflict"
+    },
+    {
+      "question": "For most parts of Nigeria’s existence as a country, which of the following has been a continous political problem (",
+      "type": "typing",
+      "correct": "A (PAGE 25)",
+      "a": ". Corruption (",
+      "b": "Violence (",
+      "c": "Protest"
+    },
+    {
+      "question": "__________ comprises of the afro-asiatic group",
+      "type": "single",
+      "correct": "A (PAGE 70)",
+      "a": "Hausa",
+      "b": "Igbo",
+      "c": "Yoruba",
+      "d": "Nigeria"
+    },
+    {
+      "question": "The Afro-Asiatic group consist of",
+      "type": "single",
+      "correct": "C (PAGE 70)",
+      "a": "Yoruba",
+      "b": "Kwa-subgroup",
+      "c": "Hausa",
+      "d": "Igbo"
+    },
+    {
+      "question": "How many languages was in indigenous language in Nigeria",
+      "type": "single",
+      "correct": "D (PAGE 68)",
+      "a": "10",
+      "b": "8",
+      "c": "2",
+      "d": "4"
+    },
+    {
+      "question": "Which of the following state was non-existent in history",
+      "type": "single",
+      "correct": "B (PAGE 18)",
+      "a": "Political unit",
+      "b": "Rivers state",
+      "c": "Nation state",
+      "d": "Government state"
+    },
+    {
+      "question": "Language barrier might be a problem in economical activities (a) . True (b) False",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria is classified as __________",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "Multiethnic groups",
+      "b": "Polyethnic groups",
+      "c": "Monoethnic groups",
+      "d": "Biethnic groups"
+    },
+    {
+      "question": "Nigeria is a _______ type of Nation",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "Multiethnic",
+      "b": "Uniethnic",
+      "c": "Monoethnic",
+      "d": "Polyethnic"
+    },
+    {
+      "question": "Nigeria can be said to be ________",
+      "type": "single",
+      "correct": "B (PAGE 68)",
+      "a": "Bilingual society",
+      "b": "Multilingual society",
+      "c": "Monolingual society",
+      "d": "Multidynamic society"
+    },
+    {
+      "question": "Greenberg group Nigeria languages into ________",
+      "type": "single",
+      "correct": "C (PAGE 68)",
+      "a": "5",
+      "b": "8",
+      "c": "4",
+      "d": "2"
+    },
+    {
+      "question": "Greenberg in 1963 classified African language into _______",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "4",
+      "b": "5",
+      "c": "2",
+      "d": "3"
+    },
+    {
+      "question": "According to the Beihringer principle, how many major linguistic groups do wehave",
+      "type": "single",
+      "correct": "b",
+      "a": "5",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    {
+      "question": "Nigeria became a political entity in the year _______",
+      "type": "single",
+      "correct": "a",
+      "a": "1914",
+      "b": "1900",
+      "c": "2002",
+      "d": "2003"
+    },
+    {
+      "question": "Jus soil is a right of citizenship ________",
+      "type": "single",
+      "correct": "A (PAGE 20)",
+      "a": "Marriage",
+      "b": "Adoption",
+      "c": "Blood",
+      "d": "Death"
+    },
+    {
+      "question": "Linguistics means study of _________ (",
+      "type": "single",
+      "correct": "c",
+      "a": ". Science languages (",
+      "b": "Science language (",
+      "c": "Many languages (",
+      "d": ""
+    },
+    {
+      "question": "Youth unemployment leads to _________",
+      "type": "single",
+      "correct": "A (PAGE 33)",
+      "a": "Chronic poverty",
+      "b": "Education",
+      "c": "Development",
+      "d": "Academic"
+    },
+    {
+      "question": "Nigeria democratic role is in the ________republic",
+      "type": "single",
+      "correct": "C (PAGE 30)",
+      "a": "Sixty-fourth",
+      "b": "Tenth",
+      "c": "Fourth",
+      "d": "Fifth"
+    },
+    {
+      "question": "The following are examples of sectarian and ethnic groups except ________",
+      "type": "single",
+      "correct": "C (PAGE 23)",
+      "a": "Boko Haram Sect",
+      "b": "Movement for the Emancipation of the Niger Delta (MEND)",
+      "c": "Student Union Government",
+      "d": "Niger Delta Avengers (NDA)"
+    },
+    {
+      "question": "The statement “Nigeria has consistently appeared on the top most position on one of the most corrupt countries in the world on the corruption perception index” was released _________",
+      "type": "single",
+      "correct": "C (PAGE 26)",
+      "a": "World Health Organization",
+      "b": "United Nations",
+      "c": "Transparency International",
+      "d": "Economic Financial and Crime Commission"
+    },
+    {
+      "question": "Creation of national _____________ is to enhance sound nation building",
+      "type": "single",
+      "correct": "B (PAGE 23)",
+      "a": "State",
+      "b": "Consciousness",
+      "c": "Map",
+      "d": "Roads"
+    },
+    {
+      "question": "In history, there have been several kinds of states apart from the ___________",
+      "type": "single",
+      "correct": "D (PAGE 18)",
+      "a": "Rivers",
+      "b": "Political unit",
+      "c": "Boundaries",
+      "d": "Nation-State"
+    },
+    {
+      "question": "The original Hausa states are known as __________",
+      "type": "single",
+      "correct": "d",
+      "a": "Bayajidda",
+      "b": "Daura",
+      "c": "Banza bakwai",
+      "d": "Hausa bakwai"
+    },
+    {
+      "question": "Regional imbalance is part of the challenges facing Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 31)",
+      "a": "Undecided",
+      "b": "False",
+      "c": "True",
+      "d": "Unknown"
+    },
+    {
+      "question": "Which social issues can undermine nation building?",
+      "type": "single",
+      "correct": "A (PAGE28)",
+      "a": "Social inequality",
+      "b": "Community engagement",
+      "c": "Equal rights",
+      "d": "National pride"
+    },
+    {
+      "question": "__________ has constituted a major threat to youth survival in Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 32)",
+      "a": "Cities",
+      "b": "Air",
+      "c": "Youth unemployment",
+      "d": "Towns"
+    },
+    {
+      "question": "Which of the following is a key component of nation building",
+      "type": "single",
+      "correct": "C (PAGE )",
+      "a": "Reducing taxes",
+      "b": "Building skyscraper",
+      "c": "Political integration",
+      "d": "Exporting goods"
+    },
+    {
+      "question": "Strategies of _________ is part of solution to challenges of nation building",
+      "type": "single",
+      "correct": "b",
+      "a": "Sailing",
+      "b": "Car assembling",
+      "c": "marriage",
+      "d": "Development"
+    },
+    {
+      "question": "Political violence has constituted a bane in the Nigerian _________",
+      "type": "single",
+      "correct": "D (PAGE 29)",
+      "a": "Domestic consolidation",
+      "b": "All of the above",
+      "c": "Governance",
+      "d": "Electoral process"
+    },
+    {
+      "question": "A nation state has a government that exercise _______",
+      "type": "single",
+      "correct": "B (PAGE 17)",
+      "a": "Directives",
+      "b": "Authority",
+      "c": "Power",
+      "d": "Force"
+    },
+    {
+      "question": "Joseph Greenberg(1963) is notable for the coinage of ___________",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "Mass comparison",
+      "b": "Major linguistic groups",
+      "c": "Major comparison",
+      "d": "Mast comparison"
+    },
+    {
+      "question": "Joseph Greenberg (1963) was known for his work on ______",
+      "type": "single",
+      "correct": "B (PAGE 68)",
+      "a": "Mast comparison",
+      "b": "Mass comparison",
+      "c": "Major linguistic groups",
+      "d": "Major comparison"
+    },
+    {
+      "question": "The incremental positive change in the construction of a single national identity is ________",
+      "type": "single",
+      "correct": "A (PAGE 21)",
+      "a": "Nation-building",
+      "b": "Nation-state",
+      "c": "State building",
+      "d": "National identity"
+    },
+    {
+      "question": "Nation-building aims at the development of the following except",
+      "type": "single",
+      "correct": "D (PAGE 20)",
+      "a": "Institute",
+      "b": "Structure",
+      "c": "Infrastructure",
+      "d": "Animosity"
+    },
+    {
+      "question": "Ethnicity contribute to ______________ (",
+      "type": "typing",
+      "correct": "C (PAGE 30)",
+      "a": ". Production (",
+      "b": "Distribution (",
+      "c": "Conflict"
+    },
+    {
+      "question": "Ethnicity promotes",
+      "type": "single",
+      "correct": "A (PAGE 31)",
+      "a": "Mediocrity",
+      "b": "Business",
+      "c": "Productivity",
+      "d": "Electricity"
+    },
+    {
+      "question": "The Afro-asiatic community is under",
+      "type": "single",
+      "correct": "C (PAGE 70)",
+      "a": "Yoruba",
+      "b": "Igbo",
+      "c": "Hausa",
+      "d": "Kwa subgroup"
+    },
+    {
+      "question": "There should be an enabling _________ and level playing ground for citizen",
+      "type": "single",
+      "correct": "A (PAGE 35)",
+      "a": "Environment",
+      "b": "Road",
+      "c": "Home",
+      "d": "School"
+    },
+    {
+      "question": "A nation state has a permanent _________",
+      "type": "single",
+      "correct": "A (PAGE 17)",
+      "a": "Population",
+      "b": "Country",
+      "c": "Territory",
+      "d": "Countries"
+    },
+    {
+      "question": "A nation state has permanent ________",
+      "type": "single",
+      "correct": "C (PAGE 17)",
+      "a": "Territory",
+      "b": "Sovereignty",
+      "c": "Population",
+      "d": "Government"
+    },
+    {
+      "question": "South east has the __________ state",
+      "type": "single",
+      "correct": "D (PAGE 31)",
+      "a": "None",
+      "b": "Many",
+      "c": "Few",
+      "d": "Least"
+    },
+    {
+      "question": "How many languages has gone into extinction",
+      "type": "single",
+      "correct": "B (PAGE 68)",
+      "a": "4",
+      "b": "8",
+      "c": "3",
+      "d": "7"
+    },
+    {
+      "question": "Manufacturing of fake drug is an example of",
+      "type": "single",
+      "correct": "C (PAGE 28)",
+      "a": "Fraud",
+      "b": "Moral corruption",
+      "c": "Economic corruption",
+      "d": "Social corruption"
+    },
+    {
+      "question": "Registration underage voting is an example of _________ corruption (",
+      "type": "typing",
+      "correct": "A (PAGE 26)",
+      "a": ". Electoral corruption (",
+      "b": "Moral corruption (",
+      "c": "Political corruption"
+    },
+    {
+      "question": "Nation building often require the creation of __________",
+      "type": "single",
+      "correct": "D (PAGE 17)",
+      "a": "Private armies",
+      "b": "Cultural divides",
+      "c": "Isolationist trade policies",
+      "d": "National policies"
+    },
+    {
+      "question": "The three national administration are national authority, national court system and ___________",
+      "type": "single",
+      "correct": "c",
+      "a": "National treasury",
+      "b": "National law",
+      "c": "National value",
+      "d": "National system"
+    },
+    {
+      "question": "When did Nigeria become democratic",
+      "type": "single",
+      "correct": "a",
+      "a": "1999",
+      "b": "1989",
+      "c": "2009",
+      "d": "2019"
+    },
+    {
+      "question": "What year did Nigeria gain democratic rule",
+      "type": "single",
+      "correct": "d",
+      "a": "2001",
+      "b": "1989",
+      "c": "2016",
+      "d": "1999"
+    },
+    {
+      "question": "Nigeria restored democratic rule in what year",
+      "type": "single",
+      "correct": "b",
+      "a": "2009",
+      "b": "1999",
+      "c": "2019",
+      "d": "1989"
+    },
+    {
+      "question": "_______ accountability is a process where leaders have to render account of their stewardship to the electorate",
+      "type": "single",
+      "correct": "A (PAGE 35)",
+      "a": "Leadership",
+      "b": "Governance",
+      "c": "People",
+      "d": "Socio economic"
+    },
+    {
+      "question": "___________ has been ravaging many states in Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 36)",
+      "a": "Erosion",
+      "b": "Education",
+      "c": "Development",
+      "d": "Politics"
+    },
+    {
+      "question": "Which of the following is not used in nation building (",
+      "type": "single",
+      "correct": "c",
+      "a": ". Dialogue (",
+      "b": "Reconciliation (",
+      "c": "Conflict",
+      "d": "Option D"
+    },
+    {
+      "question": "Conflict has not been a major problem in Nigeria’s existence (a) . True (b) False",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Which one is a sub-group of Niger-congo",
+      "type": "single",
+      "correct": "A (PAGE 69)",
+      "a": "West Adamawa",
+      "b": "Berber branch",
+      "c": "Handza branch",
+      "d": "Nilotic branch"
+    },
+    {
+      "question": "According to Greenberg, Nigeria languages have been categorized into ________",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "4",
+      "b": "3",
+      "c": "5",
+      "d": "6"
+    },
+    {
+      "question": "Merit has been compromised on the alter of",
+      "type": "single",
+      "correct": "D (PAGE 31)",
+      "a": "Kings",
+      "b": "Rulers",
+      "c": "Welfare",
+      "d": "Expediency"
+    },
+    {
+      "question": "Recognition of gender issues have a lot to do with the ________",
+      "type": "single",
+      "correct": "C (PAGE 29)",
+      "a": "Legal institution",
+      "b": "Social institution",
+      "c": "Institution of human rights",
+      "d": "Gender institution"
+    },
+    {
+      "question": "____________has been ravaging among states in Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 36)",
+      "a": "erosion",
+      "b": "Development",
+      "c": "Politics",
+      "d": "Education"
+    },
+    {
+      "question": "The recent Nigeria has contributed to witness rising and persistent cases of _________",
+      "type": "single",
+      "correct": "A (PAGE 23)",
+      "a": "Ethnic militia",
+      "b": "Riots",
+      "c": "Crises",
+      "d": "Peace"
+    },
+    {
+      "question": "One of the following is a branch of the click family",
+      "type": "single",
+      "correct": "A (PAGE 69)",
+      "a": "the Handza branch",
+      "b": "the Berber branch",
+      "c": "the Nilotic branch",
+      "d": "the Kwa subgroup"
+    },
+    {
+      "question": "_________ does not exist in isolation as it usually occur in social relationships (a). Conflict",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria was considered a political unit in",
+      "type": "single",
+      "correct": "a",
+      "a": "1913",
+      "b": "1908",
+      "c": "1900",
+      "d": "1904"
+    },
+    {
+      "question": "People who did not see themselves as united or sharing any sort of identity were ruled empires and __________",
+      "type": "single",
+      "correct": "B (PAGE 18)",
+      "a": "Lords",
+      "b": "Kingdoms",
+      "c": "Citizens",
+      "d": "Rulers"
+    },
+    {
+      "question": "When people are not coming together, they are ruled empires and ______",
+      "type": "single",
+      "correct": "A (PAGE 18)",
+      "a": "Kingdom",
+      "b": "Ruler",
+      "c": "Leader",
+      "d": "States"
+    },
+    {
+      "question": "____________ is shaped various factors such as shared history, culture, language and values",
+      "type": "single",
+      "correct": "D (PAGE 18)",
+      "a": "Boundaries",
+      "b": "Authority",
+      "c": "Sovereignty",
+      "d": "National identity"
+    },
+    {
+      "question": "There have been several kinds of states apart from ________ (",
+      "type": "typing",
+      "correct": "C (PAGE 18)",
+      "a": ". Rivers (",
+      "b": "History (",
+      "c": "Nation state"
+    },
+    {
+      "question": "A nation-state is characterized _________ and ____________ boundaries",
+      "type": "single",
+      "correct": "C (PAGE 17)",
+      "a": "Social and geographical",
+      "b": "Historical and social",
+      "c": "Political and cultural",
+      "d": "Regional and local"
+    },
+    {
+      "question": "Linguistic is",
+      "type": "single",
+      "correct": "c",
+      "a": "Study of languages",
+      "b": "Modern study of languages",
+      "c": "Scientific study of languages",
+      "d": "Traditional study of languages"
+    },
+    {
+      "question": "Which of the following belongs to the Nigercongo family",
+      "type": "single",
+      "correct": "B (PAGE 69)",
+      "a": "Kordofanian",
+      "b": "West Atlantic branch",
+      "c": "Berber Branch",
+      "d": "Handza Branch"
+    },
+    {
+      "question": "The Niger congo have the following branch",
+      "type": "single",
+      "correct": "A (PAGE 69)",
+      "a": "West Atlantic branch",
+      "b": "Saharan branch",
+      "c": "Berber branch",
+      "d": "Nilotic branch"
+    },
+    {
+      "question": "__________ is not a cultural attribute of a nation",
+      "type": "single",
+      "correct": "D (PAGE 5)",
+      "a": "Religion",
+      "b": "Custom",
+      "c": "Languages",
+      "d": "Age"
+    },
+    {
+      "question": "_____________ disparities exist among members of various geopolitical zones",
+      "type": "single",
+      "correct": "B (PAGE 32)",
+      "a": "Houses",
+      "b": "Gross",
+      "c": "Sky",
+      "d": "Water"
+    },
+    {
+      "question": "__________ disparities also exist among the geopolitical zones in Nigeria",
+      "type": "single",
+      "correct": "b",
+      "a": "People",
+      "b": "Socio-economic",
+      "c": "Houses",
+      "d": "Water"
+    },
+    {
+      "question": "South East geo-political zone has _________ state",
+      "type": "single",
+      "correct": "A (PAGE 31)",
+      "a": "Least",
+      "b": "Middle",
+      "c": "Highest",
+      "d": "None"
+    },
+    {
+      "question": "Full meaning of IPOB is (",
+      "type": "single",
+      "correct": "c",
+      "a": ". Independent people of Bafria (",
+      "b": "Independent People of Baia (",
+      "c": "Indigenous People of Biafra",
+      "d": "Option D"
+    },
+    {
+      "question": "Why is political instability a challenge in Nation building (",
+      "type": "typing",
+      "correct": "A (PAGE 29)",
+      "a": ". It disrupts development (",
+      "b": "Increases nation unity (",
+      "c": "Increases foreign investment"
+    },
+    {
+      "question": "NiloSaharan group is also known as",
+      "type": "single",
+      "correct": "C (PAGE 36)",
+      "a": "Kordofany family",
+      "b": "Kordofanian family",
+      "c": "Sudanic family",
+      "d": "Swahili family"
+    },
+    {
+      "question": "Nilosaharan group is represented in Nigeria principally",
+      "type": "single",
+      "correct": "C (PAGE 70)",
+      "a": "Swahili family",
+      "b": "Kwa subgroup",
+      "c": "Kanuri",
+      "d": "NigerCongo group"
+    },
+    {
+      "question": "Nilosharan is specifically found in (",
+      "type": "typing",
+      "correct": "A (PAGE 70)",
+      "a": ". Kanuri (",
+      "b": "Swahili family (",
+      "c": "River"
+    },
+    {
+      "question": "Which of the following is a member of the Nilo sahara language family",
+      "type": "single",
+      "correct": "B (PAGE 70)",
+      "a": "Swahili",
+      "b": "Kanuri",
+      "c": "Luo",
+      "d": "Lango"
+    },
+    {
+      "question": "Popular beijing coference where declaration that favored women for political position was made in what year",
+      "type": "single",
+      "correct": "B (PAGE 29)",
+      "a": "2015",
+      "b": "1995",
+      "c": "2005",
+      "d": "1985"
+    },
+    {
+      "question": "The affirmative deceleration was made in favour of woman during Beijing conference in what year",
+      "type": "single",
+      "correct": "B (PAGE 29)",
+      "a": "1985",
+      "b": "1995",
+      "c": "2009",
+      "d": "2015"
+    },
+    {
+      "question": "The Afro-Asiatic have the following sub-group",
+      "type": "single",
+      "correct": "d",
+      "a": "Atlantic subgroup",
+      "b": "Kwa subgroup",
+      "c": "Nilo-Saharan",
+      "d": "None"
+    },
+    {
+      "question": "Which of the following is not a national symbol",
+      "type": "single",
+      "correct": "C (PAGE 65)",
+      "a": "National flag",
+      "b": "Anthem",
+      "c": "Treason",
+      "d": "Emblem"
+    },
+    {
+      "question": "All of the following is a means of identifying a nation except",
+      "type": "single",
+      "correct": "A (PAGE 65)",
+      "a": "Treason",
+      "b": "National anthem",
+      "c": "National pledge",
+      "d": "Emblem"
+    },
+    {
+      "question": "How many living languages are in Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 68)",
+      "a": "505",
+      "b": "515",
+      "c": "502",
+      "d": "510"
+    },
+    {
+      "question": "There are ______ living languages in Nigeria",
+      "type": "single",
+      "correct": "B (PAGE 68)",
+      "a": "515",
+      "b": "505",
+      "c": "502",
+      "d": "512"
+    },
+    {
+      "question": "Underemployment can cause _________",
+      "type": "single",
+      "correct": "C (PAGE 33)",
+      "a": "Sanitation",
+      "b": "Food",
+      "c": "Desperation",
+      "d": "Progress"
+    },
+    {
+      "question": "Kano group is a branch of ________",
+      "type": "single",
+      "correct": "b",
+      "a": "Afro-Asiatic group",
+      "b": "Nilo-Saharan",
+      "c": "Hausa group",
+      "d": "Niger congo group"
+    },
+    {
+      "question": "Kano state has ______ local government area",
+      "type": "single",
+      "correct": "B (PAGE 31)",
+      "a": "56",
+      "b": "44",
+      "c": "104",
+      "d": "59"
+    },
+    {
+      "question": "Between Kano and Lagos, what affects them most (",
+      "type": "typing",
+      "correct": "B (PAGE 37)",
+      "a": ". Erosion (",
+      "b": "Flood (",
+      "c": "Corruption"
+    },
+    {
+      "question": "When did Nigeria become a political unit",
+      "type": "single",
+      "correct": "b",
+      "a": "1902",
+      "b": "1914",
+      "c": "1802",
+      "d": "1960"
+    },
+    {
+      "question": "Nigeria became a social political state in",
+      "type": "single",
+      "correct": "c",
+      "a": "1930",
+      "b": "1900",
+      "c": "1914",
+      "d": "1960"
+    },
+    {
+      "question": "Language barrier is a conflict of the society (a) . True (b) False",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Linguistic is",
+      "type": "single",
+      "correct": "a",
+      "a": "Scientific study of languages",
+      "b": "Science of study",
+      "c": "Morphology of languages",
+      "d": "Study of languages"
+    },
+    {
+      "question": "Western ideologies includes __________",
+      "type": "single",
+      "correct": "C (PAGE 36)",
+      "a": "Fuel",
+      "b": "Sky",
+      "c": "Capatalism",
+      "d": "Airline"
+    },
+    {
+      "question": "How many ethnic groups are in Nigeria",
+      "type": "single",
+      "correct": "A (PAGE 26)",
+      "a": "250",
+      "b": "350",
+      "c": "400",
+      "d": "200"
+    },
+    {
+      "question": "Nigeria is a multi-ethnic country with over _______ ethnic groups",
+      "type": "single",
+      "correct": "A (PAGE 26)",
+      "a": "250",
+      "b": "350",
+      "c": "450",
+      "d": "150"
+    },
+    {
+      "question": "Citizenship can be acquired through the following except",
+      "type": "single",
+      "correct": "B (PAGE 19 AND 20)",
+      "a": "Birth",
+      "b": "Death",
+      "c": "Descent",
+      "d": "Socialization"
+    },
+    {
+      "question": "Citizenship can be acquired through the following except",
+      "type": "single",
+      "correct": "B (PAGE 20)",
+      "a": "Neutralization",
+      "b": "Death",
+      "c": "Birth",
+      "d": "Descent"
+    },
+    {
+      "question": "The nation state has a permanent _ (",
+      "type": "typing",
+      "correct": "A (PAGE 17)",
+      "a": ". Population (",
+      "b": "Territory (",
+      "c": "Boundary"
+    },
+    {
+      "question": "The English language along side other indigenous language is a tonal language (a) . True (b) False",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Yoruba belongs to __________ language",
+      "type": "single",
+      "correct": "B (PAGE 70)",
+      "a": "Afro-Asiatic",
+      "b": "Niger congo",
+      "c": "Hausa/fulani",
+      "d": "Swalli family"
+    },
+    {
+      "question": "Responsive leadership is a _________ contract between the leader and the led",
+      "type": "single",
+      "correct": "C (PAGE 35)",
+      "a": "Business",
+      "b": "Tender",
+      "c": "Social",
+      "d": "Massive"
+    },
+    {
+      "question": "_______ government leads to strong nation building",
+      "type": "single",
+      "correct": "B (PAGE 35)",
+      "a": "Bad",
+      "b": "Responsive",
+      "c": "Good",
+      "d": "Corrupt"
+    },
+    {
+      "question": "Language barrier can foster economic diversity (a) . True (b) False",
+      "type": "single",
+      "correct": "a",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria identity can lead to _______ and ______ if used to distinguished separate groups",
+      "type": "single",
+      "correct": "A (PAGE 18)",
+      "a": "Unity and pride",
+      "b": "Exclusion and conflict",
+      "c": "Social cohesion and harmony",
+      "d": "Peace and progress"
+    },
+    {
+      "question": "The responsibilities of a citizen include the following except",
+      "type": "single",
+      "correct": "b",
+      "a": "Patriotism",
+      "b": "Disloyalty",
+      "c": "Pay taxes",
+      "d": "Obey laws"
+    },
+    {
+      "question": "Which of the following is property of a good citizen",
+      "type": "single",
+      "correct": "a",
+      "a": "Paying taxes",
+      "b": "Disloyalty",
+      "c": "Disobedience",
+      "d": "None of the above"
+    },
+    {
+      "question": "What led to the conflict between Agulanta and Umulanta",
+      "type": "single",
+      "correct": "B (PAGE 34)",
+      "a": "Political diversity",
+      "b": "Land ownership disputes",
+      "c": "Religion difference",
+      "d": "Economic conflict"
+    },
+    {
+      "question": "What led to the conflict between Aguleri and Umuleri communities",
+      "type": "single",
+      "correct": "B (PAGE 34)",
+      "a": "Religious differences",
+      "b": "Land ownership disputes",
+      "c": "Political rivalry",
+      "d": "Economic competition"
+    },
+    {
+      "question": "Nation building aim at the development of the following except _____________",
+      "type": "single",
+      "correct": "B (PAGE 20)",
+      "a": "Infrastructure",
+      "b": "Animosity",
+      "c": "Structure",
+      "d": "Institution"
+    },
+    {
+      "question": "National identity is shaped the following except",
+      "type": "single",
+      "correct": "d",
+      "a": "History",
+      "b": "Culture",
+      "c": "Language",
+      "d": "Hostility"
+    },
+    {
+      "question": "The amalgamation of the northern and southern protectorate came up in the year",
+      "type": "single",
+      "correct": "b",
+      "a": "1902",
+      "b": "1914",
+      "c": "1990",
+      "d": "1916"
+    },
+    {
+      "question": "Merit has been compromised on the altar of ________",
+      "type": "single",
+      "correct": "C (PAGE 31)",
+      "a": "King",
+      "b": "Welfare",
+      "c": "Expediency",
+      "d": "Rulers"
+    },
+    {
+      "question": "_______ was the presidential election annulled Babangida’s regime",
+      "type": "single",
+      "correct": "C (PAGE 31)",
+      "a": "October 1, 1960",
+      "b": "September 11, 2003",
+      "c": "June 12, 1993",
+      "d": "January 15, 1973."
+    },
+    {
+      "question": "A state is a ________",
+      "type": "single",
+      "correct": "c",
+      "a": "Political and legal entity",
+      "b": "Religious and cultural practice",
+      "c": "Geographical and spatial setting",
+      "d": "Social and community gathering"
+    },
+    {
+      "question": "The incremental positive change in the construction of a single national identity is _____",
+      "type": "single",
+      "correct": "A (PAGE 21)",
+      "a": "Nation-building",
+      "b": "State building",
+      "c": "Nation state",
+      "d": "National identity"
+    },
+    {
+      "question": "The recent Nigeria has continued to witness rising and persistent cases of _____",
+      "type": "single",
+      "correct": "C (PAGE 23)",
+      "a": "Riots",
+      "b": "Crisis",
+      "c": "Ethnic militia",
+      "d": "Protests"
+    },
+    {
+      "question": "The following are example of sectarian and ethnic militia groups except",
+      "type": "single",
+      "correct": "D (PAGE 23)",
+      "a": "Emacipation of the Niger Delta",
+      "b": "Boko haram sec",
+      "c": "Niger Delta Avengers",
+      "d": "Student Union Government"
+    },
+    {
+      "question": "The popular Beijing conference where declaration that favored women for political positions was made in what year",
+      "type": "single",
+      "correct": "A (PAGE 29)",
+      "a": "1995",
+      "b": "2005",
+      "c": "2015",
+      "d": "1998"
+    },
+    {
+      "question": "The following are responsibilities of a citizen except",
+      "type": "single",
+      "correct": "b",
+      "a": "Patriotism",
+      "b": "Disloyalty",
+      "c": "Obedience",
+      "d": "Pay taxes"
+    },
+    {
+      "question": "________ has punctured nation building efforts in Nigeria (",
+      "type": "typing",
+      "correct": "A (PAGE 30)",
+      "a": ". Inter-ethnic antagonism (",
+      "b": "University (",
+      "c": "Lagos"
+    },
+    {
+      "question": "Nigerians need to contribute their _______ to the national development",
+      "type": "single",
+      "correct": "a",
+      "a": "quota",
+      "b": "Homes",
+      "c": "People",
+      "d": "Families"
+    },
+    {
+      "question": "The process of colonialism in Nigeria consequently affected our collective _______",
+      "type": "single",
+      "correct": "A (PAGE 8)",
+      "a": "Retrogression",
+      "b": "Atmosphere",
+      "c": "Resolution",
+      "d": "Culture"
+    },
+    {
+      "question": "What year was Nigeria colonized",
+      "type": "single",
+      "correct": "a",
+      "a": "1914",
+      "b": "1884",
+      "c": "1960",
+      "d": "1784"
+    },
+    {
+      "question": "Ethnicity is described as a social phenomenon associated with _______",
+      "type": "single",
+      "correct": "B (PAGE 30)",
+      "a": "Citizenship",
+      "b": "Identity of members of the largest",
+      "c": "National identification number",
+      "d": "Voter’s registration"
+    },
+    {
+      "question": "Language doesn’t help to bring about social economic and integration (a) . True (b) False",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Nigeria is separated three groups namely, northern personate, Southern personate and _____ (",
+      "type": "single",
+      "correct": "b",
+      "a": ". Mid western personate (",
+      "b": "Western personate (",
+      "c": "Eastern personate",
+      "d": "Option D"
+    },
+    {
+      "question": "What is the primary goal of nation building",
+      "type": "single",
+      "correct": "C (PAGE 21)",
+      "a": "Military",
+      "b": "Cultural diversity",
+      "c": "National unity",
+      "d": "Economic growth"
+    },
+    {
+      "question": "Challenges of nation building in Nigeria include",
+      "type": "single",
+      "correct": "B (PAGE 23)",
+      "a": "Economic stability",
+      "b": "Sectarian uprising and ethnic militia group",
+      "c": "High level of literacy",
+      "d": "Cultural unity"
+    },
+    {
+      "question": "How can political instability affect state building",
+      "type": "single",
+      "correct": "C (PAGE 29/30)",
+      "a": "It ensures ethnic unity",
+      "b": "It increases progress",
+      "c": "It disrupts national development",
+      "d": "It helps in foreign exchange"
+    },
+    {
+      "question": "___________ is common especially among the youth which is alarming",
+      "type": "single",
+      "correct": "D (PAGE 32)",
+      "a": "House",
+      "b": "People",
+      "c": "Government",
+      "d": "Youth unemployment"
+    },
+    {
+      "question": "__________ in Nigeria especially among youth has remained alarming",
+      "type": "single",
+      "correct": "C (PAGE 32)",
+      "a": "House",
+      "b": "Globalization",
+      "c": "Youth unemployment",
+      "d": "People"
+    },
+    {
+      "question": "Which of the following symbol of the Nigeria assembly?",
+      "type": "single",
+      "correct": "A (PAGE 21)",
+      "a": "National flag",
+      "b": "Culture",
+      "c": "Terrain",
+      "d": "National anthem"
+    },
+    {
+      "question": "In 1900, Nigeria was divided into three separate territories, The Niger coastal/Southern protectorate, the Northern protectorate and _______",
+      "type": "single",
+      "correct": "c",
+      "a": "Mid-western protectorate",
+      "b": "Eastern protectorate",
+      "c": "Western protectorate",
+      "d": "Colony"
+    },
+    {
+      "question": "The unemployment rate among Nigerian youth according to 2015 NBS figure is",
+      "type": "single",
+      "correct": "C (PAGE 83)",
+      "a": "16 million",
+      "b": "80 million",
+      "c": "64 million",
+      "d": "32 million"
+    },
+    {
+      "question": "Native administration is a kind of Local Government administration introduced in British to govern each community in",
+      "type": "single",
+      "correct": "c",
+      "a": "Southern protectorate",
+      "b": "Nigeria protectorate",
+      "c": "Northern protectorate",
+      "d": "Lagos protectorate"
+    },
+    {
+      "question": "The Introduction of Sharia law in 2000 occurred in",
+      "type": "single",
+      "correct": "C (PAGE 25)",
+      "a": "Southern Nigeria",
+      "b": "Eastern Nigeria",
+      "c": "Northern Nigeria",
+      "d": "Western Nigeria"
+    },
+    {
+      "question": "The Transition tonation-states in Europe was",
+      "type": "single",
+      "correct": "B (PAGE 18)",
+      "a": "18th century",
+      "b": "19th Century",
+      "c": "20th Century",
+      "d": "21st Century"
+    },
+    {
+      "question": "Citizenship regimes in nation states are ______",
+      "type": "single",
+      "correct": "B (PAGE 19)",
+      "a": "Arbitary and random",
+      "b": "Institutionalized standards for naturalization",
+      "c": "Not important",
+      "d": "Defined by temporary rules"
+    },
+    {
+      "question": "The Egbesu boys are militant youth wing of the ______ region in Nigeria",
+      "type": "single",
+      "correct": "B (PAGE 25)",
+      "a": "South-Southern",
+      "b": "South-Western",
+      "c": "North-Eastern",
+      "d": "North-Western"
+    },
+    {
+      "question": ".",
+      "type": "single",
+      "correct": "d",
+      "a": "Deities",
+      "b": "Dilemma",
+      "c": "Dialect",
+      "d": "Dialogue"
+    },
+    {
+      "question": "..",
+      "type": "single",
+      "correct": "d",
+      "a": "Scientifically",
+      "b": "Biologically",
+      "c": "Physiologically",
+      "d": "Culturally"
+    },
+    {
+      "question": "..",
+      "type": "single",
+      "correct": "C (PAGE 25)",
+      "a": "Petty corruption",
+      "b": "Grand corruption",
+      "c": "Endemic corruption",
+      "d": "Political corruption"
+    },
+    {
+      "question": "Corruption has continued to manifest both in public and ______ lives of Nigeria people",
+      "type": "single",
+      "correct": "A (PAGE 25)",
+      "a": "Private",
+      "b": "Regional",
+      "c": "Community",
+      "d": "Sector"
+    },
+    {
+      "question": "A nation-state has ________ meaning has the ultimate authority within its borders and is not subject to any external power",
+      "type": "single",
+      "correct": "C (PAGE 17)",
+      "a": "Population",
+      "b": "Territory",
+      "c": "Sovereignty",
+      "d": "Government"
+    },
+    {
+      "question": "Creation of national __________ is to enhance sound nation building",
+      "type": "single",
+      "correct": "C (PAGE 23 OR 35)",
+      "a": "Roads",
+      "b": "State",
+      "c": "Consciousness",
+      "d": "Map"
+    },
+    {
+      "question": "The following are ways a nation can be built except (",
+      "type": "typing",
+      "correct": "A (PAGE 34)",
+      "a": ". Conflict (",
+      "b": "Good leaderdship (",
+      "c": "Patrotism"
+    },
+    {
+      "question": "A nation state has _______ with clearly defined geographical borders (",
+      "type": "typing",
+      "correct": "B (PAGE 17)",
+      "a": ". population (",
+      "b": "Territory (",
+      "c": "State environment"
+    },
+    {
+      "question": "Ethnicity is based on (",
+      "type": "single",
+      "correct": "c",
+      "a": ". Voter card (",
+      "b": "Citizenship (",
+      "c": "Individual",
+      "d": "Option D"
+    },
+    {
+      "question": "The type of conflict between two communities over a dispute is (",
+      "type": "typing",
+      "correct": "A (PAGE 33)",
+      "a": ". Communal (",
+      "b": "Social (",
+      "c": "Political"
+    },
+    {
+      "question": "(",
+      "type": "single",
+      "correct": "b",
+      "a": ". Everyday abuse of entrusted power by low and mid-level public officials (",
+      "b": ". Distortion of policy (",
+      "c": ". Pick pocket (",
+      "d": ". Manipulation of polity Clear my choice"
+    },
+    {
+      "question": "The idea of male and female selection can be described with the term (",
+      "type": "typing",
+      "correct": "B (PAGE 28)",
+      "a": ". Gender equality (",
+      "b": "Gender inequality (",
+      "c": "Gender discrimination"
+    },
+    {
+      "question": "Who led the Biafra group",
+      "type": "single",
+      "correct": "b",
+      "a": "Nnamdi Azikwe",
+      "b": "Nnamdi Kanu",
+      "c": "Peter Okopi",
+      "d": "Nnamkwo Kanu"
+    },
+    {
+      "question": "One of the following belongs to the NigerCongo family",
+      "type": "single",
+      "correct": "D (PAGE 69)",
+      "a": "the Berber branch",
+      "b": "the Nilotic branch",
+      "c": "the Handza branch",
+      "d": "the West Atlantic branch"
+    },
+    {
+      "question": "The following are to specifically ensure the conduct of free and fair elections in Nigeria",
+      "type": "single",
+      "correct": "D (PAGE 30)",
+      "a": "The Tribunals",
+      "b": "The society",
+      "c": "The Judiciary",
+      "d": "The Independent National Electoral Commission (INEC)"
+    },
+    {
+      "question": "The shared beliefs about governance and civic responsibilities is called",
+      "type": "single",
+      "correct": "d",
+      "a": "Social ideal",
+      "b": "Cultural ideal",
+      "c": "Religious ideal",
+      "d": "Political ideal"
+    },
+    {
+      "question": "The following are concepts of national identity except",
+      "type": "single",
+      "correct": "C (PAGE 18)",
+      "a": "Political ideas",
+      "b": "Culture",
+      "c": "Dishonesty",
+      "d": "Language"
+    },
+    {
+      "question": "Which of the following is not a method of nation-building",
+      "type": "single",
+      "correct": "d",
+      "a": "National education system",
+      "b": "Social programmers",
+      "c": "Cultural integration",
+      "d": "Political fragmentation"
+    },
+    {
+      "question": "How can economic disparity affect nation-building?",
+      "type": "single",
+      "correct": "C (PAGE 32)",
+      "a": "It enhances educational access",
+      "b": "It strengthens social cohesion",
+      "c": "It creates divisions and unrest",
+      "d": "It promotes equal opportunities"
+    },
+    {
+      "question": "Which of the following options has the major linguistic groups in Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 69)",
+      "a": "Hausa, Igbo and Yoruba",
+      "b": "AfroAsiatic, NiloSaharan and CongoNiger",
+      "c": "AfroAsiatic, NiloSaharan and NigerCongo",
+      "d": "Kordofanian, Rodovital and NiloSaharan"
+    },
+    {
+      "question": "______ often times result to loss of lives and properties",
+      "type": "single",
+      "correct": "B (PAGE 33)",
+      "a": "Education",
+      "b": "Communal conflict",
+      "c": "Development",
+      "d": "Industry"
+    },
+    {
+      "question": "(",
+      "type": "multiple",
+      "correct": [
+        "a (page 25 and 26",
+        "the odd one out)"
+      ],
+      "a": ". Public corruption (",
+      "b": ". Moral corruption (",
+      "c": "Political corruption (",
+      "d": "Grand corruption"
+    },
+    {
+      "question": "Language classification is essential has the following except ________",
+      "type": "single",
+      "correct": "A (PAGE 72)",
+      "a": "Conflict development",
+      "b": "Language documentation or Language development",
+      "c": "Language preservation",
+      "d": "Educational development"
+    },
+    {
+      "question": "_____ refers to conflict involving two or more communities engaging themselves in disagreement or act of violence over issues",
+      "type": "single",
+      "correct": "D (PAGE 72)",
+      "a": "Development",
+      "b": "People",
+      "c": "Education",
+      "d": "Communal conflict"
+    },
+    {
+      "question": "________ the wide gap between the rich and the poor will enhance strong nation building in Nigeria",
+      "type": "single",
+      "correct": "C (PAGE 37)",
+      "a": "Supporting",
+      "b": "Increasing",
+      "c": "Bridging",
+      "d": "Enlarging"
+    },
+    {
+      "question": "Ife and modekeke conflict was more of _________ violence",
+      "type": "single",
+      "correct": "B (PAGE 34)",
+      "a": "Religious",
+      "b": "Electoral",
+      "c": "Children",
+      "d": "Church"
+    },
+    {
+      "question": "________ is used to describe the gap of discrepancies or imbalances between male and female",
+      "type": "single",
+      "correct": "D (PAGE 28)",
+      "a": "Gender balance",
+      "b": "Gender equity",
+      "c": "Gender quality",
+      "d": "Gender inequality"
+    },
+    {
+      "question": "_______ is the status of belonging to a nation",
+      "type": "single",
+      "correct": "C (PAGE 18)",
+      "a": "Fellowship",
+      "b": "Membership",
+      "c": "Citizenship",
+      "d": "Friendship"
+    },
+    {
+      "question": "Which of this is advantageous in the distribution of tangible and intangible resources (",
+      "type": "typing",
+      "correct": "C (PAGE 31)",
+      "a": ". Children (",
+      "b": "Youth (",
+      "c": "North"
+    },
+    {
+      "question": "In what year was the UN’s fourth world conference on women held in Beijing China",
+      "type": "single",
+      "correct": "D (PAGE 29)",
+      "a": "1985",
+      "b": "2005",
+      "c": "2015",
+      "d": "1995"
+    },
+    {
+      "question": "Which of the following is a much larger linguistic group",
+      "type": "single",
+      "correct": "A (PAGE 70)",
+      "a": "AfroAsiatic",
+      "b": "Niger-Congo-Kordofanian",
+      "c": "Nilo-Saharan",
+      "d": "Khoisan"
+    },
+    {
+      "question": "Federal government are accused for ________ the niger delta expert",
+      "type": "single",
+      "correct": "A (PAGE 24)",
+      "a": "Undue exploitation",
+      "b": "Lack of government",
+      "c": "Lack of neglect of government",
+      "d": "Government position"
+    },
+    {
+      "question": "___________ leadership contribute to a strong nation",
+      "type": "single",
+      "correct": "C (PAGE 35)",
+      "a": "Weak",
+      "b": "Tender",
+      "c": "Responsive",
+      "d": "Bad"
+    },
+    {
+      "question": "Communal conflict occurs at either ______ or ______ level",
+      "type": "single",
+      "correct": "A (PAGE 34)",
+      "a": "Inter or Intra",
+      "b": "Intra or Endeavor",
+      "c": "People or Culture",
+      "d": "Inter or indigenous",
+      "e": "Enterprise and extravaneous"
+    },
+    {
+      "question": "Underemployment among youths in Nigeria has promote (",
+      "type": "typing",
+      "correct": "C (PAGE 33)",
+      "a": ". Progress (",
+      "b": "Food (",
+      "c": "Desperation"
+    },
+    {
+      "question": "Why is political stability major in nation building",
+      "type": "single",
+      "correct": "D (PAGE 21)",
+      "a": "Encourages social unrest",
+      "b": "Limits international relations",
+      "c": "Fosters economic inequality",
+      "d": "Promotes consistent governance"
+    },
+    {
+      "question": "A nation state has clearly defined geographical borders referred to as ______",
+      "type": "single",
+      "correct": "D (PAGE 17)",
+      "a": "Edges",
+      "b": "Borders",
+      "c": "Frontiers",
+      "d": "Territory"
+    },
+    {
+      "question": "The following characteristics of nation state except",
+      "type": "single",
+      "correct": "A (PAGE 17)",
+      "a": "Conflict",
+      "b": "Territory",
+      "c": "Population",
+      "d": "National identity"
+    },
+    {
+      "question": "Lagos and Maiduguri are affected ______ (",
+      "type": "typing",
+      "correct": "A (PAGE 37)",
+      "a": ". Flood (",
+      "b": "Desertification (",
+      "c": "Land"
+    },
+    {
+      "question": "________ remained unabated in places like lagos and Maiduguri (",
+      "type": "typing",
+      "correct": "B (PAGE 37)",
+      "a": ". Desertification (",
+      "b": "Flood (",
+      "c": "Land"
+    },
+    {
+      "question": "_______ is common with African economies",
+      "type": "single",
+      "correct": "B (PAGE 31)",
+      "a": "Water",
+      "b": "Low productivity",
+      "c": "Road",
+      "d": "High productivity"
+    },
+    {
+      "question": "________ is the major alarming problem among Nigerian youths today",
+      "type": "single",
+      "correct": "A (PAGE 32)",
+      "a": "Youth unemployment",
+      "b": "Language",
+      "c": "Diversity",
+      "d": "Ethnic groups"
+    },
+    {
+      "question": "_______ is a major need in Nigeria from the time past",
+      "type": "single",
+      "correct": "A (PAGE 20)",
+      "a": "Nation building",
+      "b": "Instability",
+      "c": "Nation state",
+      "d": "Ethnic groups"
+    },
+    {
+      "question": "Status of being membership of a country is known as",
+      "type": "single",
+      "correct": "a",
+      "a": "Citizenship",
+      "b": "Membership",
+      "c": "Fellowship",
+      "d": "Friendship"
+    },
+    {
+      "question": "What is common challenges in nature building",
+      "type": "single",
+      "correct": "C (PAGE 23)",
+      "a": "Overabundance of resources",
+      "b": "Excessive unity",
+      "c": "Ethnic tensions",
+      "d": "Rapid industrialization"
+    },
+    {
+      "question": "The following are characteristics of culture except",
+      "type": "single",
+      "correct": "D (PAGE 5)",
+      "a": "Learned",
+      "b": "Shared",
+      "c": "Integration",
+      "d": "None"
+    },
+    {
+      "question": "What roles does language play in culture",
+      "type": "single",
+      "correct": "C (PAGE 73)",
+      "a": "It is irrelevant",
+      "b": "It only affect written culture",
+      "c": "It serves as a primary means of communication and cultural expression",
+      "d": "It is only important in formal education"
+    },
+    {
+      "question": "Kanuri belongs to which family (",
+      "type": "typing",
+      "correct": "A (PAGE 70)",
+      "a": ". Sudanic (",
+      "b": "Click (",
+      "c": "Kordofan"
+    },
+    {
+      "question": "During the precolonial, Nigeria was divided into Southern protectorate, Northern protectorate and ________ (a) . Eastern protectorate (b) Westeren protectorate",
+      "type": "single",
+      "correct": "b",
+      "a": "Option A",
+      "b": "Option B",
+      "c": "Option C",
+      "d": "Option D"
+    },
+    {
+      "question": "Restoration of democratic rule was in the year (",
+      "type": "typing",
+      "correct": "A (page 30)",
+      "a": ". 1999 (",
+      "b": "1998 (",
+      "c": "2002"
+    },
+    {
+      "question": "Which militant group emerged from the South East to demand succession?",
+      "type": "single",
+      "correct": "C (PAGE 24 AND 25)",
+      "a": "Boko Haram",
+      "b": "Movement for the Emancipation of Niger Delta (MEND)",
+      "c": "Indigenous People of Biafra (IPOB)",
+      "d": "Arewa Youths"
+    },
+    {
+      "question": "Grand corruption is characterized ?",
+      "type": "single",
+      "correct": "B (PAGE 25)",
+      "a": "Low-level officals’ misconduct",
+      "b": "High-level acts distorting polity for personal gain",
+      "c": "Minor administrative practices",
+      "d": "Legal financial practices"
+    },
+    {
+      "question": "The yoruba people are known for their",
+      "type": "single",
+      "correct": "A (PAGE 60)",
+      "a": "Rich oral traditions",
+      "b": "Nomadic lifestyle",
+      "c": "Fishing practices",
+      "d": "Agricultural techniques"
+    }
+  ]
+}

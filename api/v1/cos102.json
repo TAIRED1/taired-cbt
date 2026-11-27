@@ -1,0 +1,3371 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "COS102",
+    "total_questions": 373
+  },
+  "data": [
+    {
+      "question": "What is a problem in computing?",
+      "type": "single",
+      "correct": "a",
+      "a": "A task or question that requires a solution through computational means.",
+      "b": "The desired result or solution after processing the input supplied to the system.",
+      "c": "The data or information provided to the system.",
+      "d": "The objective or purpose of solving the problem."
+    },
+    {
+      "question": "Which characteristic defines input in computing problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "The objective or purpose of solving the problem.",
+      "b": "The desired result or solution.",
+      "c": "The data or information provided to the system.",
+      "d": "The conditions that must be met for a solution to be valid."
+    },
+    {
+      "question": "What is the definition of output in computing problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "The data or information provided to the system.",
+      "b": "The desired result or solution after processing the input.",
+      "c": "The objective or purpose of solving the problem.",
+      "d": "The conditions that must be met for a solution to be valid."
+    },
+    {
+      "question": "What do constraints represent in computing problems?",
+      "type": "single",
+      "correct": "d",
+      "a": "The objective or purpose of solving the problem.",
+      "b": "The desired result or solution.",
+      "c": "The data or information provided to the system.",
+      "d": "Conditions that must be met for a solution to be valid."
+    },
+    {
+      "question": "What is the goal in computing problems?",
+      "type": "single",
+      "correct": "a",
+      "a": "The objective or purpose of solving the problem.",
+      "b": "The desired result or solution.",
+      "c": "The data or information provided to the system.",
+      "d": "The conditions that must be met for a solution to be valid."
+    },
+    {
+      "question": "What is a common example of a problem in computing related to ordering items?",
+      "type": "single",
+      "correct": "b",
+      "a": "Search problem",
+      "b": "Sorting problem",
+      "c": "Optimization problem",
+      "d": "Graph problem"
+    },
+    {
+      "question": "What is the input for a sorting problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "A sorted list of numbers.",
+      "b": "An unsorted list of numbers.",
+      "c": "A target item.",
+      "d": "A graph with nodes and edges."
+    },
+    {
+      "question": "Which characteristic describes a well-defined computational problem?",
+      "type": "single",
+      "correct": "c",
+      "a": "It should be measurable.",
+      "b": "It should produce a correct solution.",
+      "c": "It should have a clear definition of input, output, constraints, and goal.",
+      "d": "It should yield multiple possible solutions."
+    },
+    {
+      "question": "What does it mean for a computational problem to be solvable?",
+      "type": "single",
+      "correct": "b",
+      "a": "There should be a clear definition of input and output.",
+      "b": "At least one algorithm can produce a correct solution.",
+      "c": "The solution should be measurable.",
+      "d": "It should have clearly defined constraints."
+    },
+    {
+      "question": "What does the measurability of a computational problem refer to?",
+      "type": "single",
+      "correct": "c",
+      "a": "The problem produces a correct solution.",
+      "b": "The problem has a clear definition of input and output.",
+      "c": "The effectiveness of the solution can be measured in terms of time complexity, space complexity, or accuracy.",
+      "d": "The problem has at least one algorithm to solve it."
+    },
+    {
+      "question": "What are intractable problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "Problems for which no algorithm can be made that always leads to a correct yes-or-no answer.",
+      "b": "Problems that can be solved in polynomial time (P).",
+      "c": "Problems for which no polynomial-time solutions are known (NP-complete, NP-hard).",
+      "d": "Problems that are easy to solve."
+    },
+    {
+      "question": "What are undecidable problems?",
+      "type": "single",
+      "correct": "a",
+      "a": "Problems for which no algorithm can be made that always leads to a correct yes-or-no answer.",
+      "b": "Problems that can be solved in polynomial time (P).",
+      "c": "Problems for which no polynomial-time solutions are known (NP-complete, NP-hard).",
+      "d": "Problems that are easy to solve."
+    },
+    {
+      "question": "Which of the following is an example of a tractable problem?",
+      "type": "single",
+      "correct": "c",
+      "a": "Traveling Salesman Problem.",
+      "b": "Halting Problem.",
+      "c": "Sorting a list of numbers.",
+      "d": "Knapsack Problem."
+    },
+    {
+      "question": "What is the Halting Problem an example of?",
+      "type": "single",
+      "correct": "c",
+      "a": "Tractable Problem.",
+      "b": "Intractable Problem.",
+      "c": "Undecidable Problem.",
+      "d": "Decision Problem."
+    },
+    {
+      "question": "What are the major categories of problems based on their solvability?",
+      "type": "single",
+      "correct": "b",
+      "a": "Computational, Decision, Optimization.",
+      "b": "Tractable, Intractable, Undecidable.",
+      "c": "Search, Counting, Enumeration.",
+      "d": "Dynamic, Static, Heuristic."
+    },
+    {
+      "question": "What is the primary characteristic of Computational Problems?",
+      "type": "single",
+      "correct": "d",
+      "a": "They require a 'yes' or 'no' answer.",
+      "b": "They seek the best solution from a set of possible solutions.",
+      "c": "They require finding a specific item or solution.",
+      "d": "They require numerical computations and algorithms."
+    },
+    {
+      "question": "What distinguishes Decision Problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "They seek the best solution from a set of possible solutions.",
+      "b": "They require finding a specific item or solution.",
+      "c": "They require a 'yes' or 'no' answer.",
+      "d": "They require numerical computations."
+    },
+    {
+      "question": "What is the objective of Optimization Problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "To find a 'yes' or 'no' answer.",
+      "b": "To find a specific item or solution.",
+      "c": "To seek the best solution from a set of possible solutions based on certain criteria.",
+      "d": "To count the number of possible solutions."
+    },
+    {
+      "question": "What is a common example of an Optimization Problem?",
+      "type": "single",
+      "correct": "c",
+      "a": "Primality Testing.",
+      "b": "Binary Search.",
+      "c": "Traveling Salesman Problem.",
+      "d": "Finding the shortest path in a graph."
+    },
+    {
+      "question": "What is the goal of Search Problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "To count the number of solutions.",
+      "b": "To find a specific item or solution within a large set of possibilities.",
+      "c": "To determine if a program will halt.",
+      "d": "To find the optimal solution."
+    },
+    {
+      "question": "What is the primary characteristic of Constraint Satisfaction Problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "They involve allocating resources over time.",
+      "b": "They involve operations on strings of characters.",
+      "c": "They require finding a solution that satisfies a set of constraints.",
+      "d": "They involve geometric shapes."
+    },
+    {
+      "question": "Which of the following is an example of a Constraint Satisfaction Problem?",
+      "type": "single",
+      "correct": "c",
+      "a": "Job Scheduling.",
+      "b": "Pattern Matching.",
+      "c": "Sudoku.",
+      "d": "Finding the shortest path."
+    },
+    {
+      "question": "What type of problem involves allocating resources over time to perform a collection of tasks?",
+      "type": "single",
+      "correct": "b",
+      "a": "String Processing Problems.",
+      "b": "Scheduling Problems.",
+      "c": "Geometric Problems.",
+      "d": "Graph Problems."
+    },
+    {
+      "question": "What is a common example of a Scheduling Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Text Compression.",
+      "b": "Job Scheduling.",
+      "c": "Identifying objects within images.",
+      "d": "Encrypting plaintext."
+    },
+    {
+      "question": "What do String Processing Problems involve?",
+      "type": "single",
+      "correct": "c",
+      "a": "Operations on geometric shapes.",
+      "b": "Techniques for secure communication.",
+      "c": "Operations on strings of characters.",
+      "d": "Allocating resources over time."
+    },
+    {
+      "question": "Which of the following is an example of a String Processing Problem?",
+      "type": "single",
+      "correct": "c",
+      "a": "Timetable Scheduling.",
+      "b": "Graph Coloring.",
+      "c": "Pattern Matching.",
+      "d": "Sudoku."
+    },
+    {
+      "question": "What do Geometric Problems primarily involve?",
+      "type": "single",
+      "correct": "c",
+      "a": "Developing models from data.",
+      "b": "Operations on strings of characters.",
+      "c": "Geometric shapes and their properties.",
+      "d": "Operations on graph structures."
+    },
+    {
+      "question": "What is the core of computer science according to the text?",
+      "type": "single",
+      "correct": "b",
+      "a": "String Processing Problems.",
+      "b": "Problem Solving Process.",
+      "c": "Machine Learning Problems.",
+      "d": "Cryptographic Problems."
+    },
+    {
+      "question": "What do Machine Learning Problems involve?",
+      "type": "single",
+      "correct": "b",
+      "a": "Operations on graph structures.",
+      "b": "Developing models that can learn from and make predictions or decisions based on data.",
+      "c": "Techniques for secure communication.",
+      "d": "Operations on strings of characters."
+    },
+    {
+      "question": "What is an example of a Cryptographic Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Regression.",
+      "b": "Encryption.",
+      "c": "Maximum Flow.",
+      "d": "Shortest Path."
+    },
+    {
+      "question": "What is the first step in understanding a problem in computing?",
+      "type": "single",
+      "correct": "d",
+      "a": "Planning the solution.",
+      "b": "Designing the algorithm.",
+      "c": "Determining the approach.",
+      "d": "Formulating the problem statement."
+    },
+    {
+      "question": "What is involved in understanding the problem statement?",
+      "type": "single",
+      "correct": "b",
+      "a": "Breaking down the problem.",
+      "b": "Identifying the inputs, outputs, constraints, and goals.",
+      "c": "Ensuring correctness and efficiency.",
+      "d": "Translating the algorithm into code."
+    },
+    {
+      "question": "What is the next step after understanding the problem in the problem-solving process?",
+      "type": "single",
+      "correct": "b",
+      "a": "Designing the algorithm.",
+      "b": "Planning the solution.",
+      "c": "Testing and debugging.",
+      "d": "Implementing the solution."
+    },
+    {
+      "question": "What is the first action to take when planning a solution?",
+      "type": "single",
+      "correct": "b",
+      "a": "Determine the approach.",
+      "b": "Break down the problem.",
+      "c": "Design the algorithm.",
+      "d": "Implement the code."
+    },
+    {
+      "question": "What does \"breaking down the problem\" involve in planning a solution?",
+      "type": "single",
+      "correct": "b",
+      "a": "Choosing an algorithm.",
+      "b": "Dividing the problem into smaller, manageable parts.",
+      "c": "Ensuring correctness.",
+      "d": "Writing the code."
+    },
+    {
+      "question": "What is the purpose of \"determining the approach\" in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "To break down the problem into smaller parts.",
+      "b": "To choose an algorithm or strategy that fits the problem requirements.",
+      "c": "To verify the algorithm produces the correct output.",
+      "d": "To translate the algorithm into a programming language."
+    },
+    {
+      "question": "What is the next step after planning the solution and determining the approach?",
+      "type": "single",
+      "correct": "c",
+      "a": "Understanding the problem.",
+      "b": "Implementing the solution.",
+      "c": "Designing the algorithm.",
+      "d": "Testing and debugging."
+    },
+    {
+      "question": "What does \"designing the algorithm\" primarily involve?",
+      "type": "single",
+      "correct": "b",
+      "a": "Testing with various test cases.",
+      "b": "Developing a step-by-step procedure to solve the problem.",
+      "c": "Translating the algorithm into code.",
+      "d": "Analyzing time and space complexity."
+    },
+    {
+      "question": "What is a key consideration when ensuring correctness and efficiency during algorithm design?",
+      "type": "single",
+      "correct": "b",
+      "a": "Translating the algorithm into a programming language.",
+      "b": "Verifying the algorithm produces the correct output for all possible inputs.",
+      "c": "Choosing between quicksort and mergesort.",
+      "d": "Breaking down the problem."
+    },
+    {
+      "question": "What is the final step in the problem-solving process described?",
+      "type": "single",
+      "correct": "d",
+      "a": "Designing the Algorithm.",
+      "b": "Implementation.",
+      "c": "Planning the Solution.",
+      "d": "Testing and Debugging."
+    },
+    {
+      "question": "What is the purpose of \"Debugging and Fix Errors\" in the problem-solving process?",
+      "type": "single",
+      "correct": "b",
+      "a": "To improve the algorithm's performance.",
+      "b": "To identify and resolve any issues or bugs in the code.",
+      "c": "To make the algorithm more robust.",
+      "d": "To document the solution."
+    },
+    {
+      "question": "What is involved in \"Refine Efficiency\" of an algorithm?",
+      "type": "single",
+      "correct": "b",
+      "a": "Making the algorithm more robust.",
+      "b": "Optimizing the algorithm to run faster or use fewer resources.",
+      "c": "Identifying and resolving bugs.",
+      "d": "Documenting the code."
+    },
+    {
+      "question": "What is the goal of \"Refine the Algorithm\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "To improve efficiency.",
+      "b": "To make the algorithm more robust and maintainable.",
+      "c": "To fix errors in the code.",
+      "d": "To document the solution."
+    },
+    {
+      "question": "Why is it important to \"Document the Solution\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "To find and fix bugs.",
+      "b": "To make the algorithm run faster.",
+      "c": "To provide clear and comprehensive documentation for the code, including explanations and comments.",
+      "d": "To ensure the algorithm handles edge cases."
+    },
+    {
+      "question": "What are \"Core Concepts in Computing for Problem Solving\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "The steps involved in debugging an algorithm.",
+      "b": "Essential concepts that form the foundation of computing and are crucial for developing efficient and effective solutions.",
+      "c": "Methods for documenting code.",
+      "d": "Techniques for optimizing algorithm performance."
+    },
+    {
+      "question": "What is an algorithm?",
+      "type": "single",
+      "correct": "b",
+      "a": "A specific way of organizing data on a specialized format.",
+      "b": "A finite set of well-defined instructions for solving a specific problem or performing a task.",
+      "c": "A linear structure allowing specific access rules.",
+      "d": "A process of identifying and resolving issues in code."
+    },
+    {
+      "question": "What makes a good algorithm?",
+      "type": "single",
+      "correct": "c",
+      "a": "It is complex and difficult to understand.",
+      "b": "It uses as many resources as possible.",
+      "c": "It produces the correct output for all valid inputs and uses resources efficiently (time and space efficiency).",
+      "d": "It only works for a limited set of inputs."
+    },
+    {
+      "question": "What are Data Structures?",
+      "type": "single",
+      "correct": "b",
+      "a": "A set of instructions for solving a problem.",
+      "b": "A way of organizing data on a specialized format in a computer so that information can be organized, processed, stored, and retrieved quickly and effectively.",
+      "c": "A process of debugging code.",
+      "d": "A method for documenting solutions."
+    },
+    {
+      "question": "Which of the following is an example of a Data Structure listed?",
+      "type": "single",
+      "correct": "c",
+      "a": "Quicksort.",
+      "b": "Binary search.",
+      "c": "Arrays.",
+      "d": "An algorithm."
+    },
+    {
+      "question": "What is a characteristic of Stacks and Queues as data structures?",
+      "type": "single",
+      "correct": "c",
+      "a": "They are flexible in terms of how elements are accessed.",
+      "b": "They are non-linear structures.",
+      "c": "They are linear structures following specific access rules (LIFO for stacks, FIFO for queues).",
+      "d": "They are used for random data access."
+    },
+    {
+      "question": "What does Complexity measure in computing?",
+      "type": "single",
+      "correct": "a",
+      "a": "The efficiency of an algorithm in terms of time and space.",
+      "b": "The process of defining a problem in terms of itself.",
+      "c": "A problem-solving strategy designed to find an optimal solution.",
+      "d": "The study of relationships between vertices and edges."
+    },
+    {
+      "question": "What is Big O Notation used to describe?",
+      "type": "single",
+      "correct": "b",
+      "a": "The exact running time of an algorithm.",
+      "b": "The upper bound of an algorithm's complexity.",
+      "c": "The actual memory usage of an algorithm.",
+      "d": "The number of steps involved in a recursive function."
+    },
+    {
+      "question": "What is Recursion in the context of problem-solving?",
+      "type": "single",
+      "correct": "c",
+      "a": "A method for organizing data.",
+      "b": "A problem-solving strategy designed to find an optimal solution.",
+      "c": "A process where a procedure goes through one or more steps of the procedure itself, involving calling itself to solve smaller instances of the same problem.",
+      "d": "A technique for secure communication."
+    },
+    {
+      "question": "What is the \"Base Case\" in a recursive function?",
+      "type": "single",
+      "correct": "b",
+      "a": "The part of the function that includes the recursive call.",
+      "b": "The condition under which the recursive function stops calling itself.",
+      "c": "The input to the recursive function.",
+      "d": "The output of the recursive function."
+    },
+    {
+      "question": "What is the \"Recursive Case\" in a recursive function?",
+      "type": "single",
+      "correct": "b",
+      "a": "The condition under which the recursive function stops calling itself.",
+      "b": "The part of the function that includes the recursive call.",
+      "c": "The initial value for the recursion.",
+      "d": "The final result of the recursion."
+    },
+    {
+      "question": "What are Heuristics in problem-solving?",
+      "type": "single",
+      "correct": "c",
+      "a": "A guarantee to find the optimal solution.",
+      "b": "A problem-solving strategy or method that is designed to find a guaranteed optimal solution.",
+      "c": "A problem-solving strategy or method that is not guaranteed to find the optimal solution, but is designed to find a good enough solution in a reasonable amount of time.",
+      "d": "A method for formal verification of an algorithm."
+    },
+    {
+      "question": "What is the focus of Graph Theory in computing?",
+      "type": "single",
+      "correct": "c",
+      "a": "Numerical computations and algorithms.",
+      "b": "Operations on strings of characters.",
+      "c": "Relationships between vertices and edges, often representing networks or social networks.",
+      "d": "Geometric shapes and their properties."
+    },
+    {
+      "question": "What is Distributed Computing?",
+      "type": "single",
+      "correct": "b",
+      "a": "Computing that involves only a single computer.",
+      "b": "Computing that is often used in tandem with parallel computing, involving multiple computers to process tasks.",
+      "c": "Computing that relies solely on heuristics.",
+      "d": "Computing that prioritizes recursion."
+    },
+    {
+      "question": "What is Parallel Computing?",
+      "type": "single",
+      "correct": "b",
+      "a": "Processing tasks on a single computer using a single processor.",
+      "b": "Processing tasks in parallel on a single computer with multiple processors.",
+      "c": "A form of distributed computing where tasks are processed sequentially.",
+      "d": "A method for solving undecidable problems."
+    },
+    {
+      "question": "What is an example of a Distributed and Parallel Computing application mentioned?",
+      "type": "single",
+      "correct": "b",
+      "a": "Fibonacci sequence.",
+      "b": "MapReduce.",
+      "c": "Sorting algorithms.",
+      "d": "Graph traversals."
+    },
+    {
+      "question": "What is a problem in computing defined as?",
+      "type": "single",
+      "correct": "a",
+      "a": "A situation where there is a gap between the current state and the desired state of a system or process.",
+      "b": "Defects in the software code.",
+      "c": "Issues where a system ceases to function correctly.",
+      "d": "Weaknesses in a system that could be exploited by attackers."
+    },
+    {
+      "question": "What are Software Bugs?",
+      "type": "single",
+      "correct": "b",
+      "a": "Weaknesses in a system that can be exploited by attackers.",
+      "b": "Defects in the software code that cause unexpected behavior.",
+      "c": "Issues where a system ceases to function correctly.",
+      "d": "Problems related to the algorithms and logic used within a program."
+    },
+    {
+      "question": "What occurs when a System Failure happens?",
+      "type": "single",
+      "correct": "c",
+      "a": "Defects in software code.",
+      "b": "The system not performing optimally.",
+      "c": "The system ceases to function correctly, often leading to downtime.",
+      "d": "Weaknesses exploited by attackers."
+    },
+    {
+      "question": "What do Performance Issues in computing involve?",
+      "type": "single",
+      "correct": "c",
+      "a": "Defects in software code.",
+      "b": "A system ceasing to function correctly.",
+      "c": "The system not performing optimally, such as slow response times.",
+      "d": "Weaknesses exploited by attackers."
+    },
+    {
+      "question": "What are Security Vulnerabilities?",
+      "type": "single",
+      "correct": "c",
+      "a": "Defects in software code that cause unexpected behavior.",
+      "b": "Issues where a system ceases to function correctly.",
+      "c": "Weaknesses in a system that could be exploited by attackers to gain unauthorized access.",
+      "d": "Problems related to algorithms and logic."
+    },
+    {
+      "question": "What do Technical Problems in computing refer to?",
+      "type": "single",
+      "correct": "a",
+      "a": "Problems related to the hardware or software components of a system.",
+      "b": "Flaws in the logic or steps designed to perform a specific task.",
+      "c": "Issues where data is not processed or managed correctly.",
+      "d": "Problems involving the efficiency and speed of a system."
+    },
+    {
+      "question": "What are Security Problems?",
+      "type": "single",
+      "correct": "a",
+      "a": "Weaknesses in a system that can be exploited by attackers.",
+      "b": "Defects in software code.",
+      "c": "Issues related to system performance.",
+      "d": "Problems concerning hardware failures."
+    },
+    {
+      "question": "What are Breaches in the context of security problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "Defects in software code.",
+      "b": "When unauthorized access to a system or data is gained.",
+      "c": "System failures leading to downtime.",
+      "d": "Issues of slow response times."
+    },
+    {
+      "question": "What is the primary reason for the importance of Early Problem Identification?",
+      "type": "single",
+      "correct": "c",
+      "a": "To increase software bugs.",
+      "b": "To avoid system failures.",
+      "c": "The cost of fixing a problem increases exponentially the later it is discovered.",
+      "d": "To enhance system performance only."
+    },
+    {
+      "question": "How does early problem identification impact User Satisfaction?",
+      "type": "single",
+      "correct": "b",
+      "a": "It decreases user trust.",
+      "b": "It addresses issues before they impact users, leading to higher satisfaction and trust.",
+      "c": "It leads to more security vulnerabilities.",
+      "d": "It has no impact on user satisfaction."
+    },
+    {
+      "question": "How does early detection of problems help System Stability?",
+      "type": "single",
+      "correct": "b",
+      "a": "By introducing more bugs.",
+      "b": "By maintaining the stability and reliability of a system.",
+      "c": "By increasing downtime.",
+      "d": "By leading to performance issues."
+    },
+    {
+      "question": "What is the role of Monitoring and Logging in identifying problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "They help in addressing user feedback.",
+      "b": "They are essential for real-time detection and historical analysis of problems.",
+      "c": "They primarily involve conducting user interviews.",
+      "d": "They focus on generating fixed-size hash values."
+    },
+    {
+      "question": "What is Automated Testing used for in problem identification?",
+      "type": "single",
+      "correct": "c",
+      "a": "To collect qualitative data through surveys.",
+      "b": "To systematically examine code by peers.",
+      "c": "To automatically catch errors early in development and verify the functionality of individual components.",
+      "d": "To analyze source code for common issues."
+    },
+    {
+      "question": "What is the purpose of Integration Tests in automated testing?",
+      "type": "single",
+      "correct": "b",
+      "a": "To verify individual unit functionality.",
+      "b": "To ensure that different components of the system work together correctly.",
+      "c": "To check for syntax errors in the code.",
+      "d": "To gather user feedback."
+    },
+    {
+      "question": "What do Code Reviews involve?",
+      "type": "single",
+      "correct": "b",
+      "a": "Automatic analysis of source code.",
+      "b": "Systematic examination of code by peers to identify potential issues.",
+      "c": "Testing the performance of a program.",
+      "d": "Collecting data from user interviews."
+    },
+    {
+      "question": "What are Peer Reviews in code review?",
+      "type": "single",
+      "correct": "b",
+      "a": "Tools for automatically analyzing source code.",
+      "b": "Collaborating with team members to review each other's code, providing feedback, and suggesting improvements.",
+      "c": "The process of debugging and fixing errors.",
+      "d": "Measuring the efficiency of an algorithm."
+    },
+    {
+      "question": "What do Static Analysis Tools do for problem identification?",
+      "type": "single",
+      "correct": "b",
+      "a": "They involve human review of code.",
+      "b": "They automatically analyze source code for common issues, such as syntax errors, potential bugs, and code style violations.",
+      "c": "They primarily focus on runtime performance.",
+      "d": "They are used for integration testing."
+    },
+    {
+      "question": "What are \"Tools for Problem Identification\" broadly categorized into?",
+      "type": "single",
+      "correct": "b",
+      "a": "Automated testing, code reviews, and static analysis.",
+      "b": "Debuggers, profilers, and monitoring systems.",
+      "c": "Peer reviews and user feedback.",
+      "d": "Surveys and interviews."
+    },
+    {
+      "question": "What is the next crucial step after problems are identified?",
+      "type": "single",
+      "correct": "b",
+      "a": "Implementing the solution.",
+      "b": "Analyzing Problems to understand their root causes and impacts.",
+      "c": "Debugging and fixing errors.",
+      "d": "Monitoring and logging."
+    },
+    {
+      "question": "What is Root Cause Analysis (RCA)?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method to identify the symptoms of a problem.",
+      "b": "A method used to identify the fundamental reasons for problems.",
+      "c": "A technique for optimizing algorithm performance.",
+      "d": "A tool for monitoring system stability."
+    },
+    {
+      "question": "What technique for Root Cause Analysis involves asking \"why\" multiple times?",
+      "type": "single",
+      "correct": "c",
+      "a": "Fishbone Diagram.",
+      "b": "Failure Mode and Effects Analysis (FMEA).",
+      "c": "Five Whys.",
+      "d": "Server Crash Analysis."
+    },
+    {
+      "question": "What is the typical number of \"whys\" asked in the Five Whys technique?",
+      "type": "single",
+      "correct": "d",
+      "a": "One.",
+      "b": "Two.",
+      "c": "Three.",
+      "d": "Five."
+    },
+    {
+      "question": "What is the purpose of a Fishbone Diagram (Ishikawa)?",
+      "type": "single",
+      "correct": "b",
+      "a": "To identify the symptoms of a problem.",
+      "b": "A visual tool used to systematically categorize potential causes of a problem.",
+      "c": "A method for analyzing the effects of failures.",
+      "d": "A technique for optimizing system performance."
+    },
+    {
+      "question": "What is Failure Mode and Effects Analysis (FMEA)?",
+      "type": "single",
+      "correct": "b",
+      "a": "A visual tool for categorizing problem causes.",
+      "b": "A step-by-step approach for identifying all possible failures in a design, process, product, or service.",
+      "c": "A technique involving asking \"why\" multiple times.",
+      "d": "A method for debugging software code."
+    },
+    {
+      "question": "What does \"Severity Levels\" refer to in problem assessment?",
+      "type": "single",
+      "correct": "c",
+      "a": "How many users are affected by a problem.",
+      "b": "How often a problem occurs.",
+      "c": "The impact a problem has on the system or users.",
+      "d": "How much effort and resources are required to resolve an issue."
+    },
+    {
+      "question": "What characterizes a \"Critical\" severity level?",
+      "type": "single",
+      "correct": "d",
+      "a": "Minor impact, often cosmetic.",
+      "b": "Moderate impact, requiring timely but not immediate attention.",
+      "c": "Significant impact, but not as widespread or urgent.",
+      "d": "Immediate and extensive impact requiring urgent resolution."
+    },
+    {
+      "question": "What is an example of a \"High\" severity issue?",
+      "type": "single",
+      "correct": "c",
+      "a": "Minor UI glitch.",
+      "b": "Performance degradation affecting user experience but not preventing use.",
+      "c": "Payment gateway issues preventing transactions for a subset of users.",
+      "d": "Data breach exposing sensitive customer information."
+    },
+    {
+      "question": "What is the Pareto Analysis (80/20 rule) used for in problem analysis?",
+      "type": "single",
+      "correct": "c",
+      "a": "To create visual diagrams of problem causes.",
+      "b": "To identify the root cause of a problem.",
+      "c": "To identify the most significant factors contributing to a problem.",
+      "d": "To visually represent system dependencies."
+    },
+    {
+      "question": "What are Dependency Graphs used for in Impact Analysis Tools?",
+      "type": "single",
+      "correct": "c",
+      "a": "To map out the causes of a problem.",
+      "b": "To identify the most significant factors contributing to a problem.",
+      "c": "To provide visual representations of system dependencies to understand the ripple effect of a problem.",
+      "d": "To evaluate the impact of various problems based on different criteria."
+    },
+    {
+      "question": "What do Impact Assessment Matrices do?",
+      "type": "single",
+      "correct": "d",
+      "a": "Map out the causes of a problem.",
+      "b": "Identify the most significant factors.",
+      "c": "Provide visual representations of system dependencies.",
+      "d": "Evaluate the impact of various problems based on different criteria."
+    },
+    {
+      "question": "What is the first step in \"Understanding the Requirements\" for a problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Design the solution using pseudocode.",
+      "b": "Clarify inputs and outputs.",
+      "c": "Choose the right tools.",
+      "d": "Implement the solution."
+    },
+    {
+      "question": "What should be determined regarding constraints when understanding requirements?",
+      "type": "single",
+      "correct": "b",
+      "a": "The programming language to use.",
+      "b": "Any limitations or constraints on your solution (e.g., time complexity, memory usage).",
+      "c": "The modular approach.",
+      "d": "The testing framework."
+    },
+    {
+      "question": "What is the purpose of \"Choosing the Right Tools and Techniques\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "To clarify inputs and outputs.",
+      "b": "To design the solution.",
+      "c": "To utilize existing libraries and frameworks that can simplify the task.",
+      "d": "To write clean and readable code."
+    },
+    {
+      "question": "What is a \"Modular Approach\" in designing a solution?",
+      "type": "single",
+      "correct": "b",
+      "a": "Using pseudocode and flowcharts.",
+      "b": "Breaking down the problem into smaller, manageable functions or modules.",
+      "c": "Writing clean and readable code.",
+      "d": "Utilizing built-in functions."
+    },
+    {
+      "question": "What is emphasized in \"Implement the Solution\" regarding code?",
+      "type": "single",
+      "correct": "c",
+      "a": "Using pseudocode.",
+      "b": "Breaking down the problem into modules.",
+      "c": "Writing Clean and Readable Code.",
+      "d": "Choosing the right tools."
+    },
+    {
+      "question": "What is the benefit of \"Using Built-in Functions\" during implementation?",
+      "type": "single",
+      "correct": "c",
+      "a": "It makes the code less readable.",
+      "b": "It complicates the implementation.",
+      "c": "It simplifies the implementation.",
+      "d": "It increases time complexity."
+    },
+    {
+      "question": "What is Step 6 in the problem-solving process as shown in the example?",
+      "type": "single",
+      "correct": "c",
+      "a": "Design the Solution.",
+      "b": "Implement the Solution.",
+      "c": "Test the Solution.",
+      "d": "Document the Solution."
+    },
+    {
+      "question": "What is the purpose of the `assert` statements in the \"Test the Solution\" example?",
+      "type": "single",
+      "correct": "c",
+      "a": "To sort the list of numbers.",
+      "b": "To define the function.",
+      "c": "To verify that the function produces the expected output for given inputs.",
+      "d": "To print a message to the console."
+    },
+    {
+      "question": "What is Step 7 in the problem-solving process, after testing?",
+      "type": "single",
+      "correct": "c",
+      "a": "Implement the Solution.",
+      "b": "Choose the Right Tools and Techniques.",
+      "c": "Document the Solution.",
+      "d": "Understand the Requirements."
+    },
+    {
+      "question": "What is the primary characteristic of \"Routine Type of Problems\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "They require creative thinking and novel approaches.",
+      "b": "They are often repetitive or well-suited for automation and leveraging built-in functions.",
+      "c": "They require in-depth analysis.",
+      "d": "They are typically complex and difficult to maintain."
+    },
+    {
+      "question": "What do \"Non-Routine Type of Problems\" often require?",
+      "type": "single",
+      "correct": "c",
+      "a": "Automation and built-in functions.",
+      "b": "Repetitive solutions.",
+      "c": "Creative thinking, novel approaches, and in-depth analysis.",
+      "d": "Straightforward or well-defined solutions."
+    },
+    {
+      "question": "What is the first step in \"Understanding the Problem\" for non-routine problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "Gather Information.",
+      "b": "Define the Problem.",
+      "c": "Clarify the inputs and outputs.",
+      "d": "Determine constraints."
+    },
+    {
+      "question": "What is the role of \"Explore and Research\" in solving non-routine problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "To define the problem.",
+      "b": "To identify potential solutions based on understanding and research.",
+      "c": "To conduct experiments and gather data.",
+      "d": "To translate the refined prototype into a full-fledged solution."
+    },
+    {
+      "question": "What does \"Brainstorming\" involve in the context of non-routine problem solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "Conducting experiments to test prototypes.",
+      "b": "Generating a variety of potential approaches without judging them initially.",
+      "c": "Translating a refined prototype into a full solution.",
+      "d": "Refining and improving solutions based on feedback."
+    },
+    {
+      "question": "What is the purpose of \"Evaluate Feasibility\" when formulating hypotheses?",
+      "type": "single",
+      "correct": "b",
+      "a": "To define the problem clearly.",
+      "b": "To assess the feasibility of each hypothesis considering resources and constraints.",
+      "c": "To generate a variety of potential approaches.",
+      "d": "To refine and improve solutions."
+    },
+    {
+      "question": "What is involved in \"Design and Prototype\" for non-routine problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "Conducting experiments to test prototypes.",
+      "b": "Developing detailed plans or designs for the most promising solutions and building preliminary versions.",
+      "c": "Refining and improving solutions.",
+      "d": "Translating the refined prototype into a full solution."
+    },
+    {
+      "question": "What is the main goal of \"Test and Validate\" in the problem-solving process for non-routine problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "To define the problem.",
+      "b": "To conduct experiments to test the prototypes and gather data.",
+      "c": "To develop the final solution.",
+      "d": "To ensure robustness."
+    },
+    {
+      "question": "What is the final step, \"Implement the Solution,\" in solving non-routine problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "Designing prototypes.",
+      "b": "Conducting experiments.",
+      "c": "Translating the refined prototype into a full-fledged solution and ensuring robustness, scalability, and maintainability.",
+      "d": "Evaluating the solution against initial goals."
+    },
+    {
+      "question": "What is the final step in the process for solving non-routine problems after \"Implement the Solution\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "Design and Prototype.",
+      "b": "Test and Validate.",
+      "c": "Evaluate and Reflect.",
+      "d": "Formulate Hypotheses and Approaches."
+    },
+    {
+      "question": "What does \"Assess effectiveness\" involve during the \"Evaluate and Reflect\" stage?",
+      "type": "single",
+      "correct": "b",
+      "a": "Developing custom algorithms.",
+      "b": "Continuously monitoring the system's performance and retraining the model with new data.",
+      "c": "Building and testing prototypes.",
+      "d": "Documenting lessons learned."
+    },
+    {
+      "question": "What is the purpose of \"Reflect on the process\" during the evaluation stage?",
+      "type": "single",
+      "correct": "b",
+      "a": "To identify problems based on user feedback.",
+      "b": "To document lessons learned and identify areas for improvement in future projects.",
+      "c": "To develop a detailed design for the solution.",
+      "d": "To implement the final solution."
+    },
+    {
+      "question": "What does \"Creative Thinking\" contribute to non-routine problem solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "It ensures code readability.",
+      "b": "It provides techniques like mind mapping, lateral thinking, and brainstorming.",
+      "c": "It focuses on numerical computations.",
+      "d": "It helps in sorting lists of numbers."
+    },
+    {
+      "question": "What is the role of \"Data Analysis\" in non-routine problem solving?",
+      "type": "single",
+      "correct": "c",
+      "a": "To develop custom algorithms.",
+      "b": "To build and test prototypes.",
+      "c": "To employ statistical analysis, machine learning, and data mining.",
+      "d": "To reflect on the problem-solving process."
+    },
+    {
+      "question": "What does \"Prototyping\" involve as a key technique for non-routine problem solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "Developing custom algorithms.",
+      "b": "Building and test prototypes to validate concepts quickly.",
+      "c": "Employing statistical analysis.",
+      "d": "Continuously monitoring system performance."
+    },
+    {
+      "question": "What is the key characteristic of \"Finiteness\" in an algorithm?",
+      "type": "single",
+      "correct": "b",
+      "a": "It must be able to handle a range of inputs.",
+      "b": "It must have a finite number of steps before it ends, and should not enter an endless loop.",
+      "c": "It must be able to solve a group of similar problems.",
+      "d": "It must produce one or more outputs."
+    },
+    {
+      "question": "What does \"Definiteness\" imply for an algorithm?",
+      "type": "single",
+      "correct": "c",
+      "a": "It should be able to solve various problems.",
+      "b": "It should have a finite number of steps.",
+      "c": "Each step of an algorithm should have clear and precise instructions, ensuring that it can be easily understood and executed.",
+      "d": "It should produce accurate results."
+    },
+    {
+      "question": "What are \"Input\" requirements for an algorithm?",
+      "type": "single",
+      "correct": "c",
+      "a": "It must produce one or more outputs.",
+      "b": "It must have a finite number of steps.",
+      "c": "Algorithms require one or more inputs, which are the values supplied to the algorithm before its processing begins.",
+      "d": "It must be easy to understand."
+    },
+    {
+      "question": "What defines \"Output\" in an algorithm?",
+      "type": "single",
+      "correct": "b",
+      "a": "The values supplied to the algorithm before processing.",
+      "b": "The results or outcomes of the algorithm after all the steps have been completed.",
+      "c": "The clarity of instructions.",
+      "d": "The ability to handle similar problems."
+    },
+    {
+      "question": "What does \"Effectiveness\" mean for an algorithm?",
+      "type": "single",
+      "correct": "b",
+      "a": "The algorithm should be able to solve a group of similar problems.",
+      "b": "The steps of an algorithm should be straightforward and feasible to execute within a finite time using basic operations.",
+      "c": "The algorithm should have a finite number of steps.",
+      "d": "The algorithm should produce one or more outputs."
+    },
+    {
+      "question": "What is \"Generality\" in algorithms?",
+      "type": "single",
+      "correct": "c",
+      "a": "The ability to produce correct output.",
+      "b": "The ability to execute steps within a finite time.",
+      "c": "The ability to solve a group of similar problems or handle a range of inputs within a specific domain.",
+      "d": "The clarity of instructions."
+    },
+    {
+      "question": "What are the advantages of using Natural Language to represent algorithms?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ambiguity and lack of structure.",
+      "b": "Accessibility, familiarity, wide applicability, and language independence.",
+      "c": "Difficulty in verification.",
+      "d": "Only suitable for simple algorithms."
+    },
+    {
+      "question": "Which of the following is a disadvantage of using Natural Language for algorithms?",
+      "type": "single",
+      "correct": "c",
+      "a": "Accessibility.",
+      "b": "Language Independence.",
+      "c": "Ambiguity.",
+      "d": "Wide Applicability."
+    },
+    {
+      "question": "What is a \"Lack of Structure\" disadvantage when using natural language for algorithms?",
+      "type": "single",
+      "correct": "b",
+      "a": "It makes the algorithm widely understood.",
+      "b": "Natural language lacks a formal structure, making it challenging to represent complex algorithms with multiple steps and conditions.",
+      "c": "It allows for easy translation into different programming languages.",
+      "d": "It enables programmers to understand and translate them into their preferred language."
+    },
+    {
+      "question": "What is a disadvantage related to \"Difficulty in Verification\" when using natural language for algorithms?",
+      "type": "single",
+      "correct": "b",
+      "a": "Natural language is widely understood.",
+      "b": "Due to ambiguity and lack of structure, algorithms represented in natural language may be challenging to verify for correctness.",
+      "c": "It allows for easy translation.",
+      "d": "It is language independent."
+    },
+    {
+      "question": "What is Pseudocode?",
+      "type": "single",
+      "correct": "b",
+      "a": "A graphical representation of algorithms.",
+      "b": "A high-level, informal description of an algorithm.",
+      "c": "A formal programming language.",
+      "d": "A natural language."
+    },
+    {
+      "question": "How does Pseudocode strike a balance?",
+      "type": "single",
+      "correct": "a",
+      "a": "Between natural language and programming syntax.",
+      "b": "Between hardware and software.",
+      "c": "Between time complexity and space complexity.",
+      "d": "Between simple and complex algorithms."
+    },
+    {
+      "question": "What is a key disadvantage of using Pseudocode?",
+      "type": "single",
+      "correct": "b",
+      "a": "It is human-readable.",
+      "b": "It is not a formal programming language, which means it may lack strict rules and syntax.",
+      "c": "It simplifies the implementation phase.",
+      "d": "It provides a visual representation of an algorithm."
+    },
+    {
+      "question": "What is meant \"Ambiguity\" when using pseudocode?",
+      "type": "single",
+      "correct": "b",
+      "a": "It cannot be directly executed by a computer.",
+      "b": "Pseudocode can still be ambiguous, especially if not properly documented or if the logic is not clearly expressed.",
+      "c": "It requires familiarity with programming concepts.",
+      "d": "It has a high-level description."
+    },
+    {
+      "question": "What is a limitation regarding \"Limited Execution\" of pseudocode?",
+      "type": "single",
+      "correct": "b",
+      "a": "It is difficult to read.",
+      "b": "Pseudocode cannot be directly executed by a computer; it serves as a human-readable representation of an algorithm.",
+      "c": "It lacks clarity.",
+      "d": "It is not designed for easy understanding."
+    },
+    {
+      "question": "What is a potential challenge for beginners due to the \"Learning Curve\" of pseudocode?",
+      "type": "single",
+      "correct": "b",
+      "a": "It is too simple.",
+      "b": "While designed to be easily understood, it still requires some familiarity with programming concepts and logic, which may pose a learning curve.",
+      "c": "It can be directly executed by a computer.",
+      "d": "It is too formal."
+    },
+    {
+      "question": "What is a general purpose of algorithms in computing?",
+      "type": "single",
+      "correct": "b",
+      "a": "To make systems fail.",
+      "b": "To solve different problems.",
+      "c": "To create more bugs.",
+      "d": "To make systems less efficient."
+    },
+    {
+      "question": "What is an advantage of algorithms in terms of \"Definite procedure\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "Algorithms provide a step-by-step representation of a solution.",
+      "b": "Algorithms are dependent on specific programming languages.",
+      "c": "Algorithms use a definite set of instructions, ensuring consistency and predictability in the execution of a program.",
+      "d": "Algorithms are always easy to understand for anyone."
+    },
+    {
+      "question": "What is an advantage of algorithms being \"Language independent\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "They provide a step-by-step representation.",
+      "b": "They use a definite set of instructions.",
+      "c": "They are not dependent on any specific programming language, making them easily understandable by anyone.",
+      "d": "They simplify debugging."
+    },
+    {
+      "question": "What does \"Debugging\" as an advantage of algorithms mean?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms are language independent.",
+      "b": "Each step in an algorithm has its own logical sequence, making it easier to identify and fix errors or bugs.",
+      "c": "Algorithms break down a problem into smaller steps.",
+      "d": "Algorithms provide a step-by-step representation."
+    },
+    {
+      "question": "How do algorithms facilitate \"Conversion to program\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "They provide language independence.",
+      "b": "They make it easier to identify and fix errors.",
+      "c": "They break down a problem into smaller steps, making it easier for programmers to convert them into actual programs.",
+      "d": "They ensure consistency and predictability."
+    },
+    {
+      "question": "In which industry are algorithms used for predicting disease progression or treatment outcomes?",
+      "type": "single",
+      "correct": "c",
+      "a": "Retail and E-commerce.",
+      "b": "Finance.",
+      "c": "Healthcare.",
+      "d": "Energy."
+    },
+    {
+      "question": "How are algorithms used in the Finance industry?",
+      "type": "single",
+      "correct": "c",
+      "a": "For providing personalized recommendations to customers.",
+      "b": "For optimizing energy consumption.",
+      "c": "For fraud detection, risk assessment, and investment strategies.",
+      "d": "For identifying patterns and anomalies in agricultural data."
+    },
+    {
+      "question": "In the Retail and E-commerce industry, what do algorithms provide?",
+      "type": "single",
+      "correct": "b",
+      "a": "Fraud detection.",
+      "b": "Personalized recommendations to customers.",
+      "c": "Optimizing energy consumption.",
+      "d": "Predicting crop yields."
+    },
+    {
+      "question": "What are Flowcharts?",
+      "type": "single",
+      "correct": "c",
+      "a": "A set of instructions for solving a specific problem.",
+      "b": "A high-level informal description of an algorithm.",
+      "c": "Diagrammatic representations of algorithms or processes that visually represent the flow of control and data.",
+      "d": "A formal programming language."
+    },
+    {
+      "question": "What is the symbol for a \"Flow line\" in flowcharts?",
+      "type": "single",
+      "correct": "c",
+      "a": "Oval.",
+      "b": "Rectangle.",
+      "c": "Arrow.",
+      "d": "Diamond."
+    },
+    {
+      "question": "What does the \"Terminal (Stop/Start)\" symbol in a flowchart represent?",
+      "type": "single",
+      "correct": "c",
+      "a": "Input or output operations.",
+      "b": "Arithmetic operations.",
+      "c": "The start and end points of a flowchart.",
+      "d": "Decision-making."
+    },
+    {
+      "question": "What is the function of the \"Input/Output\" symbol in a flowchart?",
+      "type": "single",
+      "correct": "c",
+      "a": "To represent the start and end points.",
+      "b": "To represent arithmetic operations.",
+      "c": "To represent input and output operations.",
+      "d": "To represent decision-making."
+    },
+    {
+      "question": "What does the \"Processing\" symbol in a flowchart represent?",
+      "type": "single",
+      "correct": "b",
+      "a": "Input and output operations.",
+      "b": "Arithmetic operations and data manipulations.",
+      "c": "Decision-making between two or more alternatives.",
+      "d": "Connecting different flowlines."
+    },
+    {
+      "question": "What is the \"Decision\" symbol in a flowchart used for?",
+      "type": "single",
+      "correct": "c",
+      "a": "Input and output operations.",
+      "b": "Arithmetic operations.",
+      "c": "Decision-making between two or more alternatives.",
+      "d": "Representing a group of statements."
+    },
+    {
+      "question": "What is the function of the \"Connector (On-page)\" symbol in a flowchart?",
+      "type": "single",
+      "correct": "c",
+      "a": "To represent the start and end points of a flowchart.",
+      "b": "To represent a decision point.",
+      "c": "To join different flowlines within the same page.",
+      "d": "To connect flowchart portions on different pages."
+    },
+    {
+      "question": "What is the purpose of the \"Off-page Connector\" symbol in a flowchart?",
+      "type": "single",
+      "correct": "c",
+      "a": "To join different flowlines within the same page.",
+      "b": "To represent input/output operations.",
+      "c": "To connect flowchart portions on different pages.",
+      "d": "To represent a processing step."
+    },
+    {
+      "question": "What does the \"Predefined Process/Function\" symbol in a flowchart represent?",
+      "type": "single",
+      "correct": "b",
+      "a": "Input and output operations.",
+      "b": "A group of statements performing a specific processing task.",
+      "c": "Decision-making.",
+      "d": "The start or end of a flowchart."
+    },
+    {
+      "question": "What is a key advantage of using flowcharts for algorithms?",
+      "type": "single",
+      "correct": "b",
+      "a": "Limited expressiveness.",
+      "b": "Visual Representation.",
+      "c": "Difficulty in modifications.",
+      "d": "Lack of standardization."
+    },
+    {
+      "question": "What is a disadvantage of flowcharts in terms of \"Limited Expressiveness\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "They are easy to understand.",
+      "b": "Flowcharts have limited expressiveness compared to textual representations like pseudocode.",
+      "c": "They facilitate communication.",
+      "d": "They help in error detection."
+    },
+    {
+      "question": "What is a potential issue with \"Time Consuming\" when creating flowcharts?",
+      "type": "single",
+      "correct": "b",
+      "a": "They are easy to modify.",
+      "b": "Creating detailed flowcharts can be time-consuming, especially for complex algorithms.",
+      "c": "They are simple to understand.",
+      "d": "They are language independent."
+    },
+    {
+      "question": "What is a \"Difficulty in Modifications\" disadvantage when using flowcharts?",
+      "type": "single",
+      "correct": "b",
+      "a": "They are simple to understand.",
+      "b": "Modifying a flowchart can be challenging, especially when there are multiple interconnected steps.",
+      "c": "They are time-consuming.",
+      "d": "They provide a visual representation."
+    },
+    {
+      "question": "What is meant \"Lack of Standardization\" as a disadvantage of flowcharts?",
+      "type": "single",
+      "correct": "a",
+      "a": "Flowchart symbols and conventions may vary between different sources and individuals.",
+      "b": "Flowcharts are easy to understand.",
+      "c": "Flowcharts are used for simple algorithms.",
+      "d": "Flowcharts have unlimited expressiveness."
+    },
+    {
+      "question": "What is the issue with \"Limited Scalability\" in flowcharts?",
+      "type": "single",
+      "correct": "b",
+      "a": "Flowcharts are easy to modify.",
+      "b": "Flowcharts may become cluttered and harder to maintain and update for large and complex algorithms.",
+      "c": "Flowcharts are visually appealing.",
+      "d": "Flowcharts improve communication."
+    },
+    {
+      "question": "What is a key difference in \"Approach\" between algorithms and heuristics?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms are random; heuristics are systematic.",
+      "b": "Algorithms follow a systematic step-by-step procedure; heuristics are shortcut strategies that rely on intuition and experience.",
+      "c": "Algorithms are designed for trial and error; heuristics guarantee correct solutions.",
+      "d": "Algorithms are time-consuming; heuristics are always quick."
+    },
+    {
+      "question": "What is the difference in \"Solution Guarantee\" between algorithms and heuristics?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms do not guarantee the correct solution; heuristics do.",
+      "b": "Algorithms guarantee the correct solution; heuristics do not guarantee the correct solution.",
+      "c": "Both algorithms and heuristics guarantee optimal solutions.",
+      "d": "Neither algorithms nor heuristics guarantee correct solutions."
+    },
+    {
+      "question": "What is the distinction in \"Time and Effort\" between algorithms and heuristics?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms are always faster than heuristics.",
+      "b": "Algorithms may be time-consuming and require a significant amount of mental effort; heuristics are designed to provide quick solutions and require less mental effort.",
+      "c": "Both algorithms and heuristics require minimal effort.",
+      "d": "Heuristics are always more time-consuming."
+    },
+    {
+      "question": "What is \"Reproducibility\" in the context of algorithms?",
+      "type": "single",
+      "correct": "a",
+      "a": "Algorithms are reproducible, meaning that if the same input is provided, they will always produce the same output.",
+      "b": "Algorithms can be used to optimize production processes.",
+      "c": "Algorithms are designed to find approximate solutions.",
+      "d": "Algorithms are time-consuming."
+    },
+    {
+      "question": "What is a \"Real-world use case\" for heuristics in Pathfinding in computer games and robotics?",
+      "type": "single",
+      "correct": "c",
+      "a": "Optimizing production processes.",
+      "b": "Providing personalized recommendations.",
+      "c": "Finding the most efficient route from one point to another by using heuristics to estimate the distance or cost.",
+      "d": "Optimizing energy consumption."
+    },
+    {
+      "question": "In Finance, how are heuristic algorithms used for \"Optimization problems\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "To predict disease progression.",
+      "b": "To optimize portfolio management and risk assessment.",
+      "c": "To identify fraudulent transactions.",
+      "d": "To optimize transportation routes."
+    },
+    {
+      "question": "How are heuristic algorithms used in \"Transportation route optimization\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "To predict market trends.",
+      "b": "To optimize transportation routes and scheduling by considering factors like distance, time, and resource constraints.",
+      "c": "To manage inventory.",
+      "d": "To provide personalized recommendations."
+    },
+    {
+      "question": "In \"Production process optimization\" in manufacturing, what do heuristic algorithms help with?",
+      "type": "single",
+      "correct": "b",
+      "a": "Predicting customer behavior.",
+      "b": "Optimizing production processes and inventory management, maximizing throughput, and reducing costs.",
+      "c": "Detecting fraud.",
+      "d": "Optimizing energy consumption."
+    },
+    {
+      "question": "How are heuristic algorithms used for \"Resource allocation\" in telecommunications and networks?",
+      "type": "single",
+      "correct": "b",
+      "a": "To find the shortest path in a graph.",
+      "b": "To allocate resources efficiently based on bandwidth and frequency.",
+      "c": "To manage project deadlines.",
+      "d": "To optimize investment portfolios."
+    },
+    {
+      "question": "What are \"Scheduling problems\" in computing?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems that involve operations on strings of characters.",
+      "b": "Problems that involve allocating resources over time to perform a collection of tasks.",
+      "c": "Problems that require finding a specific item within a large set.",
+      "d": "Problems that involve optimizing numerical computations."
+    },
+    {
+      "question": "What is the goal in \"Scheduling in project management\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "To identify the critical path.",
+      "b": "To determine the most efficient route from one point to another.",
+      "c": "To optimize project deadlines and minimize resource waste by allocating resources efficiently.",
+      "d": "To balance bandwidth and frequency."
+    },
+    {
+      "question": "What kind of problem is the \"Traveling Salesman Problem\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A heuristic problem for finding the shortest path between cities.",
+      "b": "A classic optimization problem to find the shortest possible route visiting a set of cities once and returning to the starting point.",
+      "c": "A problem related to graph theory.",
+      "d": "A problem that involves finding all possible solutions."
+    },
+    {
+      "question": "What type of algorithms are commonly used for \"ant colony optimization\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms that guarantee the optimal solution.",
+      "b": "Heuristic algorithms.",
+      "c": "Algorithms that use fixed rules.",
+      "d": "Algorithms that have a definite procedure."
+    },
+    {
+      "question": "Why are heuristics commonly used for \"complex problems\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Because they guarantee optimal solutions.",
+      "b": "Because they are computationally inexpensive and can provide efficient solutions.",
+      "c": "Because they involve simple logic.",
+      "d": "Because they always lead to a correct yes-or-no answer."
+    },
+    {
+      "question": "What is a \"Function Problem\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "Problems that require a \"yes\" or \"no\" answer.",
+      "b": "Problems that involve finding a specific item or solution.",
+      "c": "Problems where the output is a more complex value, such as a number or a string.",
+      "d": "Problems that involve an optimal solution from a set of possibilities."
+    },
+    {
+      "question": "What is a \"Search Problem\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems where the output is a more complex value.",
+      "b": "Problems that require finding a specific element in a database, or determining the optimal solution to an optimization problem.",
+      "c": "Problems where a simple \"yes\" or \"no\" answer is expected.",
+      "d": "Problems involving the allocation of resources over time."
+    },
+    {
+      "question": "What are the two main \"Complexity Classes\" mentioned for problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "Decision Problems and Function Problems.",
+      "b": "Tractable Problems and Intractable Problems.",
+      "c": "P (Polynomial Time) and NP (Nondeterministic Polynomial Time).",
+      "d": "Solvable Problems and Unsolvable Problems."
+    },
+    {
+      "question": "What characterizes \"P (Polynomial Time)\" problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "Problems that can be solved in a reasonable amount of time on a non-deterministic machine.",
+      "b": "Problems that cannot be solved by any algorithm.",
+      "c": "Problems that can be solved in polynomial time (where the amount of time grows polynomially with the size of the input).",
+      "d": "Problems that require a \"yes\" or \"no\" answer."
+    },
+    {
+      "question": "What defines \"NP (Nondeterministic Polynomial Time)\" problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems that can be solved in polynomial time.",
+      "b": "Problems that can be solved in a reasonable amount of time on a non-deterministic machine (a machine that can try all possible solutions in parallel).",
+      "c": "Problems that always lead to a correct yes-or-no answer.",
+      "d": "Problems that involve complex numerical computations."
+    },
+    {
+      "question": "What is \"Reduction\" in the context of problem complexity?",
+      "type": "single",
+      "correct": "b",
+      "a": "A way of transforming an instance of one problem into an instance of another problem, in a way that preserves the answer.",
+      "b": "A way of showing that a problem is at least as hard as another problem, by reducing the other problem to it.",
+      "c": "A technique to simplify the problem statement.",
+      "d": "A method to find the optimal solution quickly."
+    },
+    {
+      "question": "According to the Cook-Levin Theorem, what is SAT-complete?",
+      "type": "single",
+      "correct": "b",
+      "a": "The Traveling Salesman Problem.",
+      "b": "The Boolean Satisfiability Problem (SAT).",
+      "c": "The Knapsack Problem.",
+      "d": "The Halting Problem."
+    },
+    {
+      "question": "What are \"NP-complete problems\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems that can be solved in polynomial time.",
+      "b": "Problems that are at least as hard as the hardest problems in NP, including problems like the Traveling Salesman Problem and the Knapsack Problem.",
+      "c": "Problems that can be solved by any algorithm.",
+      "d": "Problems that involve only a simple \"yes\" or \"no\" answer."
+    },
+    {
+      "question": "Which of the following is listed as an NP-complete problem?",
+      "type": "single",
+      "correct": "c",
+      "a": "The Halting Problem.",
+      "b": "The Collatz Conjecture.",
+      "c": "The Knapsack Problem.",
+      "d": "Finding the shortest path in a graph."
+    },
+    {
+      "question": "What are \"Unsolvable problems\"?",
+      "type": "single",
+      "correct": "a",
+      "a": "Problems for which no algorithm can be found to compute a correct yes-or-no answer.",
+      "b": "Problems that can be solved in polynomial time.",
+      "c": "Problems that require creative thinking and novel approaches.",
+      "d": "Problems that have a definite procedure."
+    },
+    {
+      "question": "What is the core idea behind the \"Halting Problem\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Determining if a number is prime.",
+      "b": "Determining whether a given program will run forever or eventually stop.",
+      "c": "Finding the shortest path in a graph.",
+      "d": "Solving a system of linear equations."
+    },
+    {
+      "question": "What does \"Insolvable\" mean in the context of problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "Not yet solved, but possible to solve.",
+      "b": "An unsolvable problem for which no algorithm can ever be written to find the solution.",
+      "c": "A problem that is computationally expensive.",
+      "d": "A problem with a complex function as output."
+    },
+    {
+      "question": "Which of these is an \"unsolvable problem\" listed?",
+      "type": "single",
+      "correct": "b",
+      "a": "Sorting a list of numbers.",
+      "b": "The Decision Problem for First-Order Logic.",
+      "c": "Finding the maximum flow in a flow network.",
+      "d": "The Traveling Salesman Problem."
+    },
+    {
+      "question": "What is the focus of \"Solvable problems\" in computer science and mathematics?",
+      "type": "single",
+      "correct": "b",
+      "a": "They are about very specific issues, rather than differences in values.",
+      "b": "They are fundamental concepts.",
+      "c": "They are problems for which no algorithm can ever be written.",
+      "d": "They involve complex numerical computations only."
+    },
+    {
+      "question": "What does \"Understanding the difference\" between solvable and unsolvable problems help with?",
+      "type": "single",
+      "correct": "b",
+      "a": "Debugging programs.",
+      "b": "Designing algorithms and studying computation.",
+      "c": "Optimizing system performance.",
+      "d": "Improving user satisfaction."
+    },
+    {
+      "question": "What does \"The Collatz Conjecture\" involve?",
+      "type": "single",
+      "correct": "c",
+      "a": "Finding the shortest tour visiting a set of cities.",
+      "b": "Determining whether a given program will run forever or eventually stop.",
+      "c": "Given a positive integer, determining whether it will eventually reach 1 by repeatedly applying the Collatz function.",
+      "d": "Determining whether a given first-order logic sentence is true or false."
+    },
+    {
+      "question": "What is a \"Wicked Problem\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "A problem where the objective or purpose is clear.",
+      "b": "A problem where there is a gap between the current state and the desired state of a system.",
+      "c": "A problem that is difficult to define and has no clear solution.",
+      "d": "A problem that can be solved in polynomial time."
+    },
+    {
+      "question": "What are \"Tame Problems\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems that are difficult to define and solve.",
+      "b": "Problems that have a clear objective and a known solution.",
+      "c": "Problems that are unsolvable by any algorithm.",
+      "d": "Problems that are non-routine and require creative thinking."
+    },
+    {
+      "question": "What are \"Messy Problems\"?",
+      "type": "single",
+      "correct": "a",
+      "a": "Problems where the objective is clear but the solution is unknown.",
+      "b": "Problems that are complex and difficult to maintain.",
+      "c": "Problems that are easily understood and executed.",
+      "d": "Problems that can be solved by automation."
+    },
+    {
+      "question": "What does \"Understanding the problem\" involve in solving a \"Problem: Managing a Library's Book Inventory\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "Identifying the solution's inputs and outputs.",
+      "b": "Optimizing the inventory system.",
+      "c": "Defining the core problem: managing the library's book inventory efficiently, including tracking book details, availability, and generating reports.",
+      "d": "Designing the software interface."
+    },
+    {
+      "question": "What is the next step after \"Define the Core Problem\" in solving the Library Inventory problem?",
+      "type": "single",
+      "correct": "c",
+      "a": "Analyze the current system.",
+      "b": "Design the solution.",
+      "c": "Abstract Each Component.",
+      "d": "Implement the solution."
+    },
+    {
+      "question": "What does \"Abstract Each Component\" involve for the Library Inventory problem?",
+      "type": "single",
+      "correct": "c",
+      "a": "Tracking detailed book information.",
+      "b": "Managing complex tasks.",
+      "c": "Encapsulating the details of each book into a \"Book Information\" class.",
+      "d": "Generating reports."
+    },
+    {
+      "question": "What is \"Component 2\" in the abstracted components for the Library Inventory problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Book Information.",
+      "b": "Inventory Management.",
+      "c": "Transaction Management.",
+      "d": "Report Generation."
+    },
+    {
+      "question": "What is the purpose of \"Component 3: Transaction Management\" in the Library Inventory problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "To store book objects.",
+      "b": "To manage borrowing and returning books.",
+      "c": "To generate reports.",
+      "d": "To encapsulate book details."
+    },
+    {
+      "question": "What is \"Component 4: Report Generation\" for the Library Inventory problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Managing book availability.",
+      "b": "Creating methods to generate reports on the inventory status.",
+      "c": "Tracking book details.",
+      "d": "Managing borrowing and returning."
+    },
+    {
+      "question": "What is the final step, \"Integrate the Components,\" in solving the Library Inventory problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Managing the library's book inventory.",
+      "b": "Combining the abstracted components to create a complete solution for managing the library inventory.",
+      "c": "Generating reports.",
+      "d": "Abstracting each component."
+    },
+    {
+      "question": "What is a key benefit of \"Abstraction\" in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "It makes systems more complex.",
+      "b": "It simplifies complex systems by focusing on high-level operations and hiding intricate details.",
+      "c": "It limits the reusability of components.",
+      "d": "It makes debugging more difficult."
+    },
+    {
+      "question": "What does \"Modularity\" in abstraction allow for?",
+      "type": "single",
+      "correct": "b",
+      "a": "Increased complexity.",
+      "b": "The creation of modular components that can be independently developed, tested, and maintained.",
+      "c": "Decreased reusability.",
+      "d": "Hiding high-level operations."
+    },
+    {
+      "question": "What is \"Analogy\" in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method to define specific problems.",
+      "b": "Drawing comparisons between two different things based on their similarities to understand a problem.",
+      "c": "A technique for optimizing code.",
+      "d": "A process of eliminating irrelevant details."
+    },
+    {
+      "question": "What is \"Identifying the Problem\" when using analogy to organize digital files?",
+      "type": "single",
+      "correct": "b",
+      "a": "Organizing a physical study desk.",
+      "b": "The problem is that freshers have a cluttered desktop with files scattered everywhere.",
+      "c": "Using folders or binders to keep related documents together.",
+      "d": "Naming conventions."
+    },
+    {
+      "question": "What is the \"Source Domain\" for organizing digital files using analogy?",
+      "type": "single",
+      "correct": "b",
+      "a": "Digital files on a computer.",
+      "b": "A physical study desk.",
+      "c": "Folders and binders.",
+      "d": "Naming conventions."
+    },
+    {
+      "question": "What does \"Extracting Analogies\" mean in the context of organizing digital files?",
+      "type": "single",
+      "correct": "b",
+      "a": "Identifying similarities between the source and target domain.",
+      "b": "Using folders or binders to keep related documents together.",
+      "c": "Naming conventions.",
+      "d": "Cleaning up a cluttered desktop."
+    },
+    {
+      "question": "What is \"Routine Cleanup\" in the context of organizing digital files?",
+      "type": "single",
+      "correct": "b",
+      "a": "Identifying the critical path.",
+      "b": "Regularly tidying up the desk and setting a weekly schedule to organize new files.",
+      "c": "Managing digital files.",
+      "d": "Using desk drawers for organization."
+    },
+    {
+      "question": "What is the purpose of \"Evaluating and Refining the Solution\" in organizing digital files?",
+      "type": "single",
+      "correct": "a",
+      "a": "To check if files are easy to find and access.",
+      "b": "To find missing documents.",
+      "c": "To identify a new place for new files.",
+      "d": "To organize documents into categories."
+    },
+    {
+      "question": "What is \"Mind Mapping\" as a creative thinking technique?",
+      "type": "single",
+      "correct": "b",
+      "a": "A linear thinking process.",
+      "b": "A visual thinking tool that helps organize ideas and information.",
+      "c": "A method for sequential problem-solving.",
+      "d": "A way to evaluate feasibility."
+    },
+    {
+      "question": "What is a key advantage of \"Brainstorming\" in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "It focuses on finding the single best solution.",
+      "b": "It encourages generating a large number of ideas without immediate judgment.",
+      "c": "It simplifies complex algorithms.",
+      "d": "It ensures reproducibility of solutions."
+    },
+    {
+      "question": "What does \"Lateral Thinking\" emphasize?",
+      "type": "single",
+      "correct": "b",
+      "a": "A direct, step-by-step approach.",
+      "b": "Solving problems through an indirect and creative approach.",
+      "c": "Logical deduction.",
+      "d": "Repetitive problem-solving."
+    },
+    {
+      "question": "In the context of problem-solving, what is the significance of \"Identifying the Problem\" as the first step?",
+      "type": "single",
+      "correct": "b",
+      "a": "It is irrelevant if the solution is clear.",
+      "b": "Clearly defining the problem, challenge, or obstacle that requires resolution.",
+      "c": "It is only for routine problems.",
+      "d": "It involves selecting the right tools."
+    },
+    {
+      "question": "What is the goal of \"Identifying the Source Domain\" when applying analogy?",
+      "type": "single",
+      "correct": "c",
+      "a": "To create a new problem.",
+      "b": "To find a situation that is unrelated to the problem at hand.",
+      "c": "To identify a domain that shares some situation or features with the problem.",
+      "d": "To simplify the problem statement."
+    },
+    {
+      "question": "What does \"Transferring the Knowledge or Solution\" involve in analogy?",
+      "type": "single",
+      "correct": "b",
+      "a": "Applying solutions from the source domain directly to the target problem without any modifications.",
+      "b": "Applying the solution or understanding from the source domain to the target domain.",
+      "c": "Ignoring the source domain.",
+      "d": "Focusing only on the target domain."
+    },
+    {
+      "question": "What is the process of \"Evaluating and Refining the Solution\" when applying analogy?",
+      "type": "single",
+      "correct": "b",
+      "a": "To simplify the problem.",
+      "b": "To evaluate the effectiveness of the analogy-based solution.",
+      "c": "To identify new problems.",
+      "d": "To ignore irrelevant details."
+    },
+    {
+      "question": "What is \"Brainstorming\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method for sequential problem-solving.",
+      "b": "A technique that involves generating a large number of ideas or solutions to a problem without immediate judgment or evaluation.",
+      "c": "A technique for logical deduction.",
+      "d": "A method for analyzing existing solutions."
+    },
+    {
+      "question": "What is \"Convergent Thinking\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Thinking that involves exploring multiple possibilities.",
+      "b": "Thinking that focuses on narrowing down ideas to find the best or most appropriate solution.",
+      "c": "Thinking that relies on intuition.",
+      "d": "Thinking that generates new problems."
+    },
+    {
+      "question": "What is \"Divergent Thinking\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Focusing on a single, correct answer.",
+      "b": "Generating a wide range of ideas and solutions.",
+      "c": "Evaluating the feasibility of solutions.",
+      "d": "Analyzing the root causes of problems."
+    },
+    {
+      "question": "What does \"Feasibility\" mean in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "The clarity of the problem statement.",
+      "b": "The practicality and viability of a proposed solution.",
+      "c": "The uniqueness of the solution.",
+      "d": "The speed of execution of an algorithm."
+    },
+    {
+      "question": "What is \"Evaluation and Selection\" of ideas in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "Generating a large number of ideas.",
+      "b": "Assessing the feasibility, impact, and alignment of ideas with goals, then selecting the most promising ones.",
+      "c": "Developing prototypes.",
+      "d": "Documenting the solution."
+    },
+    {
+      "question": "What is the main goal of \"Prototyping\" in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "To create a final product.",
+      "b": "To build and test prototypes to validate concepts quickly.",
+      "c": "To document the solution.",
+      "d": "To conduct peer reviews."
+    },
+    {
+      "question": "What does \"Refining the Solution\" involve?",
+      "type": "single",
+      "correct": "b",
+      "a": "Simplifying the problem statement.",
+      "b": "Continuously improving the solution based on feedback and testing.",
+      "c": "Identifying the root cause.",
+      "d": "Choosing the right tools."
+    },
+    {
+      "question": "What is the purpose of \"Communication and Collaboration\" in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "To work independently.",
+      "b": "To share ideas, gather feedback, and refine the algorithm.",
+      "c": "To limit the scope of the problem.",
+      "d": "To enforce strict adherence to a single solution."
+    },
+    {
+      "question": "What is \"Trial and Error\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A systematic approach to problem-solving.",
+      "b": "A method where various solutions are attempted until a successful one is found.",
+      "c": "A method that guarantees an optimal solution.",
+      "d": "A process of eliminating incorrect answers."
+    },
+    {
+      "question": "What is the process for \"Generating Hypothesis\" in trial and error?",
+      "type": "single",
+      "correct": "b",
+      "a": "To apply a fixed set of rules.",
+      "b": "To systematically generate a range of possible solutions or hypotheses.",
+      "c": "To select only the most promising solutions.",
+      "d": "To rely on past experiences."
+    },
+    {
+      "question": "What is \"Testing and Validation\" in the context of trial and error?",
+      "type": "single",
+      "correct": "b",
+      "a": "To implement the solution without testing.",
+      "b": "To evaluate the effectiveness of the hypothesis or solution through experimentation.",
+      "c": "To skip the evaluation process.",
+      "d": "To focus on theoretical analysis."
+    },
+    {
+      "question": "What does \"Refinement\" in trial and error involve?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring the feedback.",
+      "b": "Iteratively refining the solution based on the results of testing.",
+      "c": "Starting over with a new problem.",
+      "d": "Documenting the original hypothesis."
+    },
+    {
+      "question": "What is the benefit of \"Simplicity\" when applying trial and error?",
+      "type": "single",
+      "correct": "b",
+      "a": "It always finds the optimal solution.",
+      "b": "It is easy to understand and apply.",
+      "c": "It minimizes the number of attempts.",
+      "d": "It ensures perfect accuracy."
+    },
+    {
+      "question": "When is trial and error useful for \"Unfamiliar Problems\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "When there's an existing algorithm.",
+      "b": "When the problem is complex but a clear solution path is not immediately obvious.",
+      "c": "When optimal solutions are required.",
+      "d": "When precise control is needed."
+    },
+    {
+      "question": "What are \"Computational Problems\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems with clear, defined solutions.",
+      "b": "Problems that can be solved by a computer.",
+      "c": "Problems that only involve numerical calculations.",
+      "d": "Problems that are too complex for humans to solve."
+    },
+    {
+      "question": "What are \"Decision Problems\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems that involve finding a specific item or solution.",
+      "b": "Problems that require a \"yes\" or \"no\" answer.",
+      "c": "Problems where the output is a more complex value.",
+      "d": "Problems that involve optimizing numerical computations."
+    },
+    {
+      "question": "What is \"Connectivity\" as an example of a Decision Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Finding the shortest path between two nodes.",
+      "b": "Determining if there is a path between two nodes in a graph.",
+      "c": "Optimizing the number of nodes.",
+      "d": "Counting the number of paths."
+    },
+    {
+      "question": "What does \"Optimality\" mean in the context of problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "Problems where the output is a more complex value.",
+      "b": "Problems that require finding a specific item or solution.",
+      "c": "Problems that involve finding the best solution among a set of possibilities.",
+      "d": "Problems that require a \"yes\" or \"no\" answer."
+    },
+    {
+      "question": "What is \"Knapsack Problem\" as an example of an Optimization Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Determining if a number is prime.",
+      "b": "Maximizing the total value of items that can be put in a knapsack of fixed capacity.",
+      "c": "Finding the shortest path in a graph.",
+      "d": "Sorting a list of numbers."
+    },
+    {
+      "question": "What is \"Finding a specific item\" in a database an example of?",
+      "type": "single",
+      "correct": "c",
+      "a": "An optimization problem.",
+      "b": "A function problem.",
+      "c": "A search problem.",
+      "d": "A decision problem."
+    },
+    {
+      "question": "What is \"Binary Search\" an example of?",
+      "type": "single",
+      "correct": "b",
+      "a": "An optimization problem.",
+      "b": "A search problem for finding the position of a target value within a sorted array.",
+      "c": "A function problem.",
+      "d": "A decision problem."
+    },
+    {
+      "question": "What are \"Counting Problems\"?",
+      "type": "single",
+      "correct": "c",
+      "a": "Problems that involve finding a specific item.",
+      "b": "Problems that require finding the optimal solution.",
+      "c": "Problems that ask \"how many?\" or \"how much?\".",
+      "d": "Problems that have a \"yes\" or \"no\" answer."
+    },
+    {
+      "question": "What is \"Number of Paths\" an example of in Counting Problems?",
+      "type": "single",
+      "correct": "c",
+      "a": "Determining if a graph is connected.",
+      "b": "Finding the shortest path in a graph.",
+      "c": "Counting the number of distinct paths between two nodes in a graph.",
+      "d": "Optimizing path traversal."
+    },
+    {
+      "question": "What is \"Permutations and Combinations\" an example of in Counting Problems?",
+      "type": "single",
+      "correct": "b",
+      "a": "Determining if a set is unique.",
+      "b": "Calculating the number of possible arrangements or selections of items from a set.",
+      "c": "Finding the largest subset.",
+      "d": "Sorting a list of items."
+    },
+    {
+      "question": "What are \"Computational Problems\" characterized ?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems that require human intuition to solve.",
+      "b": "Problems that can be solved step-by-step by a computer.",
+      "c": "Problems that only involve abstract concepts.",
+      "d": "Problems that cannot be solved by any algorithm."
+    },
+    {
+      "question": "What does \"Well-defined\" mean for a computational problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "The solution is already known.",
+      "b": "It has a clear definition of input, output, constraints, and goal.",
+      "c": "It is easy to understand.",
+      "d": "It involves complex calculations."
+    },
+    {
+      "question": "What does \"Solvable\" mean for a computational problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "It has a complex solution.",
+      "b": "There exists at least one algorithm that can produce a correct solution.",
+      "c": "It can only be solved by humans.",
+      "d": "It is computationally expensive."
+    },
+    {
+      "question": "What does \"Measurable\" mean for a computational problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "The solution is always a numerical value.",
+      "b": "There is a way to measure the effectiveness of the solution, often in terms of time complexity, space complexity, or accuracy.",
+      "c": "The problem can be visualized.",
+      "d": "The problem is easy to define."
+    },
+    {
+      "question": "What are \"Routine Problems\" in computing?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems that require creative thinking and novel approaches.",
+      "b": "Problems that often involve repetitive or well-defined solutions.",
+      "c": "Problems that are unsolvable.",
+      "d": "Problems that are difficult to define."
+    },
+    {
+      "question": "What is the first step in solving a \"Routine Problem: Sorting a List of Numbers\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Design the solution.",
+      "b": "Identify the Problem Type.",
+      "c": "Implement the solution.",
+      "d": "Test the solution."
+    },
+    {
+      "question": "What is \"Step 2: Understand the Requirements\" for the routine problem of sorting a list of numbers?",
+      "type": "single",
+      "correct": "a",
+      "a": "Input: A list of unsorted numbers.",
+      "b": "Design the solution.",
+      "c": "Test the solution.",
+      "d": "Document the solution."
+    },
+    {
+      "question": "What is \"Step 3: Choose the Right Tools and Techniques\" for sorting a list of numbers?",
+      "type": "single",
+      "correct": "a",
+      "a": "Use Python's built-in sorting functions which implement Timsort.",
+      "b": "Implement the solution.",
+      "c": "Design the solution.",
+      "d": "Document the solution."
+    },
+    {
+      "question": "What is \"Step 4: Design the Solution\" for sorting a list of numbers?",
+      "type": "single",
+      "correct": "b",
+      "a": "Write clean and readable code.",
+      "b": "Use pseudocode.",
+      "c": "Test the solution.",
+      "d": "Document the solution."
+    },
+    {
+      "question": "What is \"Step 5: Implement the Solution\" for sorting a list of numbers?",
+      "type": "single",
+      "correct": "a",
+      "a": "Write the Python code for the sorting function.",
+      "b": "Design the solution.",
+      "c": "Test the solution.",
+      "d": "Document the solution."
+    },
+    {
+      "question": "What is \"Step 6: Test the Solution\" for sorting a list of numbers?",
+      "type": "single",
+      "correct": "c",
+      "a": "Design the solution.",
+      "b": "Implement the solution.",
+      "c": "Write test_sort_list() with various assertions.",
+      "d": "Document the solution."
+    },
+    {
+      "question": "What is \"Step 7: Document the Solution\" for sorting a list of numbers?",
+      "type": "single",
+      "correct": "b",
+      "a": "Write clean and readable code.",
+      "b": "Add comments to the function explaining its purpose, parameters, and return values.",
+      "c": "Design the solution.",
+      "d": "Test the solution."
+    },
+    {
+      "question": "What are \"Non-Routine Type of Problems\" in computing?",
+      "type": "single",
+      "correct": "b",
+      "a": "Problems with well-defined solutions.",
+      "b": "Problems that do not have a straightforward or well-defined solution, often requiring creative thinking, novel approaches, and in-depth analysis.",
+      "c": "Problems that can be solved by automation.",
+      "d": "Problems that are easily understood."
+    },
+    {
+      "question": "What is \"Step 1: Understanding the Problem\" for a Non-Routine Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Collecting only irrelevant data.",
+      "b": "Clearly articulate the problem and gather relevant information, context, and constraints.",
+      "c": "Designing the solution.",
+      "d": "Implementing the solution."
+    },
+    {
+      "question": "What is \"Step 2: Explore and Research\" for a Non-Routine Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Implement the solution directly.",
+      "b": "Conduct literature reviews, brainstorm with experts, and generate a variety of potential approaches.",
+      "c": "Focus on a single solution.",
+      "d": "Skip this step if the problem is unfamiliar."
+    },
+    {
+      "question": "What is \"Step 3: Formulate Hypotheses and Approaches\" for a Non-Routine Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "To avoid generating new ideas.",
+      "b": "Develop hypotheses or potential solutions based on understanding and research, and assess the feasibility of each.",
+      "c": "To limit the scope of the problem.",
+      "d": "To implement a pre-existing solution."
+    },
+    {
+      "question": "What is \"Step 4: Design and Prototype\" for a Non-Routine Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Developing the final product immediately.",
+      "b": "Create detailed plans or designs for the most promising solutions, and build prototypes to test concepts.",
+      "c": "Skipping the design phase.",
+      "d": "Focusing only on theoretical design."
+    },
+    {
+      "question": "What is \"Step 5: Test and Validate\" for a Non-Routine Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Avoid experimentation.",
+      "b": "Conduct experiments to test the prototypes and gather data.",
+      "c": "Skip this step if the prototype is successful.",
+      "d": "Rely solely on theoretical analysis."
+    },
+    {
+      "question": "What is \"Step 6: Implement the Solution\" for a Non-Routine Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Skip the refinement phase.",
+      "b": "Translate the refined prototype into a full-fledged solution.",
+      "c": "Avoid ensuring robustness.",
+      "d": "Implement without testing."
+    },
+    {
+      "question": "What is \"Step 7: Evaluate and Reflect\" for a Non-Routine Problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "To avoid reflecting on the process.",
+      "b": "Continuously monitor the system's performance, retrain the model with new data, and ensure it meets accuracy and latency requirements.",
+      "c": "To only document successes.",
+      "d": "To ignore future projects."
+    },
+    {
+      "question": "What is \"Computational Thinking\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method solely for mathematical problems.",
+      "b": "A problem-solving approach that involves applying concepts from computer science and computational techniques to solve a wide range of problems.",
+      "c": "A way to replace human thinking with computers.",
+      "d": "A specific programming language."
+    },
+    {
+      "question": "What is \"Problem Decomposition\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Combining small problems into larger ones.",
+      "b": "Breaking down a complex problem into smaller, more manageable sub-problems.",
+      "c": "Solving problems without breaking them down.",
+      "d": "Focusing on a single, large problem."
+    },
+    {
+      "question": "What is \"Pattern Recognition\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring recurring elements.",
+      "b": "Identifying common characteristics, trends, or relationships among data or problems.",
+      "c": "Creating unique solutions for every problem.",
+      "d": "Focusing on irrelevant details."
+    },
+    {
+      "question": "What is \"Abstraction\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Focusing on all details of a problem.",
+      "b": "Simplifying complex systems by focusing on essential information and hiding irrelevant details.",
+      "c": "Creating a more complicated view of a problem.",
+      "d": "Analyzing only specific, isolated parts of a system."
+    },
+    {
+      "question": "What is \"Algorithms\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Informal problem-solving strategies.",
+      "b": "A finite set of well-defined instructions for solving a specific problem or performing a task.",
+      "c": "A method that always guarantees an optimal solution.",
+      "d": "A programming language."
+    },
+    {
+      "question": "What is the role of \"Abstraction\" in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "To make systems more complex.",
+      "b": "To simplify complex systems by focusing on high-level operations and hiding intricate details.",
+      "c": "To prevent modularity.",
+      "d": "To hinder understanding."
+    },
+    {
+      "question": "What is \"Modularity\" as a benefit of abstraction?",
+      "type": "single",
+      "correct": "b",
+      "a": "It makes systems harder to maintain.",
+      "b": "It allows for the creation of modular components that can be independently developed, tested, and maintained.",
+      "c": "It increases system complexity.",
+      "d": "It prevents reusability."
+    },
+    {
+      "question": "What is an \"Analogy\" in problem-solving?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method that focuses on differences between problems.",
+      "b": "Drawing comparisons between two different things based on their similarities.",
+      "c": "A technique for direct problem-solving.",
+      "d": "A method that only works for familiar problems."
+    },
+    {
+      "question": "What is the purpose of \"Identifying Attributes and Relationships\" in the Methods of Focal Objects?",
+      "type": "single",
+      "correct": "b",
+      "a": "To avoid understanding the system.",
+      "b": "To identify the essential attributes and relationships of the focal object and other elements in the system.",
+      "c": "To focus only on external factors.",
+      "d": "To ignore interdependencies."
+    },
+    {
+      "question": "What does \"Balancing Breadth and Depth of Analysis\" mean in the context of the Methods of Focal Objects?",
+      "type": "single",
+      "correct": "b",
+      "a": "Focusing only on broad overviews.",
+      "b": "Balancing the need for detailed analysis of the focal object with a broader consideration of the larger system or environment.",
+      "c": "Ignoring the details.",
+      "d": "Analyzing the problem in isolation."
+    },
+    {
+      "question": "What is the goal of \"Generating Innovative Ideas\" when using Methods of Focal Objects?",
+      "type": "single",
+      "correct": "b",
+      "a": "To stick to traditional solutions.",
+      "b": "To develop creative and effective modification ideas for the focal object.",
+      "c": "To avoid divergent thinking.",
+      "d": "To implement existing solutions without changes."
+    },
+    {
+      "question": "What is the importance of \"Securing Buy-in and Commitment\" in applying the Methods of Focal Objects?",
+      "type": "single",
+      "correct": "b",
+      "a": "To limit stakeholder involvement.",
+      "b": "To ensure successful implementation and sustain change by gaining necessary commitment from stakeholders.",
+      "c": "To avoid collaboration.",
+      "d": "To focus solely on the technical aspects."
+    },
+    {
+      "question": "What is the definition of \"Heuristics\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Strategies that guarantee optimal solutions.",
+      "b": "Shortcut strategies that rely on intuition and experience, often involving trial and error, and do not guarantee a correct or reproducible result.",
+      "c": "Strict sets of rules that must be followed.",
+      "d": "Methods that are computationally expensive."
+    },
+    {
+      "question": "What is the main difference in \"Solution Guarantee\" between Algorithms and Heuristics?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms provide approximate solutions, while heuristics guarantee optimal ones.",
+      "b": "Algorithms guarantee the correct solution to a problem if followed correctly, while heuristics provide approximate or near-optimal solutions.",
+      "c": "Both guarantee optimal solutions.",
+      "d": "Neither guarantees any solution."
+    },
+    {
+      "question": "How do \"Algorithms\" and \"Heuristics\" differ in terms of \"Time and Effort\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms require less mental effort.",
+      "b": "Algorithms can be time-consuming and require a significant amount of mental effort, while heuristics are designed for quick solutions and require less mental effort.",
+      "c": "Heuristics are always faster than algorithms.",
+      "d": "Both require minimal time and effort."
+    },
+    {
+      "question": "What is \"Reproducibility\" in the context of Algorithms and Heuristics?",
+      "type": "single",
+      "correct": "b",
+      "a": "Heuristics are always reproducible.",
+      "b": "Algorithms are reproducible, meaning that if the same input is provided, they will always produce the same output, while heuristic results may vary depending on factors such as specific problem, context, and individual experience.",
+      "c": "Neither is reproducible.",
+      "d": "Both are equally reproducible."
+    },
+    {
+      "question": "What is \"Pathfinding in computer games and robotics\" an example of a real-world use case for heuristics?",
+      "type": "single",
+      "correct": "b",
+      "a": "To find the exact shortest path.",
+      "b": "Algorithms such as the A* search algorithm are used for pathfinding, helping determine the most efficient route from one point to another by using heuristics to estimate the distance or cost between different locations.",
+      "c": "To guarantee optimal movement.",
+      "d": "To avoid any form of estimation."
+    },
+    {
+      "question": "How are \"Heuristic algorithms\" used in \"Optimization problems in finance\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "To perfectly predict market trends.",
+      "b": "To optimize portfolio management and risk assessment, identifying patterns and trends in market data, allowing for the optimization of investment portfolios while minimizing risk.",
+      "c": "To replace human financial advisors.",
+      "d": "To create unchangeable financial models."
+    },
+    {
+      "question": "What is the role of \"Heuristic algorithms\" in \"Transportation route optimization\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "To always find the absolute shortest route.",
+      "b": "To optimize transportation routes and scheduling by considering factors such as distance, time, and resource efficiency.",
+      "c": "To ignore real-world constraints.",
+      "d": "To only provide theoretical routes."
+    },
+    {
+      "question": "How are \"Heuristic algorithms\" used in \"Production process optimization in manufacturing\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "To eliminate all waste.",
+      "b": "To optimize manufacturing processes and inventory management by minimizing waste and maximizing throughput.",
+      "c": "To guarantee zero defects.",
+      "d": "To replace all manual labor."
+    },
+    {
+      "question": "What is the first key step in applying Morphological Analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "Generate Alternatives.",
+      "b": "Define the Problem.",
+      "c": "Construct the Morphological Matrix.",
+      "d": "Explore Combinations."
+    },
+    {
+      "question": "What is the second key step in applying Morphological Analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "Generate Alternatives.",
+      "b": "Identify the Dimensions.",
+      "c": "Construct the Morphological Matrix.",
+      "d": "Explore Combinations."
+    },
+    {
+      "question": "What is the third key step in applying Morphological Analysis?",
+      "type": "single",
+      "correct": "c",
+      "a": "Explore Combinations.",
+      "b": "Evaluate and Select.",
+      "c": "Generate Alternatives.",
+      "d": "Construct the Morphological Matrix."
+    },
+    {
+      "question": "What is the fourth key step in applying Morphological Analysis?",
+      "type": "single",
+      "correct": "d",
+      "a": "Generate Alternatives.",
+      "b": "Explore Combinations.",
+      "c": "Evaluate and Select.",
+      "d": "Construct the Morphological Matrix."
+    },
+    {
+      "question": "What is \"Step 5: Explore Combinations\" in Morphological Analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "Designing the solution.",
+      "b": "Systematically examining different combinations of the alternatives across the dimensions.",
+      "c": "Testing the solution.",
+      "d": "Documenting the solution."
+    },
+    {
+      "question": "What is \"Step 6: Evaluate and Select\" in Morphological Analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring potential solutions.",
+      "b": "Evaluating each of the different solution combinations and potential approaches.",
+      "c": "Choosing the first solution.",
+      "d": "Avoiding implementation."
+    },
+    {
+      "question": "What is \"Step 7: Iterate and Refine\" in Morphological Analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "To stop at the first successful combination.",
+      "b": "Continuously refine the ideas generated, seeking to improve and optimize them based on feedback and new information or challenges.",
+      "c": "To avoid revisiting the problem definition.",
+      "d": "To implement without further adjustments."
+    },
+    {
+      "question": "What is \"Root Cause Analysis (RCA)\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method that focuses on symptoms.",
+      "b": "A systematic process used to identify the underlying causes of a problem or issue, with the goal of preventing recurrence.",
+      "c": "A problem-solving method that deals only with superficial issues.",
+      "d": "A technique used to implement quick fixes."
+    },
+    {
+      "question": "What is the description of \"Five Whys\" technique in Root Cause Analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "A technique that focuses on finding external causes.",
+      "b": "This technique involves asking \"why\" multiple times (usually five) to drill down to the root cause of a problem.",
+      "c": "A method for brainstorming solutions.",
+      "d": "A tool for prioritizing problems."
+    },
+    {
+      "question": "What is \"Cause Mapping\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A tool for visualizing solutions.",
+      "b": "Visual diagrams that map out the causes of a problem to identify the root cause.",
+      "c": "A method for ranking problems by severity.",
+      "d": "A technique for predicting future problems."
+    },
+    {
+      "question": "What is \"Pareto Analysis\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method to identify all minor factors.",
+      "b": "Using the 80/20 rule to identify the most significant factors contributing to a problem.",
+      "c": "A technique for ignoring major causes.",
+      "d": "A tool for simple problem identification."
+    },
+    {
+      "question": "What is \"Impact Assessment Matrices\"?",
+      "type": "single",
+      "correct": "a",
+      "a": "Grids that evaluate the impact of various problems based on different criteria.",
+      "b": "Tools to visualize system dependencies.",
+      "c": "Methods for estimating project timelines.",
+      "d": "Frameworks for designing algorithms."
+    },
+    {
+      "question": "What are \"Dependency Graphs\" in Root Cause Analysis?",
+      "type": "single",
+      "correct": "a",
+      "a": "Visual representations of system dependencies to understand the ripple effect of a problem.",
+      "b": "Tools for measuring project progress.",
+      "c": "Diagrams used to show the hierarchy of an organization.",
+      "d": "Charts that track individual performance."
+    },
+    {
+      "question": "What is the role of \"Automation and Digitalization\" in Root Cause Analysis research?",
+      "type": "single",
+      "correct": "b",
+      "a": "To make RCA a purely manual process.",
+      "b": "To enhance the efficiency and accuracy of RCA, by using technologies such as AI, machine learning, and advanced analytics.",
+      "c": "To limit the scope of RCA.",
+      "d": "To replace human analysis entirely."
+    },
+    {
+      "question": "How do \"Intelligent Systems\" contribute to Root Cause Analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "They are used to create new problems.",
+      "b": "They are focused on developing intelligent systems that can assist in problem identification and root cause detection.",
+      "c": "They are primarily for data storage.",
+      "d": "They are used to simplify minor issues."
+    },
+    {
+      "question": "How does \"Industry-Specific Applications\" contribute to Root Cause Analysis research?",
+      "type": "single",
+      "correct": "b",
+      "a": "To generalize solutions across all industries.",
+      "b": "Research has conducted studies on the application of RCA in various industries, tailoring to domain-specific challenges and requirements.",
+      "c": "To prevent the development of new RCA techniques.",
+      "d": "To focus only on theoretical aspects of RCA."
+    },
+    {
+      "question": "How do \"Industry-focused efforts\" contribute to Root Cause Analysis research?",
+      "type": "single",
+      "correct": "b",
+      "a": "To ignore practical applications.",
+      "b": "They have contributed to the development of RCA best practices and guidelines tailored to the unique characteristics and needs of different sectors.",
+      "c": "To make RCA more complex.",
+      "d": "To reduce collaboration between industries."
+    },
+    {
+      "question": "What is the role of \"Empirical Validation and Case Studies\" in Root Cause Analysis research?",
+      "type": "single",
+      "correct": "b",
+      "a": "To avoid real-world examples.",
+      "b": "Researchers have published case studies and empirical evaluations of RCA implementations, providing insights into the practical application of RCA techniques and their impact on problem-solving and organizational performance.",
+      "c": "To focus only on theoretical frameworks.",
+      "d": "To limit the understanding of RCA effectiveness."
+    },
+    {
+      "question": "What is the first step in the \"Explanation on how RCA is typically implemented in a step--step process\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Data Collection.",
+      "b": "Problem Identification.",
+      "c": "Problem Analysis.",
+      "d": "Root Cause Identification."
+    },
+    {
+      "question": "What is the purpose of \"Data Collection\" in the RCA step--step process?",
+      "type": "single",
+      "correct": "b",
+      "a": "To identify the problem.",
+      "b": "To collect and organize all the data related to the problem, including process data, historical records, and any relevant contextual information.",
+      "c": "To develop corrective actions.",
+      "d": "To implement a plan."
+    },
+    {
+      "question": "What is \"Problem Analysis\" in the RCA step--step process?",
+      "type": "single",
+      "correct": "b",
+      "a": "To define the problem.",
+      "b": "Conducting a thorough analysis of the problem using various tools and techniques, such as Fishbone diagrams, 5 Whys, and process mapping.",
+      "c": "To develop an implementation plan.",
+      "d": "To monitor and verify solutions."
+    },
+    {
+      "question": "What is \"Root Cause Identification\" in the RCA step--step process?",
+      "type": "single",
+      "correct": "b",
+      "a": "To gather information.",
+      "b": "Determining the primary root causes that are directly linked to the problem by systematically investigating and validating the potential root causes.",
+      "c": "To brainstorm solutions.",
+      "d": "To assess the feasibility of actions."
+    },
+    {
+      "question": "What is \"Corrective Action Development\" in the RCA step--step process?",
+      "type": "single",
+      "correct": "b",
+      "a": "Identifying the problem.",
+      "b": "Brainstorming and evaluating potential corrective actions that address the identified root causes.",
+      "c": "Monitoring the system.",
+      "d": "Documenting the process."
+    },
+    {
+      "question": "What is \"Corrective Action Implementation\" in the RCA step--step process?",
+      "type": "single",
+      "correct": "a",
+      "a": "Developing an implementation plan that outlines the necessary steps, resources, and timelines required to execute the corrective actions.",
+      "b": "Evaluating the effectiveness of the solution.",
+      "c": "Collecting initial data.",
+      "d": "Analyzing problem symptoms."
+    },
+    {
+      "question": "What is \"Monitoring and Verification\" in the RCA step--step process?",
+      "type": "single",
+      "correct": "b",
+      "a": "To identify new problems.",
+      "b": "To establish a system for monitoring the implemented actions to ensure their effectiveness and to verify that the problem has been resolved.",
+      "c": "To skip the evaluation.",
+      "d": "To implement without further checks."
+    },
+    {
+      "question": "What is \"Documentation and Communication\" in the RCA step--step process?",
+      "type": "single",
+      "correct": "b",
+      "a": "To keep all information private.",
+      "b": "To document the entire RCA process, including findings, actions taken, and results, and communicate them to relevant stakeholders.",
+      "c": "To avoid sharing lessons learned.",
+      "d": "To only document successes."
+    },
+    {
+      "question": "What is \"Learning and Improvement\" in the RCA step--step process?",
+      "type": "single",
+      "correct": "b",
+      "a": "To ignore future preventive measures.",
+      "b": "To use the insights gained from the RCA process to prevent similar problems from occurring in the future and to continuously improve processes.",
+      "c": "To focus only on past mistakes.",
+      "d": "To avoid applying lessons to other areas."
+    },
+    {
+      "question": "What does \"Understanding the problem\" involve in solving the problem of a \"Declining Number of Users on a Social Media Platform\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Immediately suggesting new features.",
+      "b": "The problem is that the social media platform is experiencing a significant decline in its user base.",
+      "c": "Analyzing competitor platforms.",
+      "d": "Developing a marketing strategy."
+    },
+    {
+      "question": "What is the step after \"Understanding the problem\" in solving the declining user problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Implement Corrective Actions.",
+      "b": "Data Collection and Analysis.",
+      "c": "Identify Root Causes.",
+      "d": "Develop Corrective Actions."
+    },
+    {
+      "question": "What kind of data should be collected for \"Data Collection and Analysis\" when addressing a declining user base?",
+      "type": "single",
+      "correct": "b",
+      "a": "Only marketing data.",
+      "b": "User engagement metrics, feedback, competitor analysis, industry trends, and internal system logs.",
+      "c": "Financial reports only.",
+      "d": "Employee satisfaction surveys."
+    },
+    {
+      "question": "What is the process of \"Identifying Root Causes\" when addressing a declining user base?",
+      "type": "single",
+      "correct": "b",
+      "a": "Suggesting solutions immediately.",
+      "b": "Analyzing data to identify potential root causes, such as poor user experience, lack of new features, or aggressive competition.",
+      "c": "Focusing only on positive feedback.",
+      "d": "Ignoring external factors."
+    },
+    {
+      "question": "What is \"Developing Corrective Actions\" in the context of a declining user base?",
+      "type": "single",
+      "correct": "b",
+      "a": "Implementing the first idea that comes to mind.",
+      "b": "Brainstorming and selecting corrective actions, such as redesigning the user interface, adding new features, or launching a targeted marketing campaign.",
+      "c": "Avoiding any changes to the platform.",
+      "d": "Relying solely on automated solutions."
+    },
+    {
+      "question": "What does \"Implementing Corrective Actions\" involve for a declining user base?",
+      "type": "single",
+      "correct": "b",
+      "a": "Avoiding a phased rollout.",
+      "b": "Executing the chosen corrective actions, which might include launching a new app version or a marketing campaign.",
+      "c": "Keeping the old features as they are.",
+      "d": "Not informing users about changes."
+    },
+    {
+      "question": "What is \"Monitoring and Verification\" when addressing a declining user base?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring user feedback after launch.",
+      "b": "Monitoring user engagement metrics, analyzing user feedback, and conducting A/B tests to ensure the problem has been resolved.",
+      "c": "Only tracking downloads.",
+      "d": "Assuming success without data."
+    },
+    {
+      "question": "What is \"Documentation and Communication\" in the context of a declining user base?",
+      "type": "single",
+      "correct": "b",
+      "a": "Keeping the findings internal to the development team.",
+      "b": "Documenting the entire process, sharing insights, and communicating changes to the user community.",
+      "c": "Only documenting successful outcomes.",
+      "d": "Avoiding communication with users."
+    },
+    {
+      "question": "What is the final step, \"Learning and Improvement,\" for addressing a declining user base?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring lessons learned for future projects.",
+      "b": "Applying insights to future product development, ensuring the platform remains competitive and user-friendly.",
+      "c": "Stopping all development after the problem is solved.",
+      "d": "Focusing only on short-term fixes."
+    },
+    {
+      "question": "What is the definition of \"Algorithm\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method that always guarantees an optimal solution.",
+      "b": "A finite set of well-defined instructions for solving a specific problem or performing a task.",
+      "c": "A programming language.",
+      "d": "A random approach to problem-solving."
+    },
+    {
+      "question": "What does \"Flowchart\" represent for algorithms?",
+      "type": "single",
+      "correct": "b",
+      "a": "A textual description.",
+      "b": "A visual representation of an algorithm's flow using standardized symbols.",
+      "c": "A programming code.",
+      "d": "A mathematical formula."
+    },
+    {
+      "question": "What is \"Pseudocode\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A formal programming language.",
+      "b": "A high-level, informal description of an algorithm's steps, resembling a programming language but not executable.",
+      "c": "A diagrammatic representation.",
+      "d": "A low-level machine code."
+    },
+    {
+      "question": "What is \"Top-Down Design\" in algorithm development?",
+      "type": "single",
+      "correct": "b",
+      "a": "Starting with the most detailed components.",
+      "b": "Beginning with the overall problem and breaking it down into smaller, more manageable sub-problems.",
+      "c": "Focusing on individual functions first.",
+      "d": "A method for testing algorithms."
+    },
+    {
+      "question": "What is \"Stepwise Refinement\" in algorithm design?",
+      "type": "single",
+      "correct": "b",
+      "a": "Simplifying the problem statement.",
+      "b": "Progressively adding details to an algorithm, moving from a high-level overview to more specific instructions.",
+      "c": "Combining multiple algorithms into one.",
+      "d": "Removing unnecessary steps."
+    },
+    {
+      "question": "What is \"Modular Design\" in algorithm development?",
+      "type": "single",
+      "correct": "b",
+      "a": "Creating a single, monolithic piece of code.",
+      "b": "Breaking down an algorithm into independent, reusable modules or functions.",
+      "c": "Designing algorithms without considering reusability.",
+      "d": "A method for optimizing algorithm performance."
+    },
+    {
+      "question": "What is the process of \"Verification and Validation\" in algorithm design?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring the algorithm's correctness.",
+      "b": "Ensuring that the algorithm correctly solves the problem and meets all requirements.",
+      "c": "Focusing only on efficiency.",
+      "d": "Skipping the testing phase."
+    },
+    {
+      "question": "What does \"Code Implementation\" involve in algorithm design?",
+      "type": "single",
+      "correct": "b",
+      "a": "Writing pseudocode only.",
+      "b": "Translating the algorithm into a specific programming language.",
+      "c": "Avoiding testing during implementation.",
+      "d": "Ignoring best coding practices."
+    },
+    {
+      "question": "What is the final step, \"Documentation,\" in algorithm design?",
+      "type": "single",
+      "correct": "b",
+      "a": "To avoid explaining the algorithm.",
+      "b": "Documenting the algorithm's design, functionality, and usage for future reference and maintenance.",
+      "c": "To only document the code.",
+      "d": "To keep the algorithm a secret."
+    },
+    {
+      "question": "What is the description of \"Step 1: Define the Problem\" for designing an algorithm to find the shortest path in a network?",
+      "type": "single",
+      "correct": "b",
+      "a": "To immediately choose a path.",
+      "b": "The problem is to find the shortest path between two nodes in a weighted graph.",
+      "c": "To assume all paths are equal.",
+      "d": "To ignore the network structure."
+    },
+    {
+      "question": "What are the \"Inputs\" for the shortest path algorithm?",
+      "type": "single",
+      "correct": "b",
+      "a": "A single node.",
+      "b": "A graph (set of nodes and edges), edge weights, a starting node, and a destination node.",
+      "c": "Only the destination node.",
+      "d": "Random numbers."
+    },
+    {
+      "question": "What is the \"Output\" for the shortest path algorithm?",
+      "type": "single",
+      "correct": "b",
+      "a": "A random path.",
+      "b": "The shortest path from the starting node to the destination node.",
+      "c": "The longest path.",
+      "d": "The number of nodes in the graph."
+    },
+    {
+      "question": "What is \"Step 2: Choose the Right Algorithm\" for finding the shortest path in a network?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring the algorithm's suitability.",
+      "b": "Selecting an appropriate algorithm (e.g., Dijkstra's Algorithm for non-negative edge weights).",
+      "c": "Always choosing the most complex algorithm.",
+      "d": "Using a heuristic method."
+    },
+    {
+      "question": "What is \"Step 3: Design the Algorithm\" for the shortest path problem using Dijkstra's?",
+      "type": "single",
+      "correct": "b",
+      "a": "Directly writing the code without a design.",
+      "b": "Using pseudocode and flowcharts to outline the steps of Dijkstra's Algorithm.",
+      "c": "Focusing only on the final output.",
+      "d": "Avoiding any visual aids."
+    },
+    {
+      "question": "What is \"Step 4: Implement the Algorithm\" for the shortest path problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Writing the algorithm in any programming language.",
+      "b": "Writing the Python code for Dijkstra's Algorithm, defining the graph, and executing the algorithm.",
+      "c": "Skipping the implementation details.",
+      "d": "Relying on external libraries for all logic."
+    },
+    {
+      "question": "What is \"Step 5: Test and Debug\" for the shortest path problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Assuming the code is correct.",
+      "b": "Testing the algorithm with various inputs (e.g., disconnected graphs, graphs with different weights) and debugging any issues.",
+      "c": "Avoiding edge cases.",
+      "d": "Only testing with valid inputs."
+    },
+    {
+      "question": "What is \"Step 6: Analyze Performance\" for the shortest path problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring time and space complexity.",
+      "b": "Evaluating the algorithm's time and space complexity to ensure efficiency for large networks.",
+      "c": "Only considering small inputs.",
+      "d": "Skipping optimization."
+    },
+    {
+      "question": "What is \"Step 7: Document and Refine\" for the shortest path problem?",
+      "type": "single",
+      "correct": "b",
+      "a": "Avoiding comments in the code.",
+      "b": "Documenting the algorithm's logic, usage, and any assumptions.",
+      "c": "Refine the algorithm once.",
+      "d": "Keeping the documentation minimal."
+    },
+    {
+      "question": "What is \"Complexity Analysis\" in algorithm design?",
+      "type": "single",
+      "correct": "b",
+      "a": "Ignoring the algorithm's performance.",
+      "b": "Analyzing the resources (time and space) an algorithm requires as the input size grows.",
+      "c": "Focusing only on the number of lines of code.",
+      "d": "A method for debugging."
+    },
+    {
+      "question": "What does \"$O(1)$ - Constant Time\" mean?",
+      "type": "single",
+      "correct": "b",
+      "a": "The execution time grows linearly with the input size.",
+      "b": "The execution time remains constant, regardless of the input size.",
+      "c": "The execution time grows exponentially.",
+      "d": "The execution time is unknown."
+    },
+    {
+      "question": "What does \"$O(\\log n)$ - Logarithmic Time\" mean?",
+      "type": "single",
+      "correct": "b",
+      "a": "The execution time grows linearly.",
+      "b": "The execution time grows slowly as the input size increases, often seen in algorithms that divide the problem into smaller halves, like binary search.",
+      "c": "The execution time is constant.",
+      "d": "The execution time grows quadratically."
+    },
+    {
+      "question": "What does \"$O(n)$ - Linear Time\" mean?",
+      "type": "single",
+      "correct": "b",
+      "a": "The execution time remains constant.",
+      "b": "The execution time grows proportionally to the input size.",
+      "c": "The execution time grows logarithmically.",
+      "d": "The execution time grows quadratically."
+    },
+    {
+      "question": "What does \"$O(n \\log n)$ - Linearithmic Time\" mean?",
+      "type": "single",
+      "correct": "b",
+      "a": "The execution time grows quadratically.",
+      "b": "The execution time grows slightly faster than linear, typical for efficient sorting algorithms like Merge Sort and Quick Sort.",
+      "c": "The execution time is constant.",
+      "d": "The execution time grows exponentially."
+    },
+    {
+      "question": "What does \"$O(n^2)$ - Quadratic Time\" mean?",
+      "type": "single",
+      "correct": "b",
+      "a": "The execution time grows linearly with the input size.",
+      "b": "The execution time grows proportionally to the square of the input size, common in algorithms with nested loops, such as Bubble Sort.",
+      "c": "The execution time remains constant.",
+      "d": "The execution time grows logarithmically."
+    },
+    {
+      "question": "What does \"$O(2^n)$ - Exponential Time\" mean?",
+      "type": "single",
+      "correct": "b",
+      "a": "The execution time grows very slowly.",
+      "b": "The execution time doubles with each addition to the input size, making it impractical for large inputs, often seen in brute-force algorithms.",
+      "c": "The execution time grows linearly.",
+      "d": "The execution time is constant."
+    },
+    {
+      "question": "What is the significance of \"Computational Complexity\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "It only impacts small problems.",
+      "b": "Understanding complexity is crucial for selecting efficient algorithms, especially for large datasets.",
+      "c": "It simplifies algorithm design.",
+      "d": "It makes debugging easier."
+    },
+    {
+      "question": "What is \"Space Complexity\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "The time an algorithm takes to run.",
+      "b": "The amount of memory an algorithm requires to run to completion.",
+      "c": "The number of lines of code.",
+      "d": "The number of operations performed."
+    },
+    {
+      "question": "What is \"Worst-Case Analysis\" in complexity analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "Analyzing the best possible performance.",
+      "b": "Analyzing the maximum number of operations an algorithm performs for any input size, providing an upper bound on its running time.",
+      "c": "Analyzing the average performance.",
+      "d": "Ignoring problematic inputs."
+    },
+    {
+      "question": "What is \"Average-Case Analysis\" in complexity analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "Analyzing the best possible performance.",
+      "b": "Analyzing the expected running time of an algorithm given a probabilistic distribution of inputs.",
+      "c": "Analyzing the maximum performance.",
+      "d": "Focusing only on specific inputs."
+    },
+    {
+      "question": "What is \"Best-Case Analysis\" in complexity analysis?",
+      "type": "single",
+      "correct": "b",
+      "a": "Analyzing the maximum number of operations.",
+      "b": "Analyzing the minimum number of operations an algorithm performs, providing a lower bound on its running time.",
+      "c": "Analyzing the average performance.",
+      "d": "Ignoring the input size."
+    },
+    {
+      "question": "What are \"Brute-Force Algorithms\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms that use advanced optimization techniques.",
+      "b": "Algorithms that try every possible solution until the correct one is found, often simple but inefficient for large inputs.",
+      "c": "Algorithms that use heuristics.",
+      "d": "Algorithms that have a constant execution time."
+    },
+    {
+      "question": "What is \"Divide and Conquer\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method that solves problems directly without breaking them down.",
+      "b": "A paradigm that involves breaking a problem into smaller sub-problems, solving each independently, and combining their solutions.",
+      "c": "A technique for optimizing code execution.",
+      "d": "A type of brute-force approach."
+    },
+    {
+      "question": "What is \"Dynamic Programming\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A method that solves sub-problems multiple times.",
+      "b": "An optimization technique that breaks down a complex problem into simpler subproblems, solving each subproblem only once and storing the results to avoid recomputation.",
+      "c": "A type of random algorithm.",
+      "d": "A technique for managing large datasets."
+    },
+    {
+      "question": "What is \"Greedy Algorithms\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms that always find the global optimum.",
+      "b": "Algorithms that make locally optimal choices at each step with the hope of finding a global optimum.",
+      "c": "Algorithms that require extensive backtracking.",
+      "d": "Algorithms that are computationally expensive."
+    },
+    {
+      "question": "What is \"Backtracking Algorithms\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms that always proceed forward.",
+      "b": "Algorithms that incrementally build a solution and abandon current paths if they determine they cannot lead to a valid solution.",
+      "c": "Algorithms that optimize for speed at all costs.",
+      "d": "Algorithms that only work for simple problems."
+    },
+    {
+      "question": "What is \"Randomized Algorithms\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms that always produce the same output for the same input.",
+      "b": "Algorithms that use randomness as part of their logic to make decisions, often leading to faster average-case performance.",
+      "c": "Algorithms that avoid any form of uncertainty.",
+      "d": "Algorithms that require no input."
+    },
+    {
+      "question": "What are \"Approximation Algorithms\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms that always find the exact optimal solution.",
+      "b": "Algorithms that find near-optimal solutions for problems where finding the exact optimal solution is computationally infeasible.",
+      "c": "Algorithms that never make mistakes.",
+      "d": "Algorithms that are only used for simple problems."
+    },
+    {
+      "question": "What are \"Iterative Algorithms\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms that involve recursion.",
+      "b": "Algorithms that repeatedly apply a set of steps until a certain condition is met.",
+      "c": "Algorithms that run only once.",
+      "d": "Algorithms that are not designed for optimization."
+    },
+    {
+      "question": "What are \"Recursive Algorithms\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Algorithms that use loops instead of function calls.",
+      "b": "Algorithms that solve a problem by calling themselves with smaller instances of the same problem until a base case is reached.",
+      "c": "Algorithms that only work for very large inputs.",
+      "d": "Algorithms that cannot be analyzed for complexity."
+    },
+    {
+      "question": "What is \"Linear Search\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A search algorithm that works on sorted data.",
+      "b": "A simple search algorithm that checks each element in a list sequentially until the target element is found or the end of the list is reached.",
+      "c": "An efficient search algorithm for large datasets.",
+      "d": "A search algorithm that uses divide and conquer."
+    },
+    {
+      "question": "What is \"Binary Search\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A search algorithm that works on unsorted data.",
+      "b": "An efficient search algorithm that finds the position of a target value within a sorted array by repeatedly dividing the search interval in half.",
+      "c": "A search algorithm that checks each element sequentially.",
+      "d": "A search algorithm with O(n) time complexity."
+    },
+    {
+      "question": "What is \"Bubble Sort\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A sorting algorithm that uses a divide and conquer approach.",
+      "b": "A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.",
+      "c": "A sorting algorithm with O(n log n) time complexity.",
+      "d": "A sorting algorithm that builds the final sorted array one item at a time."
+    },
+    {
+      "question": "What is \"Merge Sort\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A sorting algorithm that sorts in place.",
+      "b": "A divide-and-conquer sorting algorithm that divides the unsorted list into n sublists, each containing one element, and then repeatedly merges sublists to produce new sorted sublists until there is only one sorted list remaining.",
+      "c": "A sorting algorithm that has O(n^2) time complexity.",
+      "d": "A simple, inefficient sorting algorithm."
+    },
+    {
+      "question": "What is \"Quick Sort\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A sorting algorithm that is not based on partitioning.",
+      "b": "An efficient, in-place, divide-and-conquer sorting algorithm that selects a 'pivot' element from the array and partitions the other elements into two sub-arrays according to whether they are less than or greater than the pivot.",
+      "c": "A sorting algorithm that relies on merging.",
+      "d": "A sorting algorithm with constant time complexity."
+    },
+    {
+      "question": "What is \"Selection Sort\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A sorting algorithm that uses recursion.",
+      "b": "A sorting algorithm that repeatedly finds the minimum element from the unsorted part of the list and puts it at the beginning.",
+      "c": "A sorting algorithm with O(n log n) time complexity.",
+      "d": "A sorting algorithm that is efficient for large datasets."
+    },
+    {
+      "question": "What is \"Insertion Sort\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A sorting algorithm that works by repeatedly swapping adjacent elements.",
+      "b": "A simple sorting algorithm that builds the final sorted array (or list) one item at a time. It iterates through the input elements and builds a sorted output list.",
+      "c": "A sorting algorithm that uses a pivot element.",
+      "d": "A sorting algorithm with O(log n) time complexity."
+    },
+    {
+      "question": "What is the definition of \"Data Structures\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Physical storage devices for data.",
+      "b": "Specialized formats for organizing, processing, retrieving, and storing data.",
+      "c": "Programming languages used for data manipulation.",
+      "d": "Algorithms for data encryption."
+    },
+    {
+      "question": "What is an \"Array\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A collection of elements of different data types.",
+      "b": "A collection of items stored at contiguous memory locations, typically of the same data type.",
+      "c": "A dynamic data structure.",
+      "d": "A data structure used for hierarchical data."
+    },
+    {
+      "question": "What is a \"Linked List\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A collection of elements stored at contiguous memory locations.",
+      "b": "A linear data structure where elements are stored in non-contiguous memory locations and are linked using pointers.",
+      "c": "A data structure that allows direct access to any element.",
+      "d": "A data structure for sorting data."
+    },
+    {
+      "question": "What is a \"Stack\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A data structure that follows the First-In, First-Out (FIFO) principle.",
+      "b": "A linear data structure that follows the Last-In, First-Out (LIFO) principle.",
+      "c": "A data structure used for random access.",
+      "d": "A non-linear data structure."
+    },
+    {
+      "question": "What is a \"Queue\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A data structure that follows the Last-In, First-Out (LIFO) principle.",
+      "b": "A linear data structure that follows the First-In, First-Out (FIFO) principle.",
+      "c": "A data structure for hierarchical data.",
+      "d": "A data structure that allows direct access to elements."
+    },
+    {
+      "question": "What is a \"Tree\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A linear data structure.",
+      "b": "A non-linear, hierarchical data structure consisting of nodes connected by edges, where each node has a value and may have child nodes.",
+      "c": "A data structure that stores elements in contiguous memory.",
+      "d": "A data structure used for sequential access only."
+    },
+    {
+      "question": "What is a \"Graph\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A linear data structure.",
+      "b": "A non-linear data structure consisting of a finite set of vertices (or nodes) and a set of edges connecting pairs of vertices.",
+      "c": "A data structure for sorted data.",
+      "d": "A data structure that only allows one path between nodes."
+    },
+    {
+      "question": "What is a \"Hash Table (or Hash Map)\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A data structure that stores elements in sorted order.",
+      "b": "A data structure that stores key-value pairs, providing fast average-time complexity for insertion, deletion, and retrieval.",
+      "c": "A linear data structure for sequential access.",
+      "d": "A data structure for hierarchical data."
+    },
+    {
+      "question": "What is a \"Heap\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A data structure that maintains elements in a completely unsorted order.",
+      "b": "A specialized tree-based data structure that satisfies the heap property, typically used for implementing priority queues.",
+      "c": "A linear data structure.",
+      "d": "A data structure for direct element access."
+    },
+    {
+      "question": "What is a \"Trie (Prefix Tree)\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A data structure for storing unrelated words.",
+      "b": "A tree-like data structure used for efficient retrieval of a key in a dataset of strings, where keys are usually strings.",
+      "c": "A linear data structure that stores elements sequentially.",
+      "d": "A data structure for numerical data only."
+    },
+    {
+      "question": "What is a \"Matrix (2D Array)\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A one-dimensional list of elements.",
+      "b": "A two-dimensional array that stores elements in rows and columns, used to represent grids or tables.",
+      "c": "A dynamic data structure.",
+      "d": "A data structure that relies on pointers for connections."
+    },
+    {
+      "question": "What is the role of \"Efficiency\" when choosing data structures?",
+      "type": "single",
+      "correct": "b",
+      "a": "To disregard time and space complexity.",
+      "b": "Choosing the right data structure can significantly impact an algorithm's time and space complexity.",
+      "c": "To always use the simplest data structure.",
+      "d": "To focus only on implementation ease."
+    },
+    {
+      "question": "What is the role of \"Suitability\" when choosing data structures?",
+      "type": "single",
+      "correct": "b",
+      "a": "To force any data into any structure.",
+      "b": "Each data structure is best suited for specific operations (e.g., fast lookups, ordered data, frequent insertions/deletions).",
+      "c": "To always use a general-purpose data structure.",
+      "d": "To ignore the problem's requirements."
+    },
+    {
+      "question": "What is the role of \"Memory Usage\" when choosing data structures?",
+      "type": "single",
+      "correct": "b",
+      "a": "To disregard memory efficiency.",
+      "b": "Different data structures have varying memory footprints, which is crucial for resource-constrained environments.",
+      "c": "To always choose the data structure with the largest memory footprint.",
+      "d": "To only consider speed, not memory."
+    },
+    {
+      "question": "What is \"Complexity\" when choosing data structures?",
+      "type": "single",
+      "correct": "b",
+      "a": "To always choose the most complex data structure.",
+      "b": "The complexity of implementing and maintaining a data structure should be considered against its benefits.",
+      "c": "To only choose simple data structures.",
+      "d": "To ignore the maintainability of the code."
+    },
+    {
+      "question": "What are \"Databases\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Tools for individual file storage.",
+      "b": "Organized collections of data, typically stored and accessed electronically from a computer system.",
+      "c": "Only used for unstructured data.",
+      "d": "Algorithms for data sorting."
+    },
+    {
+      "question": "What are \"Files\" in the context of data storage?",
+      "type": "single",
+      "correct": "b",
+      "a": "Unstructured collections of data.",
+      "b": "Basic units of data storage on a computer system, often used for simple data persistence.",
+      "c": "Only used for temporary data.",
+      "d": "Exclusive to relational databases."
+    },
+    {
+      "question": "What is \"Cloud Storage\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "Storing data on local servers only.",
+      "b": "Storing data on remote servers accessible over the internet, providing scalability, accessibility, and durability.",
+      "c": "A physical storage device.",
+      "d": "A method for data encryption."
+    },
+    {
+      "question": "What is \"Blockchain\"?",
+      "type": "single",
+      "correct": "b",
+      "a": "A centralized database.",
+      "b": "A decentralized, distributed ledger technology that stores data in a secure, unchangeable, and transparent manner.",
+      "c": "A traditional file system.",
+      "d": "A method for temporary data storage."
+    }
+  ]
+}

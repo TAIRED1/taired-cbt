@@ -1,0 +1,995 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "INS204",
+    "total_questions": 109
+  },
+  "data": [
+    {
+      "question": "What is a system?",
+      "a": "A single component that works alone",
+      "b": "An organized collection of components that work together to achieve a specific goal",
+      "c": "A random set of unrelated parts",
+      "d": "A type of computer software only",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What are inputs?",
+      "a": "The results produced after processing",
+      "b": "The resources, data, or materials put into a system to be processed",
+      "c": "The mechanisms that monitor system operation",
+      "d": "The limits that define the system",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is feedback?",
+      "a": "The final product of the system",
+      "b": "Information about output used to make adjustments to inputs or processes",
+      "c": "The physical devices used in the system",
+      "d": "The external factors that influence the system",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "An information system is specifically designed to:",
+      "a": "Store only hardware components",
+      "b": "Manage and process data to provide useful information for decision-making",
+      "c": "Replace all human workers",
+      "d": "Create random outputs",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What are the four fundamental phases of the SDLC?",
+      "a": "Input, process, output, feedback",
+      "b": "Planning, analysis, design, implementation",
+      "c": "Hardware, software, data, people",
+      "d": "Requirements, coding, testing, deployment",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does a feasibility analysis examine?",
+      "a": "Only the cost of the project",
+      "b": "Technical feasibility, economic feasibility, and organizational feasibility",
+      "c": "Only the schedule",
+      "d": "Only the user interface",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "When are projects typically identified in an organization?",
+      "a": "When a random idea is suggested by external stakeholders",
+      "b": "When someone in the organization identifies a business need to build a system",
+      "c": "When the organization wants to test new computer hardware",
+      "d": "When the development team finishes all their current tasks",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following is considered a business need that might trigger a project?",
+      "a": "Routine maintenance of existing software applications",
+      "b": "Responding to pain points like a drop in market share or poor customer service",
+      "c": "Scheduling the annual company retreat",
+      "d": "Hiring new administrative staff",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the definition of emerging technology?",
+      "a": "Technology that is universally accepted and used in all modern businesses",
+      "b": "Technology that is still being developed and not yet viable for widespread business use",
+      "c": "Technology that has become obsolete and needs replacement",
+      "d": "Standard computer hardware components used for data entry",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following examples are given as emerging technologies?",
+      "a": "Local Area Networks and desktop computers",
+      "b": "Cloud computing, RFID, and Web 2.0",
+      "c": "Standard operating systems and enterprise applications",
+      "d": "Customer records and sales transactions databases",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "How is a project typically identified?",
+      "a": "The systems analyst chooses any project they desire",
+      "b": "Someone in the organization identifies a business need to build a system",
+      "c": "The IT department randomly selects a project",
+      "d": "An external consultant always initiates the project",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following is an example of a business need?",
+      "a": "Buying new office furniture",
+      "b": "Supporting a new marketing campaign",
+      "c": "Hiring more security guards",
+      "d": "Renovating the building",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is emerging technology?",
+      "a": "Technology that is obsolete",
+      "b": "Technology that is still being developed and not yet viable for widespread business use",
+      "c": "Technology that every company already uses",
+      "d": "Technology that only governments can access",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does BPM stand for?",
+      "a": "Business Process Management",
+      "b": "Basic Program Memory",
+      "c": "Business Performance Metric",
+      "d": "Backup Power Module",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is Business Process Management (BPM)?",
+      "a": "A methodology to eliminate all business processes",
+      "b": "A methodology used to continuously improve end-to-end business processes",
+      "c": "A software installation technique",
+      "d": "A hardware configuration standard",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which feasibility analysis asks the question \"will it work when deployed\"?",
+      "a": "Technical Feasibility",
+      "b": "Economic Feasibility",
+      "c": "Operational Feasibility",
+      "d": "Organizational Feasibility",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which development methodology uses a sequential approach where each phase completes before the next begins?",
+      "a": "Parallel development",
+      "b": "Waterfall development",
+      "c": "V-model",
+      "d": "Rapid Application Development",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Who evaluates projects in the context of a portfolio balancing risks and returns?",
+      "a": "The Project Sponsor",
+      "b": "The IT Department",
+      "c": "The Approval Committee",
+      "d": "The Systems Analyst",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which element of a system request document describes the constraints relevant to implementation?",
+      "a": "Business Value",
+      "b": "Special Issues",
+      "c": "Business Need",
+      "d": "Business Requirements",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following is NOT typically a factor that influences methodology selection?",
+      "a": "System complexity",
+      "b": "Reliability needs",
+      "c": "Technology familiarity",
+      "d": "Employee salary levels",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "What does the term analysis mean in systems analysis?",
+      "a": "Building a system from scratch",
+      "b": "Breaking a whole into its parts to understand their nature, function, and interrelationships",
+      "c": "Testing a system after it is built",
+      "d": "Installing hardware components",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What are the three steps of the basic process of analysis?",
+      "a": "Coding, testing, deployment",
+      "b": "Understand as-is system, identify improvements, define requirements for to-be system",
+      "c": "Planning, design, implementation",
+      "d": "Hardware, software, network selection",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a requirement?",
+      "a": "A type of hardware",
+      "b": "A statement of what the system must do or what characteristics it needs to have",
+      "c": "A network protocol",
+      "d": "A programming language",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which type of requirement describes what the software should do?",
+      "a": "Business requirements",
+      "b": "User requirements",
+      "c": "Functional requirements",
+      "d": "Nonfunctional requirements",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is requirements elicitation?",
+      "a": "Writing code",
+      "b": "Testing the system",
+      "c": "Researching and discovering requirements from users, customers, and stakeholders",
+      "d": "Installing software",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the primary reason the as-is step might be skipped during analysis?",
+      "a": "When using the waterfall methodology",
+      "b": "When there is no current system or it is irrelevant",
+      "c": "When the users are unavailable",
+      "d": "When the project is over budget",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which type of requirement defines the characteristics the system should have?",
+      "a": "Functional requirements",
+      "b": "User requirements",
+      "c": "Nonfunctional requirements",
+      "d": "Business requirements",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What type of requirement focuses on what the business needs?",
+      "a": "Functional requirements",
+      "b": "User requirements",
+      "c": "Nonfunctional requirements",
+      "d": "Business requirements",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "Which type of interview seeks a broad and roughly defined set of information?",
+      "a": "Unstructured interview",
+      "b": "Structured interview",
+      "c": "Probing interview",
+      "d": "Closed-ended interview",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Which requirements analysis strategy involves examining the time taken for processes?",
+      "a": "Root cause analysis",
+      "b": "Duration analysis",
+      "c": "Activity-based costing",
+      "d": "Technology analysis",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a use case?",
+      "a": "A type of hardware",
+      "b": "A representation of how a system interacts with its environment",
+      "c": "A programming language",
+      "d": "A network protocol",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the goal of creating use cases?",
+      "a": "To replace all documentation",
+      "b": "To describe all tasks users need to perform",
+      "c": "To eliminate user interaction",
+      "d": "To design the database",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is an actor in use case analysis?",
+      "a": "Only a human user",
+      "b": "Any entity that interacts with the system",
+      "c": "Only external systems",
+      "d": "Only the system itself",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a process model?",
+      "a": "A graphical way of representing how a business system operates",
+      "b": "A type of hardware",
+      "c": "A programming language",
+      "d": "A network protocol",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What does DFD stand for?",
+      "a": "Data Flow Diagram",
+      "b": "Digital Function Display",
+      "c": "Data Format Document",
+      "d": "Dynamic Flow Description",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is the purpose of balancing in Data Flow Diagrams (DFDs)?",
+      "a": "To ensure external entities are connected properly",
+      "b": "To guarantee all processes have at least two outputs",
+      "c": "To ensure consistency between levels, so data flows and data stores at boundaries match",
+      "d": "To create a visual representation of logic within processes",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which DFD level shows the major high-level processes, data stores, and external entities?",
+      "a": "Context diagram",
+      "b": "Level 0 diagram",
+      "c": "Level 1 diagram",
+      "d": "Level 2 diagram",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which modeling technique is best used when process logic is complex and relies on rules linking conditions with actions?",
+      "a": "Data Flow Diagram",
+      "b": "Structured English",
+      "c": "Decision Trees",
+      "d": "Decision Tables",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "According to basic DFD rules, which of the following is correct regarding data stores?",
+      "a": "They must be connected to external entities.",
+      "b": "They can be connected to other data stores directly.",
+      "c": "They must receive at least two input data flows.",
+      "d": "They should be connected to at least one process.",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "Does a Data Flow Diagram (DFD) show the internal logic inside processes?",
+      "a": "Yes, it is the primary purpose of a DFD.",
+      "b": "Yes, but only in Level 2 diagrams.",
+      "c": "No, DFDs do not show logic inside processes.",
+      "d": "No, unless decision trees are explicitly drawn inside them.",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "How many context diagrams does a process model have?",
+      "a": "Zero",
+      "b": "One",
+      "c": "Two",
+      "d": "Many",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a Level 0 DFD?",
+      "a": "Context diagram",
+      "b": "A diagram that shows all internal processes at the first level of numbering",
+      "c": "A diagram that decomposes a single process",
+      "d": "A diagram with no data stores",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does it mean for DFDs to be balanced?",
+      "a": "They all have the same number of processes",
+      "b": "The Level 0 and Level 1 DFDs show the same data stores and data flows at the boundaries",
+      "c": "They all look the same",
+      "d": "They all have the same number of symbols",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is Structured English used for?",
+      "a": "To design databases",
+      "b": "To describe the work that a process performs using short sentences",
+      "c": "To select hardware",
+      "d": "To configure networks",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following are correct about DFDs? i. A DFD must have at least one process ii. A process must have only inputs and no outputs iii. A process must have at least one input and one output data flow iv. Data stores must be connected to at least one process v. External entities must be connected to each other directly",
+      "a": "i, ii and iii",
+      "b": "i, iii and iv",
+      "c": "ii, iv and v",
+      "d": "i, iii and v",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a data model?",
+      "a": "A formal way of representing data used and created by a business system",
+      "b": "A type of hardware",
+      "c": "A programming language",
+      "d": "A network protocol",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What are the three basic elements of an ERD?",
+      "a": "Hardware, software, networks",
+      "b": "Entities, attributes, relationships",
+      "c": "Inputs, processes, outputs",
+      "d": "Planning, analysis, design",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is an identifier?",
+      "a": "An attribute that cannot be unique",
+      "b": "The attribute that can uniquely identify one instance of an entity",
+      "c": "A relationship between entities",
+      "d": "A type of hardware",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does 1:1 cardinality mean?",
+      "a": "One parent associated with many children",
+      "b": "One parent associated with one child",
+      "c": "Many parents associated with many children",
+      "d": "No association",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is normalization?",
+      "a": "A technique to make models more complex",
+      "b": "A technique applying rules to validate a model and eliminate redundancy",
+      "c": "A programming language",
+      "d": "A hardware configuration",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following are correct about cardinality? i. 1:1 means one entity associated with one other ii. 1:N means one entity associated with many others iii. M:N means many entities associated with many others iv. 1:1 is the most common cardinality v. 1:N is the most common cardinality",
+      "a": "i, ii and iii",
+      "b": "i, ii and v",
+      "c": "ii, iii and iv",
+      "d": "i, iii and v",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following are correct about modality? i. Modality indicates optional or mandatory ii. Null means optional iii. Not null means mandatory iv. Modality is shown with zero or bar v. Modality is the same as cardinality",
+      "a": "i, ii and iii",
+      "b": "i, ii and iv",
+      "c": "i, ii, iii and iv",
+      "d": "i, iii and v",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following are correct about relationships? i. Relationships are associations between entities ii. Relationships are shown lines iii. Relationships have cardinality iv. Relationships have modality v. Relationships are rectangles",
+      "a": "i, ii and iii",
+      "b": "i, ii and iv",
+      "c": "i, ii, iii and iv",
+      "d": "ii, iii and v",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following are correct about data models? i. Logical model shows logical organization ii. Logical model shows implementation details iii. Physical model shows how data will be stored iv. Logical models drawn during analysis v. Physical models drawn during analysis",
+      "a": "i, ii and iii",
+      "b": "i, iii and iv",
+      "c": "iii, iv and v",
+      "d": "i, iv and v",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following are correct about normalization? i. Normalization eliminates redundant data ii. Normalization prevents update anomalies iii. Normalization makes data models unstable iv. Normalization uses a series of rules v. Normalization is optional",
+      "a": "i, ii and iv",
+      "b": "i, iii and v",
+      "c": "ii, iv and v",
+      "d": "iii, iv and v",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What is the primary difference between a logical data model and a physical data model?",
+      "a": "A logical data model shows storage details, while a physical model is used only during analysis",
+      "b": "A logical data model shows logical organization during analysis, while a physical model shows storage details during design",
+      "c": "A logical data model eliminates redundancy, while a physical model focuses on cardinality",
+      "d": "A logical data model represents relationships, while a physical model represents entities",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the primary purpose of a data dictionary in systems analysis?",
+      "a": "To physically store the application's user data securely",
+      "b": "To define or look up metadata about entities, attributes, and relationships",
+      "c": "To provide a graphic representation of hardware components",
+      "d": "To act as middleware between client and server architectures",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "In an Entity Relationship Diagram (ERD), how are the basic elements typically represented?",
+      "a": "Entities as circles, Attributes as lines, Relationships as squares",
+      "b": "Entities as rectangles, Attributes as information about entities, Relationships as lines",
+      "c": "Entities as lines, Attributes as rectangles, Relationships as circles",
+      "d": "Entities as triangles, Attributes as data points, Relationships as arrows",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which system acquisition strategy involves using an Application Service Provider (ASP) or Software as a Service (SaaS)?",
+      "a": "Custom development",
+      "b": "Packaged software",
+      "c": "Outsourcing",
+      "d": "Middleware integration",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following best describes the goal of normalization in data modeling?",
+      "a": "To balance processing loads between clients and servers",
+      "b": "To translate between different vendors' software",
+      "c": "To ensure that all relationships are mandatory",
+      "d": "To validate data models, eliminate redundancy, and prevent update anomalies",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "What is interface design?",
+      "a": "Writing code",
+      "b": "Defining how the system interacts with external entities",
+      "c": "Testing the system",
+      "d": "Installing hardware",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "How many principles guide user interface design?",
+      "a": "Four",
+      "b": "Five",
+      "c": "Six",
+      "d": "Seven",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is arguably the most important interface design principle?",
+      "a": "Color",
+      "b": "Consistency",
+      "c": "Speed",
+      "d": "Cost",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the first step in the user interface design process?",
+      "a": "Create prototypes",
+      "b": "Develop use scenarios",
+      "c": "Draw ISD",
+      "d": "Design standards",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is an Interface Structure Diagram (ISD)?",
+      "a": "Hardware diagram",
+      "b": "Diagram showing all interfaces and connections",
+      "c": "Database schema",
+      "d": "Network topology",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "In a client-server architecture, what defines a 'Thick Client'?",
+      "a": "A client that performs only presentation logic",
+      "b": "A client where a small portion of application logic resides",
+      "c": "A client where most of the application logic resides",
+      "d": "A client that exclusively handles data storage",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the primary function of middleware in a system architecture?",
+      "a": "To translate between products from different vendors",
+      "b": "To replace the need for client-server architectures",
+      "c": "To handle presentation logic for the user interface",
+      "d": "To store master and transaction files permanently",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following is considered a nonfunctional requirement regarding performance?",
+      "a": "Data Access Logic",
+      "b": "Response time and update latency",
+      "c": "Encryption standards",
+      "d": "Application Logic processing",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "According to the summary, which database type is predominantly used for data warehousing with pre-aggregated measures?",
+      "a": "Relational",
+      "b": "Object",
+      "c": "Network",
+      "d": "Multidimensional",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "Which type of file contains past transactions for reference rather than for active processing?",
+      "a": "Master file",
+      "b": "Audit file",
+      "c": "History file",
+      "d": "Transaction file",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the implementation phase?",
+      "a": "Gathering requirements",
+      "b": "Coding, testing, and deploying the system",
+      "c": "Designing the system",
+      "d": "Analyzing feasibility",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a test plan?",
+      "a": "A random document",
+      "b": "A document specifying test objectives, test cases, and expected results",
+      "c": "A hardware manual",
+      "d": "A user guide",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is user acceptance testing (UAT)?",
+      "a": "Testing done by developers",
+      "b": "Testing done by end users to verify the system meets their needs",
+      "c": "Testing done by hardware vendors",
+      "d": "Testing done by external consultants",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is direct conversion?",
+      "a": "Running old and new systems simultaneously",
+      "b": "Instant cutover where the old system is stopped and new system started",
+      "c": "Converting one location at a time",
+      "d": "Converting one module at a time",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the three-step model of organizational change?",
+      "a": "Plan, design, implement",
+      "b": "Unfreeze, change, refreeze",
+      "c": "Analysis, design, testing",
+      "d": "Requirements, coding, deployment",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What do object-oriented systems view an information system as?",
+      "a": "A single large program",
+      "b": "A collection of self-contained objects",
+      "c": "A collection of unrelated files",
+      "d": "A hardware device",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a class in OO concepts?",
+      "a": "A specific instance",
+      "b": "A template defining shared attributes and methods",
+      "c": "A type of database",
+      "d": "A network protocol",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What OO development principle states that an object exposes only its interface while keeping its internal implementation private?",
+      "a": "Inheritance",
+      "b": "Encapsulation",
+      "c": "Information hiding",
+      "d": "Use-case driven development",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which UML diagram is a static model showing classes, attributes, operations, and relationships?",
+      "a": "Sequence diagram",
+      "b": "Class diagram",
+      "c": "Behavioral State Machine diagram",
+      "d": "Data flow diagram",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following allows subclasses to inherit attributes and methods from superclasses?",
+      "a": "Encapsulation",
+      "b": "Message passing",
+      "c": "Inheritance",
+      "d": "Iterative development",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is an object in OO concepts?",
+      "a": "A template",
+      "b": "A specific instance of a class",
+      "c": "A type of hardware",
+      "d": "A programming language",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a method in OO concepts?",
+      "a": "An attribute",
+      "b": "An action an object can perform",
+      "c": "A database",
+      "d": "A network connection",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is encapsulation?",
+      "a": "Separating data from processes",
+      "b": "Combining data and processes into a single entity",
+      "c": "Deleting all data",
+      "d": "Ignoring processes",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is information hiding?",
+      "a": "Allowing other objects to see internal implementation",
+      "b": "Other objects see only the interface, not internal implementation",
+      "c": "Making all data public",
+      "d": "Sharing all internal details",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is inheritance?",
+      "a": "Subclasses have no relation to superclass",
+      "b": "Subclasses inherit all attributes and methods from superclass",
+      "c": "Classes cannot share attributes",
+      "d": "Each class redefines all attributes",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which conversion strategy involves running the old and new systems simultaneously?",
+      "a": "Direct conversion",
+      "b": "Parallel conversion",
+      "c": "Pilot conversion",
+      "d": "Phased conversion",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the primary purpose of a post-implementation review?",
+      "a": "To plan the initial budget for the project",
+      "b": "To evaluate the system's success by comparing actual performance against expected benefits",
+      "c": "To design the user interface of the new system",
+      "d": "To gather requirements from the stakeholders",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Which conversion location strategy involves rolling out the new system gradually location?",
+      "a": "Simultaneous conversion",
+      "b": "Direct conversion",
+      "c": "Phased conversion",
+      "d": "Modular conversion",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "In the context of system migration, what does a modular conversion entail?",
+      "a": "Converting the entire system at once",
+      "b": "Converting the system one module at a time",
+      "c": "Running the old and new systems in parallel",
+      "d": "Testing the system at a single location before a full rollout",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does capacity planning in the maintenance phase primarily address?",
+      "a": "Fixing critical software bugs",
+      "b": "Planning for future growth and system resources",
+      "c": "Managing different versions of software",
+      "d": "Training users on new features",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is an advantage of direct conversion?",
+      "a": "Low risk",
+      "b": "Fast and cheap",
+      "c": "Users do work twice",
+      "d": "Takes many months",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is a disadvantage of direct conversion?",
+      "a": "Expensive",
+      "b": "Any undiscovered bug immediately disrupts operations",
+      "c": "Takes too long",
+      "d": "Users not involved",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is parallel conversion?",
+      "a": "Instant cutover",
+      "b": "Running old and new systems simultaneously, comparing outputs",
+      "c": "One location at a time",
+      "d": "One module at a time",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is an advantage of parallel conversion?",
+      "a": "Cheap",
+      "b": "Low risk (old system available if problems occur)",
+      "c": "No training needed",
+      "d": "Fast",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "Why did the object-oriented approach to system development evolve?",
+      "a": "Because hardware costs increased significantly",
+      "b": "Because developer time now dominates costs, and OO emphasizes reuse and modularity",
+      "c": "Because users demanded faster processing speeds",
+      "d": "Because procedural languages were deprecated",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What is the primary analysis and communication tool in OO development?",
+      "a": "Hardware diagrams",
+      "b": "State machine models",
+      "c": "Use cases",
+      "d": "Data flow diagrams",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What is the purpose of the 'Unfreeze' step in the three-step model of organizational change?",
+      "a": "To solidify the new system",
+      "b": "To implement the new system",
+      "c": "To stop all business operations immediately",
+      "d": "To loosen attachment to the old system",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "What is the function of a 'Migration Plan' in system implementation?",
+      "a": "To plan for transitioning from the old system to the new system",
+      "b": "To physically move servers to a new location",
+      "c": "To upgrade employee software skills without changing systems",
+      "d": "To document system hardware specifications",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following is true about polymorphism based on the glossary?",
+      "a": "It means the same interface is used for different types",
+      "b": "It completely hides all class methods",
+      "c": "It forces subclasses to delete superclass attributes",
+      "d": "It requires sequential conversion",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "What are the core Object-Oriented Principles according to the text?",
+      "a": "Use-case driven, Architecture-centric, Iterative and incremental",
+      "b": "Data-driven, Design-centric, Waterfall",
+      "c": "Procedure-driven, Component-centric, Agile",
+      "d": "Logic-driven, Interface-centric, Sequential",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "Which of the following best defines a 'Class' in Object-Oriented programming?",
+      "a": "An instance of an object",
+      "b": "A template for objects",
+      "c": "An action an object performs",
+      "d": "A combination of data and processes",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does an 'Object' represent in the context of Object-Oriented programming?",
+      "a": "A template for a class",
+      "b": "An instance of a class",
+      "c": "A superclass definition",
+      "d": "An interface specification",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "How is a 'Method' defined in Object-Oriented terminology?",
+      "a": "A template for creating objects",
+      "b": "Data and processes combined together",
+      "c": "An action that an object performs",
+      "d": "The visible interface of a class",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "Which term describes the concept of keeping data and processes together?",
+      "a": "Inheritance",
+      "b": "Information Hiding",
+      "c": "Encapsulation",
+      "d": "Iteration",
+      "correct": "c",
+      "type": "single"
+    },
+    {
+      "question": "What happens in the process of Inheritance?",
+      "a": "An object performs a specific action",
+      "b": "A subclass inherits from a superclass",
+      "c": "Data and processes are hidden from the user",
+      "d": "Only the interface is made visible",
+      "correct": "b",
+      "type": "single"
+    },
+    {
+      "question": "What does Information Hiding refer to in Object-Oriented design?",
+      "a": "Only the interface is visible",
+      "b": "Data and processes are grouped together",
+      "c": "A subclass inherits from a superclass",
+      "d": "Templates for objects are kept secret",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "According to the provided text, which of the following is NOT one of the main OO Principles?",
+      "a": "Use-case driven",
+      "b": "Architecture-centric",
+      "c": "Iterative and incremental",
+      "d": "Database-centric",
+      "correct": "d",
+      "type": "single"
+    },
+    {
+      "question": "If you are working with a specific instance of a class, what are you working with?",
+      "a": "An object",
+      "b": "A method",
+      "c": "A subclass",
+      "d": "An interface",
+      "correct": "a",
+      "type": "single"
+    },
+    {
+      "question": "When only the interface is visible and the underlying implementation is concealed, this demonstrates:",
+      "a": "Inheritance",
+      "b": "Information Hiding",
+      "c": "Use-case driven architecture",
+      "d": "Class templating",
+      "correct": "b",
+      "type": "single"
+    }
+  ]
+}

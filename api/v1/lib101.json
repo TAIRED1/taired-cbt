@@ -1,0 +1,4673 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "LIB101",
+    "total_questions": 470
+  },
+  "data": [
+    {
+      "question": "When the entry for a book is found, what\nshould be carefully noted?",
+      "options": [
+        "call mark",
+        "index",
+        "pagination",
+        "abstract"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of these is odd of these transmitive\ndevices",
+      "options": [
+        "automated teller machine",
+        "cable TV",
+        "facsimile",
+        "electronic mail"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The commonest form of catalogue is",
+      "options": [
+        "CDROM catalogue",
+        "book catalogue",
+        "card\ncatalogue",
+        "online public access catalogue"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What can be used for fact-finding in the\nlibrary",
+      "options": [
+        "book",
+        "monograph",
+        "index",
+        "journal"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Who is the father of library science",
+      "options": [
+        "Ashurbanipal",
+        "S. R. Ranganathan",
+        "Nnamdi Azikiwe",
+        "Dr. Carl"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Weeding is a form of removing old, tattered\nand mutilated books off the shelves, but\nthose books found worthy of repairs can be\ntaken to",
+      "options": [
+        "administrative unit",
+        "bindery",
+        "service unit",
+        "reference unit"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Non-printing materials are referred to as",
+      "options": [
+        "books",
+        "audiovisual and electronic\nmaterial",
+        "journals",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The ___________ Library is expected to serve all\nkinds of people including children",
+      "options": [
+        "apex\nlibrary",
+        "public library",
+        "national library",
+        "special library"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "There was a library in eastern region around",
+      "options": [
+        "1968",
+        "1958",
+        "1969",
+        "1959"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of these is not a type of reports",
+      "options": [
+        "social reports",
+        "commissioned reports",
+        "annual reports",
+        "law reports"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a name of a\nlibrary user",
+      "options": [
+        "user",
+        "matron",
+        "patrons",
+        "cliente"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Google is a type of ____________ search engine",
+      "options": [
+        "specialized",
+        "expert",
+        "centralized",
+        "none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The two types of right under copyright law\nare",
+      "options": [
+        "economic and moral right",
+        "social\nand influence right",
+        "moral and specified\nright",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Moral right can be divided into two which\nare",
+      "options": [
+        "special and noble right",
+        "paternity\nright and the right of respect",
+        "educational\nand social right",
+        "visible and economic\nright"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Full meaning of WIPO",
+      "options": [
+        "world intellectual\nproperty organization",
+        "wealth intellectual\nprocessed organization",
+        "wide intellectual\nprogrammed ointment",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A library resource that locates books,\nperiodicals and other documents is",
+      "options": [
+        "index",
+        "catalogue",
+        "manuals",
+        "serial"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "JSTOR means",
+      "options": [
+        "job storage",
+        "journal\nstorage",
+        "journal store",
+        "all of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "IFLA means",
+      "options": [
+        "international federation of\nlibrary association",
+        "internal federation of\nlibrary\nassistants",
+        "international\nfederation of library assistants",
+        "internal\nfederation of library association"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The government passed the first library\nrelated legislature in what year",
+      "options": [
+        "August\n1960",
+        "September 1964",
+        "September\n1950",
+        "March 1980"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "All the damaged books in library should be",
+      "options": [
+        "weed",
+        "repair",
+        "weeded",
+        "kept"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Most ___________ are searchable by author,\ntitle, subject heading and keys",
+      "options": [
+        "morder",
+        "CD-ROM",
+        "OPAC",
+        "OMC"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "All are searching elements of a cataloguing\nrecord except",
+      "options": [
+        "cataloguing",
+        "subject",
+        "shelf lotus",
+        "shelving"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Thesis, dissertations, scholarly journal are",
+      "options": [
+        "tertiary sources",
+        "secondary sources",
+        "main sources",
+        "primary sources"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Government\nreport,\nsymposia\nand\nconference preceedings are",
+      "options": [
+        "primary\nsources",
+        "secondary sources",
+        "tertiary\nsources",
+        "main sources"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Nnamdi Azikwe donated how many books to\nNsukka University of Nigeria?",
+      "options": [
+        "10,000",
+        "12,000",
+        "15,000",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Old and torn books should be ___________ from\nthe library",
+      "options": [
+        "withheld",
+        "weed",
+        "weeded",
+        "none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What unit of the library is responsible for\nselection and ordering",
+      "options": [
+        "acquisition unit",
+        "serial unit",
+        "technical unit",
+        "administrative unit"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "King of Assyria is from where",
+      "options": [
+        "Iraq",
+        "Assyria",
+        "Nineveh",
+        "Togo"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following spellings is correct?",
+      "options": [
+        "Vice Chancellor",
+        "Vise Chanceallor",
+        "Vice Shancellor",
+        "Vice Chancerllor"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Serials are publications that come out\n___________",
+      "options": [
+        "in a year",
+        "in a particular\nform",
+        "successively",
+        "continuously"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The full meaning of MESH is",
+      "options": [
+        "mechanical\nsubject heading",
+        "medical subject heading",
+        "medial subject heading",
+        "medium\nsubject heading"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Act of producing new copy of document is",
+      "options": [
+        "photoshop service",
+        "formatting",
+        "reprographic",
+        "photography"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which unit contains current and back issues\nof both foreign and local journals",
+      "options": [
+        "reader’s\nservice unit",
+        "technical unit",
+        "administrative unit",
+        "serial unit"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Rare books, fragile resources, audio\nmaterials are normally loaned out through\n______________ to sister libraries",
+      "options": [
+        "library\nconnect",
+        "library requests",
+        "inter-library\noffices",
+        "inter-library loan services\n\n\f S, LAUTECH\nLIB 101 PDF FOR 1ST SEMESTER EXAM"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "SDI is a special library service that can be\noffered strictly to",
+      "options": [
+        "any user",
+        "visitors to\nthe library",
+        "registered user",
+        "visiting\nresearchers"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Photocopying and binding services are\nprovided and used in the library mainly to",
+      "options": [
+        "make copies of past of library materials",
+        "restore library worn-out materials",
+        "bind library materials",
+        "photocopy library\nmaterials"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The acronym for Wide Area Network is",
+      "options": [
+        "WON",
+        "WANS",
+        "WAN",
+        "WGN"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The\nadaptation\nof\npre-existing\nbibliographical record from the scratch,\nfound online is known as",
+      "options": [
+        "original\ncataloguing",
+        "copy cataloguing",
+        "union\ncataloguing",
+        "core cataloguing"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Types of cataloguing are",
+      "options": [
+        "systemic and\nclassified",
+        "alphabetic and classified",
+        "title and author",
+        "title and subject"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The full form of UDC is",
+      "options": [
+        "Universal Data\nCentre",
+        "Universal Decimal Classification",
+        "Universal Dewey Classification",
+        "Utility\nDistribution Company"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Technical section of the library performs\nmainly two functions namely classification\nand ___________",
+      "options": [
+        "shelving",
+        "bill payment",
+        "accessioning",
+        "cataloguing"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The most common classification system are",
+      "options": [
+        "library of congress classification and\ndelivery classification",
+        "library of\ncontemporary classification and devew\nclassification",
+        "library classification and\nDewey decimal classification",
+        "Library of\ncongress classification and Dewey decimal\nclassification"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A personalized service directed towards the\nindividual or homogenous group is called",
+      "options": [
+        "selective dissemination",
+        "selective\ntendering",
+        "selective agreement",
+        "selective coorperative"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A person that recommend one to another\nlibrary is",
+      "options": [
+        "a rev",
+        "refree",
+        "a referral",
+        "a retrial"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Non-print materials are referred to as _______",
+      "options": [
+        "journal",
+        "books",
+        "index",
+        "audio\nvisual and electronic material"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What is the type of serial published with a\nfixed interval between each source",
+      "options": [
+        "a\nperiodical",
+        "biography",
+        "an encyclopedia",
+        "a manual"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The first individual to introduce library as a\nprofession is",
+      "options": [
+        "Dr. Carl White",
+        "Shiyali\nRangeth",
+        "Nnamdi\nAzikwe",
+        "Ashurbanipal"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Eating healthily is a way to preparing for\n_____________",
+      "options": [
+        "articles",
+        "examination",
+        "school",
+        "office"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The full meaning of ATM is",
+      "options": [
+        "autoelectric\ntelephone manual",
+        "automatic teller\nmachine",
+        "automated teller machine",
+        "automatic technique machine"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Dictionary of acronyms is a ______________",
+      "options": [
+        "dictionary that deals with names",
+        "dictionary that deals with shortening of\nwords",
+        "dictionary that deals with italism",
+        "dictionary that deals with spelling of\nwords"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "All these are input devices except",
+      "options": [
+        "keyboard",
+        "mouse",
+        "mice",
+        "joystick"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The two most common print material are",
+      "options": [
+        "newspaper and magazine",
+        "photos and\ngraphics",
+        "books",
+        "manual"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_______________ catalogue is a list of books in a\nconvection entered under name",
+      "options": [
+        "author",
+        "title",
+        "subject",
+        "descriptive"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Hybrid computer is the combination of\n_______________ and _______________",
+      "options": [
+        "digital\nand analog",
+        "digital and software",
+        "analog and hardware",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The type of library in Ahmadu Bello\nUniversity, Zaria is",
+      "options": [
+        "academic",
+        "school",
+        "public",
+        "special"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Unit of library that deals with IT and\ndiversification of academic activities is",
+      "options": [
+        "reference",
+        "readers",
+        "circulation",
+        "research and development unit"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "To develop good study habit, you have to",
+      "options": [
+        "avoid study group",
+        "avoid social media",
+        "stay on social media",
+        "stay with your\nphone"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The source that provides second-hand\ninformation and commentary is",
+      "options": [
+        "secondary",
+        "tertiary",
+        "primary",
+        "all"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the name of the person in reference\nunit?",
+      "options": [
+        "cataloguer",
+        "reference librarian",
+        "chief librarian",
+        "librarian"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Photos, graphics or other images to\ncommunicate ideas are",
+      "options": [
+        "non-print\nmaterial",
+        "print material",
+        "visual\nmaterials",
+        "none"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "_______________ is a system of coding and\norganizing documents or library material",
+      "options": [
+        "classification",
+        "arrangement",
+        "enumerative",
+        "rendition"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Web and network material are",
+      "options": [
+        "internet",
+        "E-mail",
+        "CD-ROM",
+        "all"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ materials are not lend out of the\nlibrary",
+      "options": [
+        "reference",
+        "year book",
+        "report",
+        "journal"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ refers to the list of all the sources\nused for a scholarly work",
+      "options": [
+        "bibliography",
+        "biography",
+        "auto-biography"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ is the removal of old books from\nthe shelves",
+      "options": [
+        "withdrawal",
+        "removal",
+        "arrangement",
+        "weeding"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "General encyclopedia comes in",
+      "options": [
+        "date",
+        "book",
+        "volume",
+        "quantity"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Purpose of classification is to facilitate",
+      "options": [
+        "wellbeing of library material",
+        "easy\nrotation of library material",
+        "beauty of\nlibrary material",
+        "easy retrieval of library\nmaterials"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Person who does task of cataloguing is called",
+      "options": [
+        "cataloguer",
+        "librarian",
+        "classifier",
+        "cataloguist"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Cataloguing follows some basic principles\nthat firstly put users through",
+      "options": [
+        "false",
+        "to\nan extent",
+        "true",
+        "not in reality"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In terms of functionality, classification\nschemes are often described as",
+      "options": [
+        "enumerative, hierarchical selected or\nanalytical",
+        "abstract, bibliography and\nindex",
+        "bibliography and subject",
+        "descriptive, hierarchical and original"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Full meaning of CAS is",
+      "options": [
+        "customer\nawareness service",
+        "current awareness\nservices",
+        "content awareness services",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Inter library ______________ is getting required\nlibrary resources to users from another\nlibrary at a time of need",
+      "options": [
+        "loan",
+        "services",
+        "gift",
+        "share"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "First-hand or contemporary account of an\nevent or topic is _________",
+      "options": [
+        "original",
+        "copy",
+        "duplicate",
+        "all"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Apex library in Nigeria is known as",
+      "options": [
+        "government library",
+        "state library",
+        "personal library",
+        "national library"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "IFLA stands for",
+      "options": [
+        "intermediary federation\nof library association and institution",
+        "internet federation of library association",
+        "international\nfederation\nof\nlibrary\nassociation",
+        "intermediate federation of\nlibrary association and institution"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In an academic library, for proper study, the\nfollowing must be used except",
+      "options": [
+        "floor files",
+        "video tape",
+        "iron cabinet",
+        "standard\nshelves"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The preparation of a bibliographic record for\nthe scratch, without the aid of pre-existing\nbibliographic record is",
+      "options": [
+        "duplicate\n\ncatalogue",
+        "original catalogue",
+        "subject\ncatalogue",
+        "copy catalogue"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What are both published and non-published\nmaterials and these materials can be in form\nof",
+      "options": [
+        "archives",
+        "video",
+        "manuscript",
+        "manual"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Serial are publications that come out",
+      "options": [
+        "successively",
+        "in a year",
+        "in cascade",
+        "in a particular form"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which library represents all range of human\nexperience and opinion free from risk of\ncensorship?",
+      "options": [
+        "public library",
+        "national\nlibrary",
+        "academic library",
+        "special\nlibrary"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which libraries are established to cater for\nspecific needs",
+      "options": [
+        "apex library",
+        "special\nlibrary",
+        "national library",
+        "personal\nlibrary"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In enumerative classification, subject\nheadings are",
+      "options": [
+        "divided mutually to\nexclusive orthogonal facets",
+        "listed\nalphabetically with number assigned to each\nheading alphabetically",
+        "listed exclusively\nand mutually alphabetically",
+        "divided\nhierarchically from most general to specific"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "For better organization of library materials,\nlibrarians have developed",
+      "options": [
+        "longress\nscheme",
+        "union scheme",
+        "classification\nscheme",
+        "correlational scheme"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A library situated in an Arabic college can be\nregarded as",
+      "options": [
+        "scheme",
+        "library",
+        "theological library (c) college library",
+        "research library"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "SDI means",
+      "options": [
+        "selective dissemination of\ninformation",
+        "selected dissemination of\ninformation",
+        "select dismay of information",
+        "selective dismiation of information\n\n\f S, LAUTECH\nLIB 101 PDF FOR 1ST SEMESTER EXAM"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Example of audio visual includes all but one",
+      "options": [
+        "television",
+        "video tapes",
+        "plates",
+        "video"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Selective dissemination of information is a\nspecial library service that can be offered\nstrictly to",
+      "options": [
+        "any user",
+        "visiting researcher",
+        "registered user",
+        "visitors to the library"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The library designed to cater for special\nneeds is",
+      "options": [
+        "special library",
+        "national\nlibrary",
+        "academic library",
+        "personal\nlibrary"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "As a library 101 student, if you want to send\na letter to the library, what will be attached\nto the letter?",
+      "options": [
+        "stamp pad",
+        "stamp",
+        "sticker",
+        "tape"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Photos and images are example of",
+      "options": [
+        "print",
+        "non-print",
+        "both (c) none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "History of library in Nigeria can be traced to\nas far back as what year?",
+      "options": [
+        "1940",
+        "1910",
+        "1930",
+        "1950"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The following are the types of library except",
+      "options": [
+        "academic library",
+        "school library",
+        "national library",
+        "community library"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "____________ are libraries that are attached to\npost secondary institutions",
+      "options": [
+        "academic\nlibraries",
+        "school libraries",
+        "national\nlibraries",
+        "special libraries"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "University libraries collection includes the\nfollowing except",
+      "options": [
+        "books",
+        "newspapers",
+        "radio",
+        "journals"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Account of a person’s life written is",
+      "options": [
+        "autobiography",
+        "autobibliography",
+        "biography",
+        "biograph"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Do student come in contact with a cataloguer\nin the library?",
+      "options": [
+        "yes",
+        "non",
+        "yes/no",
+        "maybe"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "CD-ROM means",
+      "options": [
+        "compact display random\nonly memory",
+        "compact disc read only\nmemory",
+        "compact disc randism only\nmemory",
+        "computer-display random only\nmemory"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Network that is contained within a business\nis referred to as",
+      "options": [
+        "extract",
+        "wired\nnetwork",
+        "network internet",
+        "intranet"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One is the most commonest form of\ncatalogue",
+      "options": [
+        "book catalogue",
+        "card\ncatalogue",
+        "CD-ROM catalogue",
+        "computer out microform (COM) catalogue"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "116. _____________ is a book written for submission\nor book played for other creative work",
+      "options": [
+        "biography",
+        "bibliography",
+        "manuscript",
+        "manual\n\nWhat is the full meaning of DDC (a) Dewey\nDerivation Classification (b) Dewey Decimal\nClassification\n(c)\nDouble\nDecimal\nClassification (d) Development Deviation\nClassification"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One of the following is not a major function\nof the dictionary",
+      "options": [
+        "verifies the spelling and\nsyllabication",
+        "deals\nwith\nthe\npronunciation of words",
+        "provides the\n\n\f S, LAUTECH\nLIB 101 PDF FOR 1ST SEMESTER EXAM\nmeaning of words",
+        "gives general\ninformation about topic"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Full meaning of ROM is",
+      "options": [
+        "Read Only\nMemory",
+        "Random Memory",
+        "Random\nOperated Memory",
+        "Random Ointment\nMemory"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The full meaning of ALU is",
+      "options": [
+        "Arithmetic and\nLocal Unit",
+        "Arithmetic Logic Unit",
+        "Arithmetic and Logic Unit",
+        "Arithmetic\nLocal Unit"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the full meaning of CPU?",
+      "options": [
+        "Central\nProcessing Unit",
+        "Computer Processing\nUnit",
+        "Central Processor Unit",
+        "Central\nProcessed Unit"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The card inside the catalogue disc is",
+      "options": [
+        "disc",
+        "joystick",
+        "ROM",
+        "catalogue card"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_____________ gives general information about\na topic",
+      "options": [
+        "dictionary",
+        "book",
+        "manual",
+        "encyclopedia"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are examples of system\nsoftware except",
+      "options": [
+        "word processing unit",
+        "programming language",
+        "operating system",
+        "utility program"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following is a general goal of a\nuniversity library",
+      "options": [
+        "to restore reading\nhabit",
+        "to gather resources of the\nuniversity",
+        "to give information to society",
+        "to be self-dependent"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Is a cataloguer also a librarian?",
+      "options": [
+        "yes",
+        "I\ndon’t know",
+        "no",
+        "maybe"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "One of these makes you to be happy when\nreading",
+      "options": [
+        "music",
+        "harmony",
+        "sweet\nvoice",
+        "joyfulness\n\nAnswer: Sears List of Subject Headings"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "LAN means",
+      "options": [
+        "Local Area Network",
+        "Local\nArea Networking",
+        "Low Area Network",
+        "Land Artificial Network"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______________ is when books and other library\nmaterials are withdrawn from the shelves\nbecause they are physically damaged",
+      "options": [
+        "withdrawn",
+        "withdrawal",
+        "all of the\nabove",
+        "none of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "_____________ is the name of a person that\nwrites an account of a person’s life",
+      "options": [
+        "autobiographer",
+        "autobibliographer",
+        "biographer",
+        "bibliographer"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The __________ library is expected to serve all\nkind of people including children",
+      "options": [
+        "apex\nlibrary",
+        "public library",
+        "national library",
+        "special library\n\n\f S, LAUTECH\nLIB 101 PDF FOR 1ST SEMESTER EXAM"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A personalized service directed towards\nindividuals or homogenous group is",
+      "options": [
+        "selective cooperation",
+        "dissemination of\ninformation",
+        "tendering",
+        "agreement"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is used to locate essential workers’\ninformation in the library?",
+      "options": [
+        "indirect",
+        "indices",
+        "indec",
+        "index"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Two common print materials are",
+      "options": [
+        "televisions",
+        "radios",
+        "newspaper and\nmagazine",
+        "telephones"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Short form of intercommunication is",
+      "options": [
+        "intervim",
+        "intercom",
+        "intercomm",
+        "interval"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the full meaning of HTML?",
+      "options": [
+        "Hyper\nText Markup Languages",
+        "Hyper-Text\nMarkup Languages",
+        "Hyper Text Mark-up\nLanguage",
+        "Hyper Text Mark-up League"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "On the final disengagement from the\nuniversity, students and staff must obtain\n________ from the library",
+      "options": [
+        "certificate",
+        "ticket",
+        "clearance",
+        "bitcoin"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which\nunit\nprovides\nbibliographic\ninstruction classes and research guides in\nacademic libraries?",
+      "options": [
+        "reference unit",
+        "readers’ service unit",
+        "serial unit",
+        "technical unit"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Voicemail can also be referred to as\n____________ or a ___________",
+      "options": [
+        "voice message\nor voice bank",
+        "voices bank and notes",
+        "voices messages and voice banks",
+        "voice\nnot and bank"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a public library, all the items below are\ncommon except",
+      "options": [
+        "drone",
+        "books",
+        "audio-visuals",
+        "magazines"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A memory device that retains its content\nwhen power is off is said to be ___________",
+      "options": [
+        "volatile",
+        "none of the above",
+        "I don’t\nknow",
+        "non-volatile"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The act of producing a new copy of\ndocument is",
+      "options": [
+        "formatting service",
+        "photography",
+        "photoshop",
+        "reprographic\nservice"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Users guide is a reference material that could\nbe regarded as",
+      "options": [
+        "gazetters",
+        "yearbook",
+        "gazette",
+        "manual"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the meaning of accession number?",
+      "options": [
+        "the number for a book in a particular\nlibrary",
+        "the first number of a book inside\na particular library",
+        "the middle number of\na book inside a particular library",
+        "the back\nnumber of a book inside a particular library"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "_____________ is a catalogue in which materials\nare arranged in systematic order by subject",
+      "options": [
+        "alphabetical catalogue",
+        "classified\ncatalogue",
+        "numeral catalogue",
+        "online\ncatalogue"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Thesis, dissertation, scholarly journal\narticles are referred to as _____________",
+      "options": [
+        "primary sources",
+        "secondary sources",
+        "main sources",
+        "tertiary sources"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which unit support different learning styles",
+      "options": [
+        "readers’ service unit",
+        "technical unit",
+        "serial unit",
+        "virtual unit"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A brief summary of a book or article is called",
+      "options": [
+        "bibliography",
+        "biography",
+        "autobiography",
+        "indexing"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "All of these can lead to destruction of book\nexcept",
+      "options": [
+        "high humidity",
+        "human being",
+        "air-conditioner",
+        "termites"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "All of these are print materials except",
+      "options": [
+        "magazine",
+        "journal",
+        "newspaper",
+        "audio-visual"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Meaning of dictionary according to acronym",
+      "options": [
+        "shortening of words",
+        "provide meaning\nof words",
+        "check pronunciation of words",
+        "gives general knowledge"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A tool for information retrieval is",
+      "options": [
+        "classification",
+        "faceted",
+        "catalogue",
+        "library"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which catalogue shows preparation of\nbibliography records from the scratch",
+      "options": [
+        "copy",
+        "root",
+        "original",
+        "none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Full meaning of DVD is",
+      "options": [
+        "Digital Video Disc",
+        "Digital Video Disco",
+        "Digital Video Disca",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Personal books belonging to lecturers can be\nplaced at their request on",
+      "options": [
+        "reserved shelf",
+        "open shelf",
+        "reference shelf",
+        "circulation shelf"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A brief summary of a book or article is",
+      "options": [
+        "bibliography",
+        "biography",
+        "autobiography",
+        "indexing"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What improves brain, help you focus and\nalso ease?",
+      "options": [
+        "harmony",
+        "instrumental\nsound",
+        "music",
+        "vocal sound"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What type of plant has a good effect on the\nmemory",
+      "options": [
+        "rose",
+        "pearl",
+        "lavender",
+        "orchid"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The service that provides abstract\npublication is",
+      "options": [
+        "abstraction service",
+        "abstracting service",
+        "abstractive service",
+        "abstraction server"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The term electronic reference and virtual\nreference are used synonymously with",
+      "options": [
+        "book",
+        "journal",
+        "manual",
+        "digital\nreference"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Example of print materials are these except",
+      "options": [
+        "book",
+        "video tape",
+        "magazine",
+        "newspaper"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The word library in French is",
+      "options": [
+        "liber",
+        "librairie",
+        "librarie",
+        "libraire"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The word library in Latin is",
+      "options": [
+        "liber",
+        "librarie",
+        "librari",
+        "librair"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_____________ is the heart of any educational\ninstitution to enable it fulfil its educational\nobjectives",
+      "options": [
+        "book",
+        "manual",
+        "library",
+        "project"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The apex library of a country is",
+      "options": [
+        "academic library",
+        "national library",
+        "special library",
+        "all of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Information carriers include the following\nexcept",
+      "options": [
+        "books",
+        "serials",
+        "maps",
+        "manuals"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The best known of all the information\ncarriers are",
+      "options": [
+        "serials",
+        "books",
+        "maps",
+        "compact discs"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "______________ is defined as any document\nthat has a collection of forty-nine (49) pages\nor more that are bound together with a\ndistinctive title",
+      "options": [
+        "map",
+        "serial",
+        "book",
+        "manual"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A book is divided into the following parts\nexcept",
+      "options": [
+        "the preliminary parts",
+        "the\nmiddle part",
+        "the main text",
+        "the\nsubsidiary parts"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The dust jacket",
+      "options": [
+        "protects the book from\nfalling",
+        "protects the book from dust",
+        "protect the book from thieves",
+        "all of the\nabove"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Dictionaries\nare\nreference\nbooks\ncontaining list of words _____________",
+      "options": [
+        "alphabetically",
+        "numerically",
+        "chronologically"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are components of CPU\nexcept",
+      "options": [
+        "RAM",
+        "CLU",
+        "CU",
+        "ALU"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Faceted subject is also known as",
+      "options": [
+        "schedule",
+        "orthogonal facts",
+        "retrieval\nsystem"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One of the following is not a major function\nof dictionary",
+      "options": [
+        "verifies the spelling and\n\nsyllabication",
+        "provides the meaning of\nwords",
+        "gives general information about\ntopic",
+        "checks the pronunciation of words"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "When a library is adequate, a reader\nbecomes master over",
+      "options": [
+        "an empire of\nunderstanding",
+        "an empire of given view",
+        "an empire of books",
+        "an empire of\nknowledge"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The size of a catalogue is",
+      "options": [
+        "5 by 3",
+        "4 by\n3",
+        "3 by 5",
+        "2 by 5"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Machine readable catalogue has speed up\none of the following in the library",
+      "options": [
+        "manual\ncatalogue",
+        "virtual catalogue",
+        "online\ncatalogue",
+        "library of congree"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "One of the following consist of author, title\nand subject entries",
+      "options": [
+        "bound book catalogue",
+        "adjustable sheaf catalogue",
+        "dictionary\ncatalogue",
+        "micro-film"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "One of these is a general goal of university\nlibrary",
+      "options": [
+        "to be self-dependent",
+        "to give an\negalitarian society",
+        "to adapt these\ninformation resources and source to the ever\nchanging needs of university and the society",
+        "To restore reading habit"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Maps, atlases and charts are",
+      "options": [
+        "utility\nreference services",
+        "primary reference\nservices",
+        "secondary reference services",
+        "tertiary reference services"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the full meaning of LAN?",
+      "options": [
+        "Local\nArea Network",
+        "Land Area Network",
+        "Low Area Network",
+        "Land Artificial\nNetwork"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Person, place or thing that has the\ninformation you need is ______",
+      "options": [
+        "a person to\nhold on to",
+        "a person to be friend with",
+        "a person to walk/talk to",
+        "a person to teach"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Library and information use manual for\nstudents in LAUTECH was edited by\n____________",
+      "options": [
+        "Isaac O. Ajala",
+        "Jacob A.\nBalogun",
+        "Barrister Sola Adegbite",
+        "Stephen C. Kayode"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ is when books and other library\nmaterials are withdrawn from the shelves\nbecause they are physically damaged.",
+      "options": [
+        "Decision",
+        "Withdrawing",
+        "Withdrawal",
+        "All of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The following are types of reports except",
+      "options": [
+        "manual report",
+        "high reports",
+        "margies reports",
+        "none of the above"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Library is regarded as",
+      "options": [
+        "heart of\ninstitution",
+        "basic head of institution",
+        "the institution itself"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are examples of year book\nexcept",
+      "options": [
+        "yellow pages",
+        "Nigerian white\npages",
+        "Algerian year books",
+        "Europa\nyear book"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______________ are the three basic\ncomponents of a computer",
+      "options": [
+        "thick ware,\nhardware and software",
+        "form wave,\nhardware and thick ware",
+        "hardware,\nsoftware and firm ware",
+        "software,\nhardware and ware"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "NOT knowing where to look for a\nparticular information leaves you __________",
+      "options": [
+        "powerless",
+        "wanting",
+        "excited",
+        "wretched"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Dictionary has been from what century",
+      "options": [
+        "19th century",
+        "15th century",
+        "20th century",
+        "13th century"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Account of a person life written is",
+      "options": [
+        "biography",
+        "autobiography",
+        "bibliography",
+        "auto bibliography"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Map, atlas and globes are __________",
+      "options": [
+        "cartographic material",
+        "treatise",
+        "monographs",
+        "serial"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Catalogues are measured by",
+      "options": [
+        "5 by 3",
+        "3 by 5",
+        "3 by 3",
+        "3 by 2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "When a library is adequate, a reader can\npersuade to its depth of",
+      "options": [
+        "a study of his\ndiscipline",
+        "a study of his career",
+        "a study\nof his choice",
+        "a study of his field"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Dictionary is defined as listing of word",
+      "options": [
+        "chronologically",
+        "scientifically",
+        "historically",
+        "alphabetically"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Dictionary came into existence in about\n________ century",
+      "options": [
+        "19th century",
+        "20th\ncentury",
+        "18th century",
+        "13th century"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Theft, mutilation and defacing of library\nbooks will attract automatic expulsion from\nthe school",
+      "options": [
+        "false",
+        "none of the above",
+        "all of the above",
+        "true\n\n\f S, LAUTECH\nLIB 101 PDF FOR 1ST SEMESTER EXAM"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Cataloguing is also refered to as\n_____________",
+      "options": [
+        "DCC",
+        "CC",
+        "OPAC",
+        "NVC"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "________________ serve as the intellectual,\ncultural and recreational center of\ncommunity",
+      "options": [
+        "national libraries",
+        "school\nlibraries",
+        "academic libraries",
+        "public\nlibraries"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What is the full meaning of OPAC",
+      "options": [
+        "online\npublic assistance catalogue",
+        "online\npossible assist catalogue",
+        "online public\naccess catalogue",
+        "online property access\ncatalogue"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The components of computers are\n_____________",
+      "options": [
+        "software, firmware, people\nware",
+        "software, everywhere, people ware",
+        "software, hardware, firmware"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Full meaning of VDU is",
+      "options": [
+        "Visual Discrete\nUnit",
+        "Visual Display Unit",
+        "Virtual\ndisplay union",
+        "virtual discrete union"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A computer software package for creating\nand extraction of information from a\ncomponent database is known as",
+      "options": [
+        "DBMS",
+        "DSMS",
+        "DDMS",
+        "DMMS"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following consists of author,\ntitle, and subject entries _______________",
+      "options": [
+        "dictionary catalog",
+        "adjustable shelf\ncatalog",
+        "bound book",
+        "micro film catalog"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The account of a person’s life is\n_____________?",
+      "options": [
+        "biography",
+        "bibliography",
+        "author biography",
+        "auto bibliography"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The CPU of a system unit consists of RAM,\nControl unit and__________",
+      "options": [
+        "memory",
+        "flash",
+        "keyboard",
+        "ALU"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The account of a person’s life is usually\nwritten by a _______________?",
+      "options": [
+        "biography",
+        "bibliography (c)autobiography",
+        "auto\nbibliographer"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Reference materials are meant to be\n______________?",
+      "options": [
+        "borrowed out",
+        "sold out",
+        "be kept",
+        "consulted only"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "If the user do not find the book in the\nshelves, he or she will search for _____________",
+      "options": [
+        "the topic",
+        "the shelves",
+        "catalogue",
+        "listing"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Is a catalogue also a librarian",
+      "options": [
+        "yes",
+        "no",
+        "not sure",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Other information found in almanac are?",
+      "options": [
+        "astronomical information",
+        "weather\nforecast",
+        "all of the above",
+        "calendar"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The traditional library instruction has\nmade considerate use of _______________\nmethod\nfor\n____________\ngroup",
+      "options": [
+        "independent/large",
+        "individual/large",
+        "team/small",
+        "lecture/large"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Another name for RAM is",
+      "options": [
+        "hard disc",
+        "secondary memory",
+        "ROM",
+        "primary\nmemory"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Another name for ROM is",
+      "options": [
+        "non-volatile",
+        "volatile",
+        "main",
+        "primary"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Digital computer can be written in _________\nform except",
+      "options": [
+        "ON/OFF",
+        "GO/COME",
+        "YES/NO",
+        "Conducting/non-conducting"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Not knowing where to look for a particular\ninformation leaves you?",
+      "options": [
+        "powerless",
+        "waiting",
+        "frustrated"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "These are types of year books except",
+      "options": [
+        "Nigerian year book",
+        "Europa yearbook",
+        "yellow page",
+        "Nigeria white book"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What is the purpose of a library?",
+      "options": [
+        "To\nenhance learning",
+        "To support the\nobjectives and educational work of an\ninstitution",
+        "To allow cool flow of learning",
+        "All of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Computer system is categorized into how\nmany parts",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "3"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A 1999 year book will contain the events\nof _______",
+      "options": [
+        "1999",
+        "1998",
+        "none",
+        "2000"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The library is regarded as _________",
+      "options": [
+        "heartbeat of the intellectual system",
+        "heartbeat of the university",
+        "heart of the\nuniversity"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Card catalogue is also known as",
+      "options": [
+        "LAN",
+        "WAN",
+        "OPAC",
+        "OPEC"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Handbooks are these except",
+      "options": [
+        "nonvoluminous",
+        "sketchy",
+        "bulky",
+        "strictly\nwritten"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Programmes designed to deal with specific\nproblems are",
+      "options": [
+        "generic",
+        "general",
+        "application",
+        "system"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "References are books that only allowed to\nbe used at where",
+      "options": [
+        "in the classroom",
+        "in\nthe library",
+        "in the school",
+        "in the exam\nhall"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Theft and mutilation in the school library\nwill attract",
+      "options": [
+        "suspension",
+        "expulsion",
+        "deny to enter the library"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Software can be classified into",
+      "options": [
+        "two",
+        "eight",
+        "three",
+        "five"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the largest global unit",
+      "options": [
+        "internet",
+        "WAN",
+        "LAN",
+        "intranet"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Subject heading listed alphabetically with\nnumber is",
+      "options": [
+        "DDC",
+        "enumerative",
+        "hierarchical",
+        "faceted"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "When you enter the library, do you see a\ncatalogue?",
+      "options": [
+        "I don’t know",
+        "yes",
+        "no",
+        "all of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "When you want to login on OPAC, it brings",
+      "options": [
+        "password  login  search",
+        "password  login  button",
+        "login \npassword  button",
+        "none of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A memory that is capable of holding data\nfor a long period of time and not susceptible\nto power failure is known as",
+      "options": [
+        "auxiliary",
+        "RAM",
+        "byte",
+        "ROM"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Information is a universal need, therefore\nknowing where to get it is ________",
+      "options": [
+        "satisfying",
+        "paramount",
+        "important",
+        "crucial"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "______________ are listed alphabetically with\nnumber assign to each heading in\nalphabetical order",
+      "options": [
+        "DDC",
+        "enumerative\nclassification",
+        "faceted and analytical\nclassification",
+        "hierarchical classification"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A good example of library data base\nmanagement system is",
+      "options": [
+        "KOHA",
+        "WANS",
+        "LANS"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Reports are often used to display the result\nof experiment, investigation or enquiries",
+      "options": [
+        "false",
+        "true",
+        "none of the above",
+        "all of\nthe above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "University libraries are referred to as",
+      "options": [
+        "college libraries",
+        "academic libraries",
+        "national libraries",
+        "tertiary libraries"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is not a type of\naudio visual methods",
+      "options": [
+        "radio",
+        "television",
+        "internet",
+        "video"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Books that are old in the library, what is\nthe process of removing them from the\nshelves",
+      "options": [
+        "accessioning",
+        "withdrawal",
+        "referral",
+        "removing"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A process of removing physically damaged\nbooks from shelves is",
+      "options": [
+        "clearing",
+        "withdrawal",
+        "accessioning",
+        "cataloguing"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Do students come in contact with a\ncataloguer in the library",
+      "options": [
+        "yes",
+        "no",
+        "not\nsure",
+        "maybe"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A significant improvement has been made\nin end user access for",
+      "options": [
+        "information",
+        "cyber café",
+        "resources",
+        "internet\nAnswer:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The unit that converts user’s information\nto the form is",
+      "options": [
+        "input unit",
+        "output unit",
+        "processing unit"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One is limited only by one’s",
+      "options": [
+        "thought",
+        "power",
+        "believe",
+        "imagination"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A collection of computer that share\nhardware, software data is regarded as",
+      "options": [
+        "FAN",
+        "CAN",
+        "WAN",
+        "LAN"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The major disadvantage of the computer\ncatalogue is that",
+      "options": [
+        "it lacks research ability",
+        "it provides a good display",
+        "it creates a\nphysiological virtual",
+        "it lacks sight barrier\nto user"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In digital computers, symbols are\nrepresented by a code based on _________?",
+      "options": [
+        "number system",
+        "decimal number system",
+        "octal number system",
+        "hexagon\nnumber system"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When a library is adequate, a reader\nbecomes",
+      "options": [
+        "An empire of knowledge",
+        "an\nempire of book",
+        "an empire of\nunderstanding",
+        "an empire of library"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ has replaced the use of card\ncatalogue",
+      "options": [
+        "WLAN",
+        "LWAN",
+        "WAN",
+        "OPAC"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The word “mobile libraries” is related to\nwhich services",
+      "options": [
+        "referral services",
+        "extension and outreach services",
+        "lending\nservices",
+        "inter library loan services"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Acronym CD-ROM means",
+      "options": [
+        "compact\ndisplay random only memory",
+        "compact\ndisc read only memory",
+        "concert disc\nrandom only memory"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The person who writes the biography is\ncalled",
+      "options": [
+        "biographer",
+        "auto bibliography",
+        "bibliography",
+        "autobiographer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A computer is an __________ device that is\ncapable of accepting data apply a series of\nlogic operating on the data received and\nsupply the results of these operators as\ninformation",
+      "options": [
+        "electronic",
+        "electric",
+        "electrical"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Card catalogue was replaced with",
+      "options": [
+        "OPAC",
+        "NUD",
+        "DDO",
+        "NCD"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "After the surname of the author, what\ncomes next?",
+      "options": [
+        "publishers name",
+        "publishers address",
+        "forenames",
+        "middle\nname"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ are examples of hypes catalogue",
+      "options": [
+        "online catalogue and card catalogue",
+        "card catalogue and book catalogue",
+        "book\ncatalogue and online catalogue",
+        "shelf\ncatalogue and book catalogue"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The new media that have taken over\nsuitably includes",
+      "options": [
+        "video and slide",
+        "television",
+        "multimedia",
+        "tape"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A _______________ contain list of work by and\nabout one author",
+      "options": [
+        "author bibliography",
+        "author biography",
+        "author works",
+        "author bioblography"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following in a feature of OPAC",
+      "options": [
+        "login name, password, click on button",
+        "login name, password, search book",
+        "login\nname, password, click screen",
+        "login name,\npassword, login button"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_____________ deals with a single topic in\ndetails",
+      "options": [
+        "serials",
+        "reference",
+        "monograph",
+        "cartographic"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A library may decide to keep a copy of\nexpensive book with multiple copies on",
+      "options": [
+        "reference shelf",
+        "open shelf",
+        "reserved\nshelf",
+        "circulation desk"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The aim of teaching library in tertiary\ninstitution is _____________",
+      "options": [
+        "to acquire\ncertification with is mandatory",
+        "to be\ncompetent as professional",
+        "to be famous\namong the colleagues",
+        "to be equipped\nwith library skill in information retrieval"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The software used in your school library is",
+      "options": [
+        "KOHA",
+        "Tinlibs",
+        "EDD software"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______________ is/are device that is used to\nsend information to computers",
+      "options": [
+        "input\ndevice",
+        "output device",
+        "natural device",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the name of online cataloging",
+      "options": [
+        "online DPC",
+        "Koha",
+        "Tin libs",
+        "the\nlibrary potter"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One of the following is not the major\nfunction of dictionary",
+      "options": [
+        "give general\ninformation about topics",
+        "verify the\nspelling and syllabically word",
+        "provide\nmeaning of word",
+        "check pronunciation of\nwords"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Library application software can be\nobtained basically by _________________ major\nways",
+      "options": [
+        "three",
+        "four",
+        "two",
+        "five"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Hagiography is a writing of lives of\n_______________",
+      "options": [
+        "dead person",
+        "saint",
+        "hero",
+        "politicians"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "________________ library is a type of\ninformation retrieval system",
+      "options": [
+        "academic\nlibrary",
+        "digital library",
+        "electronic\nlibrary",
+        "public library"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A software that performs special task is",
+      "options": [
+        "general software",
+        "application software",
+        "aerating software",
+        "firmware"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "____________ allows a copy of the document\nto be stored in electronic from where it can\nbe viewed on VDU",
+      "options": [
+        "scanning",
+        "projecting",
+        "projector",
+        "casting"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ was the former name for a\ndictionary",
+      "options": [
+        "word book",
+        "book words",
+        "name book",
+        "book"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the following memories are usually\nvery large, slower and cheap",
+      "options": [
+        "nursery",
+        "main",
+        "primary",
+        "auxiliary"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Almanacs’ are biannual publications\ncontaining facts and figures",
+      "options": [
+        "false",
+        "none of the above",
+        "all of the above",
+        "true"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A significant improvement has been used\nin end use of access to ___________",
+      "options": [
+        "cyber\ncafé",
+        "resource",
+        "information",
+        "internet"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "WAN stands for",
+      "options": [
+        "weak area network",
+        "wake area network",
+        "wide area network",
+        "Wide aeriel Neuter"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "_____________ are regarded as ready\nreference source for a given field of\nknowledge",
+      "options": [
+        "source book",
+        "hand book",
+        "text book",
+        "yearbook"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The world largest network is",
+      "options": [
+        "internet",
+        "intranet",
+        "LAN",
+        "WLAN"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "As information goes through different\nstages of its life it changes ___________",
+      "options": [
+        "for\ngood",
+        "form",
+        "to other medium",
+        "it’s\nuseful"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Other information that could be formed in\nthe almanac are",
+      "options": [
+        "weather forecast",
+        "calendar",
+        "all of the above",
+        "astronomical\ninformation"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Cutening is used to add code for the work\nof",
+      "options": [
+        "publishers",
+        "cataloguer",
+        "author",
+        "shelver"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One of the following is not a merit of\ncomputer in the library",
+      "options": [
+        "limited\ninformation access",
+        "easy access to\ninformation",
+        "high speed of activities",
+        "effectiveness of data processing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a type of\ndictionary",
+      "options": [
+        "University Dictionary",
+        "dictionary of biography",
+        "language\ndictionary",
+        "technical subject dictionary"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The main purpose of a school library is to",
+      "options": [
+        "help students in carrying out\nexperiments",
+        "improve\nstudents\nintellectually",
+        "encourage reading habits in\nlearners",
+        "improve learners leading speed"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What year did LAUTECH library come into\nexistence",
+      "options": [
+        "June 1995",
+        "July 1990",
+        "July\n1995",
+        "June 1990"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The digital computer converts all data to\n_________",
+      "options": [
+        "binary base",
+        "octal base",
+        "normal base",
+        "decimal base"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "We are in the world where information is\n__________",
+      "options": [
+        "global",
+        "wanting",
+        "essential",
+        "needful"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What is the first thing to look for in book\nshelves when looking for book",
+      "options": [
+        "class\nsubject",
+        "the shelves",
+        "book colour",
+        "topic"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Examples of materials used in teaching\nusers education are all these except?",
+      "options": [
+        "study carrel",
+        "audio visual method",
+        "printed guide",
+        "topic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How do you recognize a reference material",
+      "options": [
+        "it has no due date and slip",
+        "it is\nstamped and reserved only",
+        "it is stamped\nreference only",
+        "it is stamped on all sides"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following is not an attribute\nof an operating system or OS",
+      "options": [
+        "programme\ndesigner",
+        "memory management",
+        "chief\ncontroller",
+        "system user communication"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The basic difference between a dictionary\nand an encyclopedia is that",
+      "options": [
+        "an\nencyclopedia defines word while a\ndictionary gives general information about\ntopics",
+        "a dictionary defines word while an\nencyclopedia gives general information\nabout topics",
+        "both dictionary and\nencyclopedia do the same",
+        "all of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The types of dictionaries are the following\nexcept",
+      "options": [
+        "language dictionaries",
+        "technical\nsubject\ndictionaries",
+        "dictionaries of biography",
+        "dictionaries of\nsubjects"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "_____________ is an account of a person’s life\nwritten, composed or produced by another\nperson",
+      "options": [
+        "biography",
+        "biographer",
+        "bibliography",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are the ways of processing\nlibrary materials except",
+      "options": [
+        "accessioning",
+        "stamping",
+        "covering",
+        "withdrawals"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A person who writes a biography is called",
+      "options": [
+        "autobiographer",
+        "biographer",
+        "bibliographer",
+        "none of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The following are reference services\nexcept",
+      "options": [
+        "ready, quick reference question",
+        "directional",
+        "plotting reference",
+        "research question"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_____________ is the biography of yourself or\noneself",
+      "options": [
+        "biography",
+        "bibliography",
+        "autobiography",
+        "hagiobiography"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "_____________ is a biography that idealizes or\nidolizes the person particularly a saint",
+      "options": [
+        "autobiography",
+        "hagiobiography",
+        "etiography",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ is a distinctive title which is\nissued in parts, and each issue is published\nindependently",
+      "options": [
+        "book",
+        "serials",
+        "magazines",
+        "all of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Serials include the following except",
+      "options": [
+        "journal",
+        "magazines",
+        "manuals",
+        "newspapers"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "____________ is a biographical sketch of\nsomeone’s life",
+      "options": [
+        "profile",
+        "map",
+        "status",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ is regarded as a storehouse of\nknowledge, providing all information of\n\n\f S, LAUTECH\nLIB 101 PDF FOR 1ST SEMESTER EXAM\nimportance",
+      "options": [
+        "dictionary",
+        "encyclopedia",
+        "manual",
+        "compact disc"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The following are the functions of an\nencyclopedia except",
+      "options": [
+        "it gives facts",
+        "it\nprovides ideas of a particular period",
+        "It\ngives general information about a word",
+        "it\ngives different viewpoints in a particular\ntopic"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "_____________ contains the list of names and\naddress\nof\npersons,\norganizations,\ninstitutions and business concerned in an\narea in an alphabetical order",
+      "options": [
+        "dictionary",
+        "encyclopedia",
+        "directory",
+        "handbook"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "____________ are reference books that are\nhandy",
+      "options": [
+        "manuals",
+        "handbooks",
+        "directories",
+        "dictionaries"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ are reference books dealing\nwith specific or particular subject",
+      "options": [
+        "manuals",
+        "directories",
+        "handbooks",
+        "none of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "____________ is a document that contains\ninformation organized in a narrative,\ngraphic or tabular form, prepared on adhoc\nor as required basis",
+      "options": [
+        "handbook",
+        "manual",
+        "report",
+        "directory"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "____________ are regarded as annual\npublications containing facts, figures and\nsignificant information",
+      "options": [
+        "yearbook",
+        "almanacs",
+        "dictionaries",
+        "directories"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "____________ is a collection of maps and\ndrawings",
+      "options": [
+        "encyclopedia",
+        "atlas",
+        "gazettes",
+        "none of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The publications designed to report\ncurrent events particularly government\ndocuments and official papers are\n_____________",
+      "options": [
+        "atlases",
+        "gazettes",
+        "directories",
+        "dictionaries"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "____________ is research work carried out\nsolely or jointly by a scholar in partial\nfulfilment of an academic degree beyond the\nbachelor",
+      "options": [
+        "thesis",
+        "project",
+        "dissertation",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ is a list of books and writing of\none author or about one subject",
+      "options": [
+        "biography",
+        "bibliography",
+        "hagiobiography",
+        "autobiography"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The types of bibliography include the\nfollowing except",
+      "options": [
+        "general bibliography",
+        "author bibliography",
+        "subject bibliography",
+        "mutual bibliography"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "_____________ is an electronic device that is\ncapable of accepting data, apply a series of\nlogical operations on the data received and\nsupply the results of these operations",
+      "options": [
+        "computer",
+        "Bluetooth",
+        "Xender",
+        "none\nof the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a function and services of Public Libraries.",
+      "options": [
+        "Education.",
+        "Information.",
+        "Personal Development.",
+        "Specific interest."
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A ___ source is an original object or document, the raw-material or first hand information,\nsource material that is closest to what is being studied.",
+      "options": [
+        "Primary source.",
+        "Second source.",
+        "Tertiary source.",
+        "None."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___ are sources provide second-hand information and commentary from other researches.",
+      "options": [
+        "Primary sources.",
+        "Secondary sources.",
+        "Tertiary sources.",
+        "None."
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is not a library services or facilities ?",
+      "options": [
+        "Reference service.",
+        "online Reservation of books.",
+        "Selective dissemination of Information.",
+        "Current awareness of service"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "___ service is the act of producing a new copy of a document.",
+      "options": [
+        "Reprographic services.",
+        "Referral services.",
+        "Documents delivery service.",
+        "Online public access catalogue."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a part of cataloguing?",
+      "options": [
+        "Descriptive cataloguing.",
+        "Subject Cataloguing.",
+        "Object cataloguing.",
+        "None of the options"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "___ cataloguing involves the attributes of a library item, such as the name of author(s),\ncontributor(s), title, editor, publisher etc.",
+      "options": [
+        "Descriptive.",
+        "Subjective.",
+        "Origin Cataloguing.",
+        "Copy Cataloguing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___ is the preparation of a bibliographic record from the scratch, without the aid of a preexisting catalogue record for the same edition.",
+      "options": [
+        "Original Cataloguing.",
+        "Copy Cataloguing.",
+        "Subjective cataloguing.",
+        "Objective cataloguing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___ is the adaption of a pre-existing bibliographic record(usually found in online computer\nLibrary centre ).",
+      "options": [
+        "Original Cataloguing.",
+        "Copy Cataloguing.",
+        "Subjective cataloguing.",
+        "Objective cataloguing"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which is not a type of classification?",
+      "options": [
+        "Enumerative.",
+        "Hierarchical.",
+        "Faceted or Analytical.",
+        "None."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The subject area for A and G is ___?",
+      "options": [
+        "General works and Education.",
+        "Law and Music.",
+        "Medicine and science.",
+        "General works and Geography/Anthropology reaction."
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The subjects area for H and J are ___ respectively.",
+      "options": [
+        "General work and Religion.",
+        "Fine arts and Education.",
+        "Social sciences and Political science.\nD .. military science and Agriculture technology"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The subject area for Q and R are ___ respectively.",
+      "options": [
+        "Social science and political science.",
+        "Naval science and Library science.",
+        "Science and Medicine.",
+        "Agriculture technology and Bibliography"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which is not a form of catalogue?",
+      "options": [
+        "Card.",
+        "Book.",
+        "Computer Output Microform(COM).",
+        "Online Public Access Catalogue (OPAC).\nE..none"
+      ],
+      "correct": "e"
+    },
+    {
+      "question": "The commonest form catalogue is ___?",
+      "options": [
+        "Card Catalogue.",
+        "Book Catalogue.",
+        "COD catalogue.",
+        "CD-ROM"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The oldest form of catalogue is ___?",
+      "options": [
+        "card Catalogue.",
+        "Book catalogue.",
+        "OPAC.\nD.COM"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": ". ___ is a form of catalogue in which the bibliographic records appear on a microfiche or\nmicrofilm.",
+      "options": [
+        "CD-ROM catalogue.",
+        "OPAC catalogue.",
+        "COM catalogue.",
+        "DBMS"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": ". ___ and ____ are classification of catalogue.",
+      "options": [
+        "Alphabetic and Numeric.",
+        "Alphabetic and Classified.",
+        "OPAC and DSS\nAns; B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____ is a catalogue in which the entries are arranged in a systematic order by subjects, the\norder usually being that of the scheme of classification used for the arrangement of books on\nthe shelves.",
+      "options": [
+        "Arithmetic catalogue.",
+        "OPAC catalogue.",
+        "Classified catalogue.",
+        "None."
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which is not a function of Online Public Access Catalogue(OPAC).",
+      "options": [
+        "It provides user access to bibliographic information on books.",
+        "It allows users to search, request and renew book online.",
+        "It allows users to view their detailed account and activity information.",
+        "It is used to find books on selected subject area.\nE. None of the options\nAns: None."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which is not among the essential function of a big or small computer",
+      "options": [
+        "Receives Data.",
+        "Process Data.",
+        "Output information.",
+        "None"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The physical components of the computer which consists of objects that can be touched is\n\n___?",
+      "options": [
+        "Hardware.",
+        "Software.",
+        "Firmware.",
+        "None."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___ consists of programs and instructions which allow the computer to accomplish a\nspecific task.",
+      "options": [
+        "Hardware.",
+        "Software.",
+        "Firmware.",
+        "None.\nAns; B\n66___ is a software that performs specific tasks in the computer system and is embedded in\nhardware permanently.\nAns: Firmware."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The part of the computer where data and instructions are stored temporarily is __?",
+      "options": [
+        "Main memory.",
+        "Secondary memory.",
+        "Mass memory.",
+        "Auxiliary memory."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Main memory can also be referred to as___?",
+      "options": [
+        "Primary memory.",
+        "Random Access Memory.",
+        "A and B.\nD.none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "____ allows a copy of the electronic to be stored in electronic from where it can be viewed.",
+      "options": [
+        "Projectile.",
+        "Projecting.",
+        "Scanning.",
+        "Projector."
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Hagiography is the writing of lives of ___?",
+      "options": [
+        "Dead.",
+        "Saint.",
+        "Hero."
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A library may decides to keep a copy of expensive books with multiples copy on ___?",
+      "options": [
+        "Open shelf.",
+        "Reserved shelf.",
+        "Circulation desk.",
+        "None."
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In digital computer, symbols are represented by a code based on __?",
+      "options": [
+        "Decimal number system.",
+        "Octal number system.",
+        "Binary number system."
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Cuttening is used to add code for the work of ___?",
+      "options": [
+        "Author.",
+        "Publisher.",
+        "Catalogue."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a name of library users?",
+      "options": [
+        "Users.",
+        "Matrons.",
+        "Patrons.",
+        "Clientele."
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Faceted subject is also called __?",
+      "options": [
+        "Orthogonal facts.",
+        "Scheduled.",
+        "None"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Reference materials are meant to be ___?",
+      "options": [
+        "Be kept.",
+        "Sold out.",
+        "Consultant only."
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A significant improvement has been used in end uses of access to ___?",
+      "options": [
+        "Intranet.",
+        "Internet.",
+        "Information.",
+        "Resources."
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of this is not type of report",
+      "options": [
+        "social report",
+        "law report",
+        "annual report",
+        "commission report"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The full meaning of LAN is",
+      "options": [
+        "Local area networking",
+        "Library Area Nigeria",
+        "Local Aerial Network",
+        "Local Area Network"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The father of library science is from ______",
+      "options": [
+        "Hindu",
+        "hindusum",
+        "Bangalore\n(d). hindi\nAnswer: C [He was from bangolore but his tribe is Hindu]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Law report are published collection of authoritative account of court cases or _________",
+      "options": [
+        "Law report",
+        "Judicial decision",
+        "case files",
+        "Court cases"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Use of mobile phones is prohibited in the library because of _____________",
+      "options": [
+        "hatred",
+        "protection of property",
+        "noise and distraction",
+        "users satisfaction"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Primary memory is a part of the computer where dale and instruction are ________ stored",
+      "options": [
+        "temporarily",
+        "normally",
+        "manually",
+        "permanently"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a academic library, book that are classified are friction are ________",
+      "options": [
+        "fantasy",
+        "books that contains friction stories",
+        "competely true stories",
+        "true stories\nAnswer; A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the full meaning of ATM",
+      "options": [
+        "Automatic Teller Machine",
+        "Automation teller machine",
+        "Automated teller machine",
+        "none of the above\nAnswer; C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The biological disaster that causes library damage include the following except",
+      "options": [
+        "sunlight",
+        "bats and rodents",
+        "human beings",
+        "flood"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The acronym of wide Area Network is",
+      "options": [
+        "WANS",
+        "WAN",
+        "WAL\n(d). WALS\nAnswer: B (Page 74)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The acronym of DVD is",
+      "options": [
+        "Digital Video Disc",
+        "Digital video Disk",
+        "Digital Video discs",
+        "Digital Video disks"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "These are type of year book except",
+      "options": [
+        "Nigeria year book",
+        "Europa year book",
+        "Yellow page",
+        "Nigeria white book"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The _______is to input devices on a laptop",
+      "options": [
+        "joystick",
+        "mouse",
+        "mice",
+        "keyboard"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Library are expected to serve all kind of ________",
+      "options": [
+        "special",
+        "public",
+        "nation",
+        "apex"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The library supports life –long learning through one of the following means",
+      "options": [
+        "provision of information for the school age",
+        "provision of information from birth till date",
+        "provision of law materials",
+        "provision of information when needed only"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Preservation of library materials is germane for __________",
+      "options": [
+        "to allow ease of shelf reading",
+        "keeping the materials out of use",
+        "keeping the materials in good format",
+        "arrange the materials on the sheleves"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The central processing unit of a computer is referred to as",
+      "options": [
+        "medium processor",
+        "mini processor",
+        "processor",
+        "micro processor"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In libarianship, the various forms of report is identify the odd",
+      "options": [
+        "law report",
+        "commission report",
+        "social report",
+        "annual report"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Short forms of inter-communication device is regarded as",
+      "options": [
+        "intacom",
+        "intercum",
+        "intercomm",
+        "intercom"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Multimedia are highly suitable for both individuals and groups in the library",
+      "options": [
+        "library decoration",
+        "relaxation",
+        "teaching/learning",
+        "recreation"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Why can books on reserved shelves not be allowed",
+      "options": [
+        "books on reserve are reference books",
+        "books on reserve are many",
+        "books on reserve are reserved specially\n(d)books on reserve are meant for librarians"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A dictionary of technical subject contains __________",
+      "options": [
+        "meaning of technical languages",
+        "meaning of subjects",
+        "meaning of specialized terms",
+        "meaning of terms\nAnswer:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "VIRTUA, GLASS, TINLIB, CDS/ISIS, are example of _______",
+      "options": [
+        "library management systems",
+        "library software",
+        "library hardware",
+        "library managers"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Article or emotional intelligence can be cited in ________as a reference",
+      "options": [
+        "number form",
+        "distillation form",
+        "counting form",
+        "digital form"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which libraries are established to cater for the specific needs",
+      "options": [
+        "Apex library",
+        "personal libraries",
+        "national libraries",
+        "special libraries"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Appendix in a thesis is also regarded as ______ materials attached to the write up",
+      "options": [
+        "appendicectomy",
+        "added document",
+        "supplementary",
+        "attachment"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Identify one odd entrepreneurship skill to sharpen librarianship profession",
+      "options": [
+        "indexing",
+        "marketing",
+        "aggressive marketing",
+        "internet skill search"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Colon classification scheme was designed by Dr. S.R. Ranaganathan in the year ______ in madras",
+      "options": [
+        "1850",
+        "1920",
+        "1929",
+        "1855"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Geographical locators, information on social statistics and physical features can be found in ________\nreference material",
+      "options": [
+        "gazelle",
+        "gazette",
+        "gazetteer",
+        "handbook"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is a publisher burb",
+      "options": [
+        "a blurb is a write up about the new published book",
+        "a blurb is an information about the publisher of a book",
+        "a blurb is an information about a book to reveal the authors name",
+        "a blurb : is a back of book information"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An autobiography is written by",
+      "options": [
+        "my author",
+        "oneself",
+        "bibliographer",
+        "librarian"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Multi-media are highly suitable for both individual and groups in the library for ___________",
+      "options": [
+        "recreation",
+        "relaxation",
+        "teaching/learning",
+        "library decoration"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Information resources in hard copy commonly consulted in the library includes all but one",
+      "options": [
+        "abstracts",
+        "facebook",
+        "encyclopedia",
+        "indexes"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "All but one of the list here under is an example of year book",
+      "options": [
+        "Europe year book",
+        "lautech year book",
+        "nigrian year book"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Directional reference service is shortened and _______",
+      "options": [
+        "slow",
+        "quick",
+        "brief",
+        "spontaneous"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "A biological factor that affect library not include",
+      "options": [
+        "Rodent",
+        "Food crumbs",
+        "Bat and flying object",
+        "insects"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In public library all the items below are common except _________",
+      "options": [
+        "drone",
+        "audio visual",
+        "books",
+        "magazine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Fumigation is a measure of preserving library note, this essence is to eliminate all but one of the\nunderlisted",
+      "options": [
+        "crawling object",
+        "rodents",
+        "human being",
+        "reptiles"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Kashim Ibrahim library, Ahmadu bello university is an example of",
+      "options": [
+        "Academic library",
+        "public library",
+        "research library",
+        "school library"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The full meaning f CDROM",
+      "options": [
+        "Computer disk-Random on memory",
+        "Computer Disk –Read on memory",
+        "Computer disk –Random only memory",
+        "Compact disk-Read only memory"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of these is harmful to the library material",
+      "options": [
+        "food crumbs",
+        "air conditioner",
+        "flood"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How do computer works",
+      "options": [
+        "Input – output – process",
+        "output- input- process",
+        "input- process- output",
+        "process-input-output"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What other skill does a librarian need to survive",
+      "options": [
+        "cataloguing",
+        "researching",
+        "writing\nAnswer: A (PAGE 40)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Lautech library was created in the",
+      "options": [
+        "1980",
+        "1990",
+        "1994",
+        "2000"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "the full meaning of HTML is what",
+      "options": [
+        "Hyper-text marks up language",
+        "Hyper-text mark up language",
+        "Hyper-Text mark up languages\n(d)Hyper-Text mark-up language"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Koha library management system functions in which section of the library?",
+      "options": [
+        "serial unit",
+        "Administrative unit",
+        "Technical unit",
+        "Reference unit"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "All these are _____________ are examples of educational resources found in the reference section of\nthe library",
+      "options": [
+        "almanac",
+        "gazelle",
+        "dictionaries",
+        "gazettes"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Digitalization of hundered pages of book can be stored on",
+      "options": [
+        "computer discs",
+        "plates",
+        "album",
+        "books"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Identify one odd entrepreneurship skill to sharpen librarianship",
+      "options": [
+        "indexing",
+        "internet search skills",
+        "marketing",
+        "aggression marketing skill"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "KOHA is a part of _______ unit",
+      "options": [
+        "Technical",
+        "Reference",
+        "Administrative",
+        "Reader’s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A person that writes biography is called",
+      "options": [
+        "Autobiographer",
+        "Biographer",
+        "Librarian"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "_______ is the full meaning of DVD",
+      "options": [
+        "Digital video discs",
+        "Digital Video disks",
+        "Digital Video disks",
+        "Digital Video Disc"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "_______ is the full meaning of DVDs",
+      "options": [
+        "Digital video discs",
+        "Digital Video disks",
+        "Digital Video disks",
+        "Digital Video Discs"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Articles one emotional intelligence can be cited in as a reference material",
+      "options": [
+        "annual review",
+        "atlas",
+        "abstract and index",
+        "indexes"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "By your course of studying use of library in LAUTECH, how many types of bibliographers do we\nhave?",
+      "options": [
+        "2",
+        "5",
+        "4",
+        "1"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The example of output device is a",
+      "options": [
+        "pepper stick",
+        "printer",
+        "joy stick",
+        "power point stick"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "According to the rules and regulation of the library, food are not allowed in the library because",
+      "options": [
+        "book are food phobia",
+        "the food will destroy librarian property",
+        "crumbs attracts insects and rodents",
+        "the librarian will eat out of the food"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In an academic library, books that are classified as fiction are",
+      "options": [
+        "books that contain friction stores",
+        "true stories",
+        "fantasy",
+        "personal true stories"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Information on geographical places can be found in _____________ as a refer library material",
+      "options": [
+        "Biography",
+        "dictionary",
+        "atlas",
+        "index"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In a nation library, the first point for all users should be the _____________",
+      "options": [
+        "reception desk",
+        "reference section",
+        "administrative office",
+        "circulation desk"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The apex library in Nigeria is ______",
+      "options": [
+        "state library",
+        "government library",
+        "personal library",
+        "national library"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Cataloguing is the process of obtaining bibliographic information from a book while a cataloguer is a",
+      "options": [
+        "Trained librarian",
+        "a trained specialist who catalogues books",
+        "cataloguing librarian in training",
+        "a trained reference librarian"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A network that is contained within a business is referred to as",
+      "options": [
+        "wired network",
+        "internet",
+        "intranet",
+        "extranet"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "An autobiography is written by ______",
+      "options": [
+        "oneself",
+        "author",
+        "librarian"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Information on geographical places can be found in __________as library material",
+      "options": [
+        "biography",
+        "dictionary",
+        "atlas",
+        "index"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Random access memory losses its content as soon as a computer is switched hence it is",
+      "options": [
+        "volatile",
+        "Non-volatile",
+        "invisible",
+        "volatiles"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Books on ________ display on the shelves cannot be borrowed out on loan for any reason",
+      "options": [
+        "reprographic",
+        "reference",
+        "reserve",
+        "new arrival"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "All these except ________ are examples of educational resources found in the reference library",
+      "options": [
+        "almanac",
+        "dictionaries",
+        "gazettes",
+        "gazelle"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "An autobiography is written by a",
+      "options": [
+        "oneself",
+        "my author",
+        "librarian",
+        "bibliographer"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Wide Area Network could be written as",
+      "options": [
+        "WAN",
+        "WLAN",
+        "WIA"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All of these but one have a serial unit",
+      "options": [
+        "newspaper",
+        "magazine",
+        "dictionary",
+        "thesis"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "______ is a book or manual that shows geographic area",
+      "options": [
+        "atlas",
+        "handbook",
+        "calendar",
+        "maps"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Preservation of library material is germane for __________",
+      "options": [
+        "arranging the materials on the shelves",
+        "keeping the materials out of use",
+        "keeping the materials in good condition",
+        "to allow ease of shelf reading"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Information non geographical places can be found in _________ as a reference materials",
+      "options": [
+        "Atlas",
+        "Index",
+        "biography",
+        "dictionary"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a library, users are restricted to sites that are ____________",
+      "options": [
+        "obscure",
+        "educative",
+        "tantalizing",
+        "obscene"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Identify the odd one out of the transmitting devices here under",
+      "options": [
+        "facsimile",
+        "Automated Teller Machine",
+        "cable television",
+        "electronic mail"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a public library, all the items bellow are common except",
+      "options": [
+        "drone",
+        "audio visuals",
+        "books",
+        "magazine"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Information on hard copies usually consulted in library include all but one",
+      "options": [
+        "encyclopedia",
+        "indexes",
+        "abstracts"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Voice mail is also known as",
+      "options": [
+        "voice note and banking services",
+        "voice and bank",
+        "voice note and bank"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A biological factor that affects library materials include the following except",
+      "options": [
+        "insects",
+        "food crumbs",
+        "rodents",
+        "bats and flying objects"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The following except __________ could not be responsible for disfigurement of the library materials",
+      "options": [
+        "air condition",
+        "termites",
+        "high humidity",
+        "human beings"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following listed materials are input devices except ___________",
+      "options": [
+        "mouse",
+        "joystick",
+        "mice",
+        "keyboard"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "When there is emergency in the library, all the following should be used except",
+      "options": [
+        "exit door",
+        "nearest exit door",
+        "entrance",
+        "security door"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Network that is contained with a business is referred to as",
+      "options": [
+        "Intranet",
+        "wired network",
+        "intranet"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the spelling is correct",
+      "options": [
+        "Liberians",
+        "Librarian",
+        "Librerian",
+        "Liberia"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "How many library science do we have according to Dr. Ranagananthan",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "5"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What is the feature of a dictionary of acronyms",
+      "options": [
+        "a dictionary that deals with shortened forms of word",
+        "a dictionary that deals with names",
+        "a dictionary with scholars",
+        "a dictionary that deals with initialism"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An index is a systematic guide to important concepts in a book it also serves as __________ to\nrelevant pages where copies appears",
+      "options": [
+        "indication",
+        "benchmarks",
+        "indices",
+        "pointer\nAnswer:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Books that are very weak and brittle can be ______ from the library shelf",
+      "options": [
+        "weeded",
+        "weed",
+        "withheld",
+        "repaired"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Encyclopedia of a Yoruba catalogue is an example of ________ material",
+      "options": [
+        "catalogued",
+        "acquired",
+        "classified",
+        "reference"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Books on _________ display shelves cannot be borrowed out for any reason",
+      "options": [
+        "reference",
+        "new animals",
+        "reprographic",
+        "reserved"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Digitalization of 100 pages of a book can be stored on a",
+      "options": [
+        "album",
+        "CDs",
+        "books",
+        "plates"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Information carriers in a library include all but one of the following, identify the odd one out",
+      "options": [
+        "audio visual",
+        "joy pack",
+        "textbook",
+        "serials"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Users guide is a reference material that could be regarded as a",
+      "options": [
+        "year book",
+        "manual",
+        "gazette",
+        "gazelle"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Geographical locators on social statistics and physical features can be found in ___________\nreference materials",
+      "options": [
+        "gazette",
+        "gazelle",
+        "gazetteer",
+        "handbook"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The following are responsible for the disfigurement of a library materials except_______",
+      "options": [
+        "termites",
+        "air conditions",
+        "human behaviours",
+        "high humidity"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The apex library in Nigeria is the",
+      "options": [
+        "national library",
+        "government library",
+        "personal libraries",
+        "state library"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Conference proceedings gives opportunity to find out about the",
+      "options": [
+        "research report",
+        "helpful reports",
+        "most recent development in a field",
+        "experts reviews"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Articles on emotional intelligence can be cited in ________ as reference material",
+      "options": [
+        "indexes",
+        "annual review",
+        "abstract and index",
+        "atlas"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A dictionary of technical subject contains",
+      "options": [
+        "meaning of specialized terms",
+        "meaning of subjects",
+        "meaning of terms",
+        "meaning of technical languages\nAnswer; A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a type of audio visual method",
+      "options": [
+        "radio",
+        "television",
+        "internet",
+        "video"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "LAN stands for",
+      "options": [
+        "Land Artificial Network",
+        "Land Area Network",
+        "Local Area Network"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The account of a person’s life is ________",
+      "options": [
+        "biography",
+        "bibliography",
+        "author bibliography",
+        "auto bibliography"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Information on geographical places can be found in _________as",
+      "options": [
+        "index",
+        "atlas",
+        "dictionary",
+        "biography"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The main body of a library textbook contains all but one",
+      "options": [
+        "pictures",
+        "drawing",
+        "potraits",
+        "spoons"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What is the full meaning of RAM",
+      "options": [
+        "Read Only Memory",
+        "Random Only Memory",
+        "Random access memory",
+        "Read Access Memory"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Information resources in hardcopy is commonly in the library",
+      "options": [
+        "abstracts",
+        "indexes",
+        "facebook",
+        "encyclopedia"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The following are found in the library except",
+      "options": [
+        "drone",
+        "audio records",
+        "magazines"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Photocopying and binding is available and done in the library to________",
+      "options": [
+        "bind library materials",
+        "photocopying",
+        "renewing worn out library materials"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Who is the father of library",
+      "options": [
+        "sliupta gunta",
+        "vishua ranganathan",
+        "shiya ramarita rangananthan",
+        "S.ramirata rangananthan"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "phones are not allowed in Olusegun oke library to_____",
+      "options": [
+        "avoid noise and distraction",
+        "protection of property",
+        "prevent bugs",
+        "avoid loud muisic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In tertiary institution, if a fire accident occurs in the library, where will you pass ________",
+      "options": [
+        "nearest possible exit",
+        "front door",
+        "back door",
+        "securitry post"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "directional reference service is short and ________",
+      "options": [
+        "slow",
+        "spontaneous",
+        "brief",
+        "quick"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Library mutilation is the _______ attempt to physically damage the library materials",
+      "options": [
+        "deliberate",
+        "indelibrate",
+        "severe",
+        "excess"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a type of report",
+      "options": [
+        "social reporters",
+        "commissioned report",
+        "annual reports",
+        "law reports"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What audio visuals are used for",
+      "options": [
+        "relaxation",
+        "recreation",
+        "catalogue",
+        "research"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Weeding is the form of removing old tattered mutilated books off the shelves but those books found\nworthy of repairs can be taken to the _________ unit",
+      "options": [
+        "administrative unit",
+        "service unit",
+        "reference unit",
+        "bindery"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "digitalization of hundreds of pages can be stored on __________",
+      "options": [
+        "plate",
+        "album",
+        "books",
+        "computer disc"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Materials kept under the reference services section are not meant to be read from cover to cover",
+      "options": [
+        "No",
+        "IDK",
+        "yes",
+        "good"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "encyclopedia of Yoruba language is an example of _____",
+      "options": [
+        "classified",
+        "catalogued",
+        "reference",
+        "acquired"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "As a student of lib 101 identify one additional skill a librarian need to succeed in life",
+      "options": [
+        "fine and applied art",
+        "rsearch skills",
+        "classificatiojn skills",
+        "cataloguing skills"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Books that are weak and brittle can be ______ from the shelf of the library",
+      "options": [
+        "weed",
+        "withheld",
+        "repaired",
+        "weeded"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Binding is one of the measures of restoring mutilated or damaged books missing pages of the book\ncould be ________",
+      "options": [
+        "Dressed",
+        "Photocopied",
+        "Grinded",
+        "Produced\nAnswer: (PAGE 64)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "There are ________ types of software",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One of the following cannot damage library materials",
+      "options": [
+        "bats and flying objecfts",
+        "termites",
+        "high humidity",
+        "human beings"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Laws are published collections of authoritative account of court cases or _____cases",
+      "options": [
+        "law report",
+        "court cases",
+        "case file",
+        "judicial decision"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Magazines and news paper are examples of __________",
+      "options": [
+        "reserved materials",
+        "service materials",
+        "reference materials",
+        "serial materials"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "On the final disengagement of the university students and staff must obtain _________ from the\nlibrary",
+      "options": [
+        "certificate",
+        "clearance",
+        "bitcoin",
+        "ticket"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Library calculation can easily be done during the guided _______ of the library for the new students",
+      "options": [
+        "orientation",
+        "movement",
+        "travel",
+        "tours"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Photocopy is the production of a single copy into",
+      "options": [
+        "fifty copies",
+        "multiple copies",
+        "three copies",
+        "single copies"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the library users are restricted to access sites that are",
+      "options": [
+        "obscene",
+        "educative",
+        "obscure",
+        "tantalizing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Multimedia are highly suitable for both individuals and groups in the library for _____",
+      "options": [
+        "recreation",
+        "library decorations",
+        "teaching\\learning",
+        "relaxation"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The _______- library is expected to serve all kinds of people including children",
+      "options": [
+        "national library",
+        "public library",
+        "special library",
+        "apex library"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "To improve the use of the university library at night the management should provide ____________",
+      "options": [
+        "alternate",
+        "nepa",
+        "steady\nAnswer: A/C"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the main objective of a publisher",
+      "options": [
+        "to introduce a book",
+        "to inform people about the cost of a book",
+        "to sell books",
+        "to capture the publisher information"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A dictionary technical subject contain",
+      "options": [
+        "meaning of technical language",
+        "meaning of subject",
+        "meaning of specialized terms",
+        "meaning of term"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "___________ is a reference book containing an alphabetical list of words, with information given for each\nword, usually including meaning, pronunciation and etymology",
+      "options": [
+        "encyclopedia",
+        "dictionary",
+        "map",
+        "all of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "____________ is regarded as a storehouse of knowledge, providing all information of importance",
+      "options": [
+        "dictionary",
+        "encyclopedia",
+        "manual",
+        "compact disc"
+      ],
+      "correct": "b"
+    }
+  ]
+}

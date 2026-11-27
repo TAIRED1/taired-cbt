@@ -1,0 +1,1414 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "FAA101",
+    "total_questions": 140
+  },
+  "data": [
+    {
+      "question": "Two of these are elements of Arts",
+      "options": [
+        "Line",
+        "Graduation",
+        "Hue",
+        "Texture (a). A & B (b). A& C (c). A & D (d). A & E"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The following are elements of art and design except",
+      "options": [
+        "colour",
+        "line",
+        "texture",
+        "tone"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "_______ is a path traced between two points",
+      "options": [
+        "texture",
+        "space",
+        "line",
+        "volume"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Combination of lines is called _____",
+      "options": [
+        "form",
+        "shape",
+        "volume",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "_____________ is regarded as the surface value of an object",
+      "options": [
+        "tone",
+        "form",
+        "texture",
+        "line The following are shading techniques (a) smudging (b) pointillism (c) hatching (d) cross-hatching (e) rubbing (f) all of the above (g) none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following are the principles of art and design except",
+      "options": [
+        "balance",
+        "proportion",
+        "rhythm",
+        "tone"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Principles design are the following except",
+      "options": [
+        "variety",
+        "contrast",
+        "emphasis",
+        "dominance (e) all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Harmony and unity _____________",
+      "options": [
+        "principles of art and design",
+        "elements of art and design",
+        "factors of art and design",
+        "none _____________ is the movement which we feel in working at a design (a) balance (b) rhythm (c) variety (d) proportion"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The effectiveness of a design depends on",
+      "options": [
+        "a good rhythm",
+        "a good balance",
+        "a good proportion",
+        "all of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "_____________ refers to the size ratio of one part of an object to another part of that object",
+      "options": [
+        "balance",
+        "proportion",
+        "rhythm",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The two types of balance are _____________ and _____________",
+      "options": [
+        "formal/symmetry and informal/asymmetry",
+        "parallel and nonparallel",
+        "simple and complex",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______________ refers to a state of equilibrium in which opposing forces neutralize each other",
+      "options": [
+        "harmony",
+        "emphasis",
+        "dominance",
+        "balance The two types of rhythm are (a) formal and informal (b) static and dynamic (c) symmetric and non-symmetric (d) none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is needed to give interest and variety",
+      "options": [
+        "balance",
+        "rhythm",
+        "contrast",
+        "proportion"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "18. __________ is regarded as rest or repose",
+      "options": [
+        "emphasis",
+        "balance",
+        "contrast",
+        "variety What is the purpose to draw attention to the design (a) contrast (b) emphasis (c) unity (d) balance"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "19. ___________ involves distribution of weight",
+      "options": [
+        "dominance",
+        "harmony",
+        "balance",
+        "none _______________ is the level of attraction in design (a) unity (b) emphasis (c) dominance (d) proportion S, LAUTECH FAA 101 FOR 1ST SEMESTER EXAM"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Primary colours are the following except",
+      "options": [
+        "red",
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Red + yellow =",
+      "options": [
+        "green",
+        "orange",
+        "violet",
+        "none of the above Yellow + blue = (a) white (b) red (c) green (d) blue"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "______________ is the variation of colour tone in terms of lightness and darkness",
+      "options": [
+        "hue",
+        "value",
+        "contrast",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "______________ is a mixture of two primary colours",
+      "options": [
+        "complementary colours",
+        "secondary colours",
+        "primary colours",
+        "all of the above ____________________ is the basic identity of any colour which has not been neutralized (a) intensity (b) hue (c) value (d) none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "________________ are otherwise called basic colours",
+      "options": [
+        "primary colours",
+        "secondary colours",
+        "complementary colours",
+        "none The properties of colour are ____________ is regarded as the actual brightness or brilliance of a colour without neutralizing it (a) hue (b) intensity (c) value (d) contrast"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Blue + red =",
+      "options": [
+        "green",
+        "pink",
+        "orange",
+        "violet _______________ is a representation of illusion of three dimensional objects on two dimensional surfaces"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Lettering are used for the following",
+      "options": [
+        "used to communicate",
+        "used to make a design",
+        "used to illustrate different ideas",
+        "all of the above"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Art is defined all of these except",
+      "options": [
+        "drawing",
+        "acquisition of skill",
+        "universal language",
+        "creation human endeavours rather than nature (e) creation of beautiful and thought provoking works."
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of these is not an element of art?",
+      "options": [
+        "form",
+        "line",
+        "shape",
+        "colour (e) dominance"
+      ],
+      "correct": "e"
+    },
+    {
+      "question": "A line can best be defined as _______________",
+      "options": [
+        "straight mark",
+        "the outline of an area",
+        "distance from one point to another",
+        "movement of objects (e) pencil drawing"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "If you are to draw the movement of an air plane taking off with a line, which line will best describe the plane’s movement?",
+      "options": [
+        "horizontal line",
+        "vertical line",
+        "diagonal line",
+        "zigzag line (e) curved line"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Texture can be defined as _____________",
+      "options": [
+        "the way an object looks",
+        "surface quality of an object in terms of roughness and smoothness",
+        "the consistence of a substance",
+        "a type of textile material (e) degree of roughness of an object"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Identify the shading technique for the form above",
+      "options": [
+        "favoritism",
+        "constructivism",
+        "pointillism",
+        "sportish"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "There are two types of textures",
+      "options": [
+        "smooth and rough texture",
+        "thin and liquid texture",
+        "contour and line",
+        "pineapple and pawpaw (e) actual and simulated textures"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The tree above is shaded using ______________ technique",
+      "options": [
+        "pointillism",
+        "linear",
+        "dots",
+        "cross-hatching S, LAUTECH FAA 101 FOR 1ST SEMESTER EXAM"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The shading technique used for the form above is known as",
+      "options": [
+        "hatching",
+        "crosshatching",
+        "scudding",
+        "blocking"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The font above is shaded using ____________ technique",
+      "options": [
+        "hatching",
+        "pointillism",
+        "block",
+        "smudging"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Identify shading techniques in C & D",
+      "options": [
+        "hatching",
+        "cross-hatching",
+        "crosshatching and pointillism",
+        "hatching and cross-hatching"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The head above is a combination of _____________ shading techniques",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The leaf above looks abstract for its shading technique which is ___________",
+      "options": [
+        "pointillism",
+        "smudging",
+        "block",
+        "hatching"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The form above combines three shading techniques to bring out its solidity",
+      "options": [
+        "pointillism, smudging and block",
+        "smudging, hatching and hedging",
+        "hatching, block and pointillism",
+        "block, hatching and cross-hatching"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Pictorial representation of a heap of sand or gravel is better represented in ____________ shading technique",
+      "options": [
+        "pointillism",
+        "blurring",
+        "scribbling",
+        "smoothing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Sand painting is comparable to ______________ shading technique.",
+      "options": [
+        "scribbling",
+        "pointillism",
+        "blurring",
+        "hatching"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The form above is shaded using _____________ technique",
+      "options": [
+        "smudging",
+        "beating",
+        "cross-hatching",
+        "woolen"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Vivid representation of cloud in shading is better done with __________",
+      "options": [
+        "pointillism",
+        "scribbling",
+        "blurring",
+        "hatching"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The area closest to the source of light in the form above is ______________",
+      "options": [
+        "C",
+        "A",
+        "D",
+        "B"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Two of these are elements of art: I. Line II. Graduation III. Hue Iv. Texture V. Rhythm",
+      "options": [
+        "I & II",
+        "I and III",
+        "I and IV",
+        "I and V"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "One of the following does not belong to the family of elements of design",
+      "options": [
+        "texture",
+        "colour",
+        "line",
+        "dominance"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The arrangement of dissimilar shapes or forms to achieve a balanced work is known as ____________",
+      "options": [
+        "symmetrical balance",
+        "conjugate balance",
+        "modular balance",
+        "asymmetrical balance"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "_____________ is the relationship established between significantly different elements in art",
+      "options": [
+        "unity",
+        "harmony",
+        "balance",
+        "contrast"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In object representation, an artist develops skill in _____________",
+      "options": [
+        "observation and drawing",
+        "painting and playing",
+        "drawing and merry",
+        "observation and sight-seeing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the principles of art and design is ____________",
+      "options": [
+        "line",
+        "space",
+        "rhythm",
+        "colour"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Balance is achieved in art and design in two ways",
+      "options": [
+        "scale and symmetry",
+        "vanishing and scale",
+        "size and synchromatics",
+        "symmetry and asymmetry"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "_____________ is a comobination of units which are similar in one or more respect",
+      "options": [
+        "variety",
+        "harmony",
+        "repetition",
+        "colour"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A simple way of balancing or unifying a work of art is through _____________",
+      "options": [
+        "logical process",
+        "diagonal process",
+        "horizontal process",
+        "symmetrical process"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Repetition, balance and rhythm are ___________ of art and design",
+      "options": [
+        "elements",
+        "principles",
+        "fundamentals",
+        "basics"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Even distribution of weight around a central axis means",
+      "options": [
+        "balance",
+        "contrast",
+        "emphasis",
+        "proportion"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Rhythm implies _____________ in design",
+      "options": [
+        "emphasis",
+        "focus",
+        "repetition",
+        "variety"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Three-dimensional art possesses _______________",
+      "options": [
+        "breadth and length",
+        "length and breadth and shape",
+        "length, width and height",
+        "shape and form"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Two-dimensional art possesses ______________",
+      "options": [
+        "breadth and length",
+        "length and breadth and shape",
+        "length, width and height",
+        "shape and form"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a composition, an object or figure occupies ________________",
+      "options": [
+        "linear void",
+        "positive space",
+        "negative space",
+        "plausible space"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One of these is a principle of art and design",
+      "options": [
+        "colour",
+        "line",
+        "plane",
+        "rhythm"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Areas of specialization in arts include one of these",
+      "options": [
+        "calligraphy",
+        "lettering",
+        "sketching",
+        "textile design"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Visual art is divided into _______________ and ________________ arts",
+      "options": [
+        "fine and applied",
+        "fine and drama",
+        "music and drama",
+        "applied and planning"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Harmony can be achieved through all of these except one",
+      "options": [
+        "colours",
+        "shape",
+        "size",
+        "line (e) using unrelated elements"
+      ],
+      "correct": "e"
+    },
+    {
+      "question": "The following are the principles of art and design except _____________",
+      "options": [
+        "proportion",
+        "shape",
+        "dominance",
+        "repetition"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is colour?",
+      "options": [
+        "colour is the element of art that involves shadow",
+        "colour is the element of art that involves nature",
+        "colour is the element of art that involves light",
+        "colour is the element of art that involves force"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Colours can be broken down into three basic types in this sequence",
+      "options": [
+        "primary, secondary, primary",
+        "secondary, tertiary, primary",
+        "primary, secondary, tertiary",
+        "tertiary, primary, secondary"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Black and white are called neutral colours because _____________",
+      "options": [
+        "because they do not have specific wavelets",
+        "because they do not have specific wavelites",
+        "because they do not have specific wavelengths",
+        "because they do not have specific waveguides"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "One of the most important tools in learning the science of colours in design is the",
+      "options": [
+        "colour contour",
+        "colour rainbow",
+        "colour wheel",
+        "colour palette"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Every colour used must be described in terms of three physical properties",
+      "options": [
+        "tone, light, value",
+        "light, light, value",
+        "hue, value, intensity",
+        "intensity, light, value"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The generic name for colour red, blue, yellow is",
+      "options": [
+        "value",
+        "tone",
+        "hue",
+        "light"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the set of colours below is associated with the sun or fire",
+      "options": [
+        "green, blue, pink",
+        "white, wine,, violet",
+        "red, orange, yellow",
+        "gray, black, red"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The tem intensity is used to distinguish",
+      "options": [
+        "sweetness and dullness of a colour",
+        "colourful and dullness of a colour",
+        "brightness and dullness of a colour",
+        "harmony and dullness of a colour"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of these groups of colours are good examples of cool colours",
+      "options": [
+        "yellow, red, orange",
+        "green, purple, brown",
+        "blue, green, violet",
+        "orange, green, blue"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Colour black is a combination of _______________",
+      "options": [
+        "some colours",
+        "one colour",
+        "three colours",
+        "all colours (e) few colours"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The colour wheel begins with ____________________",
+      "options": [
+        "secondary colours",
+        "primary colours",
+        "tertiary colours",
+        "intermediate colours (e) complimentary colours"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The third phase of the colour wheel is called _______________",
+      "options": [
+        "primary colours",
+        "secondary colours",
+        "tertiary colours",
+        "hue coloourss (e) hueism"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A set of three colours equidistant from each other is known as ________________",
+      "options": [
+        "triad colours",
+        "triart colours",
+        "tripod colours",
+        "triage colours (e) triadic colours"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "All triads have underlying colours connecting them except ______________",
+      "options": [
+        "intermediate triad",
+        "primary triad",
+        "tertiary triad",
+        "secondary triad (e) hue triad"
+      ],
+      "correct": "e"
+    },
+    {
+      "question": "Red, yellow and blue is an example of ________________",
+      "options": [
+        "primary triad",
+        "secondary triad",
+        "tertiary triad",
+        "triad (e) secondary colours"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The pure colour is also known as _______________",
+      "options": [
+        "hue",
+        "uhe",
+        "ehu",
+        "pigment (e) perfection"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The particular quality of brightness, deepness of any colour is referred as ______________",
+      "options": [
+        "shade",
+        "tone",
+        "tint",
+        "cool (e) warm Answer: E S, LAUTECH FAA 101 FOR 1ST SEMESTER EXAM"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A mixture of equal proportions of colours green and yellow result in _______________",
+      "options": [
+        "mixed colour",
+        "tertiary colour",
+        "premier colour",
+        "secondary colour"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A tinted colour contains a particular colour and _______________",
+      "options": [
+        "white",
+        "blue",
+        "red",
+        "rainbow"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is similar to colour?",
+      "options": [
+        "hew",
+        "hue",
+        "shoe",
+        "hewn"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Who discovered the colour spectrum allowing sunlight beam to pass through a glass prism?",
+      "options": [
+        "Michael Angelo",
+        "Sir Ahmadu Bello",
+        "Sir Isaac Newton",
+        "Sir Isaac Wilberforce _____________ colour (a) green (b) orange (c) purple (d) black"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A good football coach will have his team’s changing room painted _____________ to create a relaxing atmosphere in a cool colour",
+      "options": [
+        "red",
+        "yellow",
+        "blue",
+        "orange"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "____________ colour is produced mixing a secondary colour with an adjacent primary colour",
+      "options": [
+        "secondary",
+        "primary",
+        "complimentary",
+        "tertiary"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Green and blue are described as ______________",
+      "options": [
+        "warm colours",
+        "sharp colours",
+        "little colours",
+        "cool colours"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The subtle meeting point between light and dark areas of an object is called ____________",
+      "options": [
+        "tonal value",
+        "intensity",
+        "middle tone",
+        "high tone"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "When green and yellow colours are mixed together in equal proportion, the formed colour falls under ______________",
+      "options": [
+        "harmonious",
+        "intermediate",
+        "secondary",
+        "remedial"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "When an equal proportion of yellow and red colours are mixed together, it will give _____________ colour",
+      "options": [
+        "green",
+        "orange",
+        "purple",
+        "black"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "When an equal proportion of blue and red colours are mixed together, it will give ________________ colour",
+      "options": [
+        "green",
+        "orange",
+        "purple",
+        "black"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In the illustration above, label “A” is",
+      "options": [
+        "orange",
+        "green",
+        "purple",
+        "grey"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the illustration above, label “B” is",
+      "options": [
+        "orange",
+        "green",
+        "purple",
+        "grey"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the illustration above, label “C” is",
+      "options": [
+        "orange",
+        "green",
+        "purple",
+        "grey"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The imaginary line in the distance at which the sky and the foreground appears to meet is called ___________",
+      "options": [
+        "vanishing point",
+        "line of horizon",
+        "point of intersection",
+        "oblique line"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The point of convergence at which every object seem to disappear in perspective drawing is the ______________",
+      "options": [
+        "terminus",
+        "horizontal point",
+        "location point",
+        "vanishing point"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In perspective drawing objects seem to disappear into a converging point known as ______________",
+      "options": [
+        "vanishing point",
+        "location point",
+        "terminal point",
+        "line of horizon"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ is principle of art that shows three dimensionally or distance on a twodimensional surface",
+      "options": [
+        "Pitesti",
+        "prospective",
+        "perceptive",
+        "perspective"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "___________ is the art of showing the sizes of objects in space as they really appear to the eyes of the observer",
+      "options": [
+        "Leaner’s perspective",
+        "lunar perspective",
+        "linear perspective",
+        "linniar perspepctive"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "If a house is viewed from aerial perspective which part of the house will be seen?",
+      "options": [
+        "front",
+        "back",
+        "roof",
+        "side"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The line of horizon is represented _____________",
+      "options": [
+        "vanishing point",
+        "eye-level line",
+        "sky",
+        "picture line"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Below the eye-level line is the ____________",
+      "options": [
+        "sky",
+        "ground",
+        "sea",
+        "vanishing point"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Straight lines that are parallel appears to meet at ____________",
+      "options": [
+        "vanishing point",
+        "eye-level",
+        "foreground",
+        "visual point"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Perspective that is seen from below eyelevel is called ______________",
+      "options": [
+        "angular",
+        "linear",
+        "eye",
+        "aerial"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Perspective in drawing developed during the ________________ period",
+      "options": [
+        "classical",
+        "renaissance",
+        "Greek",
+        "Roman Answer:"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Imaginary line where the earth meets the sky is also known as ______________",
+      "options": [
+        "line of vanishing",
+        "line of horizon",
+        "parallel line",
+        "perspective line"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The elementary law of optics where objects get smaller with distance is known as",
+      "options": [
+        "foreshortening",
+        "perspective",
+        "chiaroscuro",
+        "tint"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One of the following is an odd word",
+      "options": [
+        "linear perspective",
+        "angular perspective",
+        "aerial perspective",
+        "parallel perspective"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ is the art of showing sizes of objects in space as they appear to the eyes of the observers",
+      "options": [
+        "principles of art and design",
+        "elements of art and design",
+        "elementary line",
+        "linear perspective"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Define perspective drawing",
+      "options": [
+        "a drawing of three-dimensional form on a two dimensional surface",
+        "creation of an illusion of depth on a three-dimensional surface",
+        "drawing of human being in profile",
+        "representation of form or shape on a plane"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The artist makes drawings/paintings within a picture _____________",
+      "options": [
+        "foreshortening",
+        "lettering",
+        "perspective",
+        "plane"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "When an artist represents a distant object from the observer on a diminutive scale, it is _____________",
+      "options": [
+        "colour",
+        "texture",
+        "linear perspective",
+        "rhythm"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In letter construction, the following lines are necessary for guide except _____________",
+      "options": [
+        "cap line",
+        "waist line",
+        "base line",
+        "top line"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of these letters is odd one out?",
+      "options": [
+        "B",
+        "C",
+        "E",
+        "M"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "______________ is equivalent to capital letters",
+      "options": [
+        "lower case",
+        "upper case",
+        "medium case",
+        "title case is called"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of these letters has the widest width?",
+      "options": [
+        "F",
+        "W",
+        "M",
+        "A"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The art of writing beautiful cursive letters with free hand and pen is called _____________",
+      "options": [
+        "serigraphy",
+        "calligraphy",
+        "lithography",
+        "pen writing"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In English alphabets A – Z, letter _______________ is the narrowest",
+      "options": [
+        "L",
+        "S",
+        "I",
+        "P"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these letters does not need drop line for construction?",
+      "options": [
+        "b",
+        "j",
+        "k",
+        "g"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the letters below has “Sherif”",
+      "options": [
+        "romans",
+        "gothics",
+        "scripts",
+        "italics"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Two types of fonts that are mostly used in advertisement are ___________ and __________",
+      "options": [
+        "gothic",
+        "roman",
+        "italics",
+        "scripts"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "______________ is a type face that is suitable for emphasis in a text or design ____________",
+      "options": [
+        "gothic",
+        "roman",
+        "italics",
+        "san-serif"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "From the letter ‘A’ above, the portion labeled ‘a’ is called ____________",
+      "options": [
+        "serif",
+        "san serif",
+        "base line",
+        "drop line"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Egyptian earliest form of political writing is known as ______________",
+      "options": [
+        "hieroglyphics",
+        "calligraphy",
+        "typographic",
+        "offset"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Level ‘b’ from the above diagram is known as ____________",
+      "options": [
+        "lobe",
+        "cross-bar",
+        "serif",
+        "waist line"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A typeface that consists of thick and thin strokes with serif is known as",
+      "options": [
+        "gothic",
+        "calligraphy",
+        "roman",
+        "italics S, LAUTECH FAA 101 FOR 1ST SEMESTER EXAM"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The narrowest letter in English alphabets is ______________",
+      "options": [
+        "E",
+        "C",
+        "F",
+        "I"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The best type of lettering for a poster is ______________",
+      "options": [
+        "pen lettering",
+        "block lettering",
+        "script lettering",
+        "calligraphy"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which among the following typefaces is mostly suitable for representing “strength”",
+      "options": [
+        "gothic",
+        "roman",
+        "old English text",
+        "italics"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "When letters are cramped together they become _____________",
+      "options": [
+        "legible",
+        "not legible",
+        "emotional",
+        "calligraphic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Art of writing beautiful lettering with pen and ink is known as",
+      "options": [
+        "hieroglyphics",
+        "calligraphy",
+        "offset",
+        "typographic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The best lettering for a signpost is _______________",
+      "options": [
+        "italics",
+        "calligraphy",
+        "gothic",
+        "text"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The important characteristic of a good lettering is ______________",
+      "options": [
+        "legibility",
+        "accessibility",
+        "legality",
+        "feasibility"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The art of writing letters is called ________________",
+      "options": [
+        "calligraphy",
+        "lettering",
+        "impasto",
+        "drawing"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The other name for the face of a type or letter is ____________",
+      "options": [
+        "front",
+        "plant",
+        "plot",
+        "font"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ is most important characteristic of good lettering",
+      "options": [
+        "straight",
+        "curve",
+        "creativity",
+        "legibility"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Font is synonymous to",
+      "options": [
+        "face",
+        "latter face",
+        "lettering",
+        "type face"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Types of lettering are block lettering and _______________",
+      "options": [
+        "pen lettering",
+        "pencil lettering",
+        "biro lettering",
+        "straight lettering Answer: Yes"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Art is defined by all of these except",
+      "options": [
+        "drawing",
+        "acquisition of skill",
+        "universal\nlanguage",
+        "creation by human\nendeavours rather than by nature (e)\ncreation of beautiful and thought provoking\nworks."
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Who discovered the colour spectrum by\nallowing sunlight beam to pass through a\nglass prism?",
+      "options": [
+        "Michael Angelo",
+        "Sir\nAhmadu Bello",
+        "Sir Isaac Newton",
+        "Sir\nIsaac Wilberforce\n\n_____________ colour (a) green (b) orange (c)\npurple (d) black"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "____________ colour is produced by mixing a\nsecondary colour with an adjacent primary\ncolour",
+      "options": [
+        "secondary",
+        "primary",
+        "complimentary",
+        "tertiary"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The line of horizon is represented by\n_____________",
+      "options": [
+        "vanishing point",
+        "eye-level\nline",
+        "sky",
+        "picture line"
+      ],
+      "correct": "b"
+    }
+  ]
+}

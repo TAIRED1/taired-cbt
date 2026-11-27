@@ -1,0 +1,4178 @@
+{
+  "status": "success",
+  "meta": {
+    "provider": "TAIRED CBT",
+    "developer": "TAIRED",
+    "website": "https://taired-cbt.puter.site",
+    "timestamp": "2026-10-03T19:50:34.248Z",
+    "description": "The official API for TAIRED CBT question bank.",
+    "course_id": "CHM101",
+    "total_questions": 418
+  },
+  "data": [
+    {
+      "question": "6486 (d) 0.6497",
+      "options": [
+        "0.2917",
+        "0.2968",
+        "",
+        "0.6497 (a) 0.2917 (b) 0.2968 (c)"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The two kinds of errors that affect scientific measurement are",
+      "options": [
+        "instrumental and personal error",
+        "constant and systematic",
+        "determinate and random",
+        "Indeterminate and random"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": ".Which of the following can be used to estimate accuracy",
+      "options": [
+        "absolute error",
+        "standard deviation",
+        "average error",
+        "probable error"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": ".Determinate error cannot be corrected",
+      "options": [
+        "calibration of apparatus",
+        "use of blank control",
+        "use of parallel determination",
+        "use of internal standard"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "52.An error that leads to another error is",
+      "options": [
+        "propagation",
+        "spawning",
+        "sporinate",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "76, 11.49",
+      "options": [
+        "2.48",
+        "3.86",
+        "4.25",
+        "3.29"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": ". E(g) + F(g) <==> 2G(g) + H(g). ΔH is negative. Which of the following will increase the yield of G?",
+      "options": [
+        "Removing Some G.",
+        "Using a larger closed vessel.",
+        "Adding a positive Catalyst.",
+        "Increasing the temperature."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": ".21. 2NO2(g) <==> N2O4(g). What happens when the total pressure of the equilibrium reaction above is increased?",
+      "options": [
+        "Production of more N2O4 in the mixture",
+        "No effect on the concentrations.",
+        "Production of more NO2 in the mixture."
+      ],
+      "correct": "b"
+    },
+    {
+      "question": ".Oxidation number of hydrogen is -1 in which of the following?",
+      "options": [
+        "NaH.",
+        "NaOH.",
+        "NH2SO4. D.None."
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is not a redox reaction ?",
+      "options": [
+        "Fe2O3(s) + 3CO(g) ---> 2Fe(s) + 3CO2(g).",
+        "Ca3P2(s) + 6H2O(l) ---> 3Ca(OH)2(aq) + 2PH3(g).",
+        "P4(s) + 5O2(g) ---> P4O10(g).",
+        "None."
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the reaction 𝐼2 + 𝑆2 ⇌ 2𝑆𝐼, 𝐾𝑐 = 𝐾𝑝 if",
+      "options": [
+        "Δ𝑛 = 0",
+        "Δ𝑛 > 0",
+        "Δ𝑛 < 0",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many degenerate electrons are in dorbital",
+      "options": [
+        "2",
+        "10",
+        "8",
+        "14"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Liquids at high temperature can be liquefied in",
+      "options": [
+        "increasing the temperature further",
+        "increasing the pressure",
+        "decreasing the pressure",
+        "none of the above pressure (b) constant temperature (c) constant volume (d) constant degree"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The oxidation number of 𝐶𝑟 in 𝐾2 𝐶𝑟2 𝑂7 is",
+      "options": [
+        "+7",
+        "−6",
+        "+6",
+        "−7"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Manganese (IV) oxide reacts with conc. 𝐻𝐶𝑙 according to the equation𝑀𝑛𝑂2 + 𝑥𝐻𝐶𝑙 → 𝑀𝑛𝐶𝑙2 + 𝐶𝑙2 + 𝑦𝐻2 𝑂. The values of x and y respectively are",
+      "options": [
+        "4 and 2",
+        "2 and 4",
+        "3 and 2",
+        "2 and 5"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "14. The maximum number of electrons that 𝑓 − orbital can accommodate is",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14 The oxidation number of oxygen in 𝑁𝑎𝑂𝐻 is (a) 0 (b) −1 (c) −2 (d) +2"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Determinate errors cannot be corrected",
+      "options": [
+        "calibration of apparatus",
+        "use of blank control",
+        "use of parallel determination",
+        "use of internal standard"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Hydrogen has oxidation of __________ when it is combined with a metal",
+      "options": [
+        "−7",
+        "+7",
+        "−1",
+        "+1"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The mass of atom is determined",
+      "options": [
+        "the number of protons",
+        "its electrochemical potential",
+        "the number of neutrons and protons",
+        "its ionization potential"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Neutron was discovered",
+      "options": [
+        "Dalton",
+        "Chadwick",
+        "Hooke",
+        "Rutherford"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "17. Which gas contains the least number of atoms at S.T.P",
+      "options": [
+        "3 moles of ozone",
+        "1 mole of butane",
+        "7 mole of Argon",
+        "4 moles of Chlorine The electronic configuration of oxygen is (a) 1𝑠 2 2𝑠 2 2𝑝6 (b) 1𝑠 2 2𝑠 2 2𝑝4 (c) 1𝑠 2 2𝑠 2 2𝑝2 (d) 1𝑠 2 2𝑠 2 2𝑝3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Oxidation number of a pure element is",
+      "options": [
+        "1",
+        "+1",
+        "0",
+        "−2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Equilibrium law is constant at",
+      "options": [
+        "constant pressure",
+        "constant temperature",
+        "constant volume",
+        "constant area"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Answer: C In the reaction 2𝐴𝑙 + 6𝐻 + → 2𝐴𝑙 3+ + 3𝐻2 . The total number of mole of electrons transferred is",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The oxidation number of hydrogen in the following compounds is +1 except",
+      "options": [
+        "𝑁𝑎𝐻",
+        "𝑁𝑎𝑂𝐻",
+        "𝐻2 𝑆",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The oxidation number of iodine in the 𝑁𝑎𝐼𝑂4 is",
+      "options": [
+        "−7",
+        "+7",
+        "−8",
+        "+8"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Nucleus is housed",
+      "options": [
+        "proton + electron",
+        "proton + neutron",
+        "neutron + electron",
+        "neutron + proton"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following does not favour the production of ammonia in Haber process",
+      "options": [
+        "S, LAUTECH CHM 101 FOR 1ST SEMESTER EXAM Study everything in this to have your mind-blowing testimony high pressure",
+        "increase in concentration of reactant",
+        "presence of finely divided iron",
+        "high temperature"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Oxidation number of an uncombined element is",
+      "options": [
+        "0",
+        "+1",
+        "+2",
+        "+3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The oxidation number of nitrogen in 𝑁2 𝑂 is",
+      "options": [
+        "+1",
+        "+2",
+        "−1",
+        "−2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When 𝐾𝑐 is large for a particular reaction, it means equilibrium mixture consists mostly of",
+      "options": [
+        "reactant",
+        "product",
+        "product and reactant",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Hydrogen has oxidation number of −1 in",
+      "options": [
+        "hydroxides",
+        "peroxide",
+        "hydrides",
+        "halide"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following is required in 𝐾ℎ/𝐽 to bring an atom of the element to its ground state",
+      "options": [
+        "ionization energy",
+        "activation energy",
+        "entropy change",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Oxidation is the gain of electron while reduction is the loss of electron",
+      "options": [
+        "false",
+        "true",
+        "true and false",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following favours the production of 𝑆𝑂3 in the contact process",
+      "options": [
+        "absence of catalyst",
+        "high temperature",
+        "high pressure",
+        "none is correct"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which does not define oxidation",
+      "options": [
+        "increase in oxidation number",
+        "decrease in oxidation number",
+        "addition of oxygen",
+        "loss of electrons"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Precision is estimated in terms of the following except",
+      "options": [
+        "probable error",
+        "average error",
+        "standard deviation",
+        "absolute error"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Spinning of two electrons that are paired up in an orbital will be",
+      "options": [
+        "undefined",
+        "mutual",
+        "opposite direction",
+        "of same direction"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The atomic number of caesium is 55 and atomic mass is 133. The nucleus of caesium atom therefore contains",
+      "options": [
+        "78 protons and 55 electrons",
+        "55 protons and 78 electrons",
+        "78 neutrons and 55 electrons",
+        "55 protons and 78 neutrons"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In which of the following oxides does nitrogen has oxidation number of +4",
+      "options": [
+        "𝑁2 𝑂3",
+        "𝑁2 𝑂",
+        "𝐾𝑁𝑂3",
+        "𝑁𝑂2"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The oxidation number of iodine in the 𝐼𝑂3− is",
+      "options": [
+        "– 1",
+        "−5",
+        "+5",
+        "+1"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "An increase in the concentration of reactant will favour the production of",
+      "options": [
+        "reactant",
+        "product",
+        "reactant and product",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the decomposition reaction 𝐶𝑑𝐶𝑂3(𝑠) ⇌ 𝐶𝑑𝑂(𝑠) + 𝐶𝑂2(𝑔) , the equilibrium constant is equal to",
+      "options": [
+        "Answer: C [𝐶𝑑𝑂][𝐶𝑂2 ] [𝐶𝑑𝐶𝑂3 ] (d) none of the above [𝐶𝑑𝐶𝑂 ] 3",
+        "[𝐶𝑂 ][𝐶𝑑𝑂}",
+        "",
+        "none of the above [𝐶𝑑𝐶𝑂 ] 3 (b) [𝐶𝑂 ][𝐶𝑑𝑂} (c) [𝐶𝑂2 ] 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In Boyle’s law, increasing the pressure to above l atm will",
+      "options": [
+        "increase PV value",
+        "reduce PV value",
+        "options A and B",
+        "keep PV value constant"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The partial pressure of oxygen in a sample of air is 330𝑚𝑚𝐻𝑔 and the total pressure is 760𝑚𝑚𝐻𝑔. What is the mole fraction of oxygen",
+      "options": [
+        "4.34",
+        "2.170",
+        "0.434",
+        "0.217"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "8% of Zn (𝑍𝑛 = 65.58𝑔/𝑚𝑜𝑙, 𝑁𝑎 = 6.02 × 1023 )",
+      "options": [
+        "5.9 × 1022",
+        "5.7 × 1022",
+        "5.8 × 1022",
+        "6.0 × 1022 S, LAUTECH CHM 101 FOR 1ST SEMESTER EXAM Study everything in this to have your mind-blowing testimony"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In galvanic cell, which of the following occurs at the anode",
+      "options": [
+        "species",
+        "redox",
+        "oxidation",
+        "reduction"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following is a measure of the average kinetic energy of the substance",
+      "options": [
+        "pressure",
+        "volume",
+        "mass",
+        "temperature"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In the redox reaction 𝑆𝑛2+ + 2𝐹𝑒 3+ → 2𝐹𝑒 2+ + 𝑆𝑛4+ , electrons are transferred from",
+      "options": [
+        "𝑆𝑛2+ → 𝐹𝑒 2+",
+        "𝑆𝑛2+ → 𝐹𝑒 3+",
+        "𝐹𝑒 3+ → 𝑆𝑛4+",
+        "𝐹𝑒 2+ → 𝑆𝑛2+"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The minimum temperature that can be reached any substance is",
+      "options": [
+        "absolute temperature",
+        "boiling point",
+        "melting point",
+        "freezing point"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is not correct",
+      "options": [
+        "oxidation is the decrease in oxidation number",
+        "oxidation is the increase in oxidation number",
+        "oxidation is the loss of electrons",
+        "oxidation is the addition of oxygen"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "667%. What is the empirical formula",
+      "options": [
+        "𝐶2 𝐻4 𝑂2",
+        "𝐶𝐻2 𝑂2",
+        "𝐶𝐻𝑂",
+        "𝐶𝐻2 𝑂"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "For a reaction at equilibrium between propanol and butanoic acid, 0.012𝑚𝑜𝑙𝑑𝑚−3 of propanol, 0.832 butanoic acid and 0.174 propyl botanoate were concentrations at equilibrium. Calculate the equilibrium constant",
+      "options": [
+        "1.03",
+        "2.03",
+        "3.03",
+        "4.03"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "One mole of ethanoic acid is mixed with one mole of ethanol at 250 𝐶 and after equilibrium is reached, a titration with standard alkali solution shows that 0.667mole of ethanoic acid has reacted to form ethyl ethanoate according to the reaction 𝐶𝐻3 𝐶𝑂2 𝐻(𝑙) + 𝐶2 𝐻5(𝑙) ⇌ 𝐶𝐻3 𝐶𝑂2 𝐶2 𝐻5(𝑙) + 𝐻2 𝑂(𝑙) . Find the 𝐾𝑐 of the reaction",
+      "options": [
+        "2.01",
+        "3.01",
+        "4.01 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The ions in a mass spectrophotometer are separated based on their mass-charge ratio the",
+      "options": [
+        "ion source",
+        "detector",
+        "magnetic field",
+        "electric force"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a redox reaction, the oxidizing agent is",
+      "options": [
+        "electron acceptor",
+        "the specimen having its oxidation number increased",
+        "oxidized",
+        "electron donor"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the value 𝑥, 𝑦 and 𝑧 in 𝑥𝐶𝑢 + 𝑦𝐻𝑁𝑂𝑧 → 𝑥𝐶𝑢(𝑁𝑂3 )2 + 4𝐻2 𝑂 + 2𝑁𝑂",
+      "options": [
+        "2, 8, 3",
+        "4, 1, 2",
+        "3, 8, 3",
+        "8, 3, 2"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The term precision refers to",
+      "options": [
+        "highly accurate measurement",
+        "the level of measurement and exactness of description in a data",
+        "measurements that are within",
+        "logical accuracy"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The mass of electron is",
+      "options": [
+        "1949 times lighter than the mass of hydrogen",
+        "1932 times lighter than the mass of hydrogen",
+        "1897 times lighter than the mass of hydrogen",
+        "1840 times lighter than the mass of hydrogen"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What is an isotope?",
+      "options": [
+        "elements with the same number of protons but different number of neutrons",
+        "elements with the same protons but different number of electrons",
+        "none of the above",
+        "elements with the same atomic number but different number of protons"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the temperature of a given mass of a gas initially at 00 𝐶 and 9𝑎𝑡𝑚, if the pressure is reduced to 3𝑎𝑡𝑚 at constant volume",
+      "options": [
+        "273𝐾",
+        "182𝐾",
+        "91𝐾",
+        "819𝐾"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The mass of Pb, which would be obtained heating 34.25𝑔 of red lead oxide is",
+      "options": [
+        "53.13𝑔",
+        "30.01𝑔",
+        "31.05𝑔",
+        "33.15𝑔"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the reactions below is not likely to be formed in electrochemistry",
+      "options": [
+        "redox",
+        "oxidation",
+        "reduction",
+        "hydrolysis"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The oxidation number of oxygen in 𝑁𝑎𝑂𝐻 is",
+      "options": [
+        "−2",
+        "+2",
+        "+1",
+        "−1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Change in G in galvanic cell is",
+      "options": [
+        "equal to 1",
+        "greater than 0",
+        "less than 0",
+        "equal to 0"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Total number of electrons in Chlorine 35 17𝐶 𝑙 is",
+      "options": [
+        "16",
+        "17",
+        "19",
+        "18"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The volume of 1g of molecule of substance at critical temperature and critical pressure is",
+      "options": [
+        "critical area",
+        "lowest volume",
+        "exact volume",
+        "critical volume"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The reaction that occurs at the anode in electrolytic cell is",
+      "options": [
+        "reduction",
+        "redox",
+        "dissociation",
+        "oxidation"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "What is the oxidation number of oxygen in 𝐻2 𝑂 and 𝐻2 𝑂2 respectively?",
+      "options": [
+        "+2, −1",
+        "−2, −1",
+        "2, 1",
+        "−1, +2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The ionic product of dissolved ions in equilibrium with solids is called",
+      "options": [
+        "solubility",
+        "solubility product",
+        "ionic solubility",
+        "concentration"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the electrolysis of a dilute solution, 𝐴𝑙 3+ , 𝑁𝑎+ , 𝐶𝑎2+ , 𝐻 + flow to an inert cathode electrode, which of them will be discharged or deposited",
+      "options": [
+        "𝐴𝑙 3+",
+        "𝐶𝑎2+",
+        "𝐻 +",
+        "𝑁𝑎 +"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "According to Boyle’s law, what is constant?",
+      "options": [
+        "pressure",
+        "temperature",
+        "volume",
+        "vapour pressure"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Oxidation of oxygen in 𝐾𝑂2 is",
+      "options": [
+        "0",
+        "2",
+        "1 1 −",
+        "+"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "An oxide of antimony contains 24.73% of oxygen, find the empirical formula",
+      "options": [
+        "𝑆𝑏2 𝑂4",
+        "𝑆𝑏𝑂2",
+        "𝑆𝑏𝑂5",
+        "𝑆𝑏2 𝑂5"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What is the oxidation number of phosphorus in 𝑃𝐻3",
+      "options": [
+        "4",
+        "2",
+        "−1",
+        "−3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "When an error in a dataset leads to commission of another error, this is called",
+      "options": [
+        "propagation",
+        "horizontal error",
+        "false precision",
+        "spawning"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Species that bring about oxidation and it is reduced is",
+      "options": [
+        "oxidation",
+        "oxidant",
+        "reducing agent",
+        "reductant 2 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the number of oxygen atoms in 10𝑔 of 𝐻2 𝑆𝑂4",
+      "options": [
+        "3.76 × 1024",
+        "2.46 × 1023",
+        "2.46 × 1022",
+        "6.00 × 1023"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "A perfect gas is expected to",
+      "options": [
+        "liquefy on contraction",
+        "expand and contract to an indefinite extent",
+        "expand on contraction",
+        "contract on expansion"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the reaction; 3𝐶𝑢𝑂 + 2𝑁𝐻3 → 3𝐶𝑢 + 𝑁2 + 3𝐻2 𝑂 which of the following is the reducing agent?",
+      "options": [
+        "𝐶𝑢",
+        "𝑁𝐻3",
+        "𝑁𝐻",
+        "𝑁2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "For gaseous reaction in which the number of mole of product is equal to the number of mole of reactant",
+      "options": [
+        "𝐾𝑝 > 𝐾𝑐",
+        "𝐾𝑝 < 𝐾𝑐",
+        "𝐾𝑝 = 𝐾𝑐",
+        "none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Graham’s law of diffusion can be used to",
+      "options": [
+        "determine the melting point of an unknown gas",
+        "determine the molar mass of an unknown gas",
+        "determine the purity of a gas",
+        "determine the boiling point of an unknown gas"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The nucleus of an atom of an element houses",
+      "options": [
+        "proton and positron",
+        "proton and electron",
+        "electron and neutron",
+        "proton and neutron"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "𝑤𝐶2 𝐻6 + 𝑥𝑂2 → 𝑦𝐻2 𝑂 + 𝑧𝐶𝑂2 what are the values of 𝑤, 𝑥, 𝑦 and 𝑧?",
+      "options": [
+        "2, 7, 6, 4",
+        "1, 6, 4, 6",
+        "2, 7, 8, 4",
+        "2, 9, 4, 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Crude copper can be purified the electrolysis of 𝐶𝑢𝑆𝑂4 , if",
+      "options": [
+        "the pure copper is made the electrode",
+        "the crude copper is made the anode",
+        "the platinum electrode is used",
+        "crude coppers are used"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "During electrolysis of a salt of metal X with a current of 0.5A for 32minutes 10seconds mass = 0.525𝑔, what is the mole of metal X? [𝐹 = 96500𝐶, 𝑋 = 65]",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the atom of Cu in 35.4g of the substance [Avogadro’s number = 6.02 × 1023 , molar mass = 63.5𝑔/𝑚𝑜𝑙]",
+      "options": [
+        "1.08 × 1024",
+        "6.02 × 1023",
+        "1.20 × 1022 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "According to Charles’s law, the volume of a gas becomes zero at",
+      "options": [
+        "−2730 𝐶",
+        "−1000 𝐶",
+        "00 𝐶",
+        "−1730 𝐶"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If equilibrium constant 𝐾𝑐 is large for a particular reaction, it means",
+      "options": [
+        "products are many",
+        "reactant is much",
+        "A and B",
+        "all"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The charge an atom appears to have in neutral or in an ion is __________________",
+      "options": [
+        "oxidation number",
+        "valency",
+        "oxidant",
+        "reductant"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In Rutherford scattering experiment, he bombarded the piece of metal foil with beam of ____________________",
+      "options": [
+        "alpha particles",
+        "neutron",
+        "electron",
+        "proton"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "is ____________________",
+      "options": [
+        "[𝐴𝑟]4𝑠 2 2𝑑 2",
+        "[𝐴𝑟}4𝑠 2 3𝑑1",
+        "[𝐴𝑟]3𝑑1 4𝑠 2",
+        "[𝐴𝑟]4𝑠1 3𝑑 2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The relative atomic mass of an element can be determined an instrument called",
+      "options": [
+        "hydrometer",
+        "mass spectrometer",
+        "Geiger muller counter",
+        "UV spectrophotometer"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "How many mole of copper is present in one naira coin which weighs 7.39𝑔,a ssuming that the material from which the coin is made contains 86% of copper (𝐶𝑢 = 63.5𝑔/𝑚𝑜𝑙)",
+      "options": [
+        "0.1𝑚𝑜𝑙",
+        "0.01𝑚𝑜𝑙",
+        "0.02𝑚𝑜𝑙 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the equation 𝑤𝐻2 𝑆𝑂4 + 𝑥𝐴𝑙(𝑂𝐻)3 → 𝑦𝐻2 𝑂 + 𝑧𝐴𝑙2 (𝑆𝑂4 )3 , the values of 𝑤, 𝑥, 𝑦 and 𝑧 are",
+      "options": [
+        "2, 2, 5, 1",
+        "2, 2, 6, 2",
+        "3, 2, 6, 1",
+        "3, 2, 5, 2"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The galvanic cell produces",
+      "options": [
+        "nonspontaneous reaction",
+        "non-redox reaction",
+        "incomplete reaction",
+        "electrical energy"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The electrolyte in the salt bridge used in galvanic cell is",
+      "options": [
+        "𝐾𝑁𝑂3",
+        "𝐾2 𝑆𝑂4",
+        "𝑃𝑏𝐶𝑙2",
+        "𝐴𝑙2 𝑆𝑂4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Species that brings about oxidation and is reduced is called",
+      "options": [
+        "reductant",
+        "oxidant",
+        "oxidation and reducing agent",
+        "oxidation"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Equilibria in solution also means",
+      "options": [
+        "reactant and product in the gaseous state",
+        "none is correct",
+        "reactant and product in the solid state",
+        "reactant and product in liquid state"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The unusually high ionization energy exhibited inert (rare) gases is due to their",
+      "options": [
+        "high valence electrons",
+        "possession of high reactively",
+        "completely filled outermost shell electron",
+        "low valence electrons"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The electronic configuration of two elements with similar chemical properties are represented",
+      "options": [
+        "1𝑠 2 2𝑠 2 2𝑝4 and 1𝑠 2 2𝑠 2 2𝑝6 3𝑠1",
+        "1𝑠 2 2𝑠 2 2𝑝6 3𝑠1 and 1𝑠 2 2𝑠1",
+        "1𝑠 2 2𝑠 2 2𝑝5 and 1𝑠 2 2𝑠 2 2𝑝4",
+        "1𝑠 2 2𝑠 2 2𝑝4 and 1𝑠 2 2𝑠1"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "101. When a gas in a closed container of fixed volume is heated",
+      "options": [
+        "collision between molecules decreases",
+        "temperature remains the same",
+        "average kinetic energy increases",
+        "pressure exerted a gas molecules reduces"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following electron indicates an atom with the highest ionization energy",
+      "options": [
+        "2, 8, 8, 2",
+        "2, 8, 8, 1",
+        "2, 8, 7",
+        "2, 8, 8"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the following atoms represents deuterium (number of protons, number of neutron and number of electrons)",
+      "options": [
+        "1, 0, 0",
+        "1, 0, 1",
+        "1, 1, 1",
+        "1, 2, 1"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The odd one among the compound listed below",
+      "options": [
+        "𝐶2 𝐻5 𝑂𝐻(𝑎𝑞)",
+        "𝑁𝑎𝐶𝑙(𝑎𝑞)",
+        "𝑁𝑎2 𝑆𝑂4 (𝑎𝑞)",
+        "𝐻2 𝑆𝑂4 (𝑎𝑞)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The solubility product 𝐾𝑠𝑝 for aluminium sulphate is expressed as",
+      "options": [
+        "𝐾𝑠𝑝 = [𝐴𝑙 3+ ]2 [𝑆𝑂42− ]3",
+        "𝐾𝑠𝑝 = [𝐴𝑙 3+ ]3 [𝑆𝑂42− ]2",
+        "𝐾𝑠𝑝 = [𝐴𝑙 3+ ]2 [𝑆𝑂42− ]2",
+        "𝐾𝑠𝑝 = [𝐴𝑙 3+ ] [𝑆𝑂42− ]"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the reaction 3𝐶𝑢𝑂 + 2𝑁𝐻3 → 3𝐶𝑢 + 𝑁2 + 3𝐻2 𝑂, what is the oxidizing agent?",
+      "options": [
+        "𝑁𝐻3",
+        "𝐶𝑢",
+        "𝐶𝑢𝑂",
+        "𝑁2"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The co-existence of ice, liquid water and water vapour on a stable fashion at 0.00750 𝐶 and 4.75𝑚𝑚𝐻𝑔 is called",
+      "options": [
+        "triple point of water",
+        "boiling point of water",
+        "freezing point of water",
+        "liquefaction of water"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The relative charge respectively in proton, neutron and electron are",
+      "options": [
+        "positive, negative, neutral",
+        "positive, neutral, negative",
+        "negative, positive, neutral",
+        "neutral, positive, negative"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Calculate the percentage composition of oxygen in 𝐶𝑎𝐶𝑂3",
+      "options": [
+        "48%",
+        "68%",
+        "40%",
+        "28%"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The chemical process that involves the removal of electron from a chemical entity is known as",
+      "options": [
+        "oxidation",
+        "reduction",
+        "hydrolysis",
+        "dissociation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Energy conversion in an electrolytic cell is",
+      "options": [
+        "chemical to electrical",
+        "electrical to chemical",
+        "chemical to mechanical",
+        "electrical to light"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "An oxide of 𝑋𝑂2 has vapour density of 32. What is the atomic mass of X",
+      "options": [
+        "14",
+        "20",
+        "12",
+        "32"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The two chemical reactions that make up redox reaction are",
+      "options": [
+        "oxidation and reduction",
+        "oxidant and reductant",
+        "oxidizing and reducing",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The unit of quantity passed in electrolysis is",
+      "options": [
+        "coulomb",
+        "faraday",
+        "ampere",
+        "second"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Oxidation number of 𝐶𝑟 in 𝐶𝑟2 𝑂72− is",
+      "options": [
+        "+7",
+        "−7",
+        "+6",
+        "−6"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which cell is used in standard half cell",
+      "options": [
+        "electrolytic half cell",
+        "voltaic half cell",
+        "galvanic half cell",
+        "hydrogen cell"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Hydrogen diffuses",
+      "options": [
+        "twice as fast as oxygen",
+        "thrice as fast as oxygen",
+        "four times as fast as oxygen",
+        "same rate as oxygen"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "At 250 𝐶 and 1𝑎𝑡𝑚, a gas occupies a volume of 1.50𝑑𝑚3 , what volume will it occupy at 1000 𝐶 and 1𝑎𝑡𝑚",
+      "options": [
+        "60.00𝑑𝑚3",
+        "18.00𝑑𝑚3",
+        "1.88𝑑𝑚3",
+        "6.00𝑑𝑚3"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The maximum number of electrons that can be accommodated an energy level is",
+      "options": [
+        "2𝑛",
+        "2𝑛2",
+        "2(2𝑛)",
+        "𝑛2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many moles of magnesium will be deposited 6 mole of electron in the reaction represented the equation 2+ 𝑀𝑔(𝑎𝑞) + 2𝑒 − → 𝑀𝑔(𝑠)",
+      "options": [
+        "3 mole",
+        "2 mole",
+        "4 mole",
+        "1 mole"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The phase of matter which possesses the strongest inter particle attraction is",
+      "options": [
+        "solid",
+        "liquid",
+        "gas",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The molecular mass of gas is 2Y, what is the value of Y",
+      "options": [
+        "pressure",
+        "volume",
+        "vapour pressure",
+        "none"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the following is a redox reaction",
+      "options": [
+        "𝐶𝑎3 𝑃2 + 6𝐻2 𝑂 → 3𝐶𝑎(𝑂𝐻)2 + 2𝑃𝐻3",
+        "2𝐴𝑙 + 3𝐶𝑢2+ → 2𝐴𝑙 3+ + 3𝐶𝑢",
+        "𝐹𝑒2 𝑂3 + 3𝐶𝑂 → 2𝐹𝑒 + 3𝐶𝑂2",
+        "𝑃4 5𝑂2 → 𝑃4 𝑂10"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The oxidation state of 𝑁𝑎𝑂𝐻 is",
+      "options": [
+        "−2",
+        "0",
+        "−1",
+        "+1"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The state of matter of small amount of water in a big container is the _______________",
+      "options": [
+        "solid",
+        "liquid",
+        "gas",
+        "vapour [𝐴]𝑎 constant is (a) [𝐵]𝑏[𝐶]𝑐 (b) [𝐴]𝑎 [𝐵]𝑏 [𝐶]𝑐 [𝐶]𝑐 (c) [𝐴]𝑎[𝐵]𝑏 (d) [𝐵]𝑏 [𝐴]𝑎 [𝐶]𝑐"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The similarity in chemical properties of isotopes of the same element is as a result of",
+      "options": [
+        "differences in proton number",
+        "differences in neutron number",
+        "the same atomic mass",
+        "the same atomic number"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "An increase in the concentration in a particular reaction will favour the",
+      "options": [
+        "reactant",
+        "product",
+        "reactant and product",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What values of 𝑤, 𝑥, 𝑦, 𝑧 fits to balance the reaction 𝑤𝑁𝐻3(𝑔) + 𝑥𝑂2 (𝑔) → 𝑦𝑁𝑂(𝑔) + 𝑧𝐻2 𝑂(𝑔)",
+      "options": [
+        "4, 6, 4 and 5",
+        "4, 5, 4 and 6",
+        "6, 5, 6, and 4",
+        "5, 6, 5 and 4"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The higher the molecular mass of a gas",
+      "options": [
+        "the shorter the time it takes to diffuse",
+        "the easier it is to diffuse",
+        "the lower the rate of diffusion",
+        "the higher the rate of diffusion"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In an electrically neutral atom of an element, the number of protons is equal to the number of",
+      "options": [
+        "neutrons",
+        "electrons",
+        "mass",
+        "nucleus"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Same current is passed for the same time through the solution of 𝐴𝑔𝑁𝑂3 and 𝐶𝑢𝑆𝑂4 in (𝐴𝑔 = 108, 𝐶𝑢 = 63.5, 𝑆 = 32, 𝑂 = series 16, 𝑁 = 14). How much silver will be deposited if 1.00𝑔 of 𝐶𝑢 is produced",
+      "options": [
+        "13.6",
+        "6.8",
+        "1.7",
+        "3.4"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The group with the highest ionization energy is",
+      "options": [
+        "VIII",
+        "VII",
+        "V",
+        "VI"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The characteristic differences in physical properties of isotopes of same element is due to",
+      "options": [
+        "difference in neutron",
+        "the same atomic number",
+        "difference in proton number",
+        "difference in electron number"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the molarity of a solution which contains 5.00𝑔 of 𝐴𝑙𝐶𝑙3 in 250𝑐𝑚3 of solution [𝐴𝑙 = 27.0𝑔/𝑚𝑜𝑙, 𝐶𝑙 = 35.5𝑔/𝑚𝑜𝑙]",
+      "options": [
+        "0.12",
+        "0.13",
+        "0.15",
+        "0.14"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the Haber process, which of the following will favour the production of ammonia",
+      "options": [
+        "a catalyst of finely divided iron",
+        "decrease in temperature",
+        "increase in pressure",
+        "all of the above"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "If 30𝑐𝑚3 of oxygen diffuses through a porous plug in 7s, how long will it take 60𝑐𝑚3 of chlorine to diffuse through the same plug",
+      "options": [
+        "14s",
+        "30s",
+        "21s",
+        "12s"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The maximum number of electrons that forbital can accommodate is",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The following can minimize determinate error except",
+      "options": [
+        "use of independent method of analysis",
+        "running of blank control",
+        "use of standard addition techniques",
+        "running parallel determination"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the oxidation number of Cr in 𝐾2 𝐶𝑟𝑂4",
+      "options": [
+        "+6",
+        "+7",
+        "−7",
+        "−6"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the disproportionation reaction 𝑃4 → 𝐻2 𝑃𝑂2− + 𝑃𝐻3 , phosphorus was reduced the change of oxidation state from",
+      "options": [
+        "0 𝑡𝑜 + 1",
+        "0 𝑡𝑜 − 3",
+        "0 𝑡𝑜 + 3",
+        "0 𝑡𝑜 − 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The chemical reaction which takes place at anode is",
+      "options": [
+        "hydrolysis",
+        "redox",
+        "reduction",
+        "oxidation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In electrochemical reaction, the flow of electrons produces",
+      "options": [
+        "electrical current",
+        "oxidation",
+        "redox",
+        "spontaneous reaction"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The atomic number of an element whose cation 𝑋 2+ , has the ground state electronic configuration 1𝑠 2 2𝑠 2 2𝑝6 3𝑠 2 3𝑝6",
+      "options": [
+        "16",
+        "20",
+        "18",
+        "22"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following expresses ideal gas equation as proposed Vander waals?",
+      "options": [
+        "𝑎 𝑎 (𝑃 − 2) (𝑉 + 𝑏) = 𝑛𝑅𝑇",
+        "(𝑃 + 2) (𝑉 − 𝑉 𝑉 𝑏) = 𝑛𝑅𝑇",
+        "𝑃(𝑉 − 𝑏) = 𝑛𝑅𝑇",
+        "𝑃𝑉 = 𝑛𝑅𝑇"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following best expresses Charles’s law mathematically",
+      "options": [
+        "𝑃1 𝑉1 = 𝑃2 𝑉2 𝑉 𝑉 1",
+        "1 = 2",
+        "𝑃 ∝",
+        "𝑉 ∝ 𝑛 𝑇1 𝑇2 𝑉"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "How many electrons are contained in 𝐶𝑎2+ ions",
+      "options": [
+        "12",
+        "40",
+        "18",
+        "22"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "How many coulomb of electricity would be produced if a current of 0.4𝐴 flows through in 1hr",
+      "options": [
+        "965C",
+        "1440C",
+        "144C",
+        "96500C"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The second, third and fourth ionization energy give velocity higher than the first ionization energy due to",
+      "options": [
+        "increase in number of electrons in the shell",
+        "difficulty in subsequence temperature value of the more electrons",
+        "none",
+        "low energy requirement in removing more electrons"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The volume of a given mass of gas at constant temperature is inversely proportional to the pressure was stated",
+      "options": [
+        "Charles’s law",
+        "Dalton’s law",
+        "Avogadro’s law",
+        "Boyle’s law"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "5𝑔/𝑚𝑜𝑙 is equal to",
+      "options": [
+        "1.20 × 10−10 𝑚𝑜𝑙 2 𝑑𝑚−6",
+        "7.48 × 10−11 𝑚𝑜𝑙 2 𝑑𝑚−6",
+        "2.40 × 10−10 𝑚𝑜𝑙 2 𝑑𝑚−6",
+        "9.25 × 10−11 𝑚𝑜𝑙 2 𝑑𝑚−6"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The inability of poor conductor to conduct electricity is due to lack of",
+      "options": [
+        "mobile electrons",
+        "electrolytes",
+        "cations",
+        "anions"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The number of electrons transferred in the redox reaction below is 𝑀𝑜24 𝑂37 + 𝑎𝑀𝑛𝑂4− + 𝑏𝐻 + → 𝑐𝑀𝑜𝑂3 + 𝑒𝑀𝑛2+ + 𝑓𝐻2 𝑂",
+      "options": [
+        "14",
+        "5",
+        "24",
+        "70"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The energy required in 𝐾𝐽/𝑚𝑜𝑙 to remove electron from gaseous atom of an element in the ground state is",
+      "options": [
+        "activation energy",
+        "enthalpy of freezing",
+        "ionization energy",
+        "enthalpy of combustion"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What is discharged at the cathode during electrolysis of copper (II) tetraoxosulphate (VI) solution",
+      "options": [
+        "𝐶𝑢2+",
+        "𝐻 +",
+        "𝐶𝑢2+ and 𝐻 +",
+        "𝐶𝑢2+ and 𝑆𝑂42−"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Heterogenous equilibria are equilibrium reactions in which",
+      "options": [
+        "reactant and product are in solid state",
+        "reactant and product are in liquid state",
+        "reactant and product are in same physical state",
+        "reactant and product are in different physical states"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Close to zero potential, energy is a property characteristic of",
+      "options": [
+        "mass",
+        "solid",
+        "gas",
+        "liquid"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In the atomic hydrogen spectrum, the electronic transition is called",
+      "options": [
+        "paschen series",
+        "Balmer series",
+        "Lyman series",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many degenerate orbitals are contained in the d orbital",
+      "options": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The electronic configuration of 𝐹𝑒 3+ ion is [𝐹𝑒 = 26]",
+      "options": [
+        "1𝑠 2 2𝑠%2 2𝑝6 3𝑠 2 3𝑝6 3𝑑 5",
+        "1𝑠 2 2𝑠 2 2𝑝6 3𝑠 2 3𝑝6 4𝑠 0 3𝑑 5",
+        "1𝑠 2 2𝑠 2 2𝑝5 3𝑠1 3𝑝6 4𝑠1 3𝑑 0 (d)) none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is odd",
+      "options": [
+        "diamond",
+        "sulphur",
+        "potash",
+        "wood"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following relationships between the pressure P, the volume V and the temperature T represents an ideal gas 𝑉 behavior",
+      "options": [
+        "𝑃𝑇 ∝ 𝑉",
+        "𝑃 ∝ 𝑉𝑇",
+        "𝑃 ∝ (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The reaction of electrolysis takes place in a unit called",
+      "options": [
+        "electrolyse",
+        "electrote",
+        "electrolyzer",
+        "electrode"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Solve the following and round off to correct significant figures 58.7 + 0.0394 − 4.296789",
+      "options": [
+        "54.013",
+        "54.4",
+        "54.016",
+        "54.92667"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What mass of water is produced when 8.0𝑔 of hydrogen react with excess oxygen (𝐻 = 1, 𝑂 = 16)",
+      "options": [
+        "72𝑔",
+        "56𝑔",
+        "48𝑔",
+        "32𝑔"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the electrolysis of 𝐶𝑢𝑆𝑂4 (𝑎𝑞) , the ions that migrate to anode are",
+      "options": [
+        "𝑆𝑂42− and 𝑂𝐻 −",
+        "𝐶𝑢2+ and 𝑂𝐻 −",
+        "𝑆𝑂42− and 𝐻 + Answer: A 3 2 2+ phosphate is (a) 𝐾𝑠𝑝 = [𝐶𝑎(𝑎𝑞) ] [𝑃𝑂43− ] (𝑎𝑞) 3 4 2+ (b) 𝐾𝑠𝑝 = [𝐶𝑎(𝑎𝑞) ] [𝑃𝑂42− ] (𝑎𝑞) 4 3+ [𝐶𝑎(𝑎𝑞) ] [𝑃𝑂43− ] (𝑎𝑞) 2",
+        "(c) 𝐾𝑠𝑝 = 𝐾𝑠𝑝 = 2 2+ [𝐶𝑎(𝑎𝑞) ] [𝑃𝑂43− ] (𝑎𝑞)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "0.325𝑔 of metal X was deposited a current of 0.5𝐴 which flows for 32 minutes 10seconds. Calculate the number of charge (𝑋 = 65, 𝐹 = 96500𝐶/𝑚𝑜𝑙)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the oxidation number of phosphorus in 𝑃𝑂43−",
+      "options": [
+        "6",
+        "+6",
+        "+5",
+        "5"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What is the mass in grams, of 0.433 moles of 𝐶12 𝐻22 𝑂11",
+      "options": [
+        "148.1𝑔",
+        "265𝑔",
+        "402𝑔",
+        "128𝑔"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "1%, 𝑁 = 12.4%, 𝑂 = 23.3%, 𝐻 = 6.2%. The molecular formula of the compound is [𝐶 = 12, 𝑁 = 14, 𝑂 = 16, 𝐻 = 1]",
+      "options": [
+        "𝐶3 𝐻6 𝑂2 𝑁",
+        "𝐶5 𝐻7 𝑂2 𝑁",
+        "(𝐶5 𝐻7 𝑂𝑁)2",
+        "𝐶5 𝐻6 𝑂2 𝑁"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the percentage mass of oxygen in (𝐴𝑙 = 27, 𝑆 = 32, 𝐻 = 𝐴𝑙2 (𝑆𝑂4 )3 . 2𝐻2 𝑂 S, LAUTECH CHM 101 FOR 1ST SEMESTER EXAM Study everything in this to have your mind-blowing testimony 1, 𝑂 = 16)",
+      "options": [
+        "59.25%",
+        "50.79%",
+        "25.39%",
+        "14.29%"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The total number of electrons in chloride ion 35 − 17𝐶 𝑙 is",
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The higher the ionization energy of an element, the more",
+      "options": [
+        "unstable",
+        "easily oxidized",
+        "reactive",
+        "stable"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If the equilibrium constant 𝐾𝑐 of a system is small, the mixture is made of",
+      "options": [
+        "reactant",
+        "product",
+        "reactant and product",
+        "none"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Oxygen is a mixture of two isotopes 168𝑂 and 18 8𝑂 with relative abundance of 90% and 10% respectively. The relative atomic mass of oxygen is",
+      "options": [
+        "16.2",
+        "18.0",
+        "16.0",
+        "17.0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which species is reduced in 5𝐹𝑒 2+ + 𝑀𝑛𝑂4− + 8𝐻 + → 5𝐹𝑒 3+ + 𝑀𝑛2+ + 4𝐻2 𝑂",
+      "options": [
+        "𝑀𝑛𝑂4−",
+        "𝐹𝑒 2+",
+        "𝑀𝑛2+",
+        "𝐹𝑒 3+"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volume of a given mass of gas at a constant temperature is inverse proportional to pressure was stated",
+      "options": [
+        "Charles’s law",
+        "Boyle’s law",
+        "Dalton’s law",
+        "Avogadro’s law"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The electrode through which current leaves the electrolyte in electrolytic cell is",
+      "options": [
+        "filament",
+        "anode",
+        "cathode",
+        "electrolyte"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "If the elements P, Q, R and S that have the atomic number 6, 10, 12, 4, which of them is a noble gas",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the following, which of the pairs are in the same group in the periodic table",
+      "options": [
+        "1𝑠 2 2𝑠 2 2𝑝4 and 1𝑠 2 2𝑠 2 2𝑝6 3𝑠1",
+        "1𝑠 2 2𝑠 2 2𝑝4 and 1𝑠 2 2𝑠1",
+        "1𝑠 2 2𝑠 2 2𝑝6 3𝑠1 and 1𝑠 2 2𝑠1",
+        "1𝑠 2 2𝑠 2 2𝑝5 and 1𝑠 2 2𝑠 2 2𝑝4"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "How many moles of 𝐻2 𝑆𝑂4 are there in 10g of the substance",
+      "options": [
+        "0.102",
+        "0.625",
+        "0.712 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A gas of pressure 8.2𝑎𝑡𝑚 is confined in a volume of 2.93𝑑𝑚3 with a temperature of 200 𝐶 (𝑅 = 0.082). Find the number of moles of the gas.",
+      "options": [
+        "2.00",
+        "1.00",
+        "3.00",
+        "4.00"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "One of the original postulate of Dalton atomic theory is",
+      "options": [
+        "the isotopes of an element are in whole number ratio",
+        "an atom react to attain electronic configuration of the noble gas closest to it",
+        "atoms of different elements differ in terms of number of protons in their nuclei",
+        "when atoms of different elements react to form chemical compound, the atoms are combined in a simple whole number ratio"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following below does not favour increase in 𝑁𝐻3 in Haber’s process",
+      "options": [
+        "increase in pressure",
+        "increase in temperature",
+        "increase in concentration of the reactants",
+        "presence of a suitable catalyst"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "The measure of average kinetic energy of the molecules of substance is",
+      "options": [
+        "mass",
+        "pressure",
+        "temperature",
+        "volume"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following best describes an oxidant",
+      "options": [
+        "an acceptor of electron",
+        "producer of electrons",
+        "electron loss",
+        "donor of electron"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Galvanic cell produces",
+      "options": [
+        "non-spontaneous reaction",
+        "feasible",
+        "spontaneous",
+        "all of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In the electrolysis of 𝑁𝑎𝐶𝑙, which of these ions is not produced",
+      "options": [
+        "𝐻 +",
+        "𝑂𝐻 −",
+        "𝑁𝑎+",
+        "𝐶𝑎2+"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "40𝑑𝑚3 𝑚𝑜𝑙 −1 )",
+      "options": [
+        "0.56𝑑𝑚3",
+        "5.60𝑑𝑚3",
+        "11.20𝑑𝑚3",
+        "22.40𝑑𝑚3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which does not affect chemical reaction in chemical equation",
+      "options": [
+        "temperature change",
+        "pressure change",
+        "enthalpy",
+        "concentration change"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A small volume of water enclosed in a large volume container will make the water to exist in",
+      "options": [
+        "solid state",
+        "liquid state",
+        "gaseous state",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For reaction involving gases, the equilibrium law expresses the concentration conveniently in terms of",
+      "options": [
+        "partial pressure",
+        "partial volume",
+        "partial temperature",
+        "none of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "𝐸 0 cell of a reaction is equal to zero when",
+      "options": [
+        "at equilibrium",
+        "it is spontaneous",
+        "nonspontaneous",
+        "feasible 𝑔"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "44. The mean concentration of the chloride is",
+      "options": [
+        "19.45",
+        "−19.67",
+        "27.99",
+        "18.25"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which occurs at the cathode during electrolysis of brine",
+      "options": [
+        "𝑁𝑎2+ + 𝑒 − → 𝑁𝑎",
+        "𝐻2 𝑂 → 𝐻 + + 𝑂𝐻 −",
+        "2𝐻 + + 2𝑒 − → 𝐻2",
+        "2𝐶𝑙 − → 𝐶𝑙2 + 2𝑒 −"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What volume of gas is evolved at S.T.P if 2g of calcium trioxocarbonate (IV) is added to a solution of 𝐻𝐶𝑙 (𝐶𝑎 = 40, 𝐶 = 12, 𝑂 = 16, 𝐶𝑙 = 35.5, 𝐻 = 1, molar volume of gas at S. T. P = 22.4𝑑𝑚3 )",
+      "options": [
+        "224𝑐𝑚3",
+        "112𝑐𝑚3",
+        "448𝑐𝑚3 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following oxides of nitrogen has oxidation number of +4",
+      "options": [
+        "𝑁𝑂2",
+        "𝐾𝑁𝑂3",
+        "𝑁2 𝑂",
+        "𝑁2 𝑂3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "75𝜇𝑔 absorption spectroscopy is . Calculate 𝑔 the % relative error in chloride determination",
+      "options": [
+        "19.45",
+        "−19.67",
+        "−19.45",
+        "−18.77"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The time required for certain number of moles of an organic compound to diffuse through a porous partition is 306s. Under the same condition, same number of mass of argon diffused in 62s, calculate the molecular weight of the compound (𝐴𝑟 = 39.9𝑔/𝑚𝑜𝑙)",
+      "options": [
+        "971.9𝑔/𝑚𝑜𝑙",
+        "251𝑔/𝑚𝑜𝑙",
+        "629𝑔/𝑚𝑜𝑙",
+        "467𝑔/𝑚𝑜𝑙"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the atomic hydrogen spectrum, the electron transition 𝑛 = 1 is called",
+      "options": [
+        "Lyman series",
+        "Balmer series",
+        "Paschen series",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Equilibrium can only be set up between reactants and products in",
+      "options": [
+        "supersaturated system",
+        "saturated system",
+        "open system",
+        "closed system"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Electrons promoted to higher energy levels are usually unstable and hence they: select one",
+      "options": [
+        "they do not emit excess energy in form of radiation",
+        "do not fall back to ground state",
+        "emit the excess energy in form of radiation",
+        "none of the above S, LAUTECH CHM 101 FOR 1ST SEMESTER EXAM Study everything in this to have your mind-blowing testimony"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "How many moles of copper could be deposited passing 3F of electricity through a solution of copper (II) tetraoxosulphate (VI)",
+      "options": [
+        "1.0",
+        "3.0",
+        "0.5",
+        "1.5 (1𝐹 = 96500𝐶)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In galvanic cell, Δ𝐺",
+      "options": [
+        "> 1",
+        "= 1",
+        "= 0",
+        "< 0"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "When platinum electrodes are used during electrolysis of copper (II) tetraoxosulphate (VI) solution, the solution gets",
+      "options": [
+        "neutral",
+        "acidic",
+        "alkaline",
+        "basic"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many faradays of electricity are deposited 0.30mole of nickel. If 0.01 faraday of electricity deposited 2.98𝑔 of Ni (𝑁𝑖 = 59)",
+      "options": [
+        "0.060",
+        "0.07",
+        "0.30",
+        "0.50"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Equilibrium showed that 13.88𝑔 of calcium chloride were obtained from combination of 5𝑔 of calcium with chlorine. What is the formula of the calcium chloride",
+      "options": [
+        "𝐶𝑎𝐶𝑙",
+        "𝐶𝑎𝐶𝑙2",
+        "𝐶𝑎2 𝐶𝑙",
+        "𝐶𝑎3 𝐶𝑙2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Hydrogen diffuses in 24seconds and oxygen in 96seconds. Find the ratio of the rate of hydrogen to oxygen",
+      "options": [
+        "1:2",
+        "2:1",
+        "4:1",
+        "1:4"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "For gaseous equilibrium reaction 𝐼2(𝑔) + 𝐻2(𝑔) ⇌ 2𝐻𝐼(𝑔) , 𝐾𝐶 = 𝐾𝑃 because",
+      "options": [
+        "Δ𝑛 < 0",
+        "Δ𝑛 = 0",
+        "none",
+        "Δ𝑛 > 0"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What mass of copper (II) sulphate could be obtained starting with 10𝑔 of copper (II) oxide from the reaction 𝐶𝑢𝑂 + 𝐻2 𝑆𝑂4 → 𝐶𝑢𝑆𝑂4 + 𝐻2 𝑂",
+      "options": [
+        "22.9𝑔",
+        "20.1𝑔",
+        "12.1𝑔",
+        "21.2𝑔"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "How many moles of ammonia are there in 500𝑐𝑚3 of the gas",
+      "options": [
+        "0.022𝑚𝑜𝑙𝑒",
+        "0.2𝑚𝑜𝑙𝑒",
+        "0.35𝑚𝑜𝑙𝑒",
+        "0.625𝑚𝑜𝑙𝑒"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following terms accurately describes the energy associated with the + process 𝐿𝑖(𝑔) → 𝐿𝑖(𝑎𝑞) + 𝑒 − ?",
+      "options": [
+        "binding energy",
+        "electron affinity",
+        "ionization energy",
+        "electronegativity"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of these best defines reduction",
+      "options": [
+        "addition of oxygen",
+        "a process where oxidation number increases",
+        "a process where oxidation number decreases",
+        "a process involving loss of electrons"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The odd one among the compounds listed below is",
+      "options": [
+        "𝐻2 𝑆𝑂4 (𝑎𝑞)",
+        "𝑁𝑎𝐶𝑙(𝑎𝑞)",
+        "𝑁𝑎2 𝑆𝑂4(𝑎𝑞)",
+        "𝐶2 𝐻5 𝑂𝐻(𝑎𝑞)"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The volume occupied 1.58𝑔 of gas at S.T.P is 500𝑐𝑚3 . What is the relative molecular mass of gas (Given 𝑀𝑉 = 22400𝑐𝑚3 )",
+      "options": [
+        "71",
+        "344",
+        "28",
+        "32"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Dynamic equilibrium occurs when",
+      "options": [
+        "rate of forward reaction is greater than the rate of backward reaction",
+        "rate of forward reaction is equal to the rate of backward reaction",
+        "rate of forward reaction is less than rate of backward reaction",
+        "none of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Manganese (IV) oxide reacts with concentrated hydrochloric acid according to the equation 𝑀𝑛𝑂2 + 𝑋𝐻𝐶𝑙 → 𝑀𝑛𝐶𝑙2 + 𝐶𝑙2 + 𝑌𝐻2 𝑂. Find the value of X and Y",
+      "options": [
+        "4 and 2",
+        "2 and 4",
+        "3 and 1",
+        "4 and 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Oxidation number of nitrogen is +1 in one of the following",
+      "options": [
+        "𝑁𝑂",
+        "𝑁2 𝑂",
+        "𝑁2 𝑂2",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the shape of S-orbital",
+      "options": [
+        "cylindrical",
+        "rectangular",
+        "dumb-bell",
+        "spherical"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "To what temperature must a gas of 273𝐾 be heated to double both volume and pressure",
+      "options": [
+        "546𝐾",
+        "1092𝐾",
+        "298K",
+        "819𝐾"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The extent to which results agree with one another is",
+      "options": [
+        "accuracy",
+        "absolute error",
+        "precision",
+        "error"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A saturated aqueous solution of compound 𝑋𝑌 contain 6 × 10−2 𝑔/𝑑𝑚3 of 𝑋 2+ at equilibrium at 298𝐾, what is the solubility product of XY at 298𝐾",
+      "options": [
+        "3.6 × 10−3 𝑔/𝑑𝑚3",
+        "3.6 × 10−5 𝑚𝑜𝑙𝑑𝑚−3",
+        "0.36 × 10−5 𝑔/ 𝑑𝑚3",
+        "0.36 × 10−3 𝑔/𝑑𝑚3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the electrolysis of copper (II) chloride solution, the reaction at the anode is represented the equation",
+      "options": [
+        "2𝐶𝑙 − → 𝐶𝑙(𝑠) + 2𝑒 −",
+        "2𝐶𝑙 − → 𝐶𝑙2(𝑔) + 2𝑒 −",
+        "40𝐻 − + 4𝑒 − → 𝑜2 + 2𝐻2 𝑂",
+        "2𝐶𝑙 − → − 𝐶𝑙(𝑎𝑞) + 2𝑒"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝐹𝑒 2+ + 𝑀𝑛𝑂4− → 𝐹𝑒 3+ + 𝑀𝑛2+ , the species that undergoes reduction is",
+      "options": [
+        "𝑀𝑛𝑂4−",
+        "𝐹𝑒 2+",
+        "𝑀𝑛2+",
+        "𝐹𝑒 3+"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The mass of 𝐻2 𝑂 obtained heating 34.25𝑔 of red lead oxide in a stream of hydrogen is [𝑃𝑏 = 207, 𝐻 = 1, 𝑂 = 16]",
+      "options": [
+        "2.5𝑔",
+        "3.6𝑔",
+        "7.2𝑔",
+        "9.6𝑔"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Equilibrium can only take place at",
+      "options": [
+        "constant volume",
+        "constant degree",
+        "constant temperature",
+        "constant pressure"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Equilibria is obtained when",
+      "options": [
+        "forward and backward reactions are solids",
+        "forward and backward reactions are liquids",
+        "none",
+        "forward and backward reactions are gases"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following does not favour 𝑆𝑂3 production",
+      "options": [
+        "high pressure",
+        "low temperature",
+        "decrease in concentration of the reactant",
+        "presence of ranadium (V) oxide"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which gas contains the least number of atoms at S.T.P",
+      "options": [
+        "3 moles of ozone",
+        "1 mole of butane",
+        "7 mole of Argon",
+        "4 mole of chlorine"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Equal volume of hydrogen and oxygen diffuse through a porous partition in 24 and 96 minutes respectively. Calculate the density of S, LAUTECH CHM 101 FOR 1ST SEMESTER EXAM Study everything in this to have your mind-blowing testimony hydrogen relative to that of oxygen",
+      "options": [
+        "1 8 (c) 1 16 (d) 1 1 32",
+        "",
+        "1 16",
+        "1 1 32 (b) 4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Simplify (4.18 − 58.16) × (3.38 − 3.01)",
+      "options": [
+        "−19.97",
+        "−20",
+        "−19.972",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of these is a disproportionation reaction",
+      "options": [
+        "𝑃4 → 𝐻2 𝑃𝑂2 + 𝑃𝐻3",
+        "2𝐴𝑙 + 3𝐶𝑢2+ → 𝐴𝑙 3+ + 3𝐶𝑢",
+        "𝑃4 + 5𝑂2 → 𝑃4 𝑂10",
+        "𝐶𝑟2 𝑂72− + 14𝐻 + + 6𝑒 − → 2𝐶𝑟 2+ + 7𝐻2 𝑂"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "50𝑑𝑚3 . What volume will it occupy at 1000 𝐶 and 1𝑎𝑡𝑚?",
+      "options": [
+        "1.88𝑑𝑚3",
+        "60.00𝑑𝑚3",
+        "18.20𝑑𝑚3",
+        "6.00𝑑𝑚3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "1 (d) none",
+      "options": [
+        "4.8",
+        "4.86",
+        "",
+        "none (a) 4.8 (b) 4.86 (c) 4.864"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "8.91 − 6.435",
+      "options": [
+        "2.47",
+        "2.48",
+        "2.475",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "6.81 − 6.730",
+      "options": [
+        "−0.08",
+        "0.08",
+        "0.05",
+        "0.008"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The oxidation number of oxygen in 𝐾𝑂2 is 1",
+      "options": [
+        "−1",
+        "−",
+        "−2",
+        "+2 2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Decrease in concentration of product favours",
+      "options": [
+        "product",
+        "reactant",
+        "none of the above",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The charge an atom appears to have in a neutral molecule or in an ion is",
+      "options": [
+        "oxidation number",
+        "valency",
+        "oxidizing agent",
+        "oxidation"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The relationship between 𝐾𝑝 and 𝐾𝑐 at any temperature can be expressed as",
+      "options": [
+        "𝐾𝑐 = 𝐾𝑝 (𝑅𝑇)",
+        "𝐾𝑝 = 𝐾𝑐 (𝑅𝑇)Δ𝑛",
+        "𝐾𝑝 = 𝐾𝑐 (𝑅𝑇)",
+        "𝐾𝑐 = 𝐾𝑝 (𝑅𝑇)Δ𝑛"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The following kinds of errors affect scientific measurements except",
+      "options": [
+        "indeterminate",
+        "determinate",
+        "instrumental",
+        "random"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The addition of an electronegative element is",
+      "options": [
+        "oxidation",
+        "reduction",
+        "redox",
+        "none of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Round off 6.36500 to 3.s.f",
+      "options": [
+        "6.36",
+        "6.37",
+        "6.370",
+        "6.38"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For the dissociation of 𝑆𝑂3 at 393K, calculate the equilibrium constant 𝐾𝑐 , of the reaction when the value of 𝐾𝑝 is 1.78 × 10−6 𝑎𝑡𝑚",
+      "options": [
+        "5.52 × 10−8 𝑚𝑜𝑙𝑑𝑚−3",
+        "5.52 × 10−3 𝑚𝑜𝑙𝑑𝑚−3",
+        "2.58 × 10−6 𝑚𝑜𝑙𝑑𝑚−3 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The addition of an electropositive element is",
+      "options": [
+        "reduction",
+        "oxidation",
+        "all of the above",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In a reaction, when Δ𝐺 is negative, it is",
+      "options": [
+        "spontaneous",
+        "non-spontaneous",
+        "nonfeasible",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the oxidation number of H in 𝐻2 𝑂2 and 𝐻2 𝑂 respectively",
+      "options": [
+        "+2, −1",
+        "+1, +1 1",
+        "−1, +3",
+        "− , +1 2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Two elements contain 10 protons each. Find the number of their electrons 𝑋 − and 𝑌 + respectively",
+      "options": [
+        "11 and 9",
+        "11 and 12",
+        "9 and 11",
+        "12 and 13"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Decrease in pressure of a system such that product has greater mole than reactant will affect",
+      "options": [
+        "reactant",
+        "product",
+        "reactant and product",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "__________________ is the degree of randomness of the molecules of gases",
+      "options": [
+        "free energy",
+        "entropy",
+        "enthalpy",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The oxidation number of I in 𝐼𝑂3− is",
+      "options": [
+        "+1",
+        "−1",
+        "+5",
+        "−5"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Increase in temperature in exothermic reaction will favour",
+      "options": [
+        "reactant",
+        "product",
+        "reaction",
+        "process"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For the equation of the reaction 2𝐻2(𝑔) + 𝑂2(𝑔) → 2𝐻2 𝑂(𝑔) Δ𝐻 = −57𝐾𝐽/𝑚𝑜𝑙, what amount of heat is liberated 12𝑔 of hydrogen?",
+      "options": [
+        "−161𝐾𝐽/𝑚𝑜𝑙",
+        "−171𝐾𝐽/𝑚𝑜𝑙",
+        "−181𝐾𝐽/𝑚𝑜𝑙",
+        "−191𝐾𝐽/𝑚𝑜𝑙"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Equilibrium constant is achieved when",
+      "options": [
+        "forward and backward reactions are solids",
+        "forward and backward reactions are liquids",
+        "forward and backward reactions are gases",
+        "all of the above"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "In a free system, the oxidation number is",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In which of the following compounds is the oxidation state of hydrogen equals −1",
+      "options": [
+        "𝑁𝑎𝑆",
+        "𝑁𝑎𝐻",
+        "𝑁𝑎𝑆",
+        "𝑁𝑎2 𝑂2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The oxidation number of oxygen in peroxide is",
+      "options": [
+        "−1",
+        "+1",
+        "−2",
+        "+3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "60%𝐻 and 42.5%𝑂",
+      "options": [
+        "𝐶2 𝐻5 𝑂",
+        "𝐶3 𝐻8 𝑂2",
+        "𝐶2 𝐻7 𝑂",
+        "𝐶𝐻𝑂2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the equation 3𝐹𝑒(𝑠) + 4𝐻2 𝑂(𝑔) ⇌ 𝐹𝑒3 𝑂4 (𝑠) + 4𝐻2 (𝑔) . Find the value of 𝐾𝑐 ?",
+      "options": [
+        "[𝐹𝑒3 𝑂4 ][𝐻2 ]4 [𝐻2 𝑂]4 [𝐹𝑒]3 [𝐻 ]4 [𝐹𝑒 𝑂 ] 3 4",
+        "[𝐻 2 4",
+        "[𝐹𝑒] 3",
+        "none 2 𝑂]"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝑁2(𝑔) + 3𝐻2(𝑔) ⇌ 2𝑁𝐻3(𝑔) Δ𝐻 = −92𝐾𝐽/ 𝑚𝑜𝑙 . What is the enthalpy?",
+      "options": [
+        "−92𝐾𝐽𝑚𝑜𝑙 −1",
+        "+92𝐾𝐽𝑚𝑜𝑙 −1",
+        "+192𝐾𝐽/𝑚𝑜𝑙",
+        "−41𝐾𝐽𝑚𝑜𝑙 −1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A situation where an atom continues to lose, gain or share electron sin order to have its electrons in the outer shell is",
+      "options": [
+        "duplet electronic configuration",
+        "spin electronic S, LAUTECH CHM 101 FOR 1ST SEMESTER EXAM Study everything in this to have your mind-blowing testimony configuration configuration configuration",
+        "octet",
+        "quantum electronic electronic"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Species that bring about oxidation and reduction is",
+      "options": [
+        "oxidizing",
+        "reducing species",
+        "redox species",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝑎𝐴 + 𝑏𝐵 ⇌ 𝑐𝐶 + 𝑑𝐷 Δ𝐻 = −10. 𝑐𝐶 + 𝑑𝐷 ⇌ 𝑎𝐴 + 𝑏𝐵, Δ𝐻 = ? What is the Δ𝐻?",
+      "options": [
+        "−10",
+        "+10",
+        "−20",
+        "+20"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝐴 + 𝐵 → 𝐶 + 𝐷, Δ𝐻 = −10 For 2𝐶 + 2𝐷 → 2𝐴 + 2𝐵, Δ𝐻 is?",
+      "options": [
+        "−10",
+        "−20",
+        "+20",
+        "0"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "A decrease in temperature of an exothermic reaction favours the production of the",
+      "options": [
+        "reactant",
+        "product",
+        "reaction",
+        "reactant and product"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "During bond formation in a chemical reaction, energy is",
+      "options": [
+        "released",
+        "absorbed",
+        "conserved",
+        "varies"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the oxidation number of 𝑁2 𝑂?",
+      "options": [
+        "0",
+        "+1",
+        "−2",
+        "+4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Given the oxidation number of O and C as −2 and +4 respectively. What is the charge on 𝐶𝑂32−",
+      "options": [
+        "−1",
+        "0",
+        "−2",
+        "−4"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "An increase in pressure for a reaction in which the number of mole of the reactants is less than the number of mole of the products favours the production of",
+      "options": [
+        "reactant",
+        "product",
+        "reactant and product",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑎𝐴 + 𝑏𝐵 ⇌ 𝑐𝐶 + 𝑑𝐷, what is the backward [𝐶]𝑐 [𝐷]𝑑 [𝐶][𝐷] equilibrium constant",
+      "options": [
+        "[𝐴]𝑎[𝐵]𝑏",
+        "[𝐴][𝐵]",
+        "[𝐴]𝑎 [𝐵]𝑏 [𝐶]𝑐 [𝐷]𝑑 [𝐴][𝐵]",
+        "[𝐶][𝐷]"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Find the oxidation number of 𝑂3−",
+      "options": [
+        "0",
+        "−1",
+        "−2",
+        "−3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Find the oxidation number of 𝑂 in 𝑂3−",
+      "options": [
+        "0 1 1",
+        "−",
+        "−",
+        "+1 2 3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝐾𝑝 = 𝐾𝑐 when Δ𝑛 is ________",
+      "options": [
+        "1",
+        "0",
+        "−2",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For the reaction 𝑎𝐴 + 𝑏𝐵 ⇌ 𝑐𝐶 + 𝑑𝐷. What is Δ𝑛?",
+      "options": [
+        "(𝐴 + 𝐵) − (𝐶 + 𝐷)",
+        "(𝑎 + 𝑏) − (𝑐 + 𝑑)",
+        "(𝑐 + 𝑑) − (𝑎 + 𝑏)",
+        "(𝐶 + 𝐷) − (𝐴 + 𝐵)"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "𝐶(𝑠) + 𝑂2 (𝑔) → 2𝐶𝑂2(𝑔) . Calculate the enthalpy change 𝐶(𝑠) = 113.2𝐾𝐽/𝑚𝑜𝑙, 𝐶𝑂2 = 393𝐾𝐽𝑚𝑜𝑙 −1",
+      "options": [
+        "265.2𝐾𝐽𝑚𝑜𝑙 −1",
+        "559.6𝐾𝐽/ 𝑚𝑜𝑙",
+        "365𝐾𝐽/𝑚𝑜𝑙",
+        "438𝐾𝐽𝑚𝑜𝑙 −1"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "An error that leads to another error is",
+      "options": [
+        "propagation",
+        "spawning",
+        "sporinate",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑎𝐶3 𝐻5 (𝑁𝑂3 )3 → 𝑏𝑁2 + 𝐶𝑂2 + 𝑑𝐶𝑂2 + 𝑒𝐻2 𝑂. Find 𝑎, 𝑏, 𝑐, 𝑑, 𝑒?",
+      "options": [
+        "4, 6, 1, 12, 10",
+        "2, 5, 1, 7, 5",
+        "4, 2, 8, 6, 5",
+        "1, 4, 6, 8, 2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "14.28g of hydrogen react with 85.72g of carbon. What is the empirical formula of the compound? [𝐶 = 12, 𝐻 = 1]",
+      "options": [
+        "𝐶2 𝐻4",
+        "𝐶𝐻2",
+        "𝐶2 𝐻3",
+        "𝐶2 𝐻6"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "If the change in free energy of a system is −899𝐾𝐽𝑚𝑜𝑙 −1 and the entropy change is 10𝐾𝐽/𝑚𝑜𝑙/𝐾 at 250 𝐶, calculate the enthalpy change",
+      "options": [
+        "+699𝐽𝑚𝑜𝑙 −1",
+        "+2081𝐾𝐽𝑚𝑜𝑙 −1",
+        "−2081𝐽𝑚𝑜𝑙 −1",
+        "−699𝐽𝑚𝑜𝑙 −1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Dynamic equilibrium occurs",
+      "options": [
+        "when the rate of forward reaction is greater than that of backward reaction",
+        "when the rate of forward reaction is equal to that of backward reaction",
+        "when the rate of backward is greater than that of forward",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "When equilibrium constant is dimensionless, which of the following is correct?",
+      "options": [
+        "when concentration of product equals that of reactant",
+        "when concentration of reactants exceed that of product",
+        "when concentration of product exceeds that of reactant",
+        "none of the above 3𝐻2(𝑔) → 2𝑁𝐻3 (𝑔) Δ𝐻 = −91.8𝐾𝐽 is? (a) 1350𝐾𝐽 (b) −1350𝐾𝐽 (c) 1.35 × 10 𝐾𝐽 (d) −1.35 × 106 𝐾𝐽 6"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "How many moles of glucose 𝐶6 𝐻12 𝑂6 are there in 1.09𝑔 of this substance [𝐶 = 12, 𝐻 = 1, 𝑂 = 16]",
+      "options": [
+        "6.06 × 10−3 𝑚𝑜𝑙",
+        "2.06 × 10−3 𝑚𝑜𝑙",
+        "2.35 × 10−3 𝑚𝑜𝑙",
+        "4.28 × 10−3 𝑚𝑜𝑙"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What is the mass is grams, if 0.433𝑚𝑜𝑙𝑒 of 𝐶12 𝐻22 𝑂11 ?",
+      "options": [
+        "128𝑔",
+        "148.1𝑔",
+        "265𝑔",
+        "487𝑔"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "2%𝐾, 26.9%𝐶𝑟 and the remaining being [𝐾 = 39, 𝐶𝑟 = 52, 𝑂 = 16] oxygen",
+      "options": [
+        "𝐾2 𝐶𝑟2 𝑂4",
+        "𝐾2 𝐶𝑟𝑂4",
+        "𝐾3 𝐶𝑟2 𝑂7",
+        "𝐾3 𝐶𝑟4 𝑂"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "29% mass of hydrogen. What is the formula of the hydrocarbon?",
+      "options": [
+        "𝑁𝐻2",
+        "𝑁2 𝐻4",
+        "𝑁3 𝐻2",
+        "𝑁4 𝐻8"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the number of electron transferred in the equation 2𝐹𝑒 3+ + 𝑆𝑛2+ → 2𝐹𝑒 2+ + 𝑆𝑛4+",
+      "options": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Element with the same outermost shell electrons are said to be in",
+      "options": [
+        "different groups",
+        "different period",
+        "same group",
+        "same period"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "A decrease in the concentration of product in a particular reaction will favour the production of",
+      "options": [
+        "reactant and product",
+        "product",
+        "none of the options",
+        "reactant"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the equation 𝑎𝐴 + 𝑏𝐵 → 𝑚𝑀 + 𝑛𝑁, 𝐾𝑐 [𝐴]𝑎 [𝑁]𝑛 is",
+      "options": [
+        "[𝐵]𝑏 [𝑀]𝑚",
+        "[𝑀]𝑚 [𝑁]𝑛 [𝐴]𝑎 [𝐵]𝑏 [𝐵]𝑏 [𝐴]𝑛",
+        "[𝑀]𝑎 [𝑁]𝑚",
+        "[𝐴]𝑎 [𝐵]𝑏 [𝑀]𝑚 [𝑁]𝑛"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In a closed system, which of the following is not conserved",
+      "options": [
+        "energy",
+        "none of the above",
+        "matter",
+        "mass"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "6𝑚𝑜𝑙𝑑𝑚−3 . At 298𝐾, the equilibrium mixture contains 1.2𝑚𝑜𝑙𝑑𝑚−3 of C. determine the value of 𝐾𝑐",
+      "options": [
+        "3",
+        "",
+        "determine the value of 𝐾𝑐 (a) 3 (b) 6 (c) 9",
+        "12"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "0.98𝑔 of a trivalent metal X was deposited a current of 10𝐴 which flows for 2.4𝑚𝑖𝑛𝑠. calculate the molar mass of X",
+      "options": [
+        "84𝑔",
+        "120𝑔",
+        "197𝑔",
+        "281𝑔"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "0A was passed for a period of 2hours, through acidified water. Calculate the volume of oxygen produced at STP during the electrolysis.",
+      "options": [
+        "4200𝑐𝑚3",
+        "1253𝑐𝑚3",
+        "3214𝑐𝑚3",
+        "1156𝑐𝑚3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One mole of an ideal gas occupies 12L at 250 𝐶. What is the pressure of the gas?",
+      "options": [
+        "202𝐾𝑝𝑎",
+        "204𝐾𝑝𝑎",
+        "206𝐾𝑝𝑎(d) none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "For a reaction at equilibrium between propanol and butanoic acid, 0.012𝑚𝑜𝑙𝑑𝑚−3 of propanol, 0.832 butanoic acid and 0.174 propyl butanoat were concentrations at equilibrium. Calculate the equilibrium constant",
+      "options": [
+        "1.03",
+        "2.03",
+        "3.03",
+        "4.03"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the oxidation number of chromium in an unknown salt of the electrolysis of this salt yields 9.71𝑔 of chromium at the cathode after a current of 10A is passed through the cell for 1.5hours. The relative atomic mass of chromium is 52.",
+      "options": [
+        "+3",
+        "−3",
+        "+4",
+        "−4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the mass of aluminium that can be produced the electrolysis of aluminium oxide 𝐴𝑙2 𝑂3 dissolved in molten cryolite, 𝑁𝑎3 𝐴𝑙𝐹6 in one day, if the electrolytic cell is operated constantly at 1 × 105 𝐴",
+      "options": [
+        "2.36 × 102 𝑔",
+        "8.06 × 105 𝑔",
+        "3.25 × 10−7 𝑔 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Calculate the root mean square velocity (r.m.s) of 𝐶𝑂2 molecules at 270 𝐶 (M.mass = 44𝑔𝑚𝑜𝑙 −1 )",
+      "options": [
+        "2.35 × 102 𝑚/𝑠",
+        "4.15 × 102 𝑚/𝑠",
+        "7.81 × 102 𝑚/𝑠",
+        "none"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Calculate the temperature at which oxygen molecules will have the same r.m.s velocity as carbon (IV) oxide molecules at 270 𝐶",
+      "options": [
+        "−220 𝐶",
+        "−400 𝐶",
+        "−550 𝐶",
+        "−750 𝐶"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "In the purification of copper, what is cathode half reaction?",
+      "options": [
+        "𝐶𝑢2+ + 2𝑒 − → 𝐶𝑢",
+        "𝐶𝑢2+ + 2𝑒 − → 2𝐶𝑢",
+        "𝐶𝑢2+ + 2𝑒 − → 2𝐶𝑢−",
+        "𝐶𝑢2+ − 2𝑒 − → 2𝐶𝑢2−"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What is the relative rate of diffusion for hydrogen molecules compared to oxygen molecules at the same temperature?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Under certain conditions of temperature and pressure, 60𝑐𝑚3 of a gas A diffused from an apparatus in 10s. Under the same conditions, 480𝑐𝑚3 of hydrogen diffused in 20s. What is the relative molecular mass of A?",
+      "options": [
+        "21.3",
+        "31.8",
+        "43.2",
+        "79.1"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "3𝑐𝑚3 (d) 42.7𝑐𝑚3 Answer: B Given 𝑍𝑛 𝑍𝑛2+ 𝑃𝑏 2+ 𝑍𝑛2+ 𝑃𝑏 𝑍𝑛 // = 0.76𝑉 𝑃𝑏 𝑃𝑏 2+ = −0.13𝑉. What is the EMF of the cell?",
+      "options": [
+        "0.89𝑉",
+        "0.82𝑉",
+        "",
+        "42.7𝑐𝑚3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following is not one the uses of electrolysis?",
+      "options": [
+        "extraction of aluminium",
+        "purification of metals",
+        "extraction of iron",
+        "tin plating"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The method of coating the surface of a metal is",
+      "options": [
+        "electroduction",
+        "electroplating",
+        "electrometal",
+        "electrolysis"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "During purification of copper, what is the anode reaction?",
+      "options": [
+        "oxidation occur/loss of electron",
+        "reduction occur/gain of electron",
+        "oxidation occur because there is gain of electron",
+        "reduction occur but there is loss of electron"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following compound conduct electricity least",
+      "options": [
+        "𝑍𝑛𝑆𝑂4",
+        "𝑁𝐻3",
+        "𝑁𝑎𝐶𝑙",
+        "sugar solution"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "𝑀𝑛 + 𝑍𝑛2+ → 𝑀𝑛2+ + 𝑍𝑛. Which of this in the equation is oxidized?",
+      "options": [
+        "𝑀𝑛2+",
+        "𝑍𝑛2+",
+        "𝑀𝑛",
+        "𝑍𝑛"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "When an element gains an electron it becomes",
+      "options": [
+        "positively charged",
+        "negatively charged",
+        "uncharged",
+        "neutral"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Consider the redox reaction as represented the following equation 𝐼2(𝑎𝑞) + S, LAUTECH CHM 101 FOR 1ST SEMESTER EXAM Study everything in this to have your mind-blowing testimony − 2𝑆𝑂32− → 2𝐼(𝑎𝑞) + 𝑆4 𝑂62− , which of the (𝑎𝑞) (𝑎𝑞) following species in the equation is reduced?",
+      "options": [
+        "𝐼2",
+        "𝑆𝑂32−",
+        "all of the above",
+        "none of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The relative number of mole of 𝑇𝑒 is 0.55, 𝐾 is 1.10 and 𝑂 is 1.65. The simplest formula for this is",
+      "options": [
+        "𝐾2 𝑇𝑒𝑂3",
+        "𝐾𝑇𝑒𝑂3",
+        "𝐾2 𝑇𝑒3 𝑂2",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Find the atomic number of the electron 𝑌 2+ with 10 electrons",
+      "options": [
+        "9",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "𝑀𝑛𝑂4− + 5𝐹𝑒 2+ + 8𝐻 + → 𝑀𝑛2+ + 5𝐹𝑒 3+ + 4𝐻2 𝑂. Find the number of electron transferred",
+      "options": [
+        "5",
+        "4",
+        "7",
+        "9"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which affects the yield of 𝑆𝑂3 in contact process",
+      "options": [
+        "high temperature",
+        "high pressure",
+        "high concentration",
+        "low pressure"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the decomposition reaction: 𝐶𝑑𝐶𝑂3(𝑠) → 𝐶𝑑𝑂(𝑠) + 𝐶𝑂2(𝑔) , The equilibrium constant equals to",
+      "options": [
+        "concentration of 𝐶𝑂2",
+        "concentration of 𝐶𝑑𝐶𝑂3",
+        "concentration of 𝐶𝑑𝑂",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following elements is not in period three",
+      "options": [
+        "sodium",
+        "aluminium",
+        "magnesium",
+        "lithium"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the groups is stable on its own because of the valence electrons",
+      "options": [
+        "group I",
+        "group 5",
+        "group 8",
+        "group III"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Energy level III can hold a maximum of 18 electrons. How many orbitals does the energy level have",
+      "options": [
+        "8",
+        "6",
+        "9",
+        "4"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following will favour the production of 𝑆𝑂3 in contact process",
+      "options": [
+        "high temperature",
+        "low pressure",
+        "high pressure",
+        "all of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following about precision and accuracy is true",
+      "options": [
+        "accurate measurements can be imprecise",
+        "precision measurements can be inaccurate",
+        "accuracy and precision are expensive to acquire",
+        "accuracy and precision are less expensive to acquire"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝑀𝑛𝑂4− + 5𝐹𝑒 2+ → 𝑀𝑛2+ + 5𝐹𝑒 3+ . The amount of 𝑂𝐻 − to be added for it to be balanced in alkaline medium is",
+      "options": [
+        "5",
+        "8",
+        "4",
+        "2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following best described a reductant?",
+      "options": [
+        "a donor of electrons",
+        "producer of electron",
+        "electron gain",
+        "an acceptor of electron"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝑀𝑛𝑂4− + 5𝐹𝑒 2+ → 𝑀𝑛2+ + 5𝐹𝑒 3+ . The amount of 𝐻 + to be added for it to be balanced in acidic medium is",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "10 S, LAUTECH CHM 101 FOR 1ST SEMESTER EXAM Study everything in this to have your mind-blowing testimony"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "𝐶𝑢𝑂 + 𝑁𝐻3 → 𝐶𝑢 + 𝑁2 + 𝐻2 𝑂. Which of the following is the oxidizing agent",
+      "options": [
+        "𝑁𝐻3",
+        "𝐶𝑢𝑂",
+        "𝑁2",
+        "𝐻2 𝑂"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝐶𝑢𝑂 + 𝑁𝐻3 → 𝑁2 + 𝐶𝑢 + 𝐻2 𝑂. Which of the following is the reducing agent?",
+      "options": [
+        "𝐶𝑢𝑂",
+        "𝑁2",
+        "𝑁𝐻3",
+        "𝐻2 𝑂"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "𝐹𝑒 2+ + 𝑀𝑛𝑂4− → 𝐹𝑒 3+ + 𝑀𝑛2+ , the oxidizing agent is?",
+      "options": [
+        "𝐹𝑒 2+",
+        "𝑀𝑛𝑂4−",
+        "𝐹𝑒 3+",
+        "𝑀𝑛2+"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "If 𝐾𝑐 for the reaction is large 80% of the reaction consists mainly of",
+      "options": [
+        "product",
+        "reactant",
+        "product and reactant",
+        "all of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The following can affect the rate of reaction except",
+      "options": [
+        "temperature",
+        "pressure",
+        "entropy",
+        "concentration"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The valency of oxygen in peroxides is?",
+      "options": [
+        "+1",
+        "−1",
+        "+2",
+        "−2 𝑁2(𝑔) + 3𝐻2(𝑔) ⇌ 2𝑁𝐻3 , in the reaction, the free energy at 1300𝐾 is −42𝐽. The reaction is (a) endothermic (b) exothermic (c) spontaneous (d) not feasible"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Elements that are stable because they have their particular valency are called",
+      "options": [
+        "halogens",
+        "noble gases",
+        "metals",
+        "chalcogens"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝑁2 + 3𝐻2 ⇌ 2𝑁𝐻3 Δ𝐻 = −92𝐾𝐽𝑚𝑜𝑙 −1 . In the reaction above, which of the following will favour the product",
+      "options": [
+        "increase in pressure",
+        "decrease in temperature",
+        "all of the above",
+        "decrease in concentration"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The oxidation of hydrogen is +1 in",
+      "options": [
+        "hydroxide",
+        "halide",
+        "water",
+        "hydride"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The valency of boron is?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "If the enthalpy of combustion of water is −283.5𝐾𝐽/𝑚𝑜𝑙. What is the value of the enthalpy formation of water?",
+      "options": [
+        "−283.5𝐾𝐽/ 𝑚𝑜𝑙",
+        "+283.5𝐾𝐽/𝑚𝑜𝑙",
+        "−146.5𝐾𝐽/𝑚𝑜𝑙",
+        "+243.5𝐾𝐽/𝑚𝑜𝑙 [𝐴]𝑎 [𝐵]𝑏"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following happens in a closed system?",
+      "options": [
+        "energy can neither be created nor destroyed",
+        "matter can be exchanged with the surroundings",
+        "matter cannot be exchanged with the surroundings",
+        "matter is equal to energy"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Equilibrium law can only take place in",
+      "options": [
+        "open system",
+        "closed system",
+        "isolated system",
+        "thermal system"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "An excess amount of 𝑍𝑛 is added to 500𝑚𝑙 of 0.8𝑀𝐻𝐶𝑙. What mass in gram of 𝐻2 is produced 𝑍𝑛 + 2𝐻𝐶𝑙 → 𝑍𝑛𝐶𝑙2 + 𝐻2",
+      "options": [
+        "0.100",
+        "0.200",
+        "0.400",
+        "0.600"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "𝑀𝑜24 𝑂37 + 𝑎𝑀𝑛𝑂4− + 𝑏𝐻 + → 𝑐𝑀𝑜𝑂3 + 𝑑𝑀𝑛2+ + 𝑒𝐻2 𝑂. What is 𝑎 + 𝑏 + 𝑑",
+      "options": [
+        "30",
+        "70",
+        "48",
+        "125"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "296789",
+      "options": [
+        "54.013",
+        "54.4",
+        "54.0126 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "𝐶𝐻4 + 2𝑂2(𝑔) → 𝐶𝑂2 + 2𝐻2 𝑂, Δ𝐻 = −890𝐾𝐽/𝑚𝑜𝑙. Δ𝐻 in the reaction above is the standard enthalpy of",
+      "options": [
+        "formation",
+        "solution",
+        "combustion",
+        "neutralization"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "During bond formation in a chemical reaction, energy is ___________",
+      "options": [
+        "supplied",
+        "released",
+        "not required",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The electronic configuration of oxygen is ____________",
+      "options": [
+        "1𝑠 2 2𝑠 2 2𝑝6",
+        "1𝑠 2 2𝑠 2 2𝑝4",
+        "1𝑠 2 2𝑠 2 2𝑝3",
+        "1𝑠 2 2𝑠 2 2𝑝2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "If Δ𝐻 = 178𝐾𝐽/𝑚𝑜𝑙 and Δ𝑆 = 161𝐾𝐽/𝑚𝑜𝑙, the standard Gibb’s free energy change, Δ𝐺 at 250 𝐶 for the decomposition of calcium trioxocarbonate (IV) is",
+      "options": [
+        "−47,800𝐽/𝑚𝑜𝑙",
+        "+130𝐾𝐽/𝑚𝑜𝑙",
+        "47,800𝐾𝐽/𝑚𝑜𝑙",
+        "−130𝐾𝐽/ 𝑚𝑜𝑙"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In redox reaction, the oxidizing agent is",
+      "options": [
+        "electron donor",
+        "electron acceptor",
+        "oxidized",
+        "reduced"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Oxidation is electron gain while reduction is electron loss",
+      "options": [
+        "false",
+        "true",
+        "none of the above",
+        "A and B"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following leads to increase in entropy",
+      "options": [
+        "cooling a saturated solution",
+        "boiling a sample of water",
+        "condensation of water vapour",
+        "mixing a sample of 𝑁𝑎𝐶𝑙"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What group on the periodic table is stable on its own because they all have their electron",
+      "options": [
+        "alkali metals",
+        "noble gases",
+        "halogens",
+        "none of the above"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "When elements combine, they do so in",
+      "options": [
+        "simple whole number fraction",
+        "multiple whole number ratio",
+        "simple whole number ratio",
+        "multiple number ratio"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What is valence electron?",
+      "options": [
+        "electron in the first energy level",
+        "electron in the outermost energy level of an atom",
+        "electron that moves from higher energy level to lower energy level",
+        "electron that moves from lower energy level to higher energy level"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "75, calculate the relative error",
+      "options": [
+        "−0.195",
+        "−0.1946",
+        "−0.994",
+        "0.195"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Given that for the chemical reaction 𝑁2 + 3𝐻2 ⇌ 2𝑁𝐻3(𝑔) Δ𝐻 = −92𝐾𝐽, the enthalpy of formation of ammonia from its element is ______________",
+      "options": [
+        "−92𝐾𝐽",
+        "92𝐾𝐽",
+        "−92𝐾𝐽/ 𝑚𝑜𝑙",
+        "92𝐾𝐽/𝑚𝑜𝑙"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The degree to which information in a digital database matches true or accepted values is referred to as",
+      "options": [
+        "precision",
+        "accuracy",
+        "precision and accuracy",
+        "error"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Addition of oxygen is ____________",
+      "options": [
+        "oxidation",
+        "redox",
+        "reduction",
+        "none of the above"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Electropositive element undergo",
+      "options": [
+        "oxidation",
+        "reduction",
+        "oxidation and reduction",
+        "reducing"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following does not affect chemical reaction at equilibrium",
+      "options": [
+        "temperature",
+        "pressure",
+        "concentration",
+        "change in entropy"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Which of the following is a disproportional reaction?",
+      "options": [
+        "𝐶𝑟2 𝑂72− + 6𝑒 − → 2𝐶𝑟 3+ + 7𝐻2 𝑂",
+        "𝑃4 → 𝐻2 𝑃𝑂2 + 𝑃𝐻3",
+        "𝑃4 + 3𝑂2 → 𝑃4 𝑂6",
+        "2𝐴𝑙 + 3𝐶𝑢2+ → 2𝐴𝑙 3 + 3𝐶𝑢"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝑇 2+ contains 10 electrons, calculate the atomic number of 𝑇",
+      "options": [
+        "8",
+        "12",
+        "6",
+        "4"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The root mean square error of a measurement is 0.450 and the mean is 6.83, what is the coefficient of variation in percentage",
+      "options": [
+        "6.89",
+        "6.50",
+        "6.59",
+        "6.54"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "If 𝐾𝑐 is large, the reaction consists mainly of",
+      "options": [
+        "reactants",
+        "products",
+        "A and B",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Which of the following elements have completely filled valence shell?",
+      "options": [
+        "halogen",
+        "alkali metal",
+        "alkali earth metals",
+        "noble gases"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "𝐶(𝑠) + 2𝑆 → 𝐶𝑆(𝑔) Δ𝐻 = +89𝐾𝐽/𝑚𝑜𝑙. The chemical equation above implies that",
+      "options": [
+        "89𝐾𝐽/𝑚𝑜𝑙 of energy is released",
+        "both carbon and sulphur contribute 89𝐾𝐽/𝑚𝑜𝑙 of energy",
+        "89𝐾𝐽/𝑚𝑜𝑙 energy is absorbed",
+        "each of carbon and sulphur has 89𝐾𝐽/𝑚𝑜𝑙 of energy"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Simplify 5.41 − 0.398",
+      "options": [
+        "5.01",
+        "5.0",
+        "5.012",
+        "5.0120"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The oxidation number of oxygen in 𝐾𝑂2 is",
+      "options": [
+        "−1",
+        "− 2",
+        "−2",
+        "+2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "06, 1.48, 3.76, 11.49",
+      "options": [
+        "2.48",
+        "3.86",
+        "4.25",
+        "3.29"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝑎𝐴 + 𝑏𝐵 ⇌ 𝑐𝐶 + 𝑑𝐷, what is the backward equilibrium constant",
+      "options": [
+        "[𝐴]𝑎[𝐵]𝑏",
+        "[𝐴][𝐵] [𝐴]𝑎 [𝐵]𝑏 [𝐴][𝐵]",
+        "[𝐶]𝑐[𝐷]𝑑",
+        "[𝐶][𝐷]"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "For the dissociation of water at 15000 𝐶 𝐻2 𝑂(𝑔) ⇌ 𝐻2(𝑔) + 2 𝑂2(𝑔) . The value of 𝐾𝑝 with partial pressure in atmosphere is 1.87 × 10−6 , calculate the corresponding value of 𝐾𝑐 ? [𝑅 = 0.08205𝑎𝑡𝑚𝑑𝑚3 𝑚𝑜𝑙 −1 𝐾 −1 )",
+      "options": [
+        "1.55 × 10−7 𝑚𝑜𝑙𝑑𝑚−3",
+        "2.68 × 10−6 𝑚𝑜𝑙𝑑𝑚−3",
+        "3.52 × 107 𝑚𝑜𝑙𝑑𝑚−3",
+        "none"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The heat change when 500𝑘𝑔 of ammonia is produced according to the reaction 𝑁2(𝑔) + 3𝐻2(𝑔) → 2𝑁𝐻3 (𝑔) Δ𝐻 = −91.8𝐾𝐽 is?",
+      "options": [
+        "1350𝐾𝐽",
+        "−1350𝐾𝐽",
+        "1.35 × 106 𝐾𝐽",
+        "−1.35 × 106 𝐾𝐽"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Calculate the empirical formula of a compound containing 40.2%𝐾, 26.9%𝐶𝑟 and the remaining being oxygen [𝐾 = 39, 𝐶𝑟 = 52, 𝑂 = 16]",
+      "options": [
+        "𝐾2 𝐶𝑟2 𝑂4",
+        "𝐾2 𝐶𝑟𝑂4",
+        "𝐾3 𝐶𝑟2 𝑂7",
+        "𝐾3 𝐶𝑟4 𝑂"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the mass in grams, of 1.45 × 1023 molecules of sucrose, 𝐶12 𝐻22 𝑂11 ?",
+      "options": [
+        "28.4𝑔",
+        "80𝑔",
+        "82.4𝑔",
+        "128.5𝑔"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In the equation 𝑎𝐴 + 𝑏𝐵 → 𝑚𝑀 + 𝑛𝑁, 𝐾𝑐 is",
+      "options": [
+        "[𝐵]𝑏[𝑀]𝑚",
+        "[𝐴]𝑎[𝐵]𝑏",
+        "[𝑀]𝑎[𝑁]𝑚",
+        "[𝐴]𝑎 [𝐵]𝑏 [𝑀]𝑚 [𝑁]𝑛"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Given 𝐶2 𝐻4 + 3𝑂2 → 2𝐶𝑂2 + 2𝐻2 𝑂. If the mass of ethylene is 23.0𝑔, what is the mass of the combustion of air?",
+      "options": [
+        "23.5𝑔",
+        "78.9𝑔",
+        "55.6𝑔 (d)) 28.7𝑔"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "One mole of ethanoic acid is mixed with one mole of ethanol at 250 𝐶 and after equilibrium is reached, a titration with standard alkali solution show that 0.667mole of ethanoic acid has reacted to form ethhylethanoate according to the reaction 𝐶𝐻3 𝐶𝑂2 𝐻(𝑙) + 𝐶2 𝐻5 (𝑙) → 𝐶𝐻3 𝐶𝑂2 𝐶2 𝐻5 (𝑙) + 𝐻2 𝑂(𝑙) . Find the 𝐾𝑐 of the reaction",
+      "options": [
+        "2.01",
+        "3.01",
+        "4.01",
+        "5.01"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "What mass of sodium metal will be discharged at the cathode when a current of 10.0𝐴 is passed through motten sodium chloride for a period of 4 hours",
+      "options": [
+        "23.8𝑔",
+        "34.3𝑔",
+        "56.25𝑔",
+        "78.3𝑔"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "4𝑚𝑖𝑛𝑠. calculate the molar mass of X",
+      "options": [
+        "84𝑔",
+        "120𝑔",
+        "197𝑔",
+        "281𝑔"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In the electrolysis of water, a current of 3.0A was passed for a period of 2hours, through acidified water. Calculate the volume of oxygen produced at STP during the electrolysis.",
+      "options": [
+        "4200𝑐𝑚3",
+        "1253𝑐𝑚3",
+        "3214𝑐𝑚3",
+        "1156𝑐𝑚3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "12grams of 𝑁2 , 0.4𝑔 of 𝐻2 and 9.0𝑔 of 𝑂2 are put into a 1.00 litre container at 270 𝐶. What is the total pressure in the container",
+      "options": [
+        "20.2𝑎𝑡𝑚",
+        "21.3𝑎𝑡𝑚",
+        "22.4𝑎𝑡𝑚 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Equal volumes of hydrogen and oxygen diffuse through a porous partition in 12 and 48 minutes respectively. What is the density of oxygen relative to that of hydrogen 1",
+      "options": [
+        "16",
+        "16",
+        "32",
+        "8"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "500𝑐𝑚3 of oxygen diffuse through a porous partition in 20seconds. How long would it take 200𝑐𝑚3 of carbon dioxide to diffuse through it",
+      "options": [
+        "2.5seconds",
+        "9.4seconds",
+        "3.29seconds",
+        "none"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "If 25𝑐𝑚3 of oxygen diffuse from a certain apparatus in 10s, calculate the volume of nitrogen which diffuse from it in 15s in the same conditions. Both gases have diatomic molecules.",
+      "options": [
+        "23.1𝑐𝑚3",
+        "40.1𝑐𝑚3",
+        "28.3𝑐𝑚3",
+        "42.7𝑐𝑚3"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Consider the redox reaction as represented the following equation 𝐼2(𝑎𝑞) + − 2𝑆𝑂32− → 2𝐼(𝑎𝑞) + 𝑆4 𝑂62− , which of the following species in the equation is (𝑎𝑞) (𝑎𝑞) reduced?",
+      "options": [
+        "𝐼2",
+        "𝑆𝑂32−",
+        "all of the above",
+        "none of the above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "𝑎𝐴 + 𝑏𝐵 ⇌ 𝑐𝐶 + 𝑑𝐷, 𝐾𝑐 for the reaction is?",
+      "options": [
+        "[𝐷]𝑑[𝐵]𝑏",
+        "[𝐴]𝑎[𝐵]𝑏",
+        "[𝐶]𝑐[𝐷]𝑑",
+        "[𝐷]𝑑 [𝐴]𝑎"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "𝑁2(𝑔) + 3𝐻2(𝑔) ⇌ 2𝑁𝐻3 , in the reaction, the free energy at 1300𝐾 is −42𝐽. The reaction is",
+      "options": [
+        "endothermic",
+        "exothermic",
+        "spontaneous",
+        "not feasible"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Which of the following is not susceptible to mathematical error",
+      "options": [
+        "systematic error",
+        "determinate error",
+        "constant error",
+        "methodical error S, LAUTECH CHM 101"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "Given a mean of 27.99 and true value of 34.75, calculate the relative error",
+      "options": [
+        "−0.195",
+        "−0.1946",
+        "−0.994",
+        "0.195"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": ".Determinate error cannot be corrected by",
+      "options": [
+        "calibration of apparatus",
+        "use of blank control",
+        "use of parallel determination",
+        "use of internal standard"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Determinate errors cannot be corrected by",
+      "options": [
+        "calibration of apparatus",
+        "use of blank\ncontrol",
+        "use of parallel determination",
+        "use of internal standard"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The mass of atom is determined by",
+      "options": [
+        "the\nnumber of protons",
+        "its electrochemical\npotential",
+        "the number of neutrons and\nprotons",
+        "its ionization potential"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Neutron was discovered by",
+      "options": [
+        "Dalton",
+        "Chadwick",
+        "Hooke",
+        "Rutherford"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Nucleus is housed by",
+      "options": [
+        "proton + electron",
+        "proton + neutron",
+        "neutron + electron",
+        "neutron + proton"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The minimum temperature that can be\nreached by any substance is",
+      "options": [
+        "absolute\ntemperature",
+        "boiling point",
+        "melting\npoint",
+        "freezing point"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The ions in a mass spectrophotometer are\nseparated based on their mass-charge ratio\nby the",
+      "options": [
+        "ion source",
+        "detector",
+        "magnetic\nfield",
+        "electric force"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The mass of Pb, which would be obtained by\nheating 34.25𝑔 of red lead oxide is",
+      "options": [
+        "53.13𝑔",
+        "30.01𝑔",
+        "31.05𝑔",
+        "33.15𝑔"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Crude copper can be purified by the\nelectrolysis of 𝐶𝑢𝑆𝑂4 , if",
+      "options": [
+        "the pure copper is\nmade the electrode",
+        "the crude copper is\nmade the anode",
+        "the platinum electrode is\nused",
+        "crude coppers are used"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "Electronic configuration of Scandium (21) is\n____________________",
+      "options": [
+        "[𝐴𝑟]4𝑠 2 2𝑑 2",
+        "[𝐴𝑟}4𝑠 2 3𝑑1",
+        "[𝐴𝑟]3𝑑1 4𝑠 2",
+        "[𝐴𝑟]4𝑠1 3𝑑 2"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The relative atomic mass of an element can be\ndetermined by an instrument called",
+      "options": [
+        "hydrometer",
+        "mass spectrometer",
+        "Geiger\nmuller counter",
+        "UV spectrophotometer"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The unusually high ionization energy\nexhibited by inert (rare) gases is due to their",
+      "options": [
+        "high valence electrons",
+        "possession of\nhigh reactively",
+        "completely filled\noutermost shell electron",
+        "low valence\nelectrons"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The electronic configuration of two\nelements with similar chemical properties are\nrepresented\nby",
+      "options": [
+        "1𝑠 2 2𝑠 2 2𝑝4 and 1𝑠 2 2𝑠 2 2𝑝6 3𝑠1",
+        "1𝑠 2 2𝑠 2 2𝑝6 3𝑠1 and 1𝑠 2 2𝑠1",
+        "1𝑠 2 2𝑠 2 2𝑝5 and 1𝑠 2 2𝑠 2 2𝑝4",
+        "1𝑠 2 2𝑠 2 2𝑝4 and 1𝑠 2 2𝑠1"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "The maximum number of electrons that\ncan be accommodated by an energy level is",
+      "options": [
+        "2𝑛",
+        "2𝑛2",
+        "2(2𝑛)",
+        "𝑛2"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many moles of magnesium will be\ndeposited by 6 mole of electron in the\nreaction represented by the equation\n2+\n𝑀𝑔(𝑎𝑞)\n+ 2𝑒 − → 𝑀𝑔(𝑠)",
+      "options": [
+        "3 mole",
+        "2 mole",
+        "4 mole",
+        "1 mole"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "In the disproportionation reaction 𝑃4 →\n𝐻2 𝑃𝑂2− + 𝑃𝐻3 , phosphorus was reduced by\nthe change of oxidation state from",
+      "options": [
+        "0 𝑡𝑜 +\n1",
+        "0 𝑡𝑜 − 3",
+        "0 𝑡𝑜 + 3",
+        "0 𝑡𝑜 − 1"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Which of the following expresses ideal gas\nequation as proposed by Vander waals?",
+      "options": [
+        "𝑎\n𝑎\n(𝑃 − 2) (𝑉 + 𝑏) = 𝑛𝑅𝑇",
+        "(𝑃 + 2) (𝑉 −\n𝑉\n𝑉\n𝑏) = 𝑛𝑅𝑇",
+        "𝑃(𝑉 − 𝑏) = 𝑛𝑅𝑇",
+        "𝑃𝑉 = 𝑛𝑅𝑇"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The volume of a given mass of gas at constant\ntemperature is inversely proportional to the\npressure was stated by",
+      "options": [
+        "Charles’s law",
+        "Dalton’s law",
+        "Avogadro’s law",
+        "Boyle’s\nlaw"
+      ],
+      "correct": "d"
+    },
+    {
+      "question": "0.325𝑔 of metal X was deposited by a current\nof 0.5𝐴 which flows for 32 minutes\n10seconds. Calculate the number of charge\n(𝑋 = 65, 𝐹 = 96500𝐶/𝑚𝑜𝑙)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "What is the percentage by mass of oxygen in\n(𝐴𝑙 = 27, 𝑆 = 32, 𝐻 =\n𝐴𝑙2 (𝑆𝑂4 )3 . 2𝐻2 𝑂\n\n\f S, LAUTECH\nCHM 101 PDF FOR 1ST SEMESTER EXAM\nStudy everything in this PDF to have your mind-blowing testimony\n\n1, 𝑂 = 16)",
+      "options": [
+        "59.25%",
+        "50.79%",
+        "25.39%",
+        "14.29%"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "The volume of a given mass of gas at a\nconstant temperature is inverse proportional\nto pressure was stated by",
+      "options": [
+        "Charles’s law",
+        "Boyle’s law",
+        "Dalton’s law",
+        "Avogadro’s\nlaw"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "How many moles of copper could be\ndeposited by passing 3F of electricity through\na solution of copper (II) tetraoxosulphate (VI)",
+      "options": [
+        "1.0",
+        "3.0",
+        "0.5",
+        "1.5 (1𝐹 = 96500𝐶)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "How many faradays of electricity are\ndeposited by 0.30mole of nickel. If 0.01\nfaraday of electricity deposited 2.98𝑔 of Ni\n(𝑁𝑖 = 59)",
+      "options": [
+        "0.060",
+        "0.07",
+        "0.30",
+        "0.50"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "What mass of copper (II) sulphate could be\nobtained by starting with 10𝑔 of copper (II)\noxide from the reaction 𝐶𝑢𝑂 + 𝐻2 𝑆𝑂4 →\n𝐶𝑢𝑆𝑂4 + 𝐻2 𝑂",
+      "options": [
+        "22.9𝑔",
+        "20.1𝑔",
+        "12.1𝑔",
+        "21.2𝑔"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The volume occupied by 1.58𝑔 of gas at S.T.P\nis 500𝑐𝑚3 . What is the relative molecular\nmass of gas (Given 𝑀𝑉 = 22400𝑐𝑚3 )",
+      "options": [
+        "71",
+        "344",
+        "28",
+        "32"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "In the electrolysis of copper (II) chloride\nsolution, the reaction at the anode is\nrepresented by the equation",
+      "options": [
+        "2𝐶𝑙 − →\n𝐶𝑙(𝑠) + 2𝑒 −",
+        "2𝐶𝑙 − → 𝐶𝑙2(𝑔) + 2𝑒 −",
+        "40𝐻 − + 4𝑒 − → 𝑜2 + 2𝐻2 𝑂",
+        "2𝐶𝑙 − →\n−\n𝐶𝑙(𝑎𝑞) + 2𝑒"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "The mass of 𝐻2 𝑂 obtained by heating 34.25𝑔\nof red lead oxide in a stream of hydrogen is\n[𝑃𝑏 = 207, 𝐻 = 1, 𝑂 = 16]",
+      "options": [
+        "2.5𝑔",
+        "3.6𝑔",
+        "7.2𝑔",
+        "9.6𝑔"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Equal volume of hydrogen and oxygen diffuse\nthrough a porous partition in 24 and 96\nminutes respectively. Calculate the density of\n\n\f S, LAUTECH\nCHM 101 PDF FOR 1ST SEMESTER EXAM\nStudy everything in this PDF to have your mind-blowing testimony\n\nhydrogen relative to that of oxygen",
+      "options": [
+        "1\n8\n\n(c)\n\n1\n16\n\n(d)\n\n1\n\n1\n32",
+        "",
+        "1\n16",
+        "1\n\n1\n32\n\n(b)\n\n4"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "For the equation of the reaction 2𝐻2(𝑔) +\n\n𝑂2(𝑔) → 2𝐻2 𝑂(𝑔) Δ𝐻 = −57𝐾𝐽/𝑚𝑜𝑙,\n\nwhat\n\namount of heat is liberated by 12𝑔 of\nhydrogen?",
+      "options": [
+        "−161𝐾𝐽/𝑚𝑜𝑙",
+        "−171𝐾𝐽/𝑚𝑜𝑙",
+        "−181𝐾𝐽/𝑚𝑜𝑙",
+        "−191𝐾𝐽/𝑚𝑜𝑙"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "29% by mass of hydrogen. What is the\nformula of the hydrocarbon?",
+      "options": [
+        "𝑁𝐻2",
+        "𝑁2 𝐻4",
+        "𝑁3 𝐻2",
+        "𝑁4 𝐻8"
+      ],
+      "correct": "b"
+    },
+    {
+      "question": "0.98𝑔 of a trivalent metal X was deposited\nby a current of 10𝐴 which flows for 2.4𝑚𝑖𝑛𝑠.\ncalculate the molar mass of X",
+      "options": [
+        "84𝑔",
+        "120𝑔",
+        "197𝑔",
+        "281𝑔"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Calculate the mass of aluminium that can\nbe produced by the electrolysis of aluminium\noxide 𝐴𝑙2 𝑂3 dissolved in molten cryolite,\n𝑁𝑎3 𝐴𝑙𝐹6 in one day, if the electrolytic cell is\noperated constantly at 1 × 105 𝐴",
+      "options": [
+        "2.36 ×\n102 𝑔",
+        "8.06 × 105 𝑔",
+        "3.25 × 10−7 𝑔 (d)"
+      ],
+      "correct": "a"
+    },
+    {
+      "question": "Consider the redox reaction as\nrepresented by the following equation 𝐼2(𝑎𝑞) +\n\n\f S, LAUTECH\nCHM 101 PDF FOR 1ST SEMESTER EXAM\nStudy everything in this PDF to have your mind-blowing testimony\n\n−\n2𝑆𝑂32−\n→ 2𝐼(𝑎𝑞)\n+ 𝑆4 𝑂62−\n, which of the\n(𝑎𝑞)\n(𝑎𝑞)\n\nfollowing species in the equation is reduced?",
+      "options": [
+        "𝐼2",
+        "𝑆𝑂32−",
+        "all of the above",
+        "none of\nthe above"
+      ],
+      "correct": "c"
+    },
+    {
+      "question": "Consider the redox reaction as represented by the following equation 𝐼2(𝑎𝑞) +\n−\n2𝑆𝑂32−\n→ 2𝐼(𝑎𝑞)\n+ 𝑆4 𝑂62−\n, which of the following species in the equation is\n(𝑎𝑞)\n(𝑎𝑞)\n\nreduced?",
+      "options": [
+        "𝐼2",
+        "𝑆𝑂32−",
+        "all of the above",
+        "none of the above"
+      ],
+      "correct": "c"
+    }
+  ]
+}
